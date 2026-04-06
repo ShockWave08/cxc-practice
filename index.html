@@ -23,5 +23,28 @@
   </div>
 
   <footer>CXC Practice Hub &mdash; Built for Caribbean students.</footer>
+
+  <script>
+    async function checkAccess() {
+      try {
+        const res = await fetch("https://api.ipify.org?format=json");
+        const data = await res.json();
+
+        const allowedIPs = [
+          "196.3.205.247",
+          "41.xxx.xxx.xxx"
+        ];
+
+        if (!allowedIPs.includes(data.ip)) {
+          document.body.innerHTML = "<h1>Access Denied</h1>";
+        }
+
+      } catch (e) {
+        console.error("IP check failed", e);
+      }
+    }
+
+    checkAccess();
+  </script>
 </body>
 </html>
