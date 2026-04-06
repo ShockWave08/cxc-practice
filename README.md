@@ -5,8 +5,8 @@ A GitHub Pages site for Caribbean students preparing for CXC/CSEC examinations.
 ## Subjects Covered
 - Mathematics (Paper 1 & Paper 2)
 - English *(coming soon)*
-- Social Studies *(coming soon)*
-- Physical Education *(coming soon)*
+- Social Studies (Paper 1 & Paper 2)
+- Physical Education (Paper 1 & Paper 2)
 - Integrated Science *(coming soon)*
 - Principles of Business *(coming soon)*
 - Principles of Accounts *(coming soon)*
