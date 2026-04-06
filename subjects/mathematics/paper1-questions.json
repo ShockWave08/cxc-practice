@@ -1,0 +1,2490 @@
+{
+  "paper1": [
+    {
+      "id": 1,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 1: Decimals and Fractions",
+      "topic": "Fractions",
+      "difficulty": 1,
+      "question": "What is 3/4 written as a decimal?",
+      "options": ["0.25", "0.5", "0.75", "0.8"],
+      "answer": 2,
+      "explanation": "3 ÷ 4 = 0.75"
+    },
+    {
+      "id": 2,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 1: Decimals and Fractions",
+      "topic": "Fractions",
+      "difficulty": 1,
+      "question": "What is 0.6 written as a fraction in simplest form?",
+      "options": ["3/5", "6/5", "2/3", "1/6"],
+      "answer": 0,
+      "explanation": "0.6 = 6/10 = 3/5"
+    },
+    {
+      "id": 3,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 1: Decimals and Fractions",
+      "topic": "Fractions",
+      "difficulty": 1,
+      "question": "Find 2/3 + 1/6.",
+      "options": ["5/6", "3/9", "1/2", "4/5"],
+      "answer": 0,
+      "explanation": "2/3 = 4/6, so 4/6 + 1/6 = 5/6"
+    },
+    {
+      "id": 4,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 1: Decimals and Fractions",
+      "topic": "Decimals",
+      "difficulty": 1,
+      "question": "Calculate 4.5 + 2.37.",
+      "options": ["6.87", "6.77", "7.87", "5.87"],
+      "answer": 0,
+      "explanation": "4.50 + 2.37 = 6.87"
+    },
+    {
+      "id": 5,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 1: Decimals and Fractions",
+      "topic": "Decimals",
+      "difficulty": 1,
+      "question": "Calculate 7.2 - 3.85.",
+      "options": ["3.45", "3.35", "4.35", "2.45"],
+      "answer": 1,
+      "explanation": "7.20 - 3.85 = 3.35"
+    },
+    {
+      "id": 6,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 1: Decimals and Fractions",
+      "topic": "Fractions",
+      "difficulty": 2,
+      "question": "Multiply 2/5 by 15.",
+      "options": ["5", "6", "7", "8"],
+      "answer": 1,
+      "explanation": "(2/5) × 15 = 30/5 = 6"
+    },
+    {
+      "id": 7,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 2: Percentages",
+      "topic": "Percentages",
+      "difficulty": 1,
+      "question": "What is 25% of 200?",
+      "options": ["25", "40", "50", "75"],
+      "answer": 2,
+      "explanation": "25% of 200 = 0.25 × 200 = 50"
+    },
+    {
+      "id": 8,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 2: Percentages",
+      "topic": "Percentages",
+      "difficulty": 1,
+      "question": "Express 0.45 as a percentage.",
+      "options": ["4.5%", "45%", "450%", "0.45%"],
+      "answer": 1,
+      "explanation": "0.45 × 100 = 45%"
+    },
+    {
+      "id": 9,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 2: Percentages",
+      "topic": "Percentages",
+      "difficulty": 2,
+      "question": "A shirt costs $80. It is discounted by 15%. What is the discount?",
+      "options": ["$10", "$12", "$15", "$18"],
+      "answer": 1,
+      "explanation": "15% of 80 = 0.15 × 80 = 12"
+    },
+    {
+      "id": 10,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 2: Percentages",
+      "topic": "Percentages",
+      "difficulty": 2,
+      "question": "Increase 150 by 20%.",
+      "options": ["160", "170", "180", "200"],
+      "answer": 2,
+      "explanation": "20% of 150 = 30, so new value = 180"
+    },
+    {
+      "id": 11,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 3: Using Fractions and Percentages",
+      "topic": "Application",
+      "difficulty": 2,
+      "question": "A class has 40 students. 3/5 are girls. How many girls are there?",
+      "options": ["20", "22", "24", "25"],
+      "answer": 2,
+      "explanation": "3/5 of 40 = 24"
+    },
+    {
+      "id": 12,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 3: Using Fractions and Percentages",
+      "topic": "Application",
+      "difficulty": 2,
+      "question": "40% of a number is 32. What is the number?",
+      "options": ["60", "70", "80", "90"],
+      "answer": 2,
+      "explanation": "0.4x = 32, so x = 80"
+    },
+    {
+      "id": 13,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 4: Scientific Notation",
+      "topic": "Scientific Notation",
+      "difficulty": 1,
+      "question": "Write 3000000 in scientific notation.",
+      "options": ["3 × 10^5", "3 × 10^6", "30 × 10^5", "0.3 × 10^7"],
+      "answer": 1,
+      "explanation": "3000000 = 3 × 10^6"
+    },
+    {
+      "id": 14,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 4: Scientific Notation",
+      "topic": "Scientific Notation",
+      "difficulty": 2,
+      "question": "Write 0.00045 in scientific notation.",
+      "options": ["4.5 × 10^-4", "4.5 × 10^-5", "45 × 10^-4", "0.45 × 10^-3"],
+      "answer": 0,
+      "explanation": "0.00045 = 4.5 × 10^-4"
+    },
+    {
+      "id": 15,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 4: Scientific Notation",
+      "topic": "Scientific Notation",
+      "difficulty": 2,
+      "question": "Evaluate (2 × 10^3) × (3 × 10^2).",
+      "options": ["6 × 10^5", "5 × 10^6", "6 × 10^6", "6 × 10^1"],
+      "answer": 0,
+      "explanation": "2 × 3 = 6 and 10^3 × 10^2 = 10^5"
+    },
+    {
+      "id": 16,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 5: Ratio and Proportion",
+      "topic": "Ratio",
+      "difficulty": 1,
+      "question": "Simplify the ratio 12:18.",
+      "options": ["2:3", "3:2", "6:9", "4:9"],
+      "answer": 0,
+      "explanation": "Divide both terms by 6"
+    },
+    {
+      "id": 17,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 5: Ratio and Proportion",
+      "topic": "Proportion",
+      "difficulty": 2,
+      "question": "If 3 books cost $24, how much do 5 books cost at the same rate?",
+      "options": ["$30", "$35", "$40", "$45"],
+      "answer": 2,
+      "explanation": "One book costs $8, so 5 cost $40"
+    },
+    {
+      "id": 18,
+      "strand": "STRAND B: NUMBER THEORY",
+      "unit": "Unit 6: Indices and Factors",
+      "topic": "Indices",
+      "difficulty": 1,
+      "question": "Evaluate 2^4.",
+      "options": ["8", "12", "16", "24"],
+      "answer": 2,
+      "explanation": "2 × 2 × 2 × 2 = 16"
+    },
+    {
+      "id": 19,
+      "strand": "STRAND B: NUMBER THEORY",
+      "unit": "Unit 6: Indices and Factors",
+      "topic": "Factors",
+      "difficulty": 1,
+      "question": "Which of the following is a factor of 36?",
+      "options": ["5", "7", "9", "11"],
+      "answer": 2,
+      "explanation": "36 ÷ 9 = 4"
+    },
+    {
+      "id": 20,
+      "strand": "STRAND B: NUMBER THEORY",
+      "unit": "Unit 6: Indices and Factors",
+      "topic": "Prime Factorization",
+      "difficulty": 2,
+      "question": "What is the prime factorization of 18?",
+      "options": ["2 × 9", "3 × 6", "2 × 3^2", "2^2 × 3"],
+      "answer": 2,
+      "explanation": "18 = 2 × 9 = 2 × 3 × 3 = 2 × 3^2"
+    },
+    {
+      "id": 21,
+      "strand": "STRAND B: NUMBER THEORY",
+      "unit": "Unit 6: Indices and Factors",
+      "topic": "Indices",
+      "difficulty": 2,
+      "question": "Simplify 5^3 × 5^2.",
+      "options": ["5^5", "10^5", "25^5", "5^6"],
+      "answer": 0,
+      "explanation": "Add exponents when bases are the same"
+    },
+    {
+      "id": 22,
+      "strand": "STRAND B: NUMBER THEORY",
+      "unit": "Unit 7: Number System and Bases",
+      "topic": "Number Bases",
+      "difficulty": 2,
+      "question": "What is 1011₂ in base ten?",
+      "options": ["9", "10", "11", "12"],
+      "answer": 2,
+      "explanation": "1×8 + 0×4 + 1×2 + 1×1 = 11"
+    },
+    {
+      "id": 23,
+      "strand": "STRAND B: NUMBER THEORY",
+      "unit": "Unit 7: Number System and Bases",
+      "topic": "Number Bases",
+      "difficulty": 2,
+      "question": "Write 13 in binary.",
+      "options": ["1010", "1011", "1101", "1110"],
+      "answer": 2,
+      "explanation": "13 = 8 + 4 + 1 = 1101₂"
+    },
+    {
+      "id": 24,
+      "strand": "STRAND B: NUMBER THEORY",
+      "unit": "Unit 8: Number Sequences",
+      "topic": "Sequences",
+      "difficulty": 1,
+      "question": "What is the next term in the sequence 2, 5, 8, 11, ...?",
+      "options": ["12", "13", "14", "15"],
+      "answer": 2,
+      "explanation": "Add 3 each time"
+    },
+    {
+      "id": 25,
+      "strand": "STRAND B: NUMBER THEORY",
+      "unit": "Unit 8: Number Sequences",
+      "topic": "Sequences",
+      "difficulty": 2,
+      "question": "Find the 6th term of the sequence 4, 7, 10, 13, ...",
+      "options": ["16", "17", "18", "19"],
+      "answer": 3,
+      "explanation": "The sequence increases by 3: 4, 7, 10, 13, 16, 19"
+    },
+    {
+      "id": 26,
+      "strand": "STRAND C: CONSUMER ARITHMETIC",
+      "unit": "Unit 9: Consumer Arithmetic",
+      "topic": "Profit and Loss",
+      "difficulty": 2,
+      "question": "An item is bought for $50 and sold for $65. What is the profit?",
+      "options": ["$10", "$15", "$20", "$25"],
+      "answer": 1,
+      "explanation": "Profit = selling price - cost price = 65 - 50 = 15"
+    },
+    {
+      "id": 27,
+      "strand": "STRAND C: CONSUMER ARITHMETIC",
+      "unit": "Unit 9: Consumer Arithmetic",
+      "topic": "Simple Interest",
+      "difficulty": 2,
+      "question": "Find the simple interest on $500 at 4% per annum for 2 years.",
+      "options": ["$20", "$30", "$40", "$50"],
+      "answer": 2,
+      "explanation": "SI = PRT/100 = 500 × 4 × 2 / 100 = 40"
+    },
+    {
+      "id": 28,
+      "strand": "STRAND C: CONSUMER ARITHMETIC",
+      "unit": "Unit 9: Consumer Arithmetic",
+      "topic": "Discount",
+      "difficulty": 2,
+      "question": "A TV costs $1200. A 10% discount is given. What is the sale price?",
+      "options": ["$1080", "$1100", "$1120", "$1180"],
+      "answer": 0,
+      "explanation": "10% of 1200 = 120, so sale price = 1080"
+    },
+    {
+      "id": 29,
+      "strand": "STRAND D: SETS",
+      "unit": "Unit 10: Logic and Venn Diagrams",
+      "topic": "Sets",
+      "difficulty": 1,
+      "question": "Which symbol means 'is an element of'?",
+      "options": ["∪", "∩", "∈", "⊂"],
+      "answer": 2,
+      "explanation": "∈ means 'belongs to' or 'is an element of'"
+    },
+    {
+      "id": 30,
+      "strand": "STRAND D: SETS",
+      "unit": "Unit 10: Logic and Venn Diagrams",
+      "topic": "Venn Diagrams",
+      "difficulty": 2,
+      "question": "In a class, 20 students like football, 15 like cricket and 5 like both. How many like football only?",
+      "options": ["5", "10", "15", "20"],
+      "answer": 2,
+      "explanation": "Football only = 20 - 5 = 15"
+    },
+    {
+      "id": 31,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 11: Units of Measurement",
+      "topic": "Conversions",
+      "difficulty": 1,
+      "question": "How many centimetres are in 2.5 metres?",
+      "options": ["25", "250", "2500", "0.25"],
+      "answer": 1,
+      "explanation": "1 m = 100 cm, so 2.5 m = 250 cm"
+    },
+    {
+      "id": 32,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 11: Units of Measurement",
+      "topic": "Conversions",
+      "difficulty": 1,
+      "question": "Convert 3.2 kg to grams.",
+      "options": ["32 g", "320 g", "3200 g", "3002 g"],
+      "answer": 2,
+      "explanation": "1 kg = 1000 g"
+    },
+    {
+      "id": 33,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 12: Solids",
+      "topic": "Solids",
+      "difficulty": 1,
+      "question": "How many faces does a cube have?",
+      "options": ["4", "5", "6", "8"],
+      "answer": 2,
+      "explanation": "A cube has 6 square faces"
+    },
+    {
+      "id": 34,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 13: Areas",
+      "topic": "Area",
+      "difficulty": 1,
+      "question": "Find the area of a rectangle with length 8 cm and width 3 cm.",
+      "options": ["11 cm²", "22 cm²", "24 cm²", "48 cm²"],
+      "answer": 2,
+      "explanation": "Area = length × width = 8 × 3 = 24"
+    },
+    {
+      "id": 35,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 13: Areas",
+      "topic": "Area",
+      "difficulty": 2,
+      "question": "Find the area of a triangle with base 12 cm and height 5 cm.",
+      "options": ["17 cm²", "30 cm²", "60 cm²", "24 cm²"],
+      "answer": 1,
+      "explanation": "Area = 1/2 × base × height = 1/2 × 12 × 5 = 30"
+    },
+    {
+      "id": 36,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 14: Volumes",
+      "topic": "Volume",
+      "difficulty": 2,
+      "question": "Find the volume of a cuboid measuring 4 cm by 3 cm by 5 cm.",
+      "options": ["12 cm³", "20 cm³", "60 cm³", "120 cm³"],
+      "answer": 2,
+      "explanation": "Volume = l × w × h = 4 × 3 × 5 = 60"
+    },
+    {
+      "id": 37,
+      "strand": "STRAND F: STATISTICS",
+      "unit": "Unit 15: Data Collection",
+      "topic": "Data Collection",
+      "difficulty": 1,
+      "question": "Which of the following is a primary source of data?",
+      "options": ["Textbook", "Survey", "Newspaper", "Website article"],
+      "answer": 1,
+      "explanation": "A survey collects first-hand data"
+    },
+    {
+      "id": 38,
+      "strand": "STRAND F: STATISTICS",
+      "unit": "Unit 16: Data Presentation",
+      "topic": "Graphs",
+      "difficulty": 1,
+      "question": "Which chart is best for showing parts of a whole?",
+      "options": ["Pie chart", "Line graph", "Histogram", "Scatter plot"],
+      "answer": 0,
+      "explanation": "Pie charts show proportions of a whole"
+    },
+    {
+      "id": 39,
+      "strand": "STRAND F: STATISTICS",
+      "unit": "Unit 17: Measures of Central Tendency",
+      "topic": "Mean",
+      "difficulty": 1,
+      "question": "Find the mean of 2, 4, 6, 8.",
+      "options": ["4", "5", "6", "8"],
+      "answer": 1,
+      "explanation": "Mean = (2 + 4 + 6 + 8) ÷ 4 = 20 ÷ 4 = 5"
+    },
+    {
+      "id": 40,
+      "strand": "STRAND F: STATISTICS",
+      "unit": "Unit 17: Measures of Central Tendency",
+      "topic": "Median",
+      "difficulty": 2,
+      "question": "Find the median of 3, 7, 9, 11, 15.",
+      "options": ["7", "8", "9", "11"],
+      "answer": 2,
+      "explanation": "The middle value is 9"
+    },
+    {
+      "id": 41,
+      "strand": "STRAND F: STATISTICS",
+      "unit": "Unit 17: Measures of Central Tendency",
+      "topic": "Mode",
+      "difficulty": 1,
+      "question": "Find the mode of 4, 5, 5, 6, 7.",
+      "options": ["4", "5", "6", "7"],
+      "answer": 1,
+      "explanation": "The most frequent value is 5"
+    },
+    {
+      "id": 42,
+      "strand": "STRAND F: STATISTICS",
+      "unit": "Unit 18: Measures of Variation",
+      "topic": "Range",
+      "difficulty": 1,
+      "question": "Find the range of 6, 10, 14, 18.",
+      "options": ["4", "8", "12", "24"],
+      "answer": 2,
+      "explanation": "Range = highest - lowest = 18 - 6 = 12"
+    },
+    {
+      "id": 43,
+      "strand": "STRAND F: STATISTICS",
+      "unit": "Unit 19: Probability of One Event",
+      "topic": "Probability",
+      "difficulty": 1,
+      "question": "A fair die is rolled. What is the probability of getting a 4?",
+      "options": ["1/2", "1/3", "1/4", "1/6"],
+      "answer": 3,
+      "explanation": "There is 1 favorable outcome out of 6"
+    },
+    {
+      "id": 44,
+      "strand": "STRAND F: STATISTICS",
+      "unit": "Unit 19: Probability of One Event",
+      "topic": "Probability",
+      "difficulty": 2,
+      "question": "A bag contains 3 red balls and 2 blue balls. What is the probability of choosing a red ball?",
+      "options": ["2/5", "3/5", "1/2", "3/2"],
+      "answer": 1,
+      "explanation": "3 red out of 5 total"
+    },
+    {
+      "id": 45,
+      "strand": "STRAND F: STATISTICS",
+      "unit": "Unit 20: Probability of Two or More Events",
+      "topic": "Combined Probability",
+      "difficulty": 2,
+      "question": "Two coins are tossed. What is the probability of getting two heads?",
+      "options": ["1/2", "1/4", "1/3", "3/4"],
+      "answer": 1,
+      "explanation": "Outcomes: HH, HT, TH, TT. Only HH works."
+    },
+    {
+      "id": 46,
+      "strand": "STRAND G: ALGEBRA",
+      "unit": "Unit 21: Formulae",
+      "topic": "Substitution",
+      "difficulty": 1,
+      "question": "If y = 2x + 3, find y when x = 4.",
+      "options": ["8", "9", "10", "11"],
+      "answer": 3,
+      "explanation": "y = 2(4) + 3 = 11"
+    },
+    {
+      "id": 47,
+      "strand": "STRAND G: ALGEBRA",
+      "unit": "Unit 22: Algebraic Concepts",
+      "topic": "Terms and Coefficients",
+      "difficulty": 1,
+      "question": "What is the coefficient of x in 7x + 5?",
+      "options": ["5", "7", "x", "12"],
+      "answer": 1,
+      "explanation": "The coefficient multiplying x is 7"
+    },
+    {
+      "id": 48,
+      "strand": "STRAND G: ALGEBRA",
+      "unit": "Unit 23: Algebraic Manipulation",
+      "topic": "Expansion",
+      "difficulty": 1,
+      "question": "Expand 3(x + 2).",
+      "options": ["3x + 2", "3x + 5", "3x + 6", "x + 6"],
+      "answer": 2,
+      "explanation": "Multiply 3 by each term inside the bracket"
+    },
+    {
+      "id": 49,
+      "strand": "STRAND G: ALGEBRA",
+      "unit": "Unit 25: Solving Equations",
+      "topic": "Linear Equations",
+      "difficulty": 1,
+      "question": "Solve 2x + 5 = 13.",
+      "options": ["3", "4", "5", "6"],
+      "answer": 1,
+      "explanation": "2x = 8, so x = 4"
+    },
+    {
+      "id": 50,
+      "strand": "STRAND G: ALGEBRA",
+      "unit": "Unit 26: Solving Inequalities",
+      "topic": "Inequalities",
+      "difficulty": 2,
+      "question": "Solve x + 4 > 9.",
+      "options": ["x > 13", "x < 13", "x > 5", "x < 5"],
+      "answer": 2,
+      "explanation": "Subtract 4 from both sides: x > 5"
+    },
+    {
+      "id": 51,
+      "strand": "STRAND G: ALGEBRA",
+      "unit": "Unit 25: Solving Equations",
+      "topic": "Linear Equations",
+      "difficulty": 2,
+      "question": "Solve: 2x + 3 = 11",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1,
+      "explanation": "2x = 8 \u2192 x = 4"
+    },
+    {
+      "id": 52,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 1: Decimals and Fractions",
+      "topic": "Fractions",
+      "difficulty": 1,
+      "question": "Calculate 1/4 + 1/2.",
+      "options": [
+        "2/6",
+        "3/6",
+        "3/4",
+        "1/3"
+      ],
+      "answer": 2,
+      "explanation": "1/4 + 2/4 = 3/4"
+    },
+    {
+      "id": 53,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 1: Decimals and Fractions",
+      "topic": "Fractions",
+      "difficulty": 2,
+      "question": "Calculate 5/6 − 1/3.",
+      "options": [
+        "1/6",
+        "1/2",
+        "2/3",
+        "4/3"
+      ],
+      "answer": 1,
+      "explanation": "1/3 = 2/6, so 5/6 − 2/6 = 3/6 = 1/2"
+    },
+    {
+      "id": 54,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 1: Decimals and Fractions",
+      "topic": "Fractions",
+      "difficulty": 2,
+      "question": "Divide 3/4 by 3/8.",
+      "options": [
+        "1/2",
+        "2",
+        "9/32",
+        "1"
+      ],
+      "answer": 1,
+      "explanation": "3/4 ÷ 3/8 = 3/4 × 8/3 = 2"
+    },
+    {
+      "id": 55,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 1: Decimals and Fractions",
+      "topic": "Decimals",
+      "difficulty": 1,
+      "question": "What is 0.3 × 0.4?",
+      "options": [
+        "1.2",
+        "0.012",
+        "0.12",
+        "12"
+      ],
+      "answer": 2,
+      "explanation": "0.3 × 0.4 = 0.12"
+    },
+    {
+      "id": 56,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 1: Decimals and Fractions",
+      "topic": "Decimals",
+      "difficulty": 2,
+      "question": "Divide 4.8 by 0.6.",
+      "options": [
+        "0.8",
+        "8",
+        "80",
+        "0.08"
+      ],
+      "answer": 1,
+      "explanation": "4.8 ÷ 0.6 = 48 ÷ 6 = 8"
+    },
+    {
+      "id": 57,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 2: Percentages",
+      "topic": "Percentages",
+      "difficulty": 1,
+      "question": "What percentage is 9 of 36?",
+      "options": [
+        "4%",
+        "25%",
+        "9%",
+        "30%"
+      ],
+      "answer": 1,
+      "explanation": "9/36 × 100 = 25%"
+    },
+    {
+      "id": 58,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 2: Percentages",
+      "topic": "Percentages",
+      "difficulty": 2,
+      "question": "After a 20% discount a jacket costs $64. What was the original price?",
+      "options": [
+        "$76.80",
+        "$80",
+        "$84",
+        "$76"
+      ],
+      "answer": 1,
+      "explanation": "0.80 × P = 64, so P = $80"
+    },
+    {
+      "id": 59,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 2: Percentages",
+      "topic": "Percentages",
+      "difficulty": 3,
+      "question": "A price of $250 before tax has 12.5% VAT added. What is the total?",
+      "options": [
+        "$275.25",
+        "$281.25",
+        "$280.00",
+        "$262.50"
+      ],
+      "answer": 1,
+      "explanation": "12.5% of 250 = 31.25; total = 281.25"
+    },
+    {
+      "id": 60,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 3: Using Fractions and Percentages",
+      "topic": "Application",
+      "difficulty": 2,
+      "question": "A student scored 54 out of 90. What percentage did she score?",
+      "options": [
+        "54%",
+        "60%",
+        "64%",
+        "56%"
+      ],
+      "answer": 1,
+      "explanation": "54/90 × 100 = 60%"
+    },
+    {
+      "id": 61,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 3: Using Fractions and Percentages",
+      "topic": "Application",
+      "difficulty": 3,
+      "question": "Tom earns $2400 per month and saves 1/8 of it. How much does he save in a year?",
+      "options": [
+        "$300",
+        "$3200",
+        "$3600",
+        "$2400"
+      ],
+      "answer": 2,
+      "explanation": "Monthly savings = 2400/8 = $300; yearly = 300 × 12 = $3600"
+    },
+    {
+      "id": 62,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 4: Scientific Notation",
+      "topic": "Scientific Notation",
+      "difficulty": 1,
+      "question": "Write 0.0072 in scientific notation.",
+      "options": [
+        "7.2 × 10⁻²",
+        "7.2 × 10⁻³",
+        "72 × 10⁻⁴",
+        "0.72 × 10⁻²"
+      ],
+      "answer": 1,
+      "explanation": "0.0072 = 7.2 × 10⁻³"
+    },
+    {
+      "id": 63,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 4: Scientific Notation",
+      "topic": "Scientific Notation",
+      "difficulty": 2,
+      "question": "Evaluate (5 × 10⁴) ÷ (2 × 10²).",
+      "options": [
+        "2.5 × 10²",
+        "2.5 × 10³",
+        "10 × 10²",
+        "2.5 × 10⁶"
+      ],
+      "answer": 0,
+      "explanation": "5÷2 = 2.5 and 10⁴÷10² = 10², giving 2.5 × 10²"
+    },
+    {
+      "id": 64,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 5: Ratio and Proportion",
+      "topic": "Ratio",
+      "difficulty": 1,
+      "question": "Share $120 in the ratio 3:5. What is the larger share?",
+      "options": [
+        "$40",
+        "$45",
+        "$75",
+        "$80"
+      ],
+      "answer": 2,
+      "explanation": "5 parts out of 8 = 5/8 × 120 = $75"
+    },
+    {
+      "id": 65,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 5: Ratio and Proportion",
+      "topic": "Proportion",
+      "difficulty": 2,
+      "question": "A car travels 150 km in 2.5 hours. At the same speed, how far in 4 hours?",
+      "options": [
+        "200 km",
+        "220 km",
+        "240 km",
+        "250 km"
+      ],
+      "answer": 2,
+      "explanation": "Speed = 60 km/h; 60 × 4 = 240 km"
+    },
+    {
+      "id": 66,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 5: Ratio and Proportion",
+      "topic": "Ratio",
+      "difficulty": 3,
+      "question": "Three friends share a prize in the ratio 2:3:5. The largest share is $150. What is the total prize?",
+      "options": [
+        "$250",
+        "$280",
+        "$300",
+        "$350"
+      ],
+      "answer": 2,
+      "explanation": "5 parts = $150, so 1 part = $30; total = 10 × 30 = $300"
+    },
+    {
+      "id": 67,
+      "strand": "STRAND B: NUMBER THEORY",
+      "unit": "Unit 6: Indices and Factors",
+      "topic": "Indices",
+      "difficulty": 1,
+      "question": "Simplify 3⁴ ÷ 3².",
+      "options": [
+        "3⁶",
+        "3²",
+        "9²",
+        "1"
+      ],
+      "answer": 1,
+      "explanation": "Subtract exponents: 4 − 2 = 2, so 3²"
+    },
+    {
+      "id": 68,
+      "strand": "STRAND B: NUMBER THEORY",
+      "unit": "Unit 6: Indices and Factors",
+      "topic": "Factors",
+      "difficulty": 1,
+      "question": "What is the LCM of 4 and 6?",
+      "options": [
+        "2",
+        "8",
+        "12",
+        "24"
+      ],
+      "answer": 2,
+      "explanation": "Multiples of 4: 4,8,12 — Multiples of 6: 6,12 — LCM = 12"
+    },
+    {
+      "id": 69,
+      "strand": "STRAND B: NUMBER THEORY",
+      "unit": "Unit 6: Indices and Factors",
+      "topic": "Factors",
+      "difficulty": 2,
+      "question": "What is the HCF of 24 and 36?",
+      "options": [
+        "4",
+        "6",
+        "12",
+        "18"
+      ],
+      "answer": 2,
+      "explanation": "Factors common to both include 12; HCF = 12"
+    },
+    {
+      "id": 70,
+      "strand": "STRAND B: NUMBER THEORY",
+      "unit": "Unit 6: Indices and Factors",
+      "topic": "Indices",
+      "difficulty": 3,
+      "question": "Simplify (4x²y³)².",
+      "options": [
+        "8x⁴y⁶",
+        "16x⁴y⁶",
+        "4x⁴y⁶",
+        "16x²y⁶"
+      ],
+      "answer": 1,
+      "explanation": "4² = 16, (x²)² = x⁴, (y³)² = y⁶"
+    },
+    {
+      "id": 71,
+      "strand": "STRAND B: NUMBER THEORY",
+      "unit": "Unit 7: Number System and Bases",
+      "topic": "Number Bases",
+      "difficulty": 2,
+      "question": "Convert 25 (base 10) to binary.",
+      "options": [
+        "10110",
+        "11001",
+        "10011",
+        "11010"
+      ],
+      "answer": 1,
+      "explanation": "25 = 16+8+1 = 11001₂"
+    },
+    {
+      "id": 72,
+      "strand": "STRAND B: NUMBER THEORY",
+      "unit": "Unit 7: Number System and Bases",
+      "topic": "Number Bases",
+      "difficulty": 2,
+      "question": "What is 1101₂ + 1011₂ in base 2?",
+      "options": [
+        "11000",
+        "11010",
+        "10110",
+        "11100"
+      ],
+      "answer": 0,
+      "explanation": "13 + 11 = 24 = 11000₂"
+    },
+    {
+      "id": 73,
+      "strand": "STRAND B: NUMBER THEORY",
+      "unit": "Unit 8: Number Sequences",
+      "topic": "Sequences",
+      "difficulty": 1,
+      "question": "What is the next term in 1, 4, 9, 16, ...?",
+      "options": [
+        "20",
+        "24",
+        "25",
+        "36"
+      ],
+      "answer": 2,
+      "explanation": "These are perfect squares: 1², 2², 3², 4², so next is 5² = 25"
+    },
+    {
+      "id": 74,
+      "strand": "STRAND B: NUMBER THEORY",
+      "unit": "Unit 8: Number Sequences",
+      "topic": "Sequences",
+      "difficulty": 2,
+      "question": "The nth term of a sequence is 3n − 1. What is the 7th term?",
+      "options": [
+        "18",
+        "20",
+        "21",
+        "22"
+      ],
+      "answer": 1,
+      "explanation": "3(7) − 1 = 21 − 1 = 20"
+    },
+    {
+      "id": 75,
+      "strand": "STRAND B: NUMBER THEORY",
+      "unit": "Unit 8: Number Sequences",
+      "topic": "Sequences",
+      "difficulty": 3,
+      "question": "In the sequence 2, 6, 18, 54, ... what is the 6th term?",
+      "options": [
+        "108",
+        "162",
+        "486",
+        "972"
+      ],
+      "answer": 2,
+      "explanation": "Common ratio = 3; 6th term = 2 × 3⁵ = 2 × 243 = 486"
+    },
+    {
+      "id": 76,
+      "strand": "STRAND C: CONSUMER ARITHMETIC",
+      "unit": "Unit 9: Consumer Arithmetic",
+      "topic": "Hire Purchase",
+      "difficulty": 2,
+      "question": "A phone costs $800 cash or a deposit of $200 plus 12 monthly payments of $60. How much extra does hire purchase cost?",
+      "options": [
+        "$100",
+        "$120",
+        "$720",
+        "$920"
+      ],
+      "answer": 1,
+      "explanation": "HP total = 200 + 720 = $920; extra = 920 − 800 = $120"
+    },
+    {
+      "id": 77,
+      "strand": "STRAND C: CONSUMER ARITHMETIC",
+      "unit": "Unit 9: Consumer Arithmetic",
+      "topic": "Simple Interest",
+      "difficulty": 2,
+      "question": "How long will it take $600 to earn $90 in simple interest at 5% per annum?",
+      "options": [
+        "2 years",
+        "3 years",
+        "4 years",
+        "5 years"
+      ],
+      "answer": 1,
+      "explanation": "T = (SI × 100)/(P × R) = (90 × 100)/(600 × 5) = 3 years"
+    },
+    {
+      "id": 78,
+      "strand": "STRAND C: CONSUMER ARITHMETIC",
+      "unit": "Unit 9: Consumer Arithmetic",
+      "topic": "Profit and Loss",
+      "difficulty": 2,
+      "question": "An item bought for $200 is sold for $170. What is the percentage loss?",
+      "options": [
+        "10%",
+        "12%",
+        "15%",
+        "17%"
+      ],
+      "answer": 2,
+      "explanation": "Loss = 30; % loss = 30/200 × 100 = 15%"
+    },
+    {
+      "id": 79,
+      "strand": "STRAND C: CONSUMER ARITHMETIC",
+      "unit": "Unit 9: Consumer Arithmetic",
+      "topic": "Wages",
+      "difficulty": 2,
+      "question": "A worker earns $12/hr for 40 hrs. Overtime is paid at 1.5×. She works 45 hours. What is her total pay?",
+      "options": [
+        "$480",
+        "$540",
+        "$570",
+        "$810"
+      ],
+      "answer": 2,
+      "explanation": "Regular: 40×12=$480; OT: 5×18=$90; total=$570"
+    },
+    {
+      "id": 80,
+      "strand": "STRAND C: CONSUMER ARITHMETIC",
+      "unit": "Unit 9: Consumer Arithmetic",
+      "topic": "Currency",
+      "difficulty": 2,
+      "question": "If US$1 = TT$6.80, how much TT$ do you get for US$250?",
+      "options": [
+        "$1600",
+        "$1700",
+        "$1800",
+        "$1680"
+      ],
+      "answer": 1,
+      "explanation": "250 × 6.80 = TT$1700"
+    },
+    {
+      "id": 81,
+      "strand": "STRAND C: CONSUMER ARITHMETIC",
+      "unit": "Unit 9: Consumer Arithmetic",
+      "topic": "Tax",
+      "difficulty": 2,
+      "question": "A salary of $3000 per month is taxed at 25% on the portion above $1000. How much tax is paid?",
+      "options": [
+        "$500",
+        "$600",
+        "$750",
+        "$1000"
+      ],
+      "answer": 0,
+      "explanation": "Taxable amount = 3000−1000 = 2000; tax = 25% × 2000 = $500"
+    },
+    {
+      "id": 82,
+      "strand": "STRAND D: SETS",
+      "unit": "Unit 10: Logic and Venn Diagrams",
+      "topic": "Sets",
+      "difficulty": 1,
+      "question": "If A = {1,2,3} and B = {2,3,4}, what is A ∩ B?",
+      "options": [
+        "{1,2,3,4}",
+        "{2,3}",
+        "{1,4}",
+        "{1}"
+      ],
+      "answer": 1,
+      "explanation": "The intersection contains elements in both sets"
+    },
+    {
+      "id": 83,
+      "strand": "STRAND D: SETS",
+      "unit": "Unit 10: Logic and Venn Diagrams",
+      "topic": "Sets",
+      "difficulty": 1,
+      "question": "If A = {1,2,3} and B = {2,3,4}, what is A ∪ B?",
+      "options": [
+        "{1,2,3,4}",
+        "{2,3}",
+        "{1,4}",
+        "{1,2,4}"
+      ],
+      "answer": 0,
+      "explanation": "The union contains all elements from both sets"
+    },
+    {
+      "id": 84,
+      "strand": "STRAND D: SETS",
+      "unit": "Unit 10: Logic and Venn Diagrams",
+      "topic": "Venn Diagrams",
+      "difficulty": 2,
+      "question": "In a survey of 50 people, 30 like tea, 25 like coffee, and 10 like both. How many like neither?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "answer": 0,
+      "explanation": "Tea only + coffee only + both = 20+15+10 = 45; neither = 50−45 = 5"
+    },
+    {
+      "id": 85,
+      "strand": "STRAND D: SETS",
+      "unit": "Unit 10: Logic and Venn Diagrams",
+      "topic": "Venn Diagrams",
+      "difficulty": 3,
+      "question": "Of 60 students, 35 study Maths, 28 study Science, and 12 study both. How many study Maths only?",
+      "options": [
+        "12",
+        "23",
+        "28",
+        "35"
+      ],
+      "answer": 1,
+      "explanation": "Maths only = 35 − 12 = 23"
+    },
+    {
+      "id": 86,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 11: Units of Measurement",
+      "topic": "Conversions",
+      "difficulty": 1,
+      "question": "How many seconds are in 2.5 minutes?",
+      "options": [
+        "120",
+        "140",
+        "150",
+        "160"
+      ],
+      "answer": 2,
+      "explanation": "2.5 × 60 = 150 seconds"
+    },
+    {
+      "id": 87,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 11: Units of Measurement",
+      "topic": "Conversions",
+      "difficulty": 2,
+      "question": "Convert 55 km/h to m/s.",
+      "options": [
+        "15.28 m/s",
+        "0.917 m/s",
+        "55 m/s",
+        "18 m/s"
+      ],
+      "answer": 0,
+      "explanation": "55 × 1000 / 3600 ≈ 15.28 m/s"
+    },
+    {
+      "id": 88,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 12: Solids",
+      "topic": "Solids",
+      "difficulty": 1,
+      "question": "How many edges does a triangular prism have?",
+      "options": [
+        "6",
+        "7",
+        "9",
+        "12"
+      ],
+      "answer": 2,
+      "explanation": "A triangular prism has 9 edges"
+    },
+    {
+      "id": 89,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 13: Areas",
+      "topic": "Area",
+      "difficulty": 2,
+      "question": "Find the area of a circle with radius 7 cm. (Use π = 22/7)",
+      "options": [
+        "44 cm²",
+        "154 cm²",
+        "176 cm²",
+        "22 cm²"
+      ],
+      "answer": 1,
+      "explanation": "Area = πr² = 22/7 × 49 = 154 cm²"
+    },
+    {
+      "id": 90,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 13: Areas",
+      "topic": "Area",
+      "difficulty": 2,
+      "question": "Find the area of a trapezium with parallel sides 8 cm and 12 cm, and height 5 cm.",
+      "options": [
+        "40 cm²",
+        "50 cm²",
+        "100 cm²",
+        "25 cm²"
+      ],
+      "answer": 1,
+      "explanation": "Area = 1/2 × (a+b) × h = 1/2 × 20 × 5 = 50 cm²"
+    },
+    {
+      "id": 91,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 13: Areas",
+      "topic": "Area",
+      "difficulty": 3,
+      "question": "Find the area of a parallelogram with base 9 cm and perpendicular height 6 cm.",
+      "options": [
+        "30 cm²",
+        "45 cm²",
+        "54 cm²",
+        "27 cm²"
+      ],
+      "answer": 2,
+      "explanation": "Area = base × height = 9 × 6 = 54 cm²"
+    },
+    {
+      "id": 92,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 14: Volumes",
+      "topic": "Volume",
+      "difficulty": 2,
+      "question": "Find the volume of a cylinder with radius 3 cm and height 10 cm. (Use π = 3.14)",
+      "options": [
+        "94.2 cm³",
+        "188.4 cm³",
+        "282.6 cm³",
+        "314 cm³"
+      ],
+      "answer": 2,
+      "explanation": "V = πr²h = 3.14 × 9 × 10 = 282.6 cm³"
+    },
+    {
+      "id": 93,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 14: Volumes",
+      "topic": "Volume",
+      "difficulty": 3,
+      "question": "A cone has radius 6 cm and height 9 cm. Find its volume. (Use π = 3.14)",
+      "options": [
+        "339.12 cm³",
+        "1017.36 cm³",
+        "508.68 cm³",
+        "254.34 cm³"
+      ],
+      "answer": 0,
+      "explanation": "V = 1/3 × π × r² × h = 1/3 × 3.14 × 36 × 9 = 339.12 cm³"
+    },
+    {
+      "id": 94,
+      "strand": "STRAND F: STATISTICS",
+      "unit": "Unit 15: Data Collection",
+      "topic": "Data Collection",
+      "difficulty": 1,
+      "question": "Which type of data is 'favourite colour'?",
+      "options": [
+        "Discrete",
+        "Continuous",
+        "Qualitative",
+        "Quantitative"
+      ],
+      "answer": 2,
+      "explanation": "Favourite colour is a category — it is qualitative"
+    },
+    {
+      "id": 95,
+      "strand": "STRAND F: STATISTICS",
+      "unit": "Unit 16: Data Presentation",
+      "topic": "Graphs",
+      "difficulty": 1,
+      "question": "What type of graph uses bars with no gaps between them?",
+      "options": [
+        "Bar chart",
+        "Histogram",
+        "Pie chart",
+        "Line graph"
+      ],
+      "answer": 1,
+      "explanation": "Histograms show continuous data with adjacent bars"
+    },
+    {
+      "id": 96,
+      "strand": "STRAND F: STATISTICS",
+      "unit": "Unit 17: Measures of Central Tendency",
+      "topic": "Mean",
+      "difficulty": 2,
+      "question": "Find the mean of 12, 15, 18, 21, 24.",
+      "options": [
+        "15",
+        "18",
+        "19",
+        "20"
+      ],
+      "answer": 1,
+      "explanation": "Sum = 90; mean = 90 ÷ 5 = 18"
+    },
+    {
+      "id": 97,
+      "strand": "STRAND F: STATISTICS",
+      "unit": "Unit 17: Measures of Central Tendency",
+      "topic": "Median",
+      "difficulty": 2,
+      "question": "Find the median of 4, 8, 3, 7, 1, 6, 9.",
+      "options": [
+        "6",
+        "7",
+        "4",
+        "8"
+      ],
+      "answer": 0,
+      "explanation": "Ordered: 1,3,4,6,7,8,9 — middle value is 6"
+    },
+    {
+      "id": 98,
+      "strand": "STRAND F: STATISTICS",
+      "unit": "Unit 17: Measures of Central Tendency",
+      "topic": "Mean",
+      "difficulty": 3,
+      "question": "The mean of 5 numbers is 12. Four of them are 8, 14, 10 and 16. What is the fifth number?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "18"
+      ],
+      "answer": 1,
+      "explanation": "Total = 5×12 = 60; fifth = 60 − (8+14+10+16) = 12"
+    },
+    {
+      "id": 99,
+      "strand": "STRAND F: STATISTICS",
+      "unit": "Unit 18: Measures of Variation",
+      "topic": "Range",
+      "difficulty": 2,
+      "question": "The scores of 5 students are 67, 45, 89, 72, 53. What is the range?",
+      "options": [
+        "34",
+        "40",
+        "44",
+        "22"
+      ],
+      "answer": 2,
+      "explanation": "Range = 89 − 45 = 44"
+    },
+    {
+      "id": 100,
+      "strand": "STRAND F: STATISTICS",
+      "unit": "Unit 19: Probability of One Event",
+      "topic": "Probability",
+      "difficulty": 1,
+      "question": "A bag has 4 green and 6 yellow marbles. What is the probability of picking a yellow one?",
+      "options": [
+        "2/5",
+        "3/5",
+        "4/10",
+        "1/3"
+      ],
+      "answer": 1,
+      "explanation": "P(yellow) = 6/10 = 3/5"
+    },
+    {
+      "id": 101,
+      "strand": "STRAND F: STATISTICS",
+      "unit": "Unit 20: Probability of Two or More Events",
+      "topic": "Combined Probability",
+      "difficulty": 2,
+      "question": "A bag has 3 red and 4 blue balls. One is drawn and not replaced, then a second is drawn. What is the probability both are red?",
+      "options": [
+        "9/49",
+        "1/7",
+        "3/7",
+        "6/42"
+      ],
+      "answer": 1,
+      "explanation": "P = 3/7 × 2/6 = 6/42 = 1/7"
+    },
+    {
+      "id": 102,
+      "strand": "STRAND F: STATISTICS",
+      "unit": "Unit 20: Probability of Two or More Events",
+      "topic": "Combined Probability",
+      "difficulty": 3,
+      "question": "A coin is tossed and a die is rolled. What is the probability of getting a head and a 6?",
+      "options": [
+        "1/4",
+        "1/6",
+        "1/12",
+        "1/8"
+      ],
+      "answer": 2,
+      "explanation": "P = 1/2 × 1/6 = 1/12"
+    },
+    {
+      "id": 103,
+      "strand": "STRAND G: ALGEBRA",
+      "unit": "Unit 21: Formulae",
+      "topic": "Substitution",
+      "difficulty": 1,
+      "question": "If v = u + at, find v when u = 5, a = 3, t = 4.",
+      "options": [
+        "12",
+        "17",
+        "20",
+        "24"
+      ],
+      "answer": 1,
+      "explanation": "v = 5 + 3×4 = 17"
+    },
+    {
+      "id": 104,
+      "strand": "STRAND G: ALGEBRA",
+      "unit": "Unit 21: Formulae",
+      "topic": "Substitution",
+      "difficulty": 2,
+      "question": "Make x the subject of y = 3x − 7.",
+      "options": [
+        "x = (y+7)/3",
+        "x = y/3 + 7",
+        "x = 3y + 7",
+        "x = (y−7)/3"
+      ],
+      "answer": 0,
+      "explanation": "y + 7 = 3x → x = (y+7)/3"
+    },
+    {
+      "id": 105,
+      "strand": "STRAND G: ALGEBRA",
+      "unit": "Unit 22: Algebraic Concepts",
+      "topic": "Like Terms",
+      "difficulty": 1,
+      "question": "Simplify 5x + 3y − 2x + y.",
+      "options": [
+        "3x + 4y",
+        "7x + 4y",
+        "3x + 2y",
+        "7x + 2y"
+      ],
+      "answer": 0,
+      "explanation": "5x − 2x = 3x and 3y + y = 4y"
+    },
+    {
+      "id": 106,
+      "strand": "STRAND G: ALGEBRA",
+      "unit": "Unit 23: Algebraic Manipulation",
+      "topic": "Factorisation",
+      "difficulty": 2,
+      "question": "Factorise 6x² − 9x.",
+      "options": [
+        "3x(2x−3)",
+        "3(2x²−3x)",
+        "6x(x−9)",
+        "x(6x−9)"
+      ],
+      "answer": 0,
+      "explanation": "HCF is 3x: 3x(2x − 3)"
+    },
+    {
+      "id": 107,
+      "strand": "STRAND G: ALGEBRA",
+      "unit": "Unit 23: Algebraic Manipulation",
+      "topic": "Expansion",
+      "difficulty": 2,
+      "question": "Expand (x + 3)(x − 2).",
+      "options": [
+        "x² + x − 6",
+        "x² − x − 6",
+        "x² + 5x − 6",
+        "x² − 5x + 6"
+      ],
+      "answer": 0,
+      "explanation": "x² − 2x + 3x − 6 = x² + x − 6"
+    },
+    {
+      "id": 108,
+      "strand": "STRAND G: ALGEBRA",
+      "unit": "Unit 23: Algebraic Manipulation",
+      "topic": "Factorisation",
+      "difficulty": 2,
+      "question": "Factorise x² − 9.",
+      "options": [
+        "(x−3)²",
+        "(x+3)(x−3)",
+        "(x−9)(x+1)",
+        "x(x−9)"
+      ],
+      "answer": 1,
+      "explanation": "Difference of two squares: x² − 9 = (x+3)(x−3)"
+    },
+    {
+      "id": 109,
+      "strand": "STRAND G: ALGEBRA",
+      "unit": "Unit 23: Algebraic Manipulation",
+      "topic": "Factorisation",
+      "difficulty": 3,
+      "question": "Factorise 2x² + 7x + 3.",
+      "options": [
+        "(2x+1)(x+3)",
+        "(2x+3)(x+1)",
+        "(x+3)(2x−1)",
+        "(2x−1)(x+3)"
+      ],
+      "answer": 0,
+      "explanation": "2x² + 7x + 3 = (2x+1)(x+3)"
+    },
+    {
+      "id": 110,
+      "strand": "STRAND G: ALGEBRA",
+      "unit": "Unit 24: Solving Quadratic Equations",
+      "topic": "Quadratics",
+      "difficulty": 2,
+      "question": "Solve x² − 5x + 6 = 0.",
+      "options": [
+        "x = 2 or x = 3",
+        "x = −2 or x = −3",
+        "x = 1 or x = 6",
+        "x = −1 or x = 6"
+      ],
+      "answer": 0,
+      "explanation": "Factorise: (x−2)(x−3) = 0"
+    },
+    {
+      "id": 111,
+      "strand": "STRAND G: ALGEBRA",
+      "unit": "Unit 24: Solving Quadratic Equations",
+      "topic": "Quadratics",
+      "difficulty": 3,
+      "question": "Solve 2x² + 5x − 3 = 0.",
+      "options": [
+        "x = 1/2 or x = −3",
+        "x = −1/2 or x = 3",
+        "x = 3 or x = −1",
+        "x = 1 or x = −3/2"
+      ],
+      "answer": 0,
+      "explanation": "Factorise: (2x−1)(x+3) = 0; x = 1/2 or x = −3"
+    },
+    {
+      "id": 112,
+      "strand": "STRAND G: ALGEBRA",
+      "unit": "Unit 25: Solving Equations",
+      "topic": "Simultaneous Equations",
+      "difficulty": 2,
+      "question": "Solve: x + y = 7 and x − y = 3.",
+      "options": [
+        "x=4, y=3",
+        "x=5, y=2",
+        "x=3, y=4",
+        "x=6, y=1"
+      ],
+      "answer": 1,
+      "explanation": "Adding: 2x = 10 → x = 5; y = 2"
+    },
+    {
+      "id": 113,
+      "strand": "STRAND G: ALGEBRA",
+      "unit": "Unit 26: Solving Inequalities",
+      "topic": "Inequalities",
+      "difficulty": 2,
+      "question": "Solve 3x − 4 ≤ 11.",
+      "options": [
+        "x ≤ 5",
+        "x ≤ 7",
+        "x ≥ 5",
+        "x ≤ 2.33"
+      ],
+      "answer": 0,
+      "explanation": "3x ≤ 15 → x ≤ 5"
+    },
+    {
+      "id": 114,
+      "strand": "STRAND H: RELATIONS, FUNCTIONS and GRAPHS",
+      "unit": "Unit 27: Coordinates",
+      "topic": "Coordinates",
+      "difficulty": 1,
+      "question": "What is the midpoint of (2, 4) and (8, 10)?",
+      "options": [
+        "(4,6)",
+        "(5,7)",
+        "(6,8)",
+        "(3,5)"
+      ],
+      "answer": 1,
+      "explanation": "Midpoint = ((2+8)/2, (4+10)/2) = (5, 7)"
+    },
+    {
+      "id": 115,
+      "strand": "STRAND H: RELATIONS, FUNCTIONS and GRAPHS",
+      "unit": "Unit 27: Coordinates",
+      "topic": "Coordinates",
+      "difficulty": 2,
+      "question": "Find the distance between (1, 2) and (4, 6).",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "7"
+      ],
+      "answer": 2,
+      "explanation": "d = √((4−1)² + (6−2)²) = √25 = 5"
+    },
+    {
+      "id": 116,
+      "strand": "STRAND H: RELATIONS, FUNCTIONS and GRAPHS",
+      "unit": "Unit 28: Straight Lines",
+      "topic": "Gradient",
+      "difficulty": 1,
+      "question": "What is the gradient of a line passing through (0, 3) and (2, 7)?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "7"
+      ],
+      "answer": 0,
+      "explanation": "Gradient = (7−3)/(2−0) = 2"
+    },
+    {
+      "id": 117,
+      "strand": "STRAND H: RELATIONS, FUNCTIONS and GRAPHS",
+      "unit": "Unit 28: Straight Lines",
+      "topic": "Equation of a Line",
+      "difficulty": 2,
+      "question": "What is the equation of a line with gradient 3 and y-intercept −2?",
+      "options": [
+        "y = 3x",
+        "y = −2x + 3",
+        "y = 3x − 2",
+        "y = 2x + 3"
+      ],
+      "answer": 2,
+      "explanation": "y = mx + c = 3x − 2"
+    },
+    {
+      "id": 118,
+      "strand": "STRAND H: RELATIONS, FUNCTIONS and GRAPHS",
+      "unit": "Unit 28: Straight Lines",
+      "topic": "Gradient",
+      "difficulty": 2,
+      "question": "Two lines are parallel. One has gradient 4. What is the gradient of the other?",
+      "options": [
+        "−1/4",
+        "1/4",
+        "4",
+        "−4"
+      ],
+      "answer": 2,
+      "explanation": "Parallel lines have equal gradients"
+    },
+    {
+      "id": 119,
+      "strand": "STRAND H: RELATIONS, FUNCTIONS and GRAPHS",
+      "unit": "Unit 29: Using Graphs to Solve Equations",
+      "topic": "Graphs",
+      "difficulty": 2,
+      "question": "The graph of y = x² − 4 crosses the x-axis where y = 0. What are the x-values?",
+      "options": [
+        "x = 2 only",
+        "x = ±2",
+        "x = ±4",
+        "x = 4 only"
+      ],
+      "answer": 1,
+      "explanation": "x² = 4 → x = ±2"
+    },
+    {
+      "id": 120,
+      "strand": "STRAND H: RELATIONS, FUNCTIONS and GRAPHS",
+      "unit": "Unit 30: Functions",
+      "topic": "Functions",
+      "difficulty": 2,
+      "question": "If f(x) = 2x + 1, find f(3).",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 2,
+      "explanation": "f(3) = 2(3) + 1 = 7"
+    },
+    {
+      "id": 121,
+      "strand": "STRAND H: RELATIONS, FUNCTIONS and GRAPHS",
+      "unit": "Unit 30: Functions",
+      "topic": "Functions",
+      "difficulty": 3,
+      "question": "If f(x) = x² − 3 and g(x) = 2x, find f(g(2)).",
+      "options": [
+        "5",
+        "13",
+        "17",
+        "1"
+      ],
+      "answer": 1,
+      "explanation": "g(2) = 4; f(4) = 16 − 3 = 13"
+    },
+    {
+      "id": 122,
+      "strand": "STRAND H: RELATIONS, FUNCTIONS and GRAPHS",
+      "unit": "Unit 30: Functions",
+      "topic": "Inverse Functions",
+      "difficulty": 3,
+      "question": "If f(x) = 4x − 3, find f⁻¹(x).",
+      "options": [
+        "(x+3)/4",
+        "(x−3)/4",
+        "4x+3",
+        "x/4 + 3"
+      ],
+      "answer": 0,
+      "explanation": "Let y = 4x − 3; x = (y+3)/4; so f⁻¹(x) = (x+3)/4"
+    },
+    {
+      "id": 123,
+      "strand": "STRAND I: GEOMETRY and TRIGONOMETRY",
+      "unit": "Unit 31: Angles and Symmetry",
+      "topic": "Angles",
+      "difficulty": 1,
+      "question": "What is the sum of interior angles of a triangle?",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "answer": 1,
+      "explanation": "The angles in any triangle always add up to 180°"
+    },
+    {
+      "id": 124,
+      "strand": "STRAND I: GEOMETRY and TRIGONOMETRY",
+      "unit": "Unit 31: Angles and Symmetry",
+      "topic": "Angles",
+      "difficulty": 1,
+      "question": "Two angles are supplementary. One is 65°. What is the other?",
+      "options": [
+        "25°",
+        "115°",
+        "125°",
+        "35°"
+      ],
+      "answer": 1,
+      "explanation": "Supplementary angles add to 180°: 180 − 65 = 115°"
+    },
+    {
+      "id": 125,
+      "strand": "STRAND I: GEOMETRY and TRIGONOMETRY",
+      "unit": "Unit 31: Angles and Symmetry",
+      "topic": "Angles",
+      "difficulty": 2,
+      "question": "A polygon has 6 sides. What is the sum of its interior angles?",
+      "options": [
+        "540°",
+        "720°",
+        "900°",
+        "360°"
+      ],
+      "answer": 1,
+      "explanation": "Sum = (n−2) × 180 = 4 × 180 = 720°"
+    },
+    {
+      "id": 126,
+      "strand": "STRAND I: GEOMETRY and TRIGONOMETRY",
+      "unit": "Unit 32: Angles, Circles and Tangents",
+      "topic": "Circles",
+      "difficulty": 2,
+      "question": "An angle at the centre of a circle is 120°. What is the angle at the circumference subtended by the same arc?",
+      "options": [
+        "60°",
+        "120°",
+        "240°",
+        "30°"
+      ],
+      "answer": 0,
+      "explanation": "Angle at circumference = half angle at centre = 60°"
+    },
+    {
+      "id": 127,
+      "strand": "STRAND I: GEOMETRY and TRIGONOMETRY",
+      "unit": "Unit 32: Angles, Circles and Tangents",
+      "topic": "Circles",
+      "difficulty": 2,
+      "question": "A tangent and a radius meet at a point on a circle. What angle do they form?",
+      "options": [
+        "45°",
+        "60°",
+        "90°",
+        "180°"
+      ],
+      "answer": 2,
+      "explanation": "A tangent is always perpendicular to the radius at the point of contact"
+    },
+    {
+      "id": 128,
+      "strand": "STRAND I: GEOMETRY and TRIGONOMETRY",
+      "unit": "Unit 33: Congruence and Similarity",
+      "topic": "Similarity",
+      "difficulty": 2,
+      "question": "Two similar triangles have sides in ratio 3:5. If the smaller area is 27 cm², what is the larger area?",
+      "options": [
+        "45 cm²",
+        "75 cm²",
+        "81 cm²",
+        "135 cm²"
+      ],
+      "answer": 1,
+      "explanation": "Area ratio = 3²:5² = 9:25; larger area = 27/9 × 25 = 75 cm²"
+    },
+    {
+      "id": 129,
+      "strand": "STRAND I: GEOMETRY and TRIGONOMETRY",
+      "unit": "Unit 34: Pythagoras' Theorem and Trigonometric Ratios",
+      "topic": "Pythagoras",
+      "difficulty": 1,
+      "question": "A right triangle has legs 6 cm and 8 cm. What is the hypotenuse?",
+      "options": [
+        "10 cm",
+        "12 cm",
+        "14 cm",
+        "√28 cm"
+      ],
+      "answer": 0,
+      "explanation": "√(36 + 64) = √100 = 10 cm"
+    },
+    {
+      "id": 130,
+      "strand": "STRAND I: GEOMETRY and TRIGONOMETRY",
+      "unit": "Unit 34: Pythagoras' Theorem and Trigonometric Ratios",
+      "topic": "Trigonometric Ratios",
+      "difficulty": 2,
+      "question": "In a right triangle, the opposite side is 5 cm and hypotenuse is 13 cm. What is sin θ?",
+      "options": [
+        "5/13",
+        "12/13",
+        "5/12",
+        "13/5"
+      ],
+      "answer": 0,
+      "explanation": "sin θ = opposite/hypotenuse = 5/13"
+    },
+    {
+      "id": 131,
+      "strand": "STRAND I: GEOMETRY and TRIGONOMETRY",
+      "unit": "Unit 34: Pythagoras' Theorem and Trigonometric Ratios",
+      "topic": "Trigonometric Ratios",
+      "difficulty": 2,
+      "question": "Find the value of cos 60°.",
+      "options": [
+        "√3/2",
+        "1/2",
+        "1",
+        "√2/2"
+      ],
+      "answer": 1,
+      "explanation": "cos 60° = 1/2"
+    },
+    {
+      "id": 132,
+      "strand": "STRAND I: GEOMETRY and TRIGONOMETRY",
+      "unit": "Unit 34: Pythagoras' Theorem and Trigonometric Ratios",
+      "topic": "Trigonometric Ratios",
+      "difficulty": 3,
+      "question": "A ladder 10 m long leans against a wall making an angle of 60° with the ground. How high up the wall does it reach?",
+      "options": [
+        "5 m",
+        "5√2 m",
+        "5√3 m",
+        "10 m"
+      ],
+      "answer": 2,
+      "explanation": "Height = 10 × sin 60° = 10 × (√3/2) = 5√3 m"
+    },
+    {
+      "id": 133,
+      "strand": "STRAND I: GEOMETRY and TRIGONOMETRY",
+      "unit": "Unit 35: Trigonometric Problems",
+      "topic": "Angles of Elevation",
+      "difficulty": 2,
+      "question": "A flagpole casts a shadow of 12 m when the angle of elevation of the sun is 30°. How tall is the flagpole?",
+      "options": [
+        "4√3 m",
+        "6 m",
+        "6√3 m",
+        "12√3 m"
+      ],
+      "answer": 0,
+      "explanation": "tan 30° = h/12; h = 12 × tan 30° = 12/√3 = 4√3 m"
+    },
+    {
+      "id": 134,
+      "strand": "STRAND I: GEOMETRY and TRIGONOMETRY",
+      "unit": "Unit 35: Trigonometric Problems",
+      "topic": "Bearings",
+      "difficulty": 3,
+      "question": "A ship travels 10 km North then 10 km East. What is the straight-line distance from start?",
+      "options": [
+        "10 km",
+        "10√2 km",
+        "20 km",
+        "15 km"
+      ],
+      "answer": 1,
+      "explanation": "d = √(10² + 10²) = √200 = 10√2 km"
+    },
+    {
+      "id": 135,
+      "strand": "STRAND I: GEOMETRY and TRIGONOMETRY",
+      "unit": "Unit 36: Constructions and Enlargements",
+      "topic": "Enlargement",
+      "difficulty": 2,
+      "question": "A shape is enlarged by scale factor 3. If the original perimeter is 12 cm, what is the new perimeter?",
+      "options": [
+        "15 cm",
+        "36 cm",
+        "108 cm",
+        "4 cm"
+      ],
+      "answer": 1,
+      "explanation": "Perimeter scales by the same factor: 12 × 3 = 36 cm"
+    },
+    {
+      "id": 136,
+      "strand": "STRAND I: GEOMETRY and TRIGONOMETRY",
+      "unit": "Unit 36: Constructions and Enlargements",
+      "topic": "Enlargement",
+      "difficulty": 3,
+      "question": "A rectangle is enlarged by scale factor 2. The original area is 20 cm². What is the new area?",
+      "options": [
+        "40 cm²",
+        "60 cm²",
+        "80 cm²",
+        "100 cm²"
+      ],
+      "answer": 2,
+      "explanation": "Area scales by k²: 20 × 4 = 80 cm²"
+    },
+    {
+      "id": 137,
+      "strand": "STRAND I: GEOMETRY and TRIGONOMETRY",
+      "unit": "Unit 37: Further Transformations",
+      "topic": "Transformations",
+      "difficulty": 2,
+      "question": "Point A (3, 4) is reflected in the y-axis. What are the new coordinates?",
+      "options": [
+        "(3, −4)",
+        "(−3, 4)",
+        "(−3, −4)",
+        "(4, 3)"
+      ],
+      "answer": 1,
+      "explanation": "Reflection in y-axis changes sign of x-coordinate"
+    },
+    {
+      "id": 138,
+      "strand": "STRAND I: GEOMETRY and TRIGONOMETRY",
+      "unit": "Unit 37: Further Transformations",
+      "topic": "Transformations",
+      "difficulty": 2,
+      "question": "Point B (2, 5) is translated by vector (−3, 2). What are the new coordinates?",
+      "options": [
+        "(−1, 7)",
+        "(5, 3)",
+        "(−1, 3)",
+        "(5, 7)"
+      ],
+      "answer": 0,
+      "explanation": "(2 + (−3), 5 + 2) = (−1, 7)"
+    },
+    {
+      "id": 139,
+      "strand": "STRAND I: GEOMETRY and TRIGONOMETRY",
+      "unit": "Unit 37: Further Transformations",
+      "topic": "Transformations",
+      "difficulty": 3,
+      "question": "Point P (2, 3) is rotated 90° clockwise about the origin. Where does it move to?",
+      "options": [
+        "(−3, 2)",
+        "(3, −2)",
+        "(−2, −3)",
+        "(3, 2)"
+      ],
+      "answer": 1,
+      "explanation": "90° clockwise: (x, y) → (y, −x) = (3, −2)"
+    },
+    {
+      "id": 140,
+      "strand": "STRAND J: VECTORS and MATRICES",
+      "unit": "Unit 38: Vectors",
+      "topic": "Vectors",
+      "difficulty": 1,
+      "question": "Vector a = (3, 4). What is |a|?",
+      "options": [
+        "7",
+        "5",
+        "√7",
+        "12"
+      ],
+      "answer": 1,
+      "explanation": "|a| = √(3² + 4²) = √25 = 5"
+    },
+    {
+      "id": 141,
+      "strand": "STRAND J: VECTORS and MATRICES",
+      "unit": "Unit 38: Vectors",
+      "topic": "Vectors",
+      "difficulty": 2,
+      "question": "If a = (2, 5) and b = (−1, 3), find a + b.",
+      "options": [
+        "(1, 8)",
+        "(3, 2)",
+        "(1, 2)",
+        "(3, 8)"
+      ],
+      "answer": 0,
+      "explanation": "(2+(−1), 5+3) = (1, 8)"
+    },
+    {
+      "id": 142,
+      "strand": "STRAND J: VECTORS and MATRICES",
+      "unit": "Unit 38: Vectors",
+      "topic": "Vectors",
+      "difficulty": 2,
+      "question": "If OA = (4, 2) and OB = (1, 6), find vector AB.",
+      "options": [
+        "(5, 8)",
+        "(3, 4)",
+        "(−3, 4)",
+        "(3, −4)"
+      ],
+      "answer": 2,
+      "explanation": "AB = OB − OA = (1−4, 6−2) = (−3, 4)"
+    },
+    {
+      "id": 143,
+      "strand": "STRAND J: VECTORS and MATRICES",
+      "unit": "Unit 38: Vectors",
+      "topic": "Vectors",
+      "difficulty": 3,
+      "question": "Vector p = 3a − 2b where a = (1, 2) and b = (−1, 3). Find p.",
+      "options": [
+        "(5, 0)",
+        "(5, −1)",
+        "(1, 12)",
+        "(−1, 0)"
+      ],
+      "answer": 0,
+      "explanation": "3a = (3,6); 2b = (−2,6); p = (3−(−2), 6−6) = (5, 0)"
+    },
+    {
+      "id": 144,
+      "strand": "STRAND J: VECTORS and MATRICES",
+      "unit": "Unit 39: Matrices",
+      "topic": "Matrices",
+      "difficulty": 1,
+      "question": "What is the order of the matrix [[1,2,3],[4,5,6]]?",
+      "options": [
+        "3×2",
+        "2×3",
+        "2×2",
+        "3×3"
+      ],
+      "answer": 1,
+      "explanation": "It has 2 rows and 3 columns: order 2×3"
+    },
+    {
+      "id": 145,
+      "strand": "STRAND J: VECTORS and MATRICES",
+      "unit": "Unit 39: Matrices",
+      "topic": "Matrices",
+      "difficulty": 2,
+      "question": "Add the matrices [[2,1],[3,4]] and [[1,3],[2,0]].",
+      "options": [
+        "[[3,4],[5,4]]",
+        "[[3,3],[5,4]]",
+        "[[3,4],[1,4]]",
+        "[[4,3],[4,5]]"
+      ],
+      "answer": 0,
+      "explanation": "Add corresponding elements: [[3,4],[5,4]]"
+    },
+    {
+      "id": 146,
+      "strand": "STRAND J: VECTORS and MATRICES",
+      "unit": "Unit 39: Matrices",
+      "topic": "Matrices",
+      "difficulty": 2,
+      "question": "Find the determinant of [[4,2],[1,3]].",
+      "options": [
+        "10",
+        "14",
+        "12",
+        "6"
+      ],
+      "answer": 0,
+      "explanation": "det = (4×3) − (2×1) = 12 − 2 = 10"
+    },
+    {
+      "id": 147,
+      "strand": "STRAND J: VECTORS and MATRICES",
+      "unit": "Unit 39: Matrices",
+      "topic": "Matrices",
+      "difficulty": 3,
+      "question": "Multiply [[2,1],[0,3]] by [[1,4],[2,1]].",
+      "options": [
+        "[[4,9],[6,3]]",
+        "[[3,5],[6,3]]",
+        "[[4,9],[3,6]]",
+        "[[2,4],[6,3]]"
+      ],
+      "answer": 0,
+      "explanation": "Row1×Col1: 2+2=4; Row1×Col2: 8+1=9; Row2×Col1: 0+6=6; Row2×Col2: 0+3=3 → [[4,9],[6,3]]"
+    },
+    {
+      "id": 148,
+      "strand": "STRAND J: VECTORS and MATRICES",
+      "unit": "Unit 39: Matrices",
+      "topic": "Matrices",
+      "difficulty": 3,
+      "question": "Find the inverse of [[3,1],[2,1]].",
+      "options": [
+        "[[1,−1],[−2,3]]",
+        "[[1,1],[2,3]]",
+        "[[3,−1],[−2,1]]",
+        "[[−1,1],[2,−3]]"
+      ],
+      "answer": 0,
+      "explanation": "det = 3−2 = 1; inverse = [[1,−1],[−2,3]]"
+    },
+    {
+      "id": 149,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 5: Ratio and Proportion",
+      "topic": "Proportion",
+      "difficulty": 3,
+      "question": "A map has scale 1:50000. Two towns are 6 cm apart on the map. What is the real distance in km?",
+      "options": [
+        "3 km",
+        "30 km",
+        "300 km",
+        "0.3 km"
+      ],
+      "answer": 0,
+      "explanation": "Real = 6 × 50000 = 300000 cm = 3 km"
+    },
+    {
+      "id": 150,
+      "strand": "STRAND H: RELATIONS, FUNCTIONS and GRAPHS",
+      "unit": "Unit 28: Straight Lines",
+      "topic": "Gradient",
+      "difficulty": 3,
+      "question": "A line passes through (−1, 3) and (3, 11). What is its equation?",
+      "options": [
+        "y = 2x + 5",
+        "y = 2x + 1",
+        "y = 4x + 3",
+        "y = 2x − 5"
+      ],
+      "answer": 0,
+      "explanation": "Gradient = (11−3)/(3−(−1)) = 8/4 = 2; y − 3 = 2(x+1) → y = 2x + 5"
+    },
+    {
+      "id": 151,
+      "strand": "STRAND C: CONSUMER ARITHMETIC",
+      "unit": "Unit 9: Consumer Arithmetic",
+      "topic": "Rates",
+      "difficulty": 2,
+      "question": "A plumber charges a $45 call-out fee plus $30 per hour. How much does a 3-hour job cost?",
+      "options": [
+        "$90",
+        "$105",
+        "$135",
+        "$120"
+      ],
+      "answer": 2,
+      "explanation": "45 + (30 × 3) = 45 + 90 = $135"
+    },
+    {
+      "id": 152,
+      "strand": "STRAND C: CONSUMER ARITHMETIC",
+      "unit": "Unit 9: Consumer Arithmetic",
+      "topic": "Compound Interest",
+      "difficulty": 3,
+      "question": "$1000 is invested at 5% compound interest per annum. What is the amount after 2 years?",
+      "options": [
+        "$1100",
+        "$1102.50",
+        "$1105",
+        "$1025"
+      ],
+      "answer": 1,
+      "explanation": "After year 1: 1000 × 1.05 = $1050; After year 2: 1050 × 1.05 = $1102.50"
+    },
+    {
+      "id": 153,
+      "strand": "STRAND C: CONSUMER ARITHMETIC",
+      "unit": "Unit 9: Consumer Arithmetic",
+      "topic": "Profit and Loss",
+      "difficulty": 3,
+      "question": "A trader buys 50 mangoes at $2 each and sells them at $3.50 each. What is the percentage profit?",
+      "options": [
+        "50%",
+        "65%",
+        "70%",
+        "75%"
+      ],
+      "answer": 3,
+      "explanation": "Cost = $100, Revenue = $175, Profit = $75; % profit = 75/100 × 100 = 75%"
+    },
+    {
+      "id": 154,
+      "strand": "STRAND C: CONSUMER ARITHMETIC",
+      "unit": "Unit 9: Consumer Arithmetic",
+      "topic": "Hire Purchase",
+      "difficulty": 3,
+      "question": "A laptop costs $1500 cash or a 10% deposit and 24 monthly payments of $68. How much more does hire purchase cost?",
+      "options": [
+        "$132",
+        "$282",
+        "$182",
+        "$212"
+      ],
+      "answer": 1,
+      "explanation": "Deposit = 10% of $1500 = $150; monthly total = 24 × $68 = $1632; HP total = $1782; extra = $1782 − $1500 = $282"
+    },
+    {
+      "id": 155,
+      "strand": "STRAND D: SETS",
+      "unit": "Unit 10: Logic and Venn Diagrams",
+      "topic": "Sets",
+      "difficulty": 1,
+      "question": "Which symbol represents the universal set?",
+      "options": [
+        "∅",
+        "ξ",
+        "∪",
+        "∩"
+      ],
+      "answer": 1,
+      "explanation": "ξ (xi) is used to denote the universal set"
+    },
+    {
+      "id": 156,
+      "strand": "STRAND D: SETS",
+      "unit": "Unit 10: Logic and Venn Diagrams",
+      "topic": "Sets",
+      "difficulty": 1,
+      "question": "What is the complement of set A?",
+      "options": [
+        "All elements in A",
+        "All elements not in A",
+        "All elements in A and B",
+        "The empty set"
+      ],
+      "answer": 1,
+      "explanation": "The complement A' contains all elements in the universal set that are NOT in A"
+    },
+    {
+      "id": 157,
+      "strand": "STRAND D: SETS",
+      "unit": "Unit 10: Logic and Venn Diagrams",
+      "topic": "Sets",
+      "difficulty": 1,
+      "question": "Set A = {2, 4, 6, 8}. What is n(A)?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 1,
+      "explanation": "n(A) means the number of elements in A; there are 4 elements"
+    },
+    {
+      "id": 158,
+      "strand": "STRAND D: SETS",
+      "unit": "Unit 10: Logic and Venn Diagrams",
+      "topic": "Sets",
+      "difficulty": 2,
+      "question": "If ξ = {1,2,3,4,5,6,7,8} and A = {2,4,6,8}, what is A'?",
+      "options": [
+        "{1,3,5,7}",
+        "{2,4,6,8}",
+        "{1,2,3,4}",
+        "{5,6,7,8}"
+      ],
+      "answer": 0,
+      "explanation": "A' contains all elements in ξ that are not in A"
+    },
+    {
+      "id": 159,
+      "strand": "STRAND D: SETS",
+      "unit": "Unit 10: Logic and Venn Diagrams",
+      "topic": "Venn Diagrams",
+      "difficulty": 2,
+      "question": "In a group of 30 students, 18 play football, 12 play tennis, and 5 play both. How many play neither?",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ],
+      "answer": 1,
+      "explanation": "n(F∪T) = 18 + 12 − 5 = 25; neither = 30 − 25 = 5"
+    },
+    {
+      "id": 160,
+      "strand": "STRAND D: SETS",
+      "unit": "Unit 10: Logic and Venn Diagrams",
+      "topic": "Venn Diagrams",
+      "difficulty": 2,
+      "question": "P = {factors of 12} and Q = {factors of 18}. What is P ∩ Q?",
+      "options": [
+        "{1,2,3,6}",
+        "{1,2,3,4,6}",
+        "{1,3,6}",
+        "{2,3,6}"
+      ],
+      "answer": 0,
+      "explanation": "Factors of 12: {1,2,3,4,6,12}; factors of 18: {1,2,3,6,9,18}; intersection = {1,2,3,6}"
+    },
+    {
+      "id": 161,
+      "strand": "STRAND D: SETS",
+      "unit": "Unit 10: Logic and Venn Diagrams",
+      "topic": "Sets",
+      "difficulty": 3,
+      "question": "n(A) = 15, n(B) = 12, n(A∪B) = 22. Find n(A∩B).",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ],
+      "answer": 1,
+      "explanation": "n(A∩B) = n(A) + n(B) − n(A∪B) = 15 + 12 − 22 = 5"
+    },
+    {
+      "id": 162,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 11: Units of Measurement",
+      "topic": "Conversions",
+      "difficulty": 1,
+      "question": "How many millilitres are in 3.5 litres?",
+      "options": [
+        "350 ml",
+        "3500 ml",
+        "35 ml",
+        "0.35 ml"
+      ],
+      "answer": 1,
+      "explanation": "1 litre = 1000 ml; 3.5 × 1000 = 3500 ml"
+    },
+    {
+      "id": 163,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 11: Units of Measurement",
+      "topic": "Conversions",
+      "difficulty": 1,
+      "question": "A race is 5 km long. What is this in metres?",
+      "options": [
+        "500 m",
+        "50 m",
+        "5000 m",
+        "500000 m"
+      ],
+      "answer": 2,
+      "explanation": "1 km = 1000 m; 5 × 1000 = 5000 m"
+    },
+    {
+      "id": 164,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 11: Units of Measurement",
+      "topic": "Conversions",
+      "difficulty": 2,
+      "question": "A bag weighs 4.5 pounds. Given 1 kg ≈ 2.2 pounds, what is its weight in kg to 1 decimal place?",
+      "options": [
+        "1.9 kg",
+        "2.0 kg",
+        "2.0 kg",
+        "2.1 kg"
+      ],
+      "answer": 1,
+      "explanation": "4.5 ÷ 2.2 ≈ 2.05 ≈ 2.0 kg"
+    },
+    {
+      "id": 165,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 11: Units of Measurement",
+      "topic": "Time",
+      "difficulty": 2,
+      "question": "A film starts at 19:45 and lasts 2 hours 35 minutes. At what time does it end?",
+      "options": [
+        "21:10",
+        "21:20",
+        "22:10",
+        "22:20"
+      ],
+      "answer": 3,
+      "explanation": "19:45 + 2:35 = 22:20"
+    },
+    {
+      "id": 166,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 12: Solids",
+      "topic": "Solids",
+      "difficulty": 1,
+      "question": "How many vertices does a square-based pyramid have?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer": 1,
+      "explanation": "A square-based pyramid has 4 base vertices + 1 apex = 5 vertices"
+    },
+    {
+      "id": 167,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 12: Solids",
+      "topic": "Solids",
+      "difficulty": 2,
+      "question": "A cuboid has dimensions 5 cm × 3 cm × 2 cm. What is its total surface area?",
+      "options": [
+        "60 cm²",
+        "62 cm²",
+        "64 cm²",
+        "30 cm²"
+      ],
+      "answer": 2,
+      "explanation": "SA = 2(lw + lh + wh) = 2(15 + 10 + 6) = 2 × 31 = 62 cm²"
+    },
+    {
+      "id": 168,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 13: Areas",
+      "topic": "Area",
+      "difficulty": 2,
+      "question": "Find the circumference of a circle with diameter 14 cm. (Use π = 22/7)",
+      "options": [
+        "22 cm",
+        "44 cm",
+        "88 cm",
+        "154 cm"
+      ],
+      "answer": 1,
+      "explanation": "C = πd = 22/7 × 14 = 44 cm"
+    },
+    {
+      "id": 169,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 13: Areas",
+      "topic": "Area",
+      "difficulty": 3,
+      "question": "A semicircle has diameter 10 cm. Find its area. (Use π = 3.14)",
+      "options": [
+        "15.7 cm²",
+        "31.4 cm²",
+        "39.25 cm²",
+        "78.5 cm²"
+      ],
+      "answer": 2,
+      "explanation": "Area of full circle = 3.14 × 5² = 78.5; semicircle = 78.5 ÷ 2 = 39.25 cm²"
+    },
+    {
+      "id": 170,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 13: Areas",
+      "topic": "Area",
+      "difficulty": 3,
+      "question": "A path 1 m wide surrounds a rectangular garden 8 m by 5 m. What is the area of the path?",
+      "options": [
+        "13 m²",
+        "30 m²",
+        "40 m²",
+        "70 m²"
+      ],
+      "answer": 1,
+      "explanation": "Outer dimensions = (8+2) × (5+2) = 10 × 7 = 70 m²; inner garden = 8 × 5 = 40 m²; path area = 70 − 40 = 30 m²"
+    },
+    {
+      "id": 171,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 14: Volumes",
+      "topic": "Volume",
+      "difficulty": 2,
+      "question": "Find the volume of a sphere with radius 3 cm. (Use π = 3.14)",
+      "options": [
+        "28.26 cm³",
+        "56.52 cm³",
+        "113.04 cm³",
+        "339.12 cm³"
+      ],
+      "answer": 2,
+      "explanation": "V = 4/3 × π × r³ = 4/3 × 3.14 × 27 = 113.04 cm³"
+    }
+  ]
+}

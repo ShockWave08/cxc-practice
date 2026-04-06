@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Social Studies Paper 1 – CXC Practice Hub</title>
+  <link rel="stylesheet" href="../../styles/main.css">
+</head>
+<body>
+  <nav>
+    <a href="index.html">← Social Studies</a> | <a href="../../index.html">Home</a>
+    <span style="float:right; display:flex; gap:8px;">
+      <button id="dark-toggle" style="font-size:0.85em; padding:5px 10px;">🌙</button>
+    </span>
+  </nav>
+  <h1>🌍 Social Studies – Paper 1 (Multiple Choice)</h1>
+
+  <div id="setup">
+    <label>Difficulty:
+      <select id="difficulty">
+        <option value="all">All</option>
+        <option value="1">Easy</option>
+        <option value="2">Medium</option>
+        <option value="3">Hard</option>
+      </select>
+    </label>
+
+    <label>Topic:
+      <select id="unit">
+        <option value="all">All Topics</option>
+        <option value="Birth Rate">Birth Rate</option>
+        <option value="Family Law">Family Law</option>
+        <option value="Social Issues">Social Issues</option>
+        <option value="Governments">Governments</option>
+        <option value="Regional Integration">Regional Integration</option>
+        <option value="Tourism">Tourism</option>
+        <option value="Human Resource">Human Resource</option>
+        <option value="Physical Resource">Physical Resource</option>
+        <option value="Social Groups">Social Groups</option>
+        <option value="Institutions">Institutions</option>
+        <option value="Cultural Diversity">Cultural Diversity</option>
+      </select>
+    </label>
+
+    <label>
+      <input type="checkbox" id="adaptiveMode"> Adaptive Mode (focus weak topics)
+    </label>
+    <label>
+      <input type="checkbox" id="spacedMode"> Spaced Repetition (prioritise unseen &amp; missed)
+    </label>
+
+    <label>Number of Questions:
+      <input type="number" id="numQuestions" value="10" min="1" max="150">
+    </label>
+
+    <button onclick="startExam('Social Studies')">Start Exam</button>
+  </div>
+
+  <!-- Answer Review Overlay -->
+  <div id="review-overlay"
+       style="display:none; position:fixed; inset:0; background:rgba(0,0,0,0.6);
+              z-index:100; align-items:center; justify-content:center; padding:16px;">
+    <div style="background:var(--bg,white); border-radius:12px; padding:24px;
+                max-width:600px; width:100%; max-height:90vh; overflow-y:auto;
+                box-shadow:0 8px 32px rgba(0,0,0,0.25);"></div>
+  </div>
+
+  <div id="timer"></div>
+  <div id="question-container"></div>
+  <button id="submit-btn" onclick="submitExam()" style="display:none;">Submit Exam</button>
+  <div id="results"></div>
+
+  <script src="../../js/storage.js"></script>
+  <script src="../../js/adaptive.js"></script>
+  <script src="../../js/question-loader.js"></script>
+  <script src="../../js/exam-engine.js"></script>
+  <script>
+    applyDarkMode();
+    loadQuestions("paper1-questions.json", "paper1");
+    document.getElementById("dark-toggle").addEventListener("click", () => {
+      const next = !getDarkMode(); setDarkMode(next); applyDarkMode();
+      document.getElementById("dark-toggle").innerText = next ? "☀️" : "🌙";
+    });
+    document.getElementById("dark-toggle").innerText = getDarkMode() ? "☀️" : "🌙";
+  </script>
+</body>
+</html>

@@ -1,0 +1,156 @@
+{
+  "paper2": [
+    {
+      "id": 1,
+      "strand": "Birth Rate",
+      "unit": "Birth Rate",
+      "topic": "Birth Rate and Population",
+      "context": "The table below shows demographic data for two Caribbean countries.\n\nCountry A: Birth rate 32/1000, Death rate 8/1000, Population 500,000\nCountry B: Birth rate 14/1000, Death rate 9/1000, Population 1,200,000",
+      "total_marks": 14,
+      "parts": [
+        {"part":"a","question":"Calculate the rate of natural increase for EACH country.","marks":4,"rubric":[{"type":"method","value":"birth rate minus death rate","marks":1},{"type":"answer","value":"Country A: 24 per 1000","marks":2},{"type":"answer","value":"Country B: 5 per 1000","marks":1}]},
+        {"part":"b","question":"Which country is likely to experience greater pressure on schools, hospitals and housing in the short term? Give TWO reasons to support your answer.","marks":4,"rubric":[{"type":"answer","value":"Country A","marks":1},{"type":"answer","value":"higher birth rate means more children needing services","marks":2},{"type":"answer","value":"faster population growth increases demand for housing","marks":1}]},
+        {"part":"c","question":"Identify and explain THREE factors that may have contributed to Country A's high birth rate.","marks":6,"rubric":[{"type":"answer","value":"early marriage and cultural norms favouring large families","marks":2},{"type":"answer","value":"limited access to contraception and family planning","marks":2},{"type":"answer","value":"high infant mortality leading parents to have more children","marks":2}]}
+      ]
+    },
+    {
+      "id": 2,
+      "strand": "Family Law",
+      "unit": "Family Law",
+      "topic": "Family Types and Law",
+      "context": "In Caribbean society, various family types exist and are recognised in law to differing degrees. The legal framework surrounding families continues to evolve.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Define EACH of the following family types: (i) Nuclear family (ii) Extended family (iii) Matrifocal family","marks":3,"rubric":[{"type":"answer","value":"nuclear: two parents and their children","marks":1},{"type":"answer","value":"extended: nuclear plus other relatives","marks":1},{"type":"answer","value":"matrifocal: mother-centred, father absent or peripheral","marks":1}]},
+        {"part":"b","question":"Explain the purpose of maintenance orders in Caribbean family law.","marks":3,"rubric":[{"type":"answer","value":"ensure financial support for children","marks":1},{"type":"answer","value":"support a dependent spouse after separation","marks":1},{"type":"answer","value":"legally enforceable by the court","marks":1}]},
+        {"part":"c","question":"Discuss TWO ways in which Caribbean family law has changed to reflect modern social realities.","marks":4,"rubric":[{"type":"answer","value":"Status of Children Acts giving equal rights to children born outside marriage","marks":2},{"type":"answer","value":"recognition of common-law relationships and associated rights","marks":2}]},
+        {"part":"d","question":"Examine the impact of family breakdown on Caribbean society. Give THREE specific effects.","marks":5,"rubric":[{"type":"answer","value":"increased juvenile delinquency and crime","marks":2},{"type":"answer","value":"poverty and financial hardship for single-parent households","marks":2},{"type":"answer","value":"emotional and psychological harm to children","marks":1}]}
+      ]
+    },
+    {
+      "id": 3,
+      "strand": "Social Issues",
+      "unit": "Social Issues",
+      "topic": "Crime and Poverty",
+      "context": "Caribbean governments continue to grapple with rising crime rates and persistent poverty. Social scientists argue that these issues are interconnected and require multi-faceted solutions.",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"Distinguish between absolute poverty and relative poverty, using examples relevant to the Caribbean.","marks":4,"rubric":[{"type":"answer","value":"absolute poverty: lacking basic necessities e.g. food shelter water","marks":2},{"type":"answer","value":"relative poverty: below the standard of living typical in society e.g. unable to afford school fees","marks":2}]},
+        {"part":"b","question":"Explain how poverty can be both a CAUSE and a CONSEQUENCE of crime.","marks":4,"rubric":[{"type":"answer","value":"poverty causes crime by limiting legitimate opportunities","marks":2},{"type":"answer","value":"crime consequences include imprisonment reducing earning potential deepening poverty","marks":2}]},
+        {"part":"c","question":"Identify THREE social consequences of high crime rates for a Caribbean community.","marks":3,"rubric":[{"type":"answer","value":"reduced tourism and economic investment","marks":1},{"type":"answer","value":"fear and psychological impact on residents","marks":1},{"type":"answer","value":"loss of life and destruction of families","marks":1}]},
+        {"part":"d","question":"Suggest and explain THREE strategies a Caribbean government could implement to reduce poverty and crime.","marks":6,"rubric":[{"type":"answer","value":"invest in education and vocational training to improve employment prospects","marks":2},{"type":"answer","value":"social welfare programmes targeting the most vulnerable","marks":2},{"type":"answer","value":"community policing and rehabilitation programmes for offenders","marks":2}]}
+      ]
+    },
+    {
+      "id": 4,
+      "strand": "Governments",
+      "unit": "Governments",
+      "topic": "Types and Functions of Government",
+      "context": "Most Caribbean nations operate under parliamentary democracy inherited from the British Westminster model. The government is divided into three branches, each with specific powers and responsibilities.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Name and describe the THREE branches of government in a parliamentary democracy.","marks":6,"rubric":[{"type":"answer","value":"legislature: makes laws e.g. parliament","marks":2},{"type":"answer","value":"executive: implements laws e.g. cabinet and prime minister","marks":2},{"type":"answer","value":"judiciary: interprets laws e.g. courts","marks":2}]},
+        {"part":"b","question":"Explain why the separation of powers is important in a democratic state.","marks":3,"rubric":[{"type":"answer","value":"prevents any one branch from becoming too powerful","marks":1},{"type":"answer","value":"provides checks and balances","marks":1},{"type":"answer","value":"protects citizens rights and freedoms","marks":1}]},
+        {"part":"c","question":"Distinguish between a UNITARY state and a FEDERAL state, giving an example of each.","marks":4,"rubric":[{"type":"answer","value":"unitary: central government holds all power e.g. Barbados","marks":2},{"type":"answer","value":"federal: power shared between central and regional governments e.g. USA","marks":2}]},
+        {"part":"d","question":"State TWO ways in which citizens can participate in the democratic process beyond voting.","marks":2,"rubric":[{"type":"answer","value":"joining a political party or pressure group","marks":1},{"type":"answer","value":"standing for election contacting elected representatives or participating in public consultations","marks":1}]}
+      ]
+    },
+    {
+      "id": 5,
+      "strand": "Regional Integration",
+      "unit": "Regional Integration",
+      "topic": "CARICOM and Regional Integration",
+      "context": "The Caribbean has pursued regional integration since the 1950s. The failure of the West Indies Federation led to the formation of CARIFTA and eventually CARICOM in 1973. The CARICOM Single Market and Economy (CSME) represents the deepest level of integration achieved so far.",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"State FOUR main objectives of CARICOM.","marks":4,"rubric":[{"type":"answer","value":"economic integration and development","marks":1},{"type":"answer","value":"coordination of foreign policy","marks":1},{"type":"answer","value":"functional cooperation in areas like education health and disaster management","marks":1},{"type":"answer","value":"promoting a single market and free movement","marks":1}]},
+        {"part":"b","question":"Explain TWO reasons why the West Indies Federation (1958–1962) failed.","marks":4,"rubric":[{"type":"answer","value":"disagreement over freedom of movement between islands","marks":2},{"type":"answer","value":"disagreement over financial contributions especially between Jamaica and Trinidad","marks":2}]},
+        {"part":"c","question":"Describe THREE benefits that the CSME brings to Caribbean citizens.","marks":6,"rubric":[{"type":"answer","value":"free movement of eligible workers to live and work in member states","marks":2},{"type":"answer","value":"free movement of goods without tariffs boosting trade","marks":2},{"type":"answer","value":"free movement of capital enabling investment across borders","marks":2}]},
+        {"part":"d","question":"Identify ONE challenge facing CARICOM and suggest how it might be overcome.","marks":2,"rubric":[{"type":"answer","value":"slow implementation of decisions e.g. CSME not fully operational","marks":1},{"type":"answer","value":"solution such as binding agreements or stronger enforcement mechanisms","marks":1}]}
+      ]
+    },
+    {
+      "id": 6,
+      "strand": "Tourism",
+      "unit": "Tourism",
+      "topic": "Tourism in the Caribbean",
+      "context": "Tourism is the dominant industry in many Caribbean territories, contributing significantly to GDP and employment. However, it also brings challenges related to the environment, culture and economic dependency.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Identify and explain THREE economic benefits of tourism for a Caribbean country.","marks":6,"rubric":[{"type":"answer","value":"foreign exchange earnings from tourist spending","marks":2},{"type":"answer","value":"employment creation in hospitality transport and retail","marks":2},{"type":"answer","value":"government revenue through taxes and fees","marks":2}]},
+        {"part":"b","question":"Explain the concept of 'tourism leakage' and state why it is a concern for Caribbean economies.","marks":4,"rubric":[{"type":"answer","value":"leakage is money spent by tourists that leaves the local economy","marks":2},{"type":"answer","value":"concern because foreign-owned hotels repatriate profits and imports reduce local multiplier effect","marks":2}]},
+        {"part":"c","question":"Describe TWO negative effects of tourism on the natural environment of a Caribbean island.","marks":4,"rubric":[{"type":"answer","value":"coral reef damage from snorkelling diving and boat anchors","marks":2},{"type":"answer","value":"beach erosion and pollution from tourist facilities and waste","marks":2}]},
+        {"part":"d","question":"Suggest ONE strategy a Caribbean government could use to make tourism more sustainable.","marks":1,"rubric":[{"type":"answer","value":"promote eco-tourism limit hotel development in sensitive areas enforce environmental regulations","marks":1}]}
+      ]
+    },
+    {
+      "id": 7,
+      "strand": "Human Resource",
+      "unit": "Human Resource",
+      "topic": "Human Resource Development",
+      "context": "Many Caribbean territories face significant human resource challenges including brain drain, high unemployment among youth and skills mismatches in the labour market. Governments and regional institutions have implemented various strategies to address these issues.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Define 'brain drain' and explain why it is a significant problem for Caribbean development.","marks":4,"rubric":[{"type":"answer","value":"brain drain is the emigration of highly skilled and educated workers","marks":2},{"type":"answer","value":"significant because countries lose the investment made in education and the skills needed for development","marks":2}]},
+        {"part":"b","question":"Identify THREE ways in which a Caribbean government can develop its human resources.","marks":3,"rubric":[{"type":"answer","value":"investing in quality education at all levels","marks":1},{"type":"answer","value":"providing vocational and technical training","marks":1},{"type":"answer","value":"improving healthcare to maintain a productive workforce","marks":1}]},
+        {"part":"c","question":"Explain the importance of remittances to Caribbean economies and identify ONE disadvantage of dependence on remittances.","marks":4,"rubric":[{"type":"answer","value":"remittances provide income for families and foreign exchange for the economy","marks":2},{"type":"answer","value":"disadvantage: dependency on external income that can decline e.g. during recession in host country","marks":2}]},
+        {"part":"d","question":"Suggest and explain TWO ways to reduce the problem of youth unemployment in the Caribbean.","marks":4,"rubric":[{"type":"answer","value":"expand technical and vocational education to align skills with labour market needs","marks":2},{"type":"answer","value":"offer incentives to businesses that hire and train young workers","marks":2}]}
+      ]
+    },
+    {
+      "id": 8,
+      "strand": "Physical Resource",
+      "unit": "Physical Resource",
+      "topic": "Physical Resources and Sustainable Development",
+      "context": "Caribbean countries are endowed with various physical resources including fertile land, marine ecosystems, minerals and water. However, poor management and climate change threaten the long-term availability of these resources.",
+      "total_marks": 14,
+      "parts": [
+        {"part":"a","question":"Distinguish between renewable and non-renewable resources. Give ONE example of each from the Caribbean.","marks":4,"rubric":[{"type":"answer","value":"renewable: can be replenished naturally e.g. forests fish timber","marks":2},{"type":"answer","value":"non-renewable: cannot be replenished e.g. petroleum in Trinidad bauxite in Jamaica","marks":2}]},
+        {"part":"b","question":"Explain what is meant by sustainable development and why it is important for small island Caribbean states.","marks":4,"rubric":[{"type":"answer","value":"sustainable development meets present needs without compromising future generations","marks":2},{"type":"answer","value":"important for Caribbean as small islands have limited resources and are highly vulnerable to environmental damage","marks":2}]},
+        {"part":"c","question":"Identify THREE ways in which physical resources in the Caribbean are being threatened.","marks":3,"rubric":[{"type":"answer","value":"deforestation and land degradation from agriculture and development","marks":1},{"type":"answer","value":"coral reef destruction from pollution and tourism","marks":1},{"type":"answer","value":"climate change causing sea level rise drought and extreme weather","marks":1}]},
+        {"part":"d","question":"Suggest TWO ways in which a Caribbean government can better manage its physical resources.","marks":3,"rubric":[{"type":"answer","value":"implement and enforce conservation laws and national parks","marks":2},{"type":"answer","value":"invest in renewable energy to reduce dependence on fossil fuels","marks":1}]}
+      ]
+    },
+    {
+      "id": 9,
+      "strand": "Social Groups",
+      "unit": "Social Groups",
+      "topic": "Social Groups and Stratification",
+      "context": "Caribbean society is characterised by a range of social groups and a social stratification system rooted in the history of colonialism and plantation slavery. Understanding these social structures is essential for analysing inequality and social mobility in the region.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Distinguish between PRIMARY and SECONDARY social groups, giving ONE example of each.","marks":4,"rubric":[{"type":"answer","value":"primary: intimate personal long-term relationships e.g. family","marks":2},{"type":"answer","value":"secondary: formal goal-oriented impersonal e.g. trade union","marks":2}]},
+        {"part":"b","question":"Explain how the Caribbean plantation system contributed to the social stratification that exists today.","marks":4,"rubric":[{"type":"answer","value":"created racial hierarchy with Europeans at top enslaved Africans at bottom","marks":2},{"type":"answer","value":"economic and social inequalities rooted in this system persist in modern Caribbean society","marks":2}]},
+        {"part":"c","question":"Define 'social mobility' and identify TWO factors that either enable or limit it in Caribbean society.","marks":4,"rubric":[{"type":"answer","value":"social mobility is the movement of individuals between social classes","marks":1},{"type":"answer","value":"education enables mobility by improving qualifications and opportunities","marks":2},{"type":"answer","value":"poverty and discrimination can limit mobility","marks":1}]},
+        {"part":"d","question":"Explain the role of the peer group as an agent of socialisation during adolescence.","marks":3,"rubric":[{"type":"answer","value":"peer group becomes dominant influence during teenage years","marks":1},{"type":"answer","value":"shapes values behaviour attitudes and identity","marks":1},{"type":"answer","value":"can lead to both positive and negative influences","marks":1}]}
+      ]
+    },
+    {
+      "id": 10,
+      "strand": "Institutions",
+      "unit": "Institutions",
+      "topic": "Social Institutions",
+      "context": "Social institutions are the organised structures of society that serve key functions in maintaining order, transmitting values and meeting the needs of individuals. The major social institutions include the family, education, religion, government and the economy.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"State and explain the functions of ANY THREE social institutions in Caribbean society.","marks":9,"rubric":[{"type":"answer","value":"family: socialises children transmits values provides emotional support","marks":3},{"type":"answer","value":"education: transmits knowledge develops skills prepares citizens for work","marks":3},{"type":"answer","value":"government: maintains law and order provides services protects rights","marks":3}]},
+        {"part":"b","question":"Explain how the weakening of the family as a social institution can affect other institutions.","marks":4,"rubric":[{"type":"answer","value":"poorly socialised children create problems for the education system","marks":2},{"type":"answer","value":"family breakdown increases demands on government social services and the justice system","marks":2}]},
+        {"part":"c","question":"In what way has the media emerged as a powerful social institution in modern Caribbean society?","marks":2,"rubric":[{"type":"answer","value":"media shapes public opinion influences values and behaviour","marks":1},{"type":"answer","value":"serves as a watchdog on government and spreads cultural norms","marks":1}]}
+      ]
+    },
+    {
+      "id": 11,
+      "strand": "Cultural Diversity",
+      "unit": "Cultural Diversity",
+      "topic": "Cultural Diversity in the Caribbean",
+      "context": "The Caribbean is one of the most culturally diverse regions in the world, shaped by centuries of colonisation, the African slave trade, Indian and Chinese indentureship, and interactions between indigenous and European peoples. This diversity is both a strength and a source of tension.",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"Explain how the history of the Caribbean led to such great cultural diversity in the region.","marks":4,"rubric":[{"type":"answer","value":"colonisation brought Europeans who displaced indigenous peoples","marks":1},{"type":"answer","value":"transatlantic slave trade brought Africans with diverse cultures","marks":1},{"type":"answer","value":"Indian and Chinese indentureship after emancipation added further diversity","marks":1},{"type":"answer","value":"blending of these groups created unique Caribbean cultures","marks":1}]},
+        {"part":"b","question":"Define 'creolisation' and explain its significance for Caribbean identity.","marks":4,"rubric":[{"type":"answer","value":"creolisation is the blending of African European and other cultural elements","marks":2},{"type":"answer","value":"creates a unique Caribbean identity distinct from any single origin culture","marks":2}]},
+        {"part":"c","question":"Identify and explain TWO benefits and ONE challenge of cultural diversity for a Caribbean nation.","marks":6,"rubric":[{"type":"answer","value":"benefit: rich cultural heritage expressed in food music art and festivals","marks":2},{"type":"answer","value":"benefit: diverse perspectives strengthen creativity and problem-solving","marks":2},{"type":"answer","value":"challenge: inter-ethnic tensions or discrimination between groups","marks":2}]},
+        {"part":"d","question":"Suggest ONE way in which a Caribbean government can promote unity while respecting cultural diversity.","marks":2,"rubric":[{"type":"answer","value":"multicultural education that teaches respect for all groups","marks":1},{"type":"answer","value":"national celebrations that include all cultural groups e.g. emancipation day independence day","marks":1}]}
+      ]
+    }
+  ]
+}

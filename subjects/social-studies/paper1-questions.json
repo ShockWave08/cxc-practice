@@ -1,0 +1,2404 @@
+{
+  "paper1": [
+    {
+      "id": 1,
+      "strand": "Birth Rate",
+      "unit": "Birth Rate",
+      "topic": "Birth Rate",
+      "difficulty": 1,
+      "question": "Which of the following is the correct definition of birth rate?",
+      "options": [
+        "The number of births per 1000 people per year",
+        "The number of deaths per 1000 people per year",
+        "The difference between births and deaths per year",
+        "The total population of a country"
+      ],
+      "answer": 0,
+      "explanation": "Birth rate is measured as the number of live births per 1000 of the population per year."
+    },
+    {
+      "id": 2,
+      "strand": "Birth Rate",
+      "unit": "Birth Rate",
+      "topic": "Birth Rate",
+      "difficulty": 1,
+      "question": "A country with a birth rate of 35 per 1000 would be described as having a:",
+      "options": [
+        "Low birth rate",
+        "Moderate birth rate",
+        "High birth rate",
+        "Zero birth rate"
+      ],
+      "answer": 2,
+      "explanation": "A birth rate above 30 per 1000 is generally considered high."
+    },
+    {
+      "id": 3,
+      "strand": "Birth Rate",
+      "unit": "Birth Rate",
+      "topic": "Birth Rate",
+      "difficulty": 1,
+      "question": "Which of the following factors is most likely to INCREASE birth rate?",
+      "options": [
+        "Wide availability of contraception",
+        "High levels of female education",
+        "Early marriage and cultural norms favouring large families",
+        "High cost of living"
+      ],
+      "answer": 2,
+      "explanation": "Early marriage and cultural expectations of large families directly increase birth rates."
+    },
+    {
+      "id": 4,
+      "strand": "Birth Rate",
+      "unit": "Birth Rate",
+      "topic": "Birth Rate",
+      "difficulty": 2,
+      "question": "Which of the following would most likely REDUCE a country's birth rate?",
+      "options": [
+        "Lack of family planning services",
+        "Improved access to education for women",
+        "Religious opposition to contraception",
+        "High infant mortality"
+      ],
+      "answer": 1,
+      "explanation": "When women are better educated they tend to have fewer children and delay marriage."
+    },
+    {
+      "id": 5,
+      "strand": "Birth Rate",
+      "unit": "Birth Rate",
+      "topic": "Birth Rate",
+      "difficulty": 2,
+      "question": "The term 'natural increase' refers to:",
+      "options": [
+        "Immigration minus emigration",
+        "Birth rate minus death rate",
+        "Total population divided by land area",
+        "The number of births in a year"
+      ],
+      "answer": 1,
+      "explanation": "Natural increase = birth rate − death rate, showing how fast a population grows naturally."
+    },
+    {
+      "id": 6,
+      "strand": "Birth Rate",
+      "unit": "Birth Rate",
+      "topic": "Birth Rate",
+      "difficulty": 2,
+      "question": "High infant mortality in a country often leads to:",
+      "options": [
+        "A lower birth rate",
+        "Parents having fewer children",
+        "Parents having more children to ensure some survive",
+        "A decrease in population"
+      ],
+      "answer": 2,
+      "explanation": "When infant mortality is high, families tend to have more children to compensate."
+    },
+    {
+      "id": 7,
+      "strand": "Birth Rate",
+      "unit": "Birth Rate",
+      "topic": "Birth Rate",
+      "difficulty": 3,
+      "question": "Country X has a birth rate of 28 per 1000 and a death rate of 10 per 1000. What is its rate of natural increase?",
+      "options": [
+        "38 per 1000",
+        "18 per 1000",
+        "10 per 1000",
+        "28 per 1000"
+      ],
+      "answer": 1,
+      "explanation": "Natural increase = 28 − 10 = 18 per 1000."
+    },
+    {
+      "id": 8,
+      "strand": "Birth Rate",
+      "unit": "Birth Rate",
+      "topic": "Birth Rate",
+      "difficulty": 3,
+      "question": "Which Caribbean factor has historically contributed to relatively high birth rates in the region?",
+      "options": [
+        "High levels of urbanisation",
+        "Cultural and religious values favouring large families",
+        "Widespread access to contraception",
+        "High female workforce participation"
+      ],
+      "answer": 1,
+      "explanation": "Strong religious and cultural traditions in the Caribbean have historically encouraged larger families."
+    },
+    {
+      "id": 9,
+      "strand": "Birth Rate",
+      "unit": "Birth Rate",
+      "topic": "Birth Rate",
+      "difficulty": 2,
+      "question": "A falling birth rate in a developed country is most likely to lead to:",
+      "options": [
+        "An increase in the working-age population",
+        "An ageing population",
+        "Overcrowding in schools",
+        "Higher government spending on education"
+      ],
+      "answer": 1,
+      "explanation": "When fewer children are born, over time the population ages as older people form a larger proportion."
+    },
+    {
+      "id": 10,
+      "strand": "Birth Rate",
+      "unit": "Birth Rate",
+      "topic": "Birth Rate",
+      "difficulty": 2,
+      "question": "Which of the following is NOT a consequence of a rapidly growing population?",
+      "options": [
+        "Pressure on housing and services",
+        "Increased demand for food",
+        "Declining birth rate",
+        "Strain on healthcare systems"
+      ],
+      "answer": 2,
+      "explanation": "A rapidly growing population is caused by a high birth rate, not a declining one."
+    },
+    {
+      "id": 11,
+      "strand": "Family Law",
+      "unit": "Family Law",
+      "topic": "Family Law",
+      "difficulty": 1,
+      "question": "Which of the following best describes a 'nuclear family'?",
+      "options": [
+        "A family consisting of grandparents, parents and children",
+        "A family with two parents and their children",
+        "A single parent and their children",
+        "A family with many relatives living together"
+      ],
+      "answer": 1,
+      "explanation": "A nuclear family consists of two parents and their dependent children."
+    },
+    {
+      "id": 12,
+      "strand": "Family Law",
+      "unit": "Family Law",
+      "topic": "Family Law",
+      "difficulty": 1,
+      "question": "In the Caribbean, which legislation most commonly governs matters of marriage and divorce?",
+      "options": [
+        "The Criminal Code",
+        "The Domestic Relations Act / Matrimonial Causes Act",
+        "The Constitution",
+        "The Labour Act"
+      ],
+      "answer": 1,
+      "explanation": "Matrimonial or Domestic Relations Acts govern marriage, divorce and related matters in Caribbean territories."
+    },
+    {
+      "id": 13,
+      "strand": "Family Law",
+      "unit": "Family Law",
+      "topic": "Family Law",
+      "difficulty": 1,
+      "question": "Which of the following is TRUE about common-law relationships in many Caribbean countries?",
+      "options": [
+        "They carry the same legal rights as marriage automatically",
+        "They are not recognised at all in law",
+        "Some rights may be granted after a period of cohabitation",
+        "They require a ceremony to be valid"
+      ],
+      "answer": 2,
+      "explanation": "In many Caribbean jurisdictions common-law partners may gain legal rights after a set period of cohabitation."
+    },
+    {
+      "id": 14,
+      "strand": "Family Law",
+      "unit": "Family Law",
+      "topic": "Family Law",
+      "difficulty": 2,
+      "question": "The legal term for the care and control of a child after parents separate is:",
+      "options": [
+        "Adoption",
+        "Custody",
+        "Maintenance",
+        "Guardianship"
+      ],
+      "answer": 1,
+      "explanation": "Custody refers to who has the legal right and responsibility to care for a child."
+    },
+    {
+      "id": 15,
+      "strand": "Family Law",
+      "unit": "Family Law",
+      "topic": "Family Law",
+      "difficulty": 2,
+      "question": "Maintenance payments after a divorce are designed to:",
+      "options": [
+        "Punish the paying spouse",
+        "Provide financial support for children or a dependent spouse",
+        "Transfer property ownership",
+        "End all legal ties between partners"
+      ],
+      "answer": 1,
+      "explanation": "Maintenance ensures that a dependent spouse or children are financially supported after separation."
+    },
+    {
+      "id": 16,
+      "strand": "Family Law",
+      "unit": "Family Law",
+      "topic": "Family Law",
+      "difficulty": 2,
+      "question": "Which of the following best describes 'adoption'?",
+      "options": [
+        "Temporary foster care of a child",
+        "A legal process by which a person becomes the permanent legal parent of another's child",
+        "A court order requiring financial payments",
+        "An agreement between parents about visiting rights"
+      ],
+      "answer": 1,
+      "explanation": "Adoption permanently transfers all legal parental rights and responsibilities to the adopting parent(s)."
+    },
+    {
+      "id": 17,
+      "strand": "Family Law",
+      "unit": "Family Law",
+      "topic": "Family Law",
+      "difficulty": 2,
+      "question": "Which of the following family types is most associated with the Caribbean?",
+      "options": [
+        "Nuclear family",
+        "Extended family",
+        "Matrifocal family",
+        "Patriarchal family only"
+      ],
+      "answer": 2,
+      "explanation": "The matrifocal (mother-centred) family is a well-documented family type across the Caribbean."
+    },
+    {
+      "id": 18,
+      "strand": "Family Law",
+      "unit": "Family Law",
+      "topic": "Family Law",
+      "difficulty": 3,
+      "question": "A child born outside of marriage is legally referred to as:",
+      "options": [
+        "Adopted",
+        "Illegitimate",
+        "A ward of the state",
+        "Emancipated"
+      ],
+      "answer": 1,
+      "explanation": "Historically the term illegitimate referred to children born outside of wedlock, though laws increasingly give equal rights regardless of parents' marital status."
+    },
+    {
+      "id": 19,
+      "strand": "Family Law",
+      "unit": "Family Law",
+      "topic": "Family Law",
+      "difficulty": 3,
+      "question": "Which of the following best describes the role of the family court in the Caribbean?",
+      "options": [
+        "To prosecute criminal offences",
+        "To handle matters related to divorce, custody and maintenance",
+        "To manage immigration cases",
+        "To deal with land disputes"
+      ],
+      "answer": 1,
+      "explanation": "Family courts specialise in civil matters involving family relationships such as divorce, custody, and maintenance."
+    },
+    {
+      "id": 20,
+      "strand": "Family Law",
+      "unit": "Family Law",
+      "topic": "Family Law",
+      "difficulty": 2,
+      "question": "The 'Status of Children' legislation in many Caribbean countries was introduced primarily to:",
+      "options": [
+        "Reduce the birth rate",
+        "Give equal legal status to children born inside and outside marriage",
+        "Control adoption",
+        "Limit family size"
+      ],
+      "answer": 1,
+      "explanation": "Status of Children Acts removed legal distinctions between children born inside and outside of marriage."
+    },
+    {
+      "id": 21,
+      "strand": "Social Issues",
+      "unit": "Social Issues",
+      "topic": "Poverty",
+      "difficulty": 1,
+      "question": "Which of the following is the best definition of absolute poverty?",
+      "options": [
+        "Being poorer than others in society",
+        "Lacking the basic necessities required for survival",
+        "Having less than the average income",
+        "Living in a rural area"
+      ],
+      "answer": 1,
+      "explanation": "Absolute poverty means lacking the essentials needed for basic human survival such as food, shelter and clean water."
+    },
+    {
+      "id": 22,
+      "strand": "Social Issues",
+      "unit": "Social Issues",
+      "topic": "Crime",
+      "difficulty": 1,
+      "question": "Which of the following is an example of a white-collar crime?",
+      "options": [
+        "Robbery",
+        "Embezzlement",
+        "Assault",
+        "Vandalism"
+      ],
+      "answer": 1,
+      "explanation": "White-collar crimes are financially motivated non-violent crimes typically committed by professionals, such as embezzlement."
+    },
+    {
+      "id": 23,
+      "strand": "Social Issues",
+      "unit": "Social Issues",
+      "topic": "Unemployment",
+      "difficulty": 1,
+      "question": "Structural unemployment occurs when:",
+      "options": [
+        "Workers lack the skills needed for available jobs",
+        "There is a temporary slow season",
+        "Workers choose not to work",
+        "There is a natural disaster"
+      ],
+      "answer": 0,
+      "explanation": "Structural unemployment arises from a mismatch between workers' skills and what employers need."
+    },
+    {
+      "id": 24,
+      "strand": "Social Issues",
+      "unit": "Social Issues",
+      "topic": "Poverty",
+      "difficulty": 2,
+      "question": "Relative poverty is best described as:",
+      "options": [
+        "Lacking basic needs",
+        "Being unable to afford the standard of living typical in one's society",
+        "Having no savings",
+        "Living in a rural area"
+      ],
+      "answer": 1,
+      "explanation": "Relative poverty compares a person's standard of living to the average in their society."
+    },
+    {
+      "id": 25,
+      "strand": "Social Issues",
+      "unit": "Social Issues",
+      "topic": "Crime",
+      "difficulty": 2,
+      "question": "Which factor is most directly linked to increased levels of crime in Caribbean societies?",
+      "options": [
+        "Tourism growth",
+        "High levels of youth unemployment and poverty",
+        "Improved education",
+        "Lower immigration rates"
+      ],
+      "answer": 1,
+      "explanation": "Youth unemployment and poverty are widely identified as key drivers of criminal activity."
+    },
+    {
+      "id": 26,
+      "strand": "Social Issues",
+      "unit": "Social Issues",
+      "topic": "Drug Abuse",
+      "difficulty": 2,
+      "question": "Which of the following is a social consequence of drug abuse?",
+      "options": [
+        "Increased productivity",
+        "Family breakdown and increased crime",
+        "Higher tax revenue",
+        "Improved school attendance"
+      ],
+      "answer": 1,
+      "explanation": "Drug abuse commonly leads to family breakdown, domestic violence, and involvement in criminal activities."
+    },
+    {
+      "id": 27,
+      "strand": "Social Issues",
+      "unit": "Social Issues",
+      "topic": "Poverty",
+      "difficulty": 2,
+      "question": "Which of the following is a cause of poverty in the Caribbean?",
+      "options": [
+        "High employment rates",
+        "Unequal distribution of wealth and resources",
+        "Strong manufacturing sectors",
+        "High literacy rates"
+      ],
+      "answer": 1,
+      "explanation": "Unequal distribution of wealth is a primary structural cause of poverty in Caribbean societies."
+    },
+    {
+      "id": 28,
+      "strand": "Social Issues",
+      "unit": "Social Issues",
+      "topic": "Crime",
+      "difficulty": 3,
+      "question": "Which of the following best describes recidivism?",
+      "options": [
+        "A first criminal offence",
+        "Reoffending after previous conviction and punishment",
+        "Juvenile delinquency",
+        "A crime committed under duress"
+      ],
+      "answer": 1,
+      "explanation": "Recidivism refers to the tendency of a convicted criminal to re-offend after serving their sentence."
+    },
+    {
+      "id": 29,
+      "strand": "Social Issues",
+      "unit": "Social Issues",
+      "topic": "Unemployment",
+      "difficulty": 2,
+      "question": "Frictional unemployment refers to:",
+      "options": [
+        "People who cannot find work due to lack of skills",
+        "Workers who are temporarily between jobs",
+        "Those who have given up looking for work",
+        "Seasonal workers"
+      ],
+      "answer": 1,
+      "explanation": "Frictional unemployment is short-term unemployment experienced while moving between jobs."
+    },
+    {
+      "id": 30,
+      "strand": "Social Issues",
+      "unit": "Social Issues",
+      "topic": "Social Issues",
+      "difficulty": 3,
+      "question": "Which of the following government strategies is most effective at reducing long-term poverty?",
+      "options": [
+        "Importing more goods",
+        "Investing in education and skills training",
+        "Increasing taxes on basic goods",
+        "Reducing public services"
+      ],
+      "answer": 1,
+      "explanation": "Investment in education and training gives people the skills to access better employment and break the cycle of poverty."
+    },
+    {
+      "id": 31,
+      "strand": "Governments",
+      "unit": "Governments",
+      "topic": "Types of Government",
+      "difficulty": 1,
+      "question": "Which of the following is the best definition of democracy?",
+      "options": [
+        "A system where one person has absolute power",
+        "A system where citizens elect representatives to govern",
+        "A system where the military controls government",
+        "A system where religious leaders rule"
+      ],
+      "answer": 1,
+      "explanation": "Democracy is a system of government in which power is held by the people, usually through elected representatives."
+    },
+    {
+      "id": 32,
+      "strand": "Governments",
+      "unit": "Governments",
+      "topic": "Types of Government",
+      "difficulty": 1,
+      "question": "Most Caribbean nations operate under which type of government?",
+      "options": [
+        "Absolute monarchy",
+        "Military dictatorship",
+        "Parliamentary democracy",
+        "Theocracy"
+      ],
+      "answer": 2,
+      "explanation": "Most Caribbean nations operate as parliamentary democracies, largely shaped by their colonial heritage."
+    },
+    {
+      "id": 33,
+      "strand": "Governments",
+      "unit": "Governments",
+      "topic": "Functions of Government",
+      "difficulty": 1,
+      "question": "Which of the following is a primary function of government?",
+      "options": [
+        "Running private businesses",
+        "Maintaining law and order",
+        "Controlling the media",
+        "Setting prices in shops"
+      ],
+      "answer": 1,
+      "explanation": "Maintaining law and order through legislation and law enforcement is a core function of government."
+    },
+    {
+      "id": 34,
+      "strand": "Governments",
+      "unit": "Governments",
+      "topic": "Types of Government",
+      "difficulty": 2,
+      "question": "A country ruled by a small group of people who hold power for their own benefit is known as:",
+      "options": [
+        "A democracy",
+        "An oligarchy",
+        "A theocracy",
+        "A republic"
+      ],
+      "answer": 1,
+      "explanation": "An oligarchy is rule by a small, elite group, often prioritising their own interests."
+    },
+    {
+      "id": 35,
+      "strand": "Governments",
+      "unit": "Governments",
+      "topic": "Functions of Government",
+      "difficulty": 2,
+      "question": "The separation of powers in government refers to:",
+      "options": [
+        "Dividing the country into regions",
+        "Separating the executive, legislative and judicial branches",
+        "Sharing power with neighbouring countries",
+        "Allowing private companies to govern"
+      ],
+      "answer": 1,
+      "explanation": "Separation of powers prevents any one branch of government from becoming too powerful."
+    },
+    {
+      "id": 36,
+      "strand": "Governments",
+      "unit": "Governments",
+      "topic": "Functions of Government",
+      "difficulty": 2,
+      "question": "The role of the judiciary in a democratic government is to:",
+      "options": [
+        "Make laws",
+        "Enforce laws",
+        "Interpret laws and ensure justice",
+        "Collect taxes"
+      ],
+      "answer": 2,
+      "explanation": "The judiciary interprets legislation and ensures that laws are applied fairly and constitutionally."
+    },
+    {
+      "id": 37,
+      "strand": "Governments",
+      "unit": "Governments",
+      "topic": "Types of Government",
+      "difficulty": 2,
+      "question": "Which of the following best describes a federal state?",
+      "options": [
+        "A country with one central government that controls everything",
+        "A country where power is divided between a central government and regional governments",
+        "A country ruled by a monarch",
+        "A country with no formal government"
+      ],
+      "answer": 1,
+      "explanation": "In a federal state, power is constitutionally shared between the national and regional/state governments."
+    },
+    {
+      "id": 38,
+      "strand": "Governments",
+      "unit": "Governments",
+      "topic": "Functions of Government",
+      "difficulty": 3,
+      "question": "Universal adult suffrage means:",
+      "options": [
+        "Only property owners can vote",
+        "All adults have the right to vote regardless of gender, race or class",
+        "Only educated citizens can vote",
+        "Men over 21 can vote"
+      ],
+      "answer": 1,
+      "explanation": "Universal adult suffrage gives every adult citizen the right to vote, regardless of gender, race, class or wealth."
+    },
+    {
+      "id": 39,
+      "strand": "Governments",
+      "unit": "Governments",
+      "topic": "Functions of Government",
+      "difficulty": 3,
+      "question": "Which of the following best describes the function of a constitution?",
+      "options": [
+        "A budget document",
+        "The supreme law of a country that outlines the rights of citizens and the structure of government",
+        "A list of government employees",
+        "A trade agreement"
+      ],
+      "answer": 1,
+      "explanation": "A constitution is the supreme law of the land, defining government structure and protecting citizens' rights."
+    },
+    {
+      "id": 40,
+      "strand": "Governments",
+      "unit": "Governments",
+      "topic": "Types of Government",
+      "difficulty": 2,
+      "question": "In a Westminster-style parliamentary system, the head of government is usually the:",
+      "options": [
+        "President",
+        "Prime Minister",
+        "Chief Justice",
+        "Governor General"
+      ],
+      "answer": 1,
+      "explanation": "In Westminster parliamentary systems used by most Caribbean nations, the Prime Minister is the head of government."
+    },
+    {
+      "id": 41,
+      "strand": "Regional Integration",
+      "unit": "Regional Integration",
+      "topic": "CARICOM",
+      "difficulty": 1,
+      "question": "What does CARICOM stand for?",
+      "options": [
+        "Caribbean Community and Common Market",
+        "Caribbean Council for Regional Markets",
+        "Central American Regional Integration Committee",
+        "Caribbean Commerce and Industry Market"
+      ],
+      "answer": 0,
+      "explanation": "CARICOM stands for the Caribbean Community and Common Market, established in 1973."
+    },
+    {
+      "id": 42,
+      "strand": "Regional Integration",
+      "unit": "Regional Integration",
+      "topic": "CARICOM",
+      "difficulty": 1,
+      "question": "In which year was CARICOM established?",
+      "options": [
+        "1958",
+        "1962",
+        "1973",
+        "1980"
+      ],
+      "answer": 2,
+      "explanation": "CARICOM was established by the Treaty of Chaguaramas in 1973."
+    },
+    {
+      "id": 43,
+      "strand": "Regional Integration",
+      "unit": "Regional Integration",
+      "topic": "CARICOM",
+      "difficulty": 1,
+      "question": "Which of the following is a main objective of CARICOM?",
+      "options": [
+        "To establish a military alliance",
+        "To promote economic integration and cooperation among Caribbean states",
+        "To create a single Caribbean nation",
+        "To manage Caribbean tourism only"
+      ],
+      "answer": 1,
+      "explanation": "CARICOM's main goals include economic integration, coordinating foreign policy, and functional cooperation."
+    },
+    {
+      "id": 44,
+      "strand": "Regional Integration",
+      "unit": "Regional Integration",
+      "topic": "CSME",
+      "difficulty": 2,
+      "question": "What does CSME stand for?",
+      "options": [
+        "Caribbean Single Market and Economy",
+        "Caribbean States and Maritime Economy",
+        "Common Services and Market Entity",
+        "Caribbean Social and Monetary Exchange"
+      ],
+      "answer": 0,
+      "explanation": "CSME stands for the CARICOM Single Market and Economy, allowing free movement of goods, services, capital and people."
+    },
+    {
+      "id": 45,
+      "strand": "Regional Integration",
+      "unit": "Regional Integration",
+      "topic": "CARICOM",
+      "difficulty": 2,
+      "question": "Which of the following is a benefit of regional integration for Caribbean countries?",
+      "options": [
+        "Loss of national sovereignty",
+        "Greater bargaining power in international trade",
+        "Increased dependence on foreign aid",
+        "Higher import taxes among member states"
+      ],
+      "answer": 1,
+      "explanation": "Collectively, Caribbean nations can negotiate better trade deals than they could individually."
+    },
+    {
+      "id": 46,
+      "strand": "Regional Integration",
+      "unit": "Regional Integration",
+      "topic": "History of Integration",
+      "difficulty": 2,
+      "question": "The West Indies Federation (1958–1962) failed primarily because of:",
+      "options": [
+        "External military invasion",
+        "Disagreements among member states over freedom of movement and finance",
+        "A natural disaster",
+        "Lack of interest from the public"
+      ],
+      "answer": 1,
+      "explanation": "Disagreements — particularly between Jamaica and Trinidad — over economic contributions and freedom of movement led to the Federation's collapse."
+    },
+    {
+      "id": 47,
+      "strand": "Regional Integration",
+      "unit": "Regional Integration",
+      "topic": "CARICOM",
+      "difficulty": 2,
+      "question": "Which institution serves as the highest decision-making body of CARICOM?",
+      "options": [
+        "The Caribbean Court of Justice",
+        "The CARICOM Secretariat",
+        "The Conference of Heads of Government",
+        "The Caribbean Development Bank"
+      ],
+      "answer": 2,
+      "explanation": "The Conference of Heads of Government is the supreme body of CARICOM, responsible for major policy decisions."
+    },
+    {
+      "id": 48,
+      "strand": "Regional Integration",
+      "unit": "Regional Integration",
+      "topic": "CSME",
+      "difficulty": 3,
+      "question": "Under the CSME, which of the following categories of workers are entitled to free movement within member states?",
+      "options": [
+        "All workers without restriction",
+        "University graduates, artisans, sportspersons and media workers",
+        "Only government employees",
+        "Only workers from founding member states"
+      ],
+      "answer": 1,
+      "explanation": "The CSME grants free movement rights to specific categories including graduates, artisans, sportspersons and media workers."
+    },
+    {
+      "id": 49,
+      "strand": "Regional Integration",
+      "unit": "Regional Integration",
+      "topic": "CARICOM",
+      "difficulty": 3,
+      "question": "The Caribbean Court of Justice (CCJ) serves two roles. Which of the following correctly identifies both?",
+      "options": [
+        "A criminal court and an immigration court",
+        "An appellate court for member states and the final court for interpreting the Treaty of Chaguaramas",
+        "A trade court and a human rights court",
+        "A military tribunal and a civil court"
+      ],
+      "answer": 1,
+      "explanation": "The CCJ acts as a final court of appeal for member states and the authoritative body for interpreting CARICOM treaty law."
+    },
+    {
+      "id": 50,
+      "strand": "Regional Integration",
+      "unit": "Regional Integration",
+      "topic": "CARICOM",
+      "difficulty": 2,
+      "question": "Which of the following is a challenge facing CARICOM?",
+      "options": [
+        "Too many member states agreeing on all issues",
+        "Duplication of effort among member states and slow implementation of decisions",
+        "Excessive wealth among member states",
+        "Overproduction of goods"
+      ],
+      "answer": 1,
+      "explanation": "CARICOM frequently faces challenges including slow implementation of agreements and duplication of efforts among small states."
+    },
+    {
+      "id": 51,
+      "strand": "Tourism",
+      "unit": "Tourism",
+      "topic": "Types of Tourism",
+      "difficulty": 1,
+      "question": "Which of the following best describes 'heritage tourism'?",
+      "options": [
+        "Tourism focused on beach activities",
+        "Tourism based on visiting historical and cultural sites",
+        "Adventure sports tourism",
+        "Medical tourism"
+      ],
+      "answer": 1,
+      "explanation": "Heritage tourism involves visiting sites of historical, cultural or natural significance."
+    },
+    {
+      "id": 52,
+      "strand": "Tourism",
+      "unit": "Tourism",
+      "topic": "Tourism Benefits",
+      "difficulty": 1,
+      "question": "Which of the following is a direct economic benefit of tourism to a Caribbean country?",
+      "options": [
+        "Increased emigration",
+        "Foreign exchange earnings",
+        "Higher import costs",
+        "Loss of local culture"
+      ],
+      "answer": 1,
+      "explanation": "Tourism brings in foreign currency which is a major source of foreign exchange for Caribbean economies."
+    },
+    {
+      "id": 53,
+      "strand": "Tourism",
+      "unit": "Tourism",
+      "topic": "Tourism Benefits",
+      "difficulty": 1,
+      "question": "Tourism in the Caribbean primarily contributes to employment in which sector?",
+      "options": [
+        "Manufacturing",
+        "Agriculture",
+        "Hospitality and services",
+        "Mining"
+      ],
+      "answer": 2,
+      "explanation": "The hospitality and services sector — hotels, restaurants, transport — is the main employer through tourism."
+    },
+    {
+      "id": 54,
+      "strand": "Tourism",
+      "unit": "Tourism",
+      "topic": "Tourism Disadvantages",
+      "difficulty": 2,
+      "question": "Which of the following is a negative social impact of tourism on a Caribbean community?",
+      "options": [
+        "Improved infrastructure",
+        "Increased foreign exchange",
+        "Cultural erosion and commodification of local culture",
+        "Better roads"
+      ],
+      "answer": 2,
+      "explanation": "Heavy tourism can lead to the commercialisation and dilution of authentic local culture and traditions."
+    },
+    {
+      "id": 55,
+      "strand": "Tourism",
+      "unit": "Tourism",
+      "topic": "Tourism Disadvantages",
+      "difficulty": 2,
+      "question": "The term 'leakage' in tourism economics refers to:",
+      "options": [
+        "Loss of water resources",
+        "Money spent on tourism that leaves the host country through imports and foreign-owned businesses",
+        "Environmental damage caused by tourists",
+        "Loss of skilled workers"
+      ],
+      "answer": 1,
+      "explanation": "Leakage occurs when tourist spending leaves the local economy, for example through imported goods or profits going to foreign hotel chains."
+    },
+    {
+      "id": 56,
+      "strand": "Tourism",
+      "unit": "Tourism",
+      "topic": "Types of Tourism",
+      "difficulty": 2,
+      "question": "Eco-tourism is best described as:",
+      "options": [
+        "Tourism that focuses on luxury resorts",
+        "Tourism that minimises environmental impact and supports local conservation",
+        "Tourism for senior citizens only",
+        "Budget backpacker travel"
+      ],
+      "answer": 1,
+      "explanation": "Eco-tourism aims to conserve the environment and support local communities while providing sustainable travel experiences."
+    },
+    {
+      "id": 57,
+      "strand": "Tourism",
+      "unit": "Tourism",
+      "topic": "Tourism Disadvantages",
+      "difficulty": 2,
+      "question": "Which environmental problem is most directly associated with mass tourism in coastal Caribbean areas?",
+      "options": [
+        "Deforestation of rainforests",
+        "Coral reef damage and beach erosion",
+        "Air pollution from factories",
+        "Soil degradation from farming"
+      ],
+      "answer": 1,
+      "explanation": "High tourist volumes in coastal areas cause coral reef damage, pollution and beach erosion."
+    },
+    {
+      "id": 58,
+      "strand": "Tourism",
+      "unit": "Tourism",
+      "topic": "Tourism Benefits",
+      "difficulty": 2,
+      "question": "Tourism can assist Caribbean development by:",
+      "options": [
+        "Reducing the need for education",
+        "Funding infrastructure such as roads, airports and utilities",
+        "Discouraging local entrepreneurship",
+        "Increasing dependence on a single crop"
+      ],
+      "answer": 1,
+      "explanation": "Tourism revenue and foreign investment often fund infrastructure improvements that benefit the wider population."
+    },
+    {
+      "id": 59,
+      "strand": "Tourism",
+      "unit": "Tourism",
+      "topic": "Tourism Disadvantages",
+      "difficulty": 3,
+      "question": "Which of the following best describes the concept of 'over-tourism'?",
+      "options": [
+        "Too many tour guides in one area",
+        "When tourist numbers exceed the carrying capacity of a destination causing damage to the environment and local quality of life",
+        "Tourism that is overpriced",
+        "Tourism that only benefits foreign companies"
+      ],
+      "answer": 1,
+      "explanation": "Over-tourism occurs when visitor numbers surpass what a destination can sustainably support, damaging both environment and community."
+    },
+    {
+      "id": 60,
+      "strand": "Tourism",
+      "unit": "Tourism",
+      "topic": "Types of Tourism",
+      "difficulty": 3,
+      "question": "Which organisation is primarily responsible for coordinating tourism policy across the Caribbean region?",
+      "options": [
+        "CARICOM",
+        "The Caribbean Tourism Organisation (CTO)",
+        "The World Tourism Organisation",
+        "UNESCO"
+      ],
+      "answer": 1,
+      "explanation": "The Caribbean Tourism Organisation (CTO) is the regional body that coordinates and promotes tourism across member states."
+    },
+    {
+      "id": 61,
+      "strand": "Human Resource",
+      "unit": "Human Resource",
+      "topic": "Human Resource Development",
+      "difficulty": 1,
+      "question": "Which of the following best defines 'human resources'?",
+      "options": [
+        "The land and natural features of a country",
+        "The people of a country and their skills, knowledge and labour",
+        "The financial assets of a government",
+        "The machinery used in production"
+      ],
+      "answer": 1,
+      "explanation": "Human resources refers to the workforce — the people whose skills, knowledge and effort contribute to a nation's development."
+    },
+    {
+      "id": 62,
+      "strand": "Human Resource",
+      "unit": "Human Resource",
+      "topic": "Human Resource Development",
+      "difficulty": 1,
+      "question": "Which of the following is the most important investment a government can make in its human resources?",
+      "options": [
+        "Building more prisons",
+        "Providing quality education and healthcare",
+        "Importing more foreign workers",
+        "Reducing wages"
+      ],
+      "answer": 1,
+      "explanation": "Education and healthcare develop the productive capacity and well-being of the workforce, the foundation of human resource development."
+    },
+    {
+      "id": 63,
+      "strand": "Human Resource",
+      "unit": "Human Resource",
+      "topic": "Human Resource Development",
+      "difficulty": 2,
+      "question": "Brain drain refers to:",
+      "options": [
+        "A decrease in intelligence across a population",
+        "The emigration of highly educated and skilled workers to other countries",
+        "An increase in school enrolment",
+        "The movement of people from rural to urban areas"
+      ],
+      "answer": 1,
+      "explanation": "Brain drain describes the loss of talented and educated individuals who emigrate, typically to developed countries offering better opportunities."
+    },
+    {
+      "id": 64,
+      "strand": "Human Resource",
+      "unit": "Human Resource",
+      "topic": "Human Resource Development",
+      "difficulty": 2,
+      "question": "Which of the following is a consequence of brain drain for a developing Caribbean country?",
+      "options": [
+        "Improved local services",
+        "Loss of skilled professionals and reduced development capacity",
+        "Increased government revenue",
+        "Lower unemployment"
+      ],
+      "answer": 1,
+      "explanation": "When skilled workers leave, countries lose the human capital they invested in through education, weakening development."
+    },
+    {
+      "id": 65,
+      "strand": "Human Resource",
+      "unit": "Human Resource",
+      "topic": "Human Resource Development",
+      "difficulty": 2,
+      "question": "The Human Development Index (HDI) measures a country's development based on which three factors?",
+      "options": [
+        "GDP, military strength and land area",
+        "Life expectancy, education and income per capita",
+        "Population size, exports and imports",
+        "Birth rate, death rate and migration"
+      ],
+      "answer": 1,
+      "explanation": "The HDI combines life expectancy, education level and income per capita to give a broader measure of development."
+    },
+    {
+      "id": 66,
+      "strand": "Human Resource",
+      "unit": "Human Resource",
+      "topic": "Human Resource Development",
+      "difficulty": 2,
+      "question": "Which of the following best describes 'on-the-job training'?",
+      "options": [
+        "Attending university full-time",
+        "Learning skills while performing a job in the workplace",
+        "Studying abroad",
+        "Government-funded apprenticeships only"
+      ],
+      "answer": 1,
+      "explanation": "On-the-job training involves developing skills and knowledge while actively working, rather than in a formal classroom setting."
+    },
+    {
+      "id": 67,
+      "strand": "Human Resource",
+      "unit": "Human Resource",
+      "topic": "Human Resource Development",
+      "difficulty": 3,
+      "question": "Which of the following policies would best help reduce brain drain in a Caribbean country?",
+      "options": [
+        "Restricting emigration by law",
+        "Creating competitive salaries and opportunities to attract skilled workers back",
+        "Closing universities",
+        "Reducing education spending"
+      ],
+      "answer": 1,
+      "explanation": "Offering competitive salaries and career opportunities reduces the incentive for skilled workers to emigrate."
+    },
+    {
+      "id": 68,
+      "strand": "Human Resource",
+      "unit": "Human Resource",
+      "topic": "Human Resource Development",
+      "difficulty": 3,
+      "question": "The concept of 'human capital' refers to:",
+      "options": [
+        "The physical buildings used in production",
+        "The skills, knowledge, experience and health that workers bring to the economy",
+        "Government-owned companies",
+        "Foreign direct investment"
+      ],
+      "answer": 1,
+      "explanation": "Human capital is the economic value of a worker's experience and skills, developed through education, training and health."
+    },
+    {
+      "id": 69,
+      "strand": "Human Resource",
+      "unit": "Human Resource",
+      "topic": "Human Resource Development",
+      "difficulty": 2,
+      "question": "Which Caribbean institution was established to develop technical and vocational skills across the region?",
+      "options": [
+        "The University of the West Indies (UWI)",
+        "The Caribbean Examinations Council (CXC)",
+        "The Caribbean Association of Industry and Commerce",
+        "HEART Trust (Jamaica)"
+      ],
+      "answer": 0,
+      "explanation": "While HEART Trust is specific to Jamaica, the UWI is the primary regional institution for higher education and human resource development across the Caribbean."
+    },
+    {
+      "id": 70,
+      "strand": "Human Resource",
+      "unit": "Human Resource",
+      "topic": "Human Resource Development",
+      "difficulty": 2,
+      "question": "Which of the following is an example of human resource development at the national level?",
+      "options": [
+        "Building a new highway",
+        "Introducing free secondary education",
+        "Opening a new hotel",
+        "Signing a trade agreement"
+      ],
+      "answer": 1,
+      "explanation": "Free secondary education expands access to skills and knowledge, directly developing the country's human resources."
+    },
+    {
+      "id": 71,
+      "strand": "Physical Resource",
+      "unit": "Physical Resource",
+      "topic": "Natural Resources",
+      "difficulty": 1,
+      "question": "Which of the following is an example of a renewable resource?",
+      "options": [
+        "Oil",
+        "Natural gas",
+        "Timber (from managed forests)",
+        "Coal"
+      ],
+      "answer": 2,
+      "explanation": "Timber from sustainably managed forests can be replenished, making it a renewable resource."
+    },
+    {
+      "id": 72,
+      "strand": "Physical Resource",
+      "unit": "Physical Resource",
+      "topic": "Natural Resources",
+      "difficulty": 1,
+      "question": "Which Caribbean country is most associated with petroleum as a major natural resource?",
+      "options": [
+        "Barbados",
+        "Jamaica",
+        "Trinidad and Tobago",
+        "Antigua"
+      ],
+      "answer": 2,
+      "explanation": "Trinidad and Tobago has the Caribbean's most significant petroleum and natural gas reserves."
+    },
+    {
+      "id": 73,
+      "strand": "Physical Resource",
+      "unit": "Physical Resource",
+      "topic": "Natural Resources",
+      "difficulty": 1,
+      "question": "Which of the following best describes a 'non-renewable resource'?",
+      "options": [
+        "A resource that can be replaced after use",
+        "A resource that forms so slowly it cannot be practically replenished in a human lifetime",
+        "A resource that is free to use",
+        "A resource produced by farming"
+      ],
+      "answer": 1,
+      "explanation": "Non-renewable resources like fossil fuels take millions of years to form and cannot be replaced on a human timescale."
+    },
+    {
+      "id": 74,
+      "strand": "Physical Resource",
+      "unit": "Physical Resource",
+      "topic": "Natural Resources",
+      "difficulty": 2,
+      "question": "Which of the following is Jamaica's most significant mineral export?",
+      "options": [
+        "Petroleum",
+        "Bauxite and alumina",
+        "Gold",
+        "Coal"
+      ],
+      "answer": 1,
+      "explanation": "Jamaica is one of the world's leading producers of bauxite, the ore used to make aluminium."
+    },
+    {
+      "id": 75,
+      "strand": "Physical Resource",
+      "unit": "Physical Resource",
+      "topic": "Natural Resources",
+      "difficulty": 2,
+      "question": "Which of the following is an environmental consequence of poor management of physical resources?",
+      "options": [
+        "Increased biodiversity",
+        "Deforestation, soil erosion and loss of wildlife habitat",
+        "Higher crop yields",
+        "Cleaner water supplies"
+      ],
+      "answer": 1,
+      "explanation": "Unsustainable exploitation of physical resources leads to environmental degradation including deforestation and loss of biodiversity."
+    },
+    {
+      "id": 76,
+      "strand": "Physical Resource",
+      "unit": "Physical Resource",
+      "topic": "Natural Resources",
+      "difficulty": 2,
+      "question": "The Caribbean Sea and its marine resources are classified as which type of resource?",
+      "options": [
+        "Human resource",
+        "Capital resource",
+        "Physical/natural resource",
+        "Financial resource"
+      ],
+      "answer": 2,
+      "explanation": "The Caribbean Sea and its fish stocks, coral reefs and minerals are natural/physical resources."
+    },
+    {
+      "id": 77,
+      "strand": "Physical Resource",
+      "unit": "Physical Resource",
+      "topic": "Natural Resources",
+      "difficulty": 2,
+      "question": "Which of the following best describes sustainable development?",
+      "options": [
+        "Using as many resources as possible now",
+        "Meeting the needs of the present without compromising the ability of future generations to meet their needs",
+        "Stopping all economic development",
+        "Only using renewable energy"
+      ],
+      "answer": 1,
+      "explanation": "Sustainable development balances current economic needs with the preservation of resources for future generations."
+    },
+    {
+      "id": 78,
+      "strand": "Physical Resource",
+      "unit": "Physical Resource",
+      "topic": "Natural Resources",
+      "difficulty": 3,
+      "question": "Which of the following is a potential negative effect of tourism on physical resources in the Caribbean?",
+      "options": [
+        "Increased conservation funding",
+        "Coral reef destruction and over-extraction of fresh water",
+        "Improved waste management",
+        "Greater biodiversity"
+      ],
+      "answer": 1,
+      "explanation": "High tourist activity places pressure on coral reefs, freshwater supplies and coastal ecosystems."
+    },
+    {
+      "id": 79,
+      "strand": "Physical Resource",
+      "unit": "Physical Resource",
+      "topic": "Natural Resources",
+      "difficulty": 3,
+      "question": "Which term describes the careful planning and use of natural resources to prevent waste and ensure long-term availability?",
+      "options": [
+        "Exploitation",
+        "Conservation",
+        "Privatisation",
+        "Industrialisation"
+      ],
+      "answer": 1,
+      "explanation": "Conservation involves the responsible management of natural resources to prevent depletion and ensure future availability."
+    },
+    {
+      "id": 80,
+      "strand": "Physical Resource",
+      "unit": "Physical Resource",
+      "topic": "Natural Resources",
+      "difficulty": 2,
+      "question": "Which of the following would be considered both a physical resource AND a tourist attraction in the Caribbean?",
+      "options": [
+        "A factory",
+        "A coral reef",
+        "A government building",
+        "A bank"
+      ],
+      "answer": 1,
+      "explanation": "Coral reefs are natural physical resources and also a major attraction for snorkelling and diving tourists."
+    },
+    {
+      "id": 81,
+      "strand": "Social Groups",
+      "unit": "Social Groups",
+      "topic": "Social Groups",
+      "difficulty": 1,
+      "question": "Which of the following is the best example of a primary social group?",
+      "options": [
+        "A trade union",
+        "The family",
+        "A political party",
+        "A professional association"
+      ],
+      "answer": 1,
+      "explanation": "The family is the primary social group — the first and most intimate group to which a person belongs."
+    },
+    {
+      "id": 82,
+      "strand": "Social Groups",
+      "unit": "Social Groups",
+      "topic": "Social Groups",
+      "difficulty": 1,
+      "question": "Secondary groups are characterised by:",
+      "options": [
+        "Close personal relationships",
+        "Formal, impersonal relationships with a specific goal",
+        "Lifelong membership",
+        "Shared living arrangements"
+      ],
+      "answer": 1,
+      "explanation": "Secondary groups such as workplaces or political parties have formal, goal-oriented relationships rather than close personal bonds."
+    },
+    {
+      "id": 83,
+      "strand": "Social Groups",
+      "unit": "Social Groups",
+      "topic": "Social Stratification",
+      "difficulty": 1,
+      "question": "Social stratification refers to:",
+      "options": [
+        "The division of society into layers based on wealth, power or status",
+        "The mixing of different ethnic groups",
+        "The study of population statistics",
+        "The movement of people between countries"
+      ],
+      "answer": 0,
+      "explanation": "Social stratification describes the hierarchical arrangement of society into different classes or layers based on factors like wealth, education or power."
+    },
+    {
+      "id": 84,
+      "strand": "Social Groups",
+      "unit": "Social Groups",
+      "topic": "Social Groups",
+      "difficulty": 2,
+      "question": "Which of the following best describes 'socialisation'?",
+      "options": [
+        "Making friends at school",
+        "The process by which individuals learn the norms, values and behaviours of their society",
+        "Joining a social media platform",
+        "Moving to a new neighbourhood"
+      ],
+      "answer": 1,
+      "explanation": "Socialisation is the lifelong process through which individuals absorb the culture, norms and values of their society."
+    },
+    {
+      "id": 85,
+      "strand": "Social Groups",
+      "unit": "Social Groups",
+      "topic": "Social Stratification",
+      "difficulty": 2,
+      "question": "In the Caribbean, the class system developed largely as a result of:",
+      "options": [
+        "Democratic elections",
+        "The plantation system and slavery",
+        "Natural disasters",
+        "Religious organisations"
+      ],
+      "answer": 1,
+      "explanation": "The Caribbean class system has its roots in the plantation economy and slavery, which created racial and economic hierarchies that persist to some degree today."
+    },
+    {
+      "id": 86,
+      "strand": "Social Groups",
+      "unit": "Social Groups",
+      "topic": "Social Groups",
+      "difficulty": 2,
+      "question": "A peer group is best described as:",
+      "options": [
+        "A group of people of similar age and social position who influence each other",
+        "A group of teachers",
+        "A group of parents",
+        "A government committee"
+      ],
+      "answer": 0,
+      "explanation": "Peer groups consist of individuals of similar age and social standing who exert mutual influence on each other's behaviour and attitudes."
+    },
+    {
+      "id": 87,
+      "strand": "Social Groups",
+      "unit": "Social Groups",
+      "topic": "Social Stratification",
+      "difficulty": 2,
+      "question": "Social mobility refers to:",
+      "options": [
+        "People moving from one country to another",
+        "The ability of individuals to move between social classes",
+        "The rate at which society changes",
+        "The influence of religion on society"
+      ],
+      "answer": 1,
+      "explanation": "Social mobility is the movement of individuals or groups up or down the social hierarchy, often through education or economic success."
+    },
+    {
+      "id": 88,
+      "strand": "Social Groups",
+      "unit": "Social Groups",
+      "topic": "Social Groups",
+      "difficulty": 3,
+      "question": "Which agent of socialisation has the greatest influence on a child in the first years of life?",
+      "options": [
+        "School",
+        "Peer group",
+        "The family",
+        "The media"
+      ],
+      "answer": 2,
+      "explanation": "The family is the primary agent of socialisation, exerting the greatest influence on a child's early development and values."
+    },
+    {
+      "id": 89,
+      "strand": "Social Groups",
+      "unit": "Social Groups",
+      "topic": "Social Stratification",
+      "difficulty": 3,
+      "question": "Which of the following best describes the concept of 'social class'?",
+      "options": [
+        "A school subject",
+        "A grouping of people based on shared economic and social characteristics such as income, education and occupation",
+        "A religious denomination",
+        "A geographical region"
+      ],
+      "answer": 1,
+      "explanation": "Social class is a grouping based on shared socioeconomic characteristics including wealth, education, occupation and lifestyle."
+    },
+    {
+      "id": 90,
+      "strand": "Social Groups",
+      "unit": "Social Groups",
+      "topic": "Social Groups",
+      "difficulty": 2,
+      "question": "Which of the following is an example of a formal social group?",
+      "options": [
+        "A group of friends",
+        "A government ministry",
+        "A family gathering",
+        "A casual sports game"
+      ],
+      "answer": 1,
+      "explanation": "Formal groups like government ministries have defined structures, rules and roles, unlike informal groups."
+    },
+    {
+      "id": 91,
+      "strand": "Institutions",
+      "unit": "Institutions",
+      "topic": "Social Institutions",
+      "difficulty": 1,
+      "question": "Which of the following is considered a social institution?",
+      "options": [
+        "A shopping mall",
+        "The family",
+        "A sports team",
+        "A tourist resort"
+      ],
+      "answer": 1,
+      "explanation": "Social institutions are established organisations or systems that structure society. The family, religion, education and government are the main social institutions."
+    },
+    {
+      "id": 92,
+      "strand": "Institutions",
+      "unit": "Institutions",
+      "topic": "Social Institutions",
+      "difficulty": 1,
+      "question": "The primary purpose of the educational institution is to:",
+      "options": [
+        "Generate profit",
+        "Transmit knowledge, skills and cultural values to the next generation",
+        "Control the media",
+        "Manage the economy"
+      ],
+      "answer": 1,
+      "explanation": "Education institutions transmit knowledge, develop skills and pass on cultural norms and values."
+    },
+    {
+      "id": 93,
+      "strand": "Institutions",
+      "unit": "Institutions",
+      "topic": "Social Institutions",
+      "difficulty": 2,
+      "question": "Which of the following best describes the role of religion as a social institution?",
+      "options": [
+        "To collect taxes",
+        "To provide moral guidance, social cohesion and a sense of community",
+        "To run schools only",
+        "To make laws"
+      ],
+      "answer": 1,
+      "explanation": "Religion provides shared values, moral frameworks and community bonds that help hold society together."
+    },
+    {
+      "id": 94,
+      "strand": "Institutions",
+      "unit": "Institutions",
+      "topic": "Social Institutions",
+      "difficulty": 2,
+      "question": "Which institution is primarily responsible for maintaining law and order in a country?",
+      "options": [
+        "The church",
+        "The school",
+        "The government and its legal system",
+        "The family"
+      ],
+      "answer": 2,
+      "explanation": "The government and its institutions — police, courts, legislation — are responsible for maintaining law and order."
+    },
+    {
+      "id": 95,
+      "strand": "Institutions",
+      "unit": "Institutions",
+      "topic": "Social Institutions",
+      "difficulty": 2,
+      "question": "How does the family function as a social institution?",
+      "options": [
+        "By producing manufactured goods",
+        "By socialising children and providing emotional and financial support",
+        "By making laws",
+        "By running hospitals"
+      ],
+      "answer": 1,
+      "explanation": "As a social institution the family socialises children into cultural norms and provides emotional, financial and physical support."
+    },
+    {
+      "id": 96,
+      "strand": "Institutions",
+      "unit": "Institutions",
+      "topic": "Social Institutions",
+      "difficulty": 2,
+      "question": "Which of the following best illustrates the economic institution?",
+      "options": [
+        "A church service",
+        "A marriage ceremony",
+        "A stock exchange and banking system",
+        "A school graduation"
+      ],
+      "answer": 2,
+      "explanation": "Economic institutions like banks, markets and stock exchanges organise the production, distribution and consumption of goods and services."
+    },
+    {
+      "id": 97,
+      "strand": "Institutions",
+      "unit": "Institutions",
+      "topic": "Social Institutions",
+      "difficulty": 3,
+      "question": "When social institutions fail to meet the needs of society, the result is often:",
+      "options": [
+        "Increased prosperity",
+        "Social unrest, inequality and breakdown of social order",
+        "Better governance",
+        "Higher education levels"
+      ],
+      "answer": 1,
+      "explanation": "When institutions such as the family, education or government break down or fail, social problems including inequality and unrest typically follow."
+    },
+    {
+      "id": 98,
+      "strand": "Institutions",
+      "unit": "Institutions",
+      "topic": "Social Institutions",
+      "difficulty": 3,
+      "question": "Which of the following describes the relationship between education and economic development?",
+      "options": [
+        "Education has no impact on the economy",
+        "A better-educated workforce increases productivity and supports economic growth",
+        "Education reduces economic output",
+        "Education only benefits individuals not nations"
+      ],
+      "answer": 1,
+      "explanation": "Education builds human capital, which improves productivity, innovation and overall economic development."
+    },
+    {
+      "id": 99,
+      "strand": "Institutions",
+      "unit": "Institutions",
+      "topic": "Social Institutions",
+      "difficulty": 2,
+      "question": "Which term describes the process by which institutions lose their influence over individuals?",
+      "options": [
+        "Institutionalisation",
+        "Socialisation",
+        "Deinstitutionalisation",
+        "Globalisation"
+      ],
+      "answer": 2,
+      "explanation": "Deinstitutionalisation refers to the process by which formal institutions lose their central role in shaping individual behaviour."
+    },
+    {
+      "id": 100,
+      "strand": "Institutions",
+      "unit": "Institutions",
+      "topic": "Social Institutions",
+      "difficulty": 2,
+      "question": "Media is increasingly considered a social institution because it:",
+      "options": [
+        "Sells products",
+        "Shapes public opinion, transmits culture and influences values at a societal level",
+        "Provides healthcare",
+        "Manages government finances"
+      ],
+      "answer": 1,
+      "explanation": "The media shapes societal norms, spreads culture, and influences public opinion, functioning as a powerful social institution."
+    },
+    {
+      "id": 101,
+      "strand": "Cultural Diversity",
+      "unit": "Cultural Diversity",
+      "topic": "Cultural Diversity",
+      "difficulty": 1,
+      "question": "Which of the following best describes 'cultural diversity'?",
+      "options": [
+        "All people having the same customs",
+        "The existence of a variety of cultural or ethnic groups within a society",
+        "A society with one official religion",
+        "A country with a single language"
+      ],
+      "answer": 1,
+      "explanation": "Cultural diversity refers to the coexistence of different cultural, ethnic, linguistic and religious groups within a society."
+    },
+    {
+      "id": 102,
+      "strand": "Cultural Diversity",
+      "unit": "Cultural Diversity",
+      "topic": "Cultural Diversity",
+      "difficulty": 1,
+      "question": "The Caribbean is described as culturally diverse primarily because of:",
+      "options": [
+        "Its geography",
+        "Its history of colonisation, slavery and indentureship which brought people from Africa, Asia, Europe and the Americas",
+        "Its climate",
+        "Its small size"
+      ],
+      "answer": 1,
+      "explanation": "The Caribbean's diversity stems from its colonial history, which brought together people from Africa, India, China, Europe and the indigenous Americas."
+    },
+    {
+      "id": 103,
+      "strand": "Cultural Diversity",
+      "unit": "Cultural Diversity",
+      "topic": "Cultural Diversity",
+      "difficulty": 1,
+      "question": "Which of the following is an example of cultural expression?",
+      "options": [
+        "A government law",
+        "A carnival celebration",
+        "A trade agreement",
+        "A military parade"
+      ],
+      "answer": 1,
+      "explanation": "Carnival is a vibrant example of Caribbean cultural expression, blending African, European and other traditions."
+    },
+    {
+      "id": 104,
+      "strand": "Cultural Diversity",
+      "unit": "Cultural Diversity",
+      "topic": "Cultural Diversity",
+      "difficulty": 2,
+      "question": "Multiculturalism as a policy aims to:",
+      "options": [
+        "Force all groups to adopt a single culture",
+        "Recognise and respect the cultural differences of all groups in society",
+        "Discourage immigration",
+        "Eliminate minority languages"
+      ],
+      "answer": 1,
+      "explanation": "Multiculturalism as a policy acknowledges and respects the cultural identities of different groups within a single society."
+    },
+    {
+      "id": 105,
+      "strand": "Cultural Diversity",
+      "unit": "Cultural Diversity",
+      "topic": "Cultural Diversity",
+      "difficulty": 2,
+      "question": "Which of the following best describes 'acculturation'?",
+      "options": [
+        "The complete replacement of one culture by another",
+        "The process by which a group adopts elements of another culture while retaining aspects of its own",
+        "The rejection of all foreign cultural influences",
+        "The study of ancient cultures"
+      ],
+      "answer": 1,
+      "explanation": "Acculturation describes the cultural exchange that occurs when groups come into contact, each adopting some elements of the other."
+    },
+    {
+      "id": 106,
+      "strand": "Cultural Diversity",
+      "unit": "Cultural Diversity",
+      "topic": "Cultural Diversity",
+      "difficulty": 2,
+      "question": "Creolisation in the Caribbean refers to:",
+      "options": [
+        "Learning French",
+        "The blending of African, European and other cultural influences to create unique Caribbean cultures",
+        "The adoption of British customs only",
+        "The revival of indigenous cultures"
+      ],
+      "answer": 1,
+      "explanation": "Creolisation describes the unique Caribbean process by which diverse cultural elements blended to form new, distinctly Caribbean identities."
+    },
+    {
+      "id": 107,
+      "strand": "Cultural Diversity",
+      "unit": "Cultural Diversity",
+      "topic": "Cultural Diversity",
+      "difficulty": 2,
+      "question": "Which of the following is a potential challenge of cultural diversity within a society?",
+      "options": [
+        "Greater creativity and innovation",
+        "Cultural conflicts and misunderstandings between groups",
+        "Stronger national identity",
+        "More festivals and celebrations"
+      ],
+      "answer": 1,
+      "explanation": "Cultural diversity, while enriching, can also lead to tensions and misunderstandings between different groups if not well managed."
+    },
+    {
+      "id": 108,
+      "strand": "Cultural Diversity",
+      "unit": "Cultural Diversity",
+      "topic": "Cultural Diversity",
+      "difficulty": 3,
+      "question": "The concept of 'cultural imperialism' refers to:",
+      "options": [
+        "A country protecting its cultural heritage",
+        "The dominance of one culture over others, often through media and economic power",
+        "Cultural exchange between equal partners",
+        "Government funding of the arts"
+      ],
+      "answer": 1,
+      "explanation": "Cultural imperialism occurs when a dominant culture — often through media, trade or political power — marginalises or replaces local cultures."
+    },
+    {
+      "id": 109,
+      "strand": "Cultural Diversity",
+      "unit": "Cultural Diversity",
+      "topic": "Cultural Diversity",
+      "difficulty": 3,
+      "question": "Which of the following best describes how globalisation affects cultural diversity?",
+      "options": [
+        "It has no effect on culture",
+        "It can both spread cultural exchange and threaten local cultures through homogenisation",
+        "It always strengthens local cultures",
+        "It reduces communication between cultures"
+      ],
+      "answer": 1,
+      "explanation": "Globalisation simultaneously promotes cultural exchange and risks cultural homogenisation, where global (especially Western) culture dominates local traditions."
+    },
+    {
+      "id": 110,
+      "strand": "Cultural Diversity",
+      "unit": "Cultural Diversity",
+      "topic": "Cultural Diversity",
+      "difficulty": 2,
+      "question": "Which Caribbean institution works to preserve and promote regional cultural heritage?",
+      "options": [
+        "CARICOM Secretariat only",
+        "The Caribbean Community and various national cultural bodies such as NALIS and the CCC",
+        "The World Bank",
+        "The United Nations Security Council"
+      ],
+      "answer": 1,
+      "explanation": "Bodies like CARICOM and national cultural organisations such as the National Library and Information System (NALIS) work to preserve Caribbean cultural heritage."
+    },
+    {
+      "id": 111,
+      "strand": "Birth Rate",
+      "unit": "Birth Rate",
+      "topic": "Birth Rate",
+      "difficulty": 2,
+      "question": "Which of the following government policies would most directly lower birth rate?",
+      "options": [
+        "Increasing military spending",
+        "Providing free contraception and family planning education",
+        "Building more roads",
+        "Raising import taxes"
+      ],
+      "answer": 1,
+      "explanation": "Access to contraception and family planning education empowers individuals to control family size, directly reducing birth rates."
+    },
+    {
+      "id": 112,
+      "strand": "Birth Rate",
+      "unit": "Birth Rate",
+      "topic": "Birth Rate",
+      "difficulty": 3,
+      "question": "A country's dependency ratio measures:",
+      "options": [
+        "The number of immigrants compared to citizens",
+        "The proportion of non-working population (young and elderly) relative to the working population",
+        "The birth rate minus the death rate",
+        "The percentage of women in the workforce"
+      ],
+      "answer": 1,
+      "explanation": "The dependency ratio compares those who depend on others (children and elderly) to those of working age."
+    },
+    {
+      "id": 113,
+      "strand": "Family Law",
+      "unit": "Family Law",
+      "topic": "Family Law",
+      "difficulty": 3,
+      "question": "Which of the following correctly describes the legal age of consent for marriage in most Caribbean countries?",
+      "options": [
+        "14 years old without any restriction",
+        "18 years old, or younger with parental or court consent",
+        "Any age if parents agree",
+        "21 years old"
+      ],
+      "answer": 1,
+      "explanation": "Most Caribbean jurisdictions set the marriage age at 18, with younger persons requiring parental or court approval."
+    },
+    {
+      "id": 114,
+      "strand": "Social Issues",
+      "unit": "Social Issues",
+      "topic": "Gender",
+      "difficulty": 2,
+      "question": "Which of the following best describes gender-based violence?",
+      "options": [
+        "Violence only against women",
+        "Violence directed at individuals because of their gender, most commonly against women and girls",
+        "Violence during sports events",
+        "Political violence"
+      ],
+      "answer": 1,
+      "explanation": "Gender-based violence targets individuals based on their gender, and disproportionately affects women and girls."
+    },
+    {
+      "id": 115,
+      "strand": "Social Issues",
+      "unit": "Social Issues",
+      "topic": "Social Issues",
+      "difficulty": 2,
+      "question": "Which of the following is a push factor for migration in the Caribbean?",
+      "options": [
+        "High wages in the home country",
+        "Better job opportunities abroad",
+        "Strong healthcare at home",
+        "Family ties in the home country"
+      ],
+      "answer": 1,
+      "explanation": "Push factors drive people away from their home country — poor wages and limited opportunities push people to emigrate."
+    },
+    {
+      "id": 116,
+      "strand": "Governments",
+      "unit": "Governments",
+      "topic": "Functions of Government",
+      "difficulty": 2,
+      "question": "A bicameral legislature consists of:",
+      "options": [
+        "One house of parliament",
+        "Two houses of parliament",
+        "Three branches of government",
+        "A president and a prime minister"
+      ],
+      "answer": 1,
+      "explanation": "A bicameral legislature has two chambers, such as a Senate and a House of Representatives."
+    },
+    {
+      "id": 117,
+      "strand": "Governments",
+      "unit": "Governments",
+      "topic": "Functions of Government",
+      "difficulty": 2,
+      "question": "Which of the following best describes a 'coalition government'?",
+      "options": [
+        "A government formed by a single party with a majority",
+        "A government formed by two or more parties working together",
+        "A military government",
+        "A government with no elected officials"
+      ],
+      "answer": 1,
+      "explanation": "A coalition government is formed when no single party wins a majority and two or more parties cooperate to govern."
+    },
+    {
+      "id": 118,
+      "strand": "Governments",
+      "unit": "Governments",
+      "topic": "Types of Government",
+      "difficulty": 3,
+      "question": "The rule of law means:",
+      "options": [
+        "Only rulers are above the law",
+        "Everyone, including government officials, is subject to and accountable under the law",
+        "Laws can be changed by the Prime Minister alone",
+        "The military enforces all laws"
+      ],
+      "answer": 1,
+      "explanation": "The rule of law is the principle that all persons and institutions are accountable to laws that are publicly promulgated and fairly enforced."
+    },
+    {
+      "id": 119,
+      "strand": "Regional Integration",
+      "unit": "Regional Integration",
+      "topic": "CARICOM",
+      "difficulty": 3,
+      "question": "Which of the following is a functional agency of CARICOM?",
+      "options": [
+        "The Caribbean Court of Justice",
+        "The Caribbean Disaster Emergency Management Agency (CDEMA)",
+        "The World Health Organisation",
+        "The Inter-American Development Bank"
+      ],
+      "answer": 1,
+      "explanation": "CDEMA is a CARICOM functional agency that coordinates disaster preparedness and response across the region."
+    },
+    {
+      "id": 120,
+      "strand": "Regional Integration",
+      "unit": "Regional Integration",
+      "topic": "CARICOM",
+      "difficulty": 2,
+      "question": "Which of the following statements about the CARICOM Single Market is CORRECT?",
+      "options": [
+        "It allows free movement of all goods, services, capital and people without restriction",
+        "It allows free movement of goods, services, capital and certain categories of labour among member states",
+        "It only applies to trade in agricultural products",
+        "It is only open to English-speaking Caribbean countries"
+      ],
+      "answer": 1,
+      "explanation": "The CSM provides for free movement of goods, services and capital and selected categories of workers among participating member states."
+    },
+    {
+      "id": 121,
+      "strand": "Tourism",
+      "unit": "Tourism",
+      "topic": "Tourism Benefits",
+      "difficulty": 2,
+      "question": "Which of the following is an example of tourism multiplier effect?",
+      "options": [
+        "A tourist buys a meal and the restaurant owner uses that money to buy supplies from a local farmer",
+        "A hotel imports all its food",
+        "A tourist flies home early",
+        "A government bans tourism"
+      ],
+      "answer": 0,
+      "explanation": "The multiplier effect describes how tourist spending circulates through the local economy — restaurant income becomes farm income, and so on."
+    },
+    {
+      "id": 122,
+      "strand": "Tourism",
+      "unit": "Tourism",
+      "topic": "Types of Tourism",
+      "difficulty": 2,
+      "question": "Medical tourism occurs when people travel to:",
+      "options": [
+        "Attend sporting events",
+        "Receive medical treatment, often at lower cost than in their home country",
+        "Visit historical monuments",
+        "Participate in adventure sports"
+      ],
+      "answer": 1,
+      "explanation": "Medical tourism involves travelling to another country to receive medical, dental or surgical care, often because of lower costs or shorter waiting times."
+    },
+    {
+      "id": 123,
+      "strand": "Human Resource",
+      "unit": "Human Resource",
+      "topic": "Human Resource Development",
+      "difficulty": 2,
+      "question": "Which of the following is NOT a component of human resource development?",
+      "options": [
+        "Education",
+        "Training",
+        "Healthcare",
+        "Mining"
+      ],
+      "answer": 3,
+      "explanation": "Mining is a physical resource activity. Human resource development focuses on building people's capabilities through education, training and health."
+    },
+    {
+      "id": 124,
+      "strand": "Human Resource",
+      "unit": "Human Resource",
+      "topic": "Human Resource Development",
+      "difficulty": 3,
+      "question": "The term 'remittances' in the context of Caribbean migration refers to:",
+      "options": [
+        "Government loans",
+        "Money sent home by Caribbean nationals living abroad",
+        "Aid from international organisations",
+        "Tax payments to the government"
+      ],
+      "answer": 1,
+      "explanation": "Remittances are funds sent by migrants to their home countries and are a significant source of income for many Caribbean families and economies."
+    },
+    {
+      "id": 125,
+      "strand": "Physical Resource",
+      "unit": "Physical Resource",
+      "topic": "Natural Resources",
+      "difficulty": 2,
+      "question": "Which of the following best describes 'arable land' as a physical resource?",
+      "options": [
+        "Land covered by forests",
+        "Land suitable for growing crops",
+        "Coastal land used for tourism",
+        "Mountainous terrain"
+      ],
+      "answer": 1,
+      "explanation": "Arable land is land capable of being cultivated for crop production, a vital physical resource for food security."
+    },
+    {
+      "id": 126,
+      "strand": "Physical Resource",
+      "unit": "Physical Resource",
+      "topic": "Natural Resources",
+      "difficulty": 3,
+      "question": "Which of the following best explains why small island Caribbean states are particularly vulnerable to the loss of physical resources?",
+      "options": [
+        "They have too many resources",
+        "Their small size and limited resource base mean any loss has a proportionally greater impact",
+        "They have large populations",
+        "They are too far from international markets"
+      ],
+      "answer": 1,
+      "explanation": "Small island states have limited and non-renewable physical resources; any degradation has an outsized impact on their development prospects."
+    },
+    {
+      "id": 127,
+      "strand": "Social Groups",
+      "unit": "Social Groups",
+      "topic": "Social Groups",
+      "difficulty": 2,
+      "question": "Which of the following best defines 'norms' in a sociological context?",
+      "options": [
+        "Laws enforced by the police",
+        "The informal rules and expectations that guide behaviour within a society or group",
+        "Official government regulations",
+        "School rules"
+      ],
+      "answer": 1,
+      "explanation": "Social norms are the unwritten rules and expectations that guide behaviour and are enforced through social pressure rather than law."
+    },
+    {
+      "id": 128,
+      "strand": "Social Groups",
+      "unit": "Social Groups",
+      "topic": "Social Stratification",
+      "difficulty": 3,
+      "question": "Which of the following was a key feature of Caribbean society during the plantation era?",
+      "options": [
+        "A classless, equal society",
+        "A rigid racial and social hierarchy with Europeans at the top, enslaved Africans at the bottom",
+        "Complete freedom of movement for all groups",
+        "Equal land ownership among all groups"
+      ],
+      "answer": 1,
+      "explanation": "The plantation system created a deeply stratified racial hierarchy that shaped Caribbean social structure for generations."
+    },
+    {
+      "id": 129,
+      "strand": "Institutions",
+      "unit": "Institutions",
+      "topic": "Social Institutions",
+      "difficulty": 3,
+      "question": "Which of the following best explains why the family is considered the most fundamental social institution?",
+      "options": [
+        "It is the largest institution",
+        "It is the first institution a person belongs to and shapes their basic values, identity and behaviour",
+        "It has the most legal authority",
+        "It controls the most resources"
+      ],
+      "answer": 1,
+      "explanation": "The family is the first institution in a person's life and the primary agent of socialisation, making it foundational to all social development."
+    },
+    {
+      "id": 130,
+      "strand": "Cultural Diversity",
+      "unit": "Cultural Diversity",
+      "topic": "Cultural Diversity",
+      "difficulty": 3,
+      "question": "Which of the following Caribbean cultural products has gained significant global recognition?",
+      "options": [
+        "Canadian maple syrup",
+        "Caribbean reggae music and carnival traditions",
+        "European classical music",
+        "American jazz only"
+      ],
+      "answer": 1,
+      "explanation": "Caribbean reggae music (Jamaica) and carnival traditions (especially Trinidad) have achieved worldwide recognition and influence."
+    },
+    {
+      "id": 131,
+      "strand": "Birth Rate",
+      "unit": "Birth Rate",
+      "topic": "Population",
+      "difficulty": 2,
+      "question": "Which of the following describes a 'population pyramid' with a wide base and narrow top?",
+      "options": [
+        "An ageing population",
+        "A rapidly growing young population with high birth rates",
+        "A declining population",
+        "A population with equal numbers at all ages"
+      ],
+      "answer": 1,
+      "explanation": "A wide base indicates many young people (high birth rate), while a narrow top shows fewer elderly — characteristic of rapidly growing populations."
+    },
+    {
+      "id": 132,
+      "strand": "Social Issues",
+      "unit": "Social Issues",
+      "topic": "Crime",
+      "difficulty": 2,
+      "question": "Which of the following is an example of a 'victimless crime'?",
+      "options": [
+        "Robbery",
+        "Assault",
+        "Possession of illegal substances for personal use",
+        "Murder"
+      ],
+      "answer": 2,
+      "explanation": "Victimless crimes are offences where there is no direct victim other than the person committing the act, such as personal drug possession."
+    },
+    {
+      "id": 133,
+      "strand": "Governments",
+      "unit": "Governments",
+      "topic": "Functions of Government",
+      "difficulty": 2,
+      "question": "Which of the following best describes the role of an opposition party in a democracy?",
+      "options": [
+        "To support every decision the government makes",
+        "To scrutinise, challenge and offer alternative policies to the government in power",
+        "To manage the economy",
+        "To control the military"
+      ],
+      "answer": 1,
+      "explanation": "The opposition party holds the government accountable by scrutinising its decisions and proposing alternative policies."
+    },
+    {
+      "id": 134,
+      "strand": "Regional Integration",
+      "unit": "Regional Integration",
+      "topic": "CARICOM",
+      "difficulty": 2,
+      "question": "What was the purpose of the Caribbean Development Bank (CDB)?",
+      "options": [
+        "To manage tourism in the Caribbean",
+        "To provide loans and technical assistance to support economic development in the Caribbean",
+        "To regulate immigration",
+        "To manage regional sports events"
+      ],
+      "answer": 1,
+      "explanation": "The CDB provides financing and technical assistance to support economic development in Caribbean member countries."
+    },
+    {
+      "id": 135,
+      "strand": "Tourism",
+      "unit": "Tourism",
+      "topic": "Tourism Disadvantages",
+      "difficulty": 3,
+      "question": "Which of the following describes 'cultural commodification' in the context of tourism?",
+      "options": [
+        "Improving cultural festivals",
+        "The transformation of cultural practices into products for sale to tourists, potentially reducing their authenticity",
+        "Government funding of culture",
+        "Teaching tourists about local history"
+      ],
+      "answer": 1,
+      "explanation": "Cultural commodification occurs when cultural practices are packaged and sold as tourist products, sometimes at the expense of their original meaning and authenticity."
+    },
+    {
+      "id": 136,
+      "strand": "Human Resource",
+      "unit": "Human Resource",
+      "topic": "Human Resource Development",
+      "difficulty": 2,
+      "question": "Which of the following is a long-term consequence of high unemployment in a Caribbean country?",
+      "options": [
+        "Increased tax revenue",
+        "Increased social problems including crime, poverty and emigration of skilled workers",
+        "Better public services",
+        "Lower government debt"
+      ],
+      "answer": 1,
+      "explanation": "Persistent unemployment leads to poverty, social unrest, increased crime and the emigration of frustrated skilled workers."
+    },
+    {
+      "id": 137,
+      "strand": "Physical Resource",
+      "unit": "Physical Resource",
+      "topic": "Natural Resources",
+      "difficulty": 2,
+      "question": "Water is classified as a renewable resource because:",
+      "options": [
+        "It never runs out",
+        "It is replenished through the water cycle",
+        "It can be manufactured",
+        "It is imported cheaply"
+      ],
+      "answer": 1,
+      "explanation": "Water is replenished naturally through the hydrological cycle (evaporation, condensation, precipitation) making it a renewable resource."
+    },
+    {
+      "id": 138,
+      "strand": "Social Groups",
+      "unit": "Social Groups",
+      "topic": "Social Groups",
+      "difficulty": 2,
+      "question": "Which of the following agents of socialisation becomes increasingly influential during adolescence?",
+      "options": [
+        "Grandparents",
+        "The peer group",
+        "Employers",
+        "Religious leaders"
+      ],
+      "answer": 1,
+      "explanation": "During adolescence, peer groups become the dominant socialising influence as young people seek identity and belonging outside the family."
+    },
+    {
+      "id": 139,
+      "strand": "Institutions",
+      "unit": "Institutions",
+      "topic": "Social Institutions",
+      "difficulty": 2,
+      "question": "Which of the following best describes the function of the healthcare institution?",
+      "options": [
+        "To generate profit for doctors",
+        "To maintain and improve the health and well-being of the population",
+        "To train teachers",
+        "To manage government finances"
+      ],
+      "answer": 1,
+      "explanation": "The healthcare institution exists to protect, maintain and improve the physical and mental well-being of society."
+    },
+    {
+      "id": 140,
+      "strand": "Cultural Diversity",
+      "unit": "Cultural Diversity",
+      "topic": "Cultural Diversity",
+      "difficulty": 2,
+      "question": "Which of the following correctly describes the term 'diaspora'?",
+      "options": [
+        "People who never leave their home country",
+        "A scattered population whose origins lie in a separate geographic location, often maintaining cultural ties to their homeland",
+        "A government department for culture",
+        "An indigenous group"
+      ],
+      "answer": 1,
+      "explanation": "Diaspora refers to communities of people who have migrated from their homeland but maintain cultural, social and emotional connections to it."
+    },
+    {
+      "id": 141,
+      "strand": "Birth Rate",
+      "unit": "Birth Rate",
+      "topic": "Population",
+      "difficulty": 3,
+      "question": "Which Caribbean factor has contributed most to population decline in some small island states?",
+      "options": [
+        "Falling birth rates alone",
+        "Emigration of young adults combined with an ageing local population",
+        "Natural disasters only",
+        "Government population control policies"
+      ],
+      "answer": 1,
+      "explanation": "Many small Caribbean islands have declining populations due to heavy emigration of young working-age people leaving behind an ageing population."
+    },
+    {
+      "id": 142,
+      "strand": "Family Law",
+      "unit": "Family Law",
+      "topic": "Family Law",
+      "difficulty": 2,
+      "question": "What is the purpose of a prenuptial agreement?",
+      "options": [
+        "To prevent marriage",
+        "To outline how assets will be divided in the event of divorce or separation",
+        "To speed up divorce proceedings",
+        "To establish child custody in advance"
+      ],
+      "answer": 1,
+      "explanation": "A prenuptial agreement is a legal contract made before marriage that determines how property and assets will be divided if the marriage ends."
+    },
+    {
+      "id": 143,
+      "strand": "Social Issues",
+      "unit": "Social Issues",
+      "topic": "Social Issues",
+      "difficulty": 3,
+      "question": "Which of the following best explains why poverty and crime are often linked?",
+      "options": [
+        "Poor people are naturally more criminal",
+        "Poverty limits access to legitimate opportunities, increasing the likelihood that some individuals will turn to crime to meet basic needs",
+        "Crime causes poverty",
+        "There is no link between poverty and crime"
+      ],
+      "answer": 1,
+      "explanation": "Poverty restricts access to education, employment and legal means of advancement, pushing some individuals towards criminal activity as an alternative."
+    },
+    {
+      "id": 144,
+      "strand": "Governments",
+      "unit": "Governments",
+      "topic": "Types of Government",
+      "difficulty": 3,
+      "question": "Which of the following best describes a 'constitutional monarchy'?",
+      "options": [
+        "A country ruled entirely by a king or queen",
+        "A system where a monarch is head of state but power is exercised by elected government within the limits of a constitution",
+        "A republic with no monarch",
+        "A military government"
+      ],
+      "answer": 1,
+      "explanation": "In a constitutional monarchy the monarch serves as head of state, but actual governing power rests with elected officials within a constitutional framework."
+    },
+    {
+      "id": 145,
+      "strand": "Regional Integration",
+      "unit": "Regional Integration",
+      "topic": "CARICOM",
+      "difficulty": 2,
+      "question": "Which of the following is an example of functional cooperation within CARICOM?",
+      "options": [
+        "Member states declaring war together",
+        "Sharing a single regional airline, university and examination council",
+        "All member states using the same currency",
+        "Joint military operations only"
+      ],
+      "answer": 1,
+      "explanation": "Functional cooperation includes shared institutions like the University of the West Indies, LIAT and the Caribbean Examinations Council (CXC)."
+    },
+    {
+      "id": 146,
+      "strand": "Tourism",
+      "unit": "Tourism",
+      "topic": "Tourism Benefits",
+      "difficulty": 2,
+      "question": "Which of the following is an intangible benefit of tourism for a Caribbean country?",
+      "options": [
+        "Hotel tax revenue",
+        "Raised international profile and greater cultural exchange",
+        "New airport construction",
+        "Additional fishing vessels"
+      ],
+      "answer": 1,
+      "explanation": "Tourism raises a country's international profile and facilitates cultural exchange, which are intangible but valuable benefits."
+    },
+    {
+      "id": 147,
+      "strand": "Human Resource",
+      "unit": "Human Resource",
+      "topic": "Human Resource Development",
+      "difficulty": 2,
+      "question": "Which of the following sectors employs the largest proportion of workers in most Caribbean economies?",
+      "options": [
+        "Manufacturing",
+        "Agriculture",
+        "Services (including tourism and finance)",
+        "Mining"
+      ],
+      "answer": 2,
+      "explanation": "The services sector, including tourism, finance and government services, is the dominant employer in most Caribbean economies."
+    },
+    {
+      "id": 148,
+      "strand": "Social Groups",
+      "unit": "Social Groups",
+      "topic": "Social Groups",
+      "difficulty": 3,
+      "question": "Which sociologist introduced the concept of the 'looking-glass self', suggesting that our self-image is shaped by how we believe others see us?",
+      "options": [
+        "Karl Marx",
+        "Max Weber",
+        "Charles Cooley",
+        "Émile Durkheim"
+      ],
+      "answer": 2,
+      "explanation": "Charles Cooley's 'looking-glass self' theory proposes that our self-concept is formed by imagining how others perceive us."
+    },
+    {
+      "id": 149,
+      "strand": "Institutions",
+      "unit": "Institutions",
+      "topic": "Social Institutions",
+      "difficulty": 3,
+      "question": "Which of the following best illustrates the concept of 'social control' as exercised by institutions?",
+      "options": [
+        "A government building a bridge",
+        "A school teaching students the rules of behaviour and consequences for breaking them",
+        "A company selling products",
+        "A hospital treating patients"
+      ],
+      "answer": 1,
+      "explanation": "Schools exercise social control by teaching norms, values and the consequences of deviance, shaping students into conforming members of society."
+    },
+    {
+      "id": 150,
+      "strand": "Cultural Diversity",
+      "unit": "Cultural Diversity",
+      "topic": "Cultural Diversity",
+      "difficulty": 3,
+      "question": "Which of the following best describes the concept of 'cultural relativism'?",
+      "options": [
+        "Believing one's own culture is superior",
+        "Judging a culture by its own standards rather than the standards of another culture",
+        "Rejecting all cultural differences",
+        "Adopting only Western cultural values"
+      ],
+      "answer": 1,
+      "explanation": "Cultural relativism is the view that a culture should be understood and evaluated on its own terms, not judged by the standards of another culture."
+    }
+  ]
+}

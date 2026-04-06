@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mathematics Paper 1 – CXC Practice Hub</title>
+  <link rel="stylesheet" href="../../styles/main.css">
+</head>
+<body>
+  <nav>
+    <a href="index.html">← Mathematics</a> | <a href="../../index.html">Home</a>
+    <span style="float:right; display:flex; gap:8px;">
+      <button onclick="openFormulaSheet()" style="font-size:0.85em; padding:5px 10px;">📋 Formulas</button>
+      <button id="dark-toggle" style="font-size:0.85em; padding:5px 10px;">🌙</button>
+    </span>
+  </nav>
+  <h1>📐 Mathematics – Paper 1 (Multiple Choice)</h1>
+
+  <div id="setup">
+    <label>Difficulty:
+      <select id="difficulty">
+        <option value="all">All</option>
+        <option value="1">Easy</option>
+        <option value="2">Medium</option>
+        <option value="3">Hard</option>
+      </select>
+    </label>
+
+    <label>Unit / Topic:
+      <select id="unit">
+        <option value="all">All Units</option>
+        <optgroup label="STRAND A: COMPUTATION">
+          <option value="Unit 1: Decimals and Fractions">Unit 1: Decimals and Fractions</option>
+          <option value="Unit 2: Percentages">Unit 2: Percentages</option>
+          <option value="Unit 3: Using Fractions and Percentages">Unit 3: Using Fractions and Percentages</option>
+          <option value="Unit 4: Scientific Notation">Unit 4: Scientific Notation</option>
+          <option value="Unit 5: Ratio and Proportion">Unit 5: Ratio and Proportion</option>
+        </optgroup>
+        <optgroup label="STRAND B: NUMBER THEORY">
+          <option value="Unit 6: Indices and Factors">Unit 6: Indices and Factors</option>
+          <option value="Unit 7: Number System and Bases">Unit 7: Number System and Bases</option>
+          <option value="Unit 8: Number Sequences">Unit 8: Number Sequences</option>
+        </optgroup>
+        <optgroup label="STRAND C: CONSUMER ARITHMETIC">
+          <option value="Unit 9: Consumer Arithmetic">Unit 9: Consumer Arithmetic</option>
+        </optgroup>
+        <optgroup label="STRAND D: SETS">
+          <option value="Unit 10: Logic and Venn Diagrams">Unit 10: Logic and Venn Diagrams</option>
+        </optgroup>
+        <optgroup label="STRAND E: MEASUREMENT">
+          <option value="Unit 11: Units of Measurement">Unit 11: Units of Measurement</option>
+          <option value="Unit 12: Solids">Unit 12: Solids</option>
+          <option value="Unit 13: Areas">Unit 13: Areas</option>
+          <option value="Unit 14: Volumes">Unit 14: Volumes</option>
+        </optgroup>
+        <optgroup label="STRAND F: STATISTICS">
+          <option value="Unit 15: Data Collection">Unit 15: Data Collection</option>
+          <option value="Unit 16: Data Presentation">Unit 16: Data Presentation</option>
+          <option value="Unit 17: Measures of Central Tendency">Unit 17: Measures of Central Tendency</option>
+          <option value="Unit 18: Measures of Variation">Unit 18: Measures of Variation</option>
+          <option value="Unit 19: Probability of One Event">Unit 19: Probability of One Event</option>
+          <option value="Unit 20: Probability of Two or More Events">Unit 20: Probability of Two or More Events</option>
+        </optgroup>
+        <optgroup label="STRAND G: ALGEBRA">
+          <option value="Unit 21: Formulae">Unit 21: Formulae</option>
+          <option value="Unit 22: Algebraic Concepts">Unit 22: Algebraic Concepts</option>
+          <option value="Unit 23: Algebraic Manipulation">Unit 23: Algebraic Manipulation</option>
+          <option value="Unit 24: Solving Quadratic Equations">Unit 24: Solving Quadratic Equations</option>
+          <option value="Unit 25: Solving Equations">Unit 25: Solving Equations</option>
+          <option value="Unit 26: Solving Inequalities">Unit 26: Solving Inequalities</option>
+        </optgroup>
+        <optgroup label="STRAND H: RELATIONS, FUNCTIONS and GRAPHS">
+          <option value="Unit 27: Coordinates">Unit 27: Coordinates</option>
+          <option value="Unit 28: Straight Lines">Unit 28: Straight Lines</option>
+          <option value="Unit 29: Using Graphs to Solve Equations">Unit 29: Using Graphs to Solve Equations</option>
+          <option value="Unit 30: Functions">Unit 30: Functions</option>
+        </optgroup>
+        <optgroup label="STRAND I: GEOMETRY and TRIGONOMETRY">
+          <option value="Unit 31: Angles and Symmetry">Unit 31: Angles and Symmetry</option>
+          <option value="Unit 32: Angles, Circles and Tangents">Unit 32: Angles, Circles and Tangents</option>
+          <option value="Unit 33: Congruence and Similarity">Unit 33: Congruence and Similarity</option>
+          <option value="Unit 34: Pythagoras' Theorem and Trigonometric Ratios">Unit 34: Pythagoras and Trig Ratios</option>
+          <option value="Unit 35: Trigonometric Problems">Unit 35: Trigonometric Problems</option>
+          <option value="Unit 36: Constructions and Enlargements">Unit 36: Constructions and Enlargements</option>
+          <option value="Unit 37: Further Transformations">Unit 37: Further Transformations</option>
+        </optgroup>
+        <optgroup label="STRAND J: VECTORS and MATRICES">
+          <option value="Unit 38: Vectors">Unit 38: Vectors</option>
+          <option value="Unit 39: Matrices">Unit 39: Matrices</option>
+        </optgroup>
+      </select>
+    </label>
+
+    <label>
+      <input type="checkbox" id="adaptiveMode"> Adaptive Mode (focus weak topics)
+    </label>
+
+    <label>
+      <input type="checkbox" id="spacedMode"> Spaced Repetition (prioritise unseen &amp; missed questions)
+    </label>
+
+    <label>Number of Questions:
+      <input type="number" id="numQuestions" value="10" min="1" max="100">
+    </label>
+
+    <button onclick="startExam('Mathematics')">Start Exam</button>
+  </div>
+
+  <div id="timer"></div>
+  <div id="question-container"></div>
+  <button id="submit-btn" onclick="submitExam()" style="display:none;">Submit Exam</button>
+  <div id="results"></div>
+
+  <!-- Answer Review Overlay -->
+  <div id="review-overlay"
+       style="display:none; position:fixed; inset:0; background:rgba(0,0,0,0.6);
+              z-index:100; align-items:center; justify-content:center; padding:16px;">
+    <div style="background:var(--bg,white); border-radius:12px; padding:24px;
+                max-width:600px; width:100%; max-height:90vh; overflow-y:auto;
+                box-shadow:0 8px 32px rgba(0,0,0,0.25);">
+    </div>
+  </div>
+
+  <!-- Formula Sheet Overlay -->
+  <div id="formula-overlay"
+       style="display:none; position:fixed; inset:0; background:rgba(0,0,0,0.6);
+              z-index:100; align-items:center; justify-content:center; padding:16px;">
+  </div>
+
+  <script src="../../js/storage.js"></script>
+  <script src="../../js/adaptive.js"></script>
+  <script src="../../js/question-loader.js"></script>
+  <script src="../../js/exam-engine.js"></script>
+  <script src="../../js/formula-sheet.js"></script>
+  <script>
+    applyDarkMode();
+    loadQuestions("paper1-questions.json", "paper1");
+    document.getElementById("dark-toggle").addEventListener("click", () => {
+      const next = !getDarkMode();
+      setDarkMode(next);
+      applyDarkMode();
+      document.getElementById("dark-toggle").innerText = next ? "☀️" : "🌙";
+    });
+    document.getElementById("dark-toggle").innerText = getDarkMode() ? "☀️" : "🌙";
+  </script>
+</body>
+</html>

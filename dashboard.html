@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Dashboard – CXC Practice Hub</title>
+  <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+  <nav>
+    <a href="index.html">← Home</a>
+    <button id="dark-toggle" style="float:right; margin-top:-4px;">🌙 Dark Mode</button>
+  </nav>
+
+  <h1>📊 My Dashboard</h1>
+
+  <div id="summary-cards"></div>
+
+  <h2>⚠️ Weak Topics</h2>
+  <p style="color:#7f8c8d; font-size:0.9em; margin-top:-10px;">
+    Topics below 70%, grouped by subject. Click "Practise →" to jump straight in.
+  </p>
+  <div id="weak-topics"></div>
+
+  <h2>Performance Over Time</h2>
+  <p style="color:#7f8c8d; font-size:0.9em; margin-top:-10px;">
+    One chart per subject. The dashed line marks the 70% pass threshold.
+  </p>
+  <div id="chart-area"></div>
+
+  <h2>Topic Strength</h2>
+  <p style="color:#7f8c8d; font-size:0.9em; margin-top:-10px;">
+    Your cumulative accuracy per topic, grouped by subject. Weakest topics shown first.
+  </p>
+  <div id="topic-performance"></div>
+
+  <h2>Exam History</h2>
+  <div id="history-table"></div>
+
+  <footer>CXC Practice Hub</footer>
+
+  <script src="js/storage.js"></script>
+  <script src="js/dashboard.js"></script>
+</body>
+</html>

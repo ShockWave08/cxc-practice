@@ -1,0 +1,203 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #f4f6f8;
+  color: #2c3e50;
+  padding: 20px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h1 { color: #1a5276; margin-bottom: 8px; }
+h2 { color: #2471a3; margin: 20px 0 10px; }
+h3 { margin: 10px 0; }
+
+a { color: #2980b9; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.subjects {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.subjects a {
+  display: block;
+  background: #2471a3;
+  color: white;
+  padding: 16px;
+  border-radius: 8px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.05em;
+  transition: background 0.2s;
+}
+.subjects a:hover { background: #1a5276; text-decoration: none; }
+
+nav { margin-bottom: 20px; }
+nav a { margin-right: 12px; font-size: 0.9em; }
+
+button {
+  background: #2471a3;
+  color: white;
+  border: none;
+  padding: 9px 18px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.95em;
+  margin: 4px 2px;
+}
+button:hover { background: #1a5276; }
+
+select, input[type="number"] {
+  padding: 7px;
+  border: 1px solid #bdc3c7;
+  border-radius: 5px;
+  font-size: 0.95em;
+  margin: 4px 0 10px 0;
+}
+
+label { font-weight: 500; display: block; margin-top: 10px; }
+
+.card {
+  display: inline-block;
+  background: white;
+  border: 1px solid #d5d8dc;
+  border-radius: 8px;
+  padding: 14px 20px;
+  margin: 8px 8px 8px 0;
+  font-size: 1em;
+}
+
+#timer {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #c0392b;
+  margin: 10px 0;
+}
+
+#question-container, #p2-question-text {
+  background: white;
+  border: 1px solid #d5d8dc;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 16px 0;
+}
+
+#results {
+  background: white;
+  border: 1px solid #d5d8dc;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 16px;
+}
+
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #bdc3c7;
+  border-radius: 6px;
+  font-size: 0.95em;
+  font-family: inherit;
+}
+
+.paper-links { margin-top: 16px; }
+.paper-links a {
+  display: inline-block;
+  background: #2471a3;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 6px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+.paper-links a:hover { background: #1a5276; text-decoration: none; }
+
+table { border-collapse: collapse; width: 100%; margin-top: 10px; }
+th, td { border: 1px solid #bdc3c7; padding: 8px 12px; text-align: left; }
+th { background: #2471a3; color: white; }
+tr:nth-child(even) { background: #eaf0fb; }
+
+footer { margin-top: 40px; font-size: 0.85em; color: #7f8c8d; border-top: 1px solid #d5d8dc; padding-top: 12px; }
+
+/* ─── Dark Mode ────────────────────────────────────────────────────────────── */
+:root {
+  --bg: #ffffff;
+  --bg2: #f4f6f8;
+  --text: #2c3e50;
+  --border: #d5d8dc;
+  --card-bg: #ffffff;
+  --nav-bg: #ffffff;
+}
+
+body.dark {
+  --bg: #1a1d23;
+  --bg2: #22262f;
+  --text: #e8eaf0;
+  --border: #3a3f4b;
+  --card-bg: #22262f;
+  --nav-bg: #22262f;
+  background: var(--bg);
+  color: var(--text);
+}
+
+body.dark h1, body.dark h2, body.dark h3 { color: #a8c4e8; }
+
+body.dark button {
+  background: #2980b9;
+}
+
+body.dark select,
+body.dark input[type="number"],
+body.dark textarea {
+  background: #2a2f3a;
+  color: var(--text);
+  border-color: var(--border);
+}
+
+body.dark .card {
+  background: var(--card-bg);
+  border-color: var(--border);
+  color: var(--text);
+}
+
+body.dark nav {
+  background: var(--nav-bg);
+  border-bottom: 1px solid var(--border);
+}
+
+body.dark table th { background: #1a5276; }
+body.dark table tr:nth-child(even) { background: #1e2330; }
+body.dark table td, body.dark table th { border-color: var(--border); }
+
+body.dark #question-container,
+body.dark #p2-question-text,
+body.dark #results {
+  background: var(--card-bg);
+  border-color: var(--border);
+  color: var(--text);
+}
+
+body.dark a { color: #5dade2; }
+
+body.dark [style*="background:white"],
+body.dark [style*="background: white"] {
+  background: var(--card-bg) !important;
+  color: var(--text) !important;
+}
+
+body.dark [style*="background:#f4f6f8"],
+body.dark [style*="background: #f4f6f8"] {
+  background: #2a2f3a !important;
+}
+
+body.dark [style*="background:#eaf0fb"] {
+  background: #1a2a3a !important;
+}
+
+body.dark canvas {
+  background: var(--card-bg) !important;
+  border-color: var(--border) !important;
+}

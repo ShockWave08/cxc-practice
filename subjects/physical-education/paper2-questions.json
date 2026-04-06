@@ -1,0 +1,143 @@
+{
+  "paper2": [
+    {
+      "id": 1,
+      "strand": "History and Development of Sports",
+      "unit": "History and Development of Sports",
+      "topic": "History and Development of Sports",
+      "context": "Sport has evolved significantly from ancient times to the present day. The Caribbean has a unique sporting heritage shaped by its colonial history and has produced world-class athletes who have brought the region global recognition.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Briefly describe the origin and purpose of the ancient Olympic Games.","marks":4,"rubric":[{"type":"answer","value":"originated in Olympia Greece around 776 BC","marks":1},{"type":"answer","value":"held in honour of the god Zeus","marks":1},{"type":"answer","value":"featured athletic competitions such as running wrestling and discus","marks":1},{"type":"answer","value":"open only to male Greek citizens","marks":1}]},
+        {"part":"b","question":"Explain how colonialism influenced the development of sport in the Caribbean.","marks":4,"rubric":[{"type":"answer","value":"British colonisers introduced cricket which became central to Caribbean identity","marks":2},{"type":"answer","value":"sport was used to enforce social class distinctions between colonisers and the colonised","marks":2}]},
+        {"part":"c","question":"Describe THREE factors that have contributed to Caribbean success in international athletics.","marks":6,"rubric":[{"type":"answer","value":"strong coaching programmes and sporting academies","marks":2},{"type":"answer","value":"government investment in sport post-independence as a source of national pride","marks":2},{"type":"answer","value":"cultural emphasis on athletics and regional competitions like CARIFTA Games","marks":2}]},
+        {"part":"d","question":"State ONE challenge facing the development of sport in the Caribbean today.","marks":1,"rubric":[{"type":"answer","value":"limited funding brain drain of athletes to foreign academies lack of facilities","marks":1}]}
+      ]
+    },
+    {
+      "id": 2,
+      "strand": "Muscular System",
+      "unit": "Muscular System",
+      "topic": "The Muscular System",
+      "context": "The muscular system is essential for all movement in physical activity and sport. Understanding how muscles function, the types of muscle fibre and the effects of training on muscle is crucial for athletes and PE students.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Name and describe the THREE types of muscle found in the human body.","marks":6,"rubric":[{"type":"answer","value":"skeletal muscle: attached to bones voluntary striated produces movement","marks":2},{"type":"answer","value":"smooth muscle: walls of organs involuntary non-striated","marks":2},{"type":"answer","value":"cardiac muscle: heart involuntary striated beats continuously","marks":2}]},
+        {"part":"b","question":"Explain the roles of the agonist and antagonist muscles during elbow flexion. Name the specific muscles involved.","marks":4,"rubric":[{"type":"answer","value":"agonist contracts to produce movement: biceps brachii","marks":2},{"type":"answer","value":"antagonist relaxes to allow movement: triceps brachii","marks":2}]},
+        {"part":"c","question":"Compare slow-twitch (Type I) and fast-twitch (Type II) muscle fibres under THREE headings.","marks":5,"rubric":[{"type":"answer","value":"speed of contraction: slow-twitch slow fast-twitch rapid","marks":2},{"type":"answer","value":"fatigue resistance: slow-twitch highly resistant fast-twitch fatigues quickly","marks":2},{"type":"answer","value":"energy system: slow-twitch aerobic fast-twitch anaerobic","marks":1}]}
+      ]
+    },
+    {
+      "id": 3,
+      "strand": "Respiratory System",
+      "unit": "Respiratory System",
+      "topic": "The Respiratory System",
+      "context": "The respiratory system works in close partnership with the circulatory system to deliver oxygen to working muscles and remove carbon dioxide. Understanding the structure and function of the respiratory system is essential for understanding how exercise affects the body.",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"Describe the pathway of air from outside the body to the alveoli.","marks":4,"rubric":[{"type":"answer","value":"nose/mouth to trachea","marks":1},{"type":"answer","value":"trachea to bronchi","marks":1},{"type":"answer","value":"bronchi to bronchioles","marks":1},{"type":"answer","value":"bronchioles to alveoli","marks":1}]},
+        {"part":"b","question":"Explain how gaseous exchange occurs in the alveoli.","marks":4,"rubric":[{"type":"answer","value":"oxygen diffuses from alveoli into surrounding capillaries down concentration gradient","marks":2},{"type":"answer","value":"carbon dioxide diffuses from blood into alveoli to be exhaled","marks":2}]},
+        {"part":"c","question":"Describe THREE short-term changes to the respiratory system during exercise.","marks":6,"rubric":[{"type":"answer","value":"increased breathing rate (respiratory rate)","marks":2},{"type":"answer","value":"increased tidal volume (depth of breathing)","marks":2},{"type":"answer","value":"increased minute ventilation (total air moved per minute)","marks":2}]},
+        {"part":"d","question":"State ONE long-term adaptation of the respiratory system to regular aerobic training.","marks":2,"rubric":[{"type":"answer","value":"increased vital capacity","marks":1},{"type":"answer","value":"more efficient gaseous exchange in alveoli","marks":1}]}
+      ]
+    },
+    {
+      "id": 4,
+      "strand": "Skeletal System",
+      "unit": "Skeletal System",
+      "topic": "The Skeletal System",
+      "context": "The skeletal system provides the framework for the human body and is directly involved in movement during sport and physical activity. Understanding bone structure, joint types and common injuries is essential for athletes.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"State FOUR functions of the skeletal system.","marks":4,"rubric":[{"type":"answer","value":"support and shape of the body","marks":1},{"type":"answer","value":"protection of vital organs e.g. ribs protecting heart and lungs","marks":1},{"type":"answer","value":"movement in conjunction with muscles","marks":1},{"type":"answer","value":"blood cell production in bone marrow","marks":1}]},
+        {"part":"b","question":"Distinguish between a ligament and a tendon, and explain the consequence of injury to each.","marks":4,"rubric":[{"type":"answer","value":"ligament connects bone to bone sprain causes joint instability","marks":2},{"type":"answer","value":"tendon connects muscle to bone strain causes reduced ability to move the joint","marks":2}]},
+        {"part":"c","question":"Compare a ball-and-socket joint with a hinge joint. Give ONE sporting example of movement at each.","marks":4,"rubric":[{"type":"answer","value":"ball-and-socket: movement in all directions e.g. shoulder in cricket bowling","marks":2},{"type":"answer","value":"hinge: movement in one plane only e.g. elbow in a pull-up","marks":2}]},
+        {"part":"d","question":"Explain how regular weight-bearing exercise benefits the skeletal system.","marks":3,"rubric":[{"type":"answer","value":"stimulates bone remodelling increasing bone mineral density","marks":2},{"type":"answer","value":"reduces risk of osteoporosis and fractures","marks":1}]}
+      ]
+    },
+    {
+      "id": 5,
+      "strand": "Circulatory System",
+      "unit": "Circulatory System",
+      "topic": "The Circulatory System",
+      "context": "The circulatory system transports oxygen, nutrients and waste products throughout the body. During exercise, it must respond rapidly to the increased demands of working muscles, and long-term training produces lasting cardiovascular adaptations.",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"Describe the journey of blood from the right ventricle through pulmonary circulation and back to the left atrium.","marks":4,"rubric":[{"type":"answer","value":"right ventricle pumps deoxygenated blood through pulmonary artery","marks":1},{"type":"answer","value":"blood travels to lungs where CO₂ is released and O₂ is absorbed","marks":1},{"type":"answer","value":"oxygenated blood returns via pulmonary veins","marks":1},{"type":"answer","value":"blood arrives at left atrium","marks":1}]},
+        {"part":"b","question":"Define cardiac output and explain how it changes during exercise.","marks":4,"rubric":[{"type":"answer","value":"cardiac output = stroke volume × heart rate","marks":2},{"type":"answer","value":"both increase during exercise so cardiac output rises significantly to deliver more O₂","marks":2}]},
+        {"part":"c","question":"Describe THREE long-term cardiovascular adaptations to regular aerobic exercise.","marks":6,"rubric":[{"type":"answer","value":"cardiac hypertrophy: heart becomes larger and stronger","marks":2},{"type":"answer","value":"increased stroke volume: more blood per beat","marks":2},{"type":"answer","value":"lower resting heart rate (bradycardia)","marks":2}]},
+        {"part":"d","question":"Explain the role of capillaries during exercise.","marks":2,"rubric":[{"type":"answer","value":"exchange oxygen and nutrients with working muscle tissues","marks":1},{"type":"answer","value":"remove CO₂ and waste products from tissues","marks":1}]}
+      ]
+    },
+    {
+      "id": 6,
+      "strand": "Fitness and Performance",
+      "unit": "Concepts of Fitness",
+      "topic": "Components and Principles of Fitness",
+      "context": "A PE teacher is designing a training programme for a group of secondary school students who want to improve their overall fitness. She must consider both health-related and skill-related components of fitness and apply key training principles.",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"Distinguish between health-related and skill-related components of fitness. Give TWO examples of each.","marks":6,"rubric":[{"type":"answer","value":"health-related: cardiovascular endurance muscular strength flexibility body composition muscular endurance","marks":3},{"type":"answer","value":"skill-related: speed agility balance reaction time coordination power","marks":3}]},
+        {"part":"b","question":"Explain the FITT principle and how the teacher could apply it to design the training programme.","marks":4,"rubric":[{"type":"answer","value":"Frequency: how often e.g. 3 times per week","marks":1},{"type":"answer","value":"Intensity: how hard e.g. 60-70% max heart rate","marks":1},{"type":"answer","value":"Time: how long e.g. 30-45 minutes","marks":1},{"type":"answer","value":"Type: what activity e.g. circuit or interval training","marks":1}]},
+        {"part":"c","question":"Explain why the principles of progressive overload and specificity are important in the design of a training programme.","marks":4,"rubric":[{"type":"answer","value":"progressive overload: gradually increasing demands prevents plateau and drives continued improvement","marks":2},{"type":"answer","value":"specificity: training must match the demands of the sport or goal to produce relevant adaptations","marks":2}]},
+        {"part":"d","question":"State ONE method of training the teacher could use and explain why it is suitable for secondary school students.","marks":2,"rubric":[{"type":"answer","value":"circuit training: varied exercises at stations develop all-round fitness suitable for groups","marks":2}]}
+      ]
+    },
+    {
+      "id": 7,
+      "strand": "Fitness and Performance",
+      "unit": "Sports Psychology",
+      "topic": "Sports Psychology",
+      "context": "A national athlete is preparing for an important championship. Her coach notices that she performs well in training but struggles to perform at the same level during competition due to anxiety, loss of concentration and low confidence.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Distinguish between cognitive anxiety and somatic anxiety. Give ONE example of each.","marks":4,"rubric":[{"type":"answer","value":"cognitive: mental worry and negative thoughts e.g. thinking about failing","marks":2},{"type":"answer","value":"somatic: physical symptoms e.g. racing heart sweating nausea","marks":2}]},
+        {"part":"b","question":"Explain the inverted-U theory of arousal and apply it to the athlete's situation.","marks":4,"rubric":[{"type":"answer","value":"performance peaks at optimal moderate arousal level","marks":2},{"type":"answer","value":"athlete likely over-aroused in competition causing performance to decline from training levels","marks":2}]},
+        {"part":"c","question":"Suggest and explain THREE psychological strategies the coach could use to help the athlete perform better in competition.","marks":6,"rubric":[{"type":"answer","value":"visualisation: mentally rehearsing successful performance builds confidence","marks":2},{"type":"answer","value":"positive self-talk: replacing negative thoughts with constructive internal statements","marks":2},{"type":"answer","value":"goal setting using SMART goals to focus attention and build confidence through achievable targets","marks":2}]},
+        {"part":"d","question":"Define self-efficacy and explain why it is important for sports performance.","marks":1,"rubric":[{"type":"answer","value":"belief in ability to perform a specific task; high self-efficacy improves effort and persistence","marks":1}]}
+      ]
+    },
+    {
+      "id": 8,
+      "strand": "Health and Nutrition",
+      "unit": "Health and Nutrition",
+      "topic": "Health and Nutrition for Sport",
+      "context": "A 16-year-old Caribbean sprinter is preparing for the CARIFTA Games. Her coach and nutritionist are reviewing her diet and lifestyle to optimise her performance and recovery.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Identify and explain the role of EACH macronutrient in the diet of an athlete.","marks":6,"rubric":[{"type":"answer","value":"carbohydrates: primary energy source stored as glycogen fuels training and competition","marks":2},{"type":"answer","value":"protein: builds and repairs muscle tissue essential for recovery and adaptation","marks":2},{"type":"answer","value":"fat: long-term energy source supports hormone production and vitamin absorption","marks":2}]},
+        {"part":"b","question":"Explain why hydration is critical for athletic performance and state what the effects of dehydration are.","marks":4,"rubric":[{"type":"answer","value":"water regulates body temperature transports nutrients and lubricates joints","marks":2},{"type":"answer","value":"dehydration causes reduced concentration coordination and endurance and increases heat illness risk","marks":2}]},
+        {"part":"c","question":"Describe what a suitable pre-competition meal should consist of and explain the timing of this meal.","marks":3,"rubric":[{"type":"answer","value":"high in complex carbohydrates moderate protein low fat and fibre","marks":2},{"type":"answer","value":"consumed 2-4 hours before competition to allow digestion","marks":1}]},
+        {"part":"d","question":"Name ONE micronutrient important for the sprinter and explain its role.","marks":2,"rubric":[{"type":"answer","value":"iron: component of haemoglobin enabling oxygen transport to muscles","marks":2}]}
+      ]
+    },
+    {
+      "id": 9,
+      "strand": "Fitness and Performance",
+      "unit": "Training and Its Effects",
+      "topic": "Methods of Training and Their Effects",
+      "context": "A football coach is planning pre-season training for her team. The players need to improve cardiovascular endurance, speed and muscular strength before the season begins.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Describe interval training and explain how the coach could use it to develop the players' speed endurance.","marks":4,"rubric":[{"type":"answer","value":"alternating high-intensity work periods with rest or low-intensity recovery","marks":2},{"type":"answer","value":"e.g. 6 × 200m sprints at 90% effort with 2 minute recovery improves anaerobic capacity and speed endurance","marks":2}]},
+        {"part":"b","question":"Explain the purpose of a warm-up and cool-down and describe what each should include.","marks":6,"rubric":[{"type":"answer","value":"warm-up purpose: raise heart rate increase blood flow prepare muscles reduce injury risk","marks":2},{"type":"answer","value":"warm-up content: light jog dynamic stretches sport-specific drills","marks":1},{"type":"answer","value":"cool-down purpose: gradually lower heart rate remove lactic acid reduce DOMS","marks":2},{"type":"answer","value":"cool-down content: light jog static stretching","marks":1}]},
+        {"part":"c","question":"Explain what is meant by DOMS and state TWO ways it can be reduced.","marks":3,"rubric":[{"type":"answer","value":"Delayed Onset Muscle Soreness: pain 24-72 hours after exercise from microscopic muscle damage","marks":1},{"type":"answer","value":"reduced by: proper cool-down massage adequate hydration progressive training load","marks":2}]},
+        {"part":"d","question":"Define the principle of reversibility and explain how the coach should structure the season to prevent it.","marks":2,"rubric":[{"type":"answer","value":"reversibility: fitness gains are lost when training stops or reduces significantly","marks":1},{"type":"answer","value":"plan maintenance training throughout the season and avoid long unplanned breaks","marks":1}]}
+      ]
+    },
+    {
+      "id": 10,
+      "strand": "Trends and Issues",
+      "unit": "Trends and Issues",
+      "topic": "Trends and Issues in Sport",
+      "context": "Sport in the 21st century faces numerous challenges including doping, commercialisation, violence and inequality. At the same time, positive trends such as the use of technology, sport for development and increasing female participation are transforming the sporting landscape.",
+      "total_marks": 14,
+      "parts": [
+        {"part":"a","question":"Explain what doping is, give TWO examples of banned substances and state why doping is prohibited in sport.","marks":5,"rubric":[{"type":"answer","value":"doping is the use of prohibited performance-enhancing substances or methods","marks":1},{"type":"answer","value":"examples: anabolic steroids EPO blood doping stimulants","marks":2},{"type":"answer","value":"prohibited because it is unfair creates health risks and undermines the integrity of sport","marks":2}]},
+        {"part":"b","question":"Discuss TWO ways in which technology has changed sport for both athletes and spectators.","marks":4,"rubric":[{"type":"answer","value":"performance analysis GPS tracking video review help athletes identify areas for improvement","marks":2},{"type":"answer","value":"VAR Hawk-Eye goal-line technology improve officiating accuracy for spectators and fairness","marks":2}]},
+        {"part":"c","question":"Explain the concept of 'sport for all' and describe ONE example of how it can be applied in a Caribbean school.","marks":3,"rubric":[{"type":"answer","value":"sport for all: ensuring access to sport for everyone regardless of gender ability or background","marks":1},{"type":"answer","value":"e.g. inclusive PE lessons adapted for students with disabilities intramural leagues open to all","marks":2}]},
+        {"part":"d","question":"State TWO issues related to gender inequality in sport and suggest ONE way each can be addressed.","marks":2,"rubric":[{"type":"answer","value":"unequal prize money — can be addressed by equal pay policies as adopted by some tennis tournaments","marks":1},{"type":"answer","value":"less media coverage — addressed by dedicated broadcast slots for women's sport","marks":1}]}
+      ]
+    }
+  ]
+}

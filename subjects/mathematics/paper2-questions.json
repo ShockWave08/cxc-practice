@@ -1,0 +1,906 @@
+{
+  "paper2": [
+
+    {
+      "id": 1,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 1: Decimals and Fractions",
+      "topic": "Fractions and Decimals",
+      "context": "A school tuck shop recorded the following sales one morning: 2/5 of students bought juice, 1/4 bought water, and the rest bought nothing.",
+      "total_marks": 9,
+      "parts": [
+        {
+          "part": "a",
+          "question": "What fraction of students bought nothing?",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "2/5 + 1/4", "marks": 1 },
+            { "type": "answer", "value": "7/20", "marks": 1 }
+          ]
+        },
+        {
+          "part": "b",
+          "question": "If 200 students visited the tuck shop, how many bought juice?",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "2/5 × 200", "marks": 1 },
+            { "type": "answer", "value": "80", "marks": 1 }
+          ]
+        },
+        {
+          "part": "c",
+          "question": "Express the fraction who bought water as a decimal and as a percentage.",
+          "marks": 3,
+          "rubric": [
+            { "type": "working", "value": "1/4 = 0.25", "marks": 1 },
+            { "type": "answer", "value": "0.25", "marks": 1 },
+            { "type": "answer", "value": "25%", "marks": 1 }
+          ]
+        },
+        {
+          "part": "d",
+          "question": "The tuck shop earns $0.75 per juice sold. How much did it earn from juice sales that morning?",
+          "marks": 2,
+          "rubric": [
+            { "type": "working", "value": "80 × 0.75", "marks": 1 },
+            { "type": "answer", "value": "$60", "marks": 1 }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 2: Percentages",
+      "topic": "Percentages",
+      "context": "A store is having a sale. A pair of sneakers originally costs $180.",
+      "total_marks": 10,
+      "parts": [
+        {
+          "part": "a",
+          "question": "The sneakers are discounted by 20%. Calculate the discount amount.",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "20/100 × 180", "marks": 1 },
+            { "type": "answer", "value": "$36", "marks": 1 }
+          ]
+        },
+        {
+          "part": "b",
+          "question": "What is the sale price of the sneakers?",
+          "marks": 1,
+          "rubric": [
+            { "type": "answer", "value": "$144", "marks": 1 }
+          ]
+        },
+        {
+          "part": "c",
+          "question": "A 10% tax is then applied to the sale price. What is the final price paid?",
+          "marks": 3,
+          "rubric": [
+            { "type": "method", "value": "10/100 × 144", "marks": 1 },
+            { "type": "working", "value": "tax = $14.40", "marks": 1 },
+            { "type": "answer", "value": "$158.40", "marks": 1 }
+          ]
+        },
+        {
+          "part": "d",
+          "question": "Express the final price as a percentage of the original price, correct to 1 decimal place.",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "158.40/180 × 100", "marks": 1 },
+            { "type": "answer", "value": "88.0%", "marks": 1 }
+          ]
+        },
+        {
+          "part": "e",
+          "question": "A second item costs $75 after a 25% discount. What was its original price?",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "0.75 × P = 75", "marks": 1 },
+            { "type": "answer", "value": "$100", "marks": 1 }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "strand": "STRAND A: COMPUTATION",
+      "unit": "Unit 5: Ratio and Proportion",
+      "topic": "Ratio and Proportion",
+      "context": "Three business partners — Ali, Ben and Carmen — share profits in the ratio 2:3:5.",
+      "total_marks": 10,
+      "parts": [
+        {
+          "part": "a",
+          "question": "The total profit for the year is $24,000. How much does each partner receive?",
+          "marks": 4,
+          "rubric": [
+            { "type": "method", "value": "total parts = 10", "marks": 1 },
+            { "type": "answer", "value": "Ali = $4800", "marks": 1 },
+            { "type": "answer", "value": "Ben = $7200", "marks": 1 },
+            { "type": "answer", "value": "Carmen = $12000", "marks": 1 }
+          ]
+        },
+        {
+          "part": "b",
+          "question": "Express Ben's share as a percentage of the total profit.",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "7200/24000 × 100", "marks": 1 },
+            { "type": "answer", "value": "30%", "marks": 1 }
+          ]
+        },
+        {
+          "part": "c",
+          "question": "In a bad year, the profit drops to $9,000. How much does Carmen receive?",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "5/10 × 9000", "marks": 1 },
+            { "type": "answer", "value": "$4500", "marks": 1 }
+          ]
+        },
+        {
+          "part": "d",
+          "question": "Ali and Ben decide to invest their combined share at a simple interest rate of 4% per annum for 3 years. Calculate the total interest they earn.",
+          "marks": 3,
+          "rubric": [
+            { "type": "working", "value": "Ali + Ben = $12000", "marks": 1 },
+            { "type": "method", "value": "SI = 12000 × 4 × 3 / 100", "marks": 1 },
+            { "type": "answer", "value": "$1440", "marks": 1 }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 4,
+      "strand": "STRAND B: NUMBER THEORY",
+      "unit": "Unit 6: Indices and Factors",
+      "topic": "Indices and Factors",
+      "context": "Answer all parts of this question. Show all working.",
+      "total_marks": 11,
+      "parts": [
+        {
+          "part": "a",
+          "question": "Write 72 as a product of its prime factors in index form.",
+          "marks": 3,
+          "rubric": [
+            { "type": "method", "value": "factor tree or repeated division", "marks": 1 },
+            { "type": "working", "value": "72 = 2 × 2 × 2 × 3 × 3", "marks": 1 },
+            { "type": "answer", "value": "2³ × 3²", "marks": 1 }
+          ]
+        },
+        {
+          "part": "b",
+          "question": "Find the HCF of 72 and 120.",
+          "marks": 3,
+          "rubric": [
+            { "type": "working", "value": "120 = 2³ × 3 × 5", "marks": 1 },
+            { "type": "method", "value": "HCF uses lowest powers of common factors", "marks": 1 },
+            { "type": "answer", "value": "24", "marks": 1 }
+          ]
+        },
+        {
+          "part": "c",
+          "question": "Find the LCM of 72 and 120.",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "LCM uses highest powers of all factors", "marks": 1 },
+            { "type": "answer", "value": "360", "marks": 1 }
+          ]
+        },
+        {
+          "part": "d",
+          "question": "Simplify, giving your answer in index form: (2⁴ × 3²) ÷ (2² × 3)",
+          "marks": 3,
+          "rubric": [
+            { "type": "working", "value": "2⁴ ÷ 2² = 2²", "marks": 1 },
+            { "type": "working", "value": "3² ÷ 3 = 3¹", "marks": 1 },
+            { "type": "answer", "value": "2² × 3 = 12", "marks": 1 }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 5,
+      "strand": "STRAND B: NUMBER THEORY",
+      "unit": "Unit 7: Number System and Bases",
+      "topic": "Number Bases",
+      "context": "Answer all parts of this question.",
+      "total_marks": 10,
+      "parts": [
+        {
+          "part": "a",
+          "question": "Convert 10110₂ to base 10.",
+          "marks": 3,
+          "rubric": [
+            { "type": "method", "value": "place values: 16, 8, 4, 2, 1", "marks": 1 },
+            { "type": "working", "value": "16 + 0 + 4 + 2 + 0", "marks": 1 },
+            { "type": "answer", "value": "22", "marks": 1 }
+          ]
+        },
+        {
+          "part": "b",
+          "question": "Convert 45 (base 10) to binary.",
+          "marks": 3,
+          "rubric": [
+            { "type": "method", "value": "repeated division by 2", "marks": 1 },
+            { "type": "working", "value": "45 = 32+8+4+1", "marks": 1 },
+            { "type": "answer", "value": "101101₂", "marks": 1 }
+          ]
+        },
+        {
+          "part": "c",
+          "question": "Add 1101₂ and 1011₂. Give your answer in binary.",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "binary addition with carrying", "marks": 1 },
+            { "type": "answer", "value": "11000₂", "marks": 1 }
+          ]
+        },
+        {
+          "part": "d",
+          "question": "Convert 11000₂ back to base 10 to verify your answer to part (c).",
+          "marks": 2,
+          "rubric": [
+            { "type": "working", "value": "16 + 8 = 24", "marks": 1 },
+            { "type": "answer", "value": "24", "marks": 1 }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 6,
+      "strand": "STRAND C: CONSUMER ARITHMETIC",
+      "unit": "Unit 9: Consumer Arithmetic",
+      "topic": "Consumer Arithmetic",
+      "context": "Mr. Joseph earns a monthly salary of $5,000. He pays income tax at 25% on earnings above $2,000. He also pays NIS of 3% on his full salary.",
+      "total_marks": 12,
+      "parts": [
+        {
+          "part": "a",
+          "question": "Calculate the amount of income tax Mr. Joseph pays per month.",
+          "marks": 3,
+          "rubric": [
+            { "type": "working", "value": "taxable income = 5000 − 2000 = 3000", "marks": 1 },
+            { "type": "method", "value": "25% × 3000", "marks": 1 },
+            { "type": "answer", "value": "$750", "marks": 1 }
+          ]
+        },
+        {
+          "part": "b",
+          "question": "Calculate his NIS contribution per month.",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "3% × 5000", "marks": 1 },
+            { "type": "answer", "value": "$150", "marks": 1 }
+          ]
+        },
+        {
+          "part": "c",
+          "question": "Calculate Mr. Joseph's monthly take-home pay after tax and NIS.",
+          "marks": 2,
+          "rubric": [
+            { "type": "working", "value": "5000 − 750 − 150", "marks": 1 },
+            { "type": "answer", "value": "$4100", "marks": 1 }
+          ]
+        },
+        {
+          "part": "d",
+          "question": "He wants to buy a car costing $18,000. He pays a 15% deposit and finances the rest over 36 months at $450 per month. Calculate the total hire purchase cost.",
+          "marks": 3,
+          "rubric": [
+            { "type": "working", "value": "deposit = 15% × 18000 = 2700", "marks": 1 },
+            { "type": "working", "value": "monthly total = 36 × 450 = 16200", "marks": 1 },
+            { "type": "answer", "value": "total HP = $18900", "marks": 1 }
+          ]
+        },
+        {
+          "part": "e",
+          "question": "How much more does the hire purchase cost compared to the cash price?",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "18900 − 18000", "marks": 1 },
+            { "type": "answer", "value": "$900", "marks": 1 }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 7,
+      "strand": "STRAND D: SETS",
+      "unit": "Unit 10: Logic and Venn Diagrams",
+      "topic": "Sets and Venn Diagrams",
+      "context": "In a class of 40 students, a survey was conducted about extracurricular activities. 24 students play sports (S), 18 students are in the choir (C), and 8 students do both. Some students do neither.",
+      "total_marks": 12,
+      "parts": [
+        {
+          "part": "a",
+          "question": "Draw a Venn diagram to represent this information. Label clearly.",
+          "marks": 3,
+          "rubric": [
+            { "type": "method", "value": "two overlapping circles in a rectangle", "marks": 1 },
+            { "type": "working", "value": "sports only = 16, choir only = 10, both = 8", "marks": 1 },
+            { "type": "answer", "value": "neither = 6", "marks": 1 }
+          ]
+        },
+        {
+          "part": "b",
+          "question": "How many students play sports only?",
+          "marks": 1,
+          "rubric": [
+            { "type": "answer", "value": "16", "marks": 1 }
+          ]
+        },
+        {
+          "part": "c",
+          "question": "How many students do neither activity?",
+          "marks": 2,
+          "rubric": [
+            { "type": "working", "value": "16 + 10 + 8 = 34", "marks": 1 },
+            { "type": "answer", "value": "6", "marks": 1 }
+          ]
+        },
+        {
+          "part": "d",
+          "question": "A student is chosen at random. What is the probability that the student is in the choir but does not play sports?",
+          "marks": 2,
+          "rubric": [
+            { "type": "working", "value": "choir only = 10", "marks": 1 },
+            { "type": "answer", "value": "10/40 = 1/4", "marks": 1 }
+          ]
+        },
+        {
+          "part": "e",
+          "question": "If n(S ∪ C) = n(S) + n(C) − n(S ∩ C), verify the total number of students in at least one activity.",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "24 + 18 − 8", "marks": 1 },
+            { "type": "answer", "value": "34", "marks": 1 }
+          ]
+        },
+        {
+          "part": "f",
+          "question": "What is the probability that a randomly chosen student participates in at least one activity?",
+          "marks": 2,
+          "rubric": [
+            { "type": "working", "value": "34 out of 40", "marks": 1 },
+            { "type": "answer", "value": "17/20", "marks": 1 }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 8,
+      "strand": "STRAND E: MEASUREMENT",
+      "unit": "Unit 13: Areas / Unit 14: Volumes",
+      "topic": "Area and Volume",
+      "context": "A storage tank is in the shape of a cylinder with a hemispherical top. The cylinder has radius 4 m and height 10 m. Use π = 3.14.",
+      "total_marks": 14,
+      "parts": [
+        {
+          "part": "a",
+          "question": "Calculate the volume of the cylindrical section.",
+          "marks": 3,
+          "rubric": [
+            { "type": "method", "value": "V = πr²h", "marks": 1 },
+            { "type": "working", "value": "3.14 × 16 × 10", "marks": 1 },
+            { "type": "answer", "value": "502.4 m³", "marks": 1 }
+          ]
+        },
+        {
+          "part": "b",
+          "question": "Calculate the volume of the hemispherical top.",
+          "marks": 3,
+          "rubric": [
+            { "type": "method", "value": "V = (2/3)πr³", "marks": 1 },
+            { "type": "working", "value": "2/3 × 3.14 × 64", "marks": 1 },
+            { "type": "answer", "value": "133.97 m³", "marks": 1 }
+          ]
+        },
+        {
+          "part": "c",
+          "question": "Calculate the total volume of the tank.",
+          "marks": 2,
+          "rubric": [
+            { "type": "working", "value": "502.4 + 133.97", "marks": 1 },
+            { "type": "answer", "value": "636.37 m³", "marks": 1 }
+          ]
+        },
+        {
+          "part": "d",
+          "question": "Water is pumped in at a rate of 2 m³ per minute. How long will it take to fill the cylindrical section only? Give your answer in hours and minutes.",
+          "marks": 3,
+          "rubric": [
+            { "type": "working", "value": "502.4 ÷ 2 = 251.2 minutes", "marks": 1 },
+            { "type": "answer", "value": "4 hours 11 minutes", "marks": 2 }
+          ]
+        },
+        {
+          "part": "e",
+          "question": "The curved surface area of the cylinder is given by 2πrh. Calculate the curved surface area.",
+          "marks": 3,
+          "rubric": [
+            { "type": "method", "value": "2 × 3.14 × 4 × 10", "marks": 1 },
+            { "type": "working", "value": "2 × 3.14 × 40", "marks": 1 },
+            { "type": "answer", "value": "251.2 m²", "marks": 1 }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 9,
+      "strand": "STRAND F: STATISTICS",
+      "unit": "Unit 17: Measures of Central Tendency / Unit 18: Measures of Variation",
+      "topic": "Statistics",
+      "context": "The marks scored by 10 students in a Mathematics test are: 45, 62, 78, 55, 90, 62, 71, 48, 62, 87.",
+      "total_marks": 14,
+      "parts": [
+        {
+          "part": "a",
+          "question": "Write the marks in ascending order.",
+          "marks": 1,
+          "rubric": [
+            { "type": "answer", "value": "45, 48, 55, 62, 62, 62, 71, 78, 87, 90", "marks": 1 }
+          ]
+        },
+        {
+          "part": "b",
+          "question": "Find the mode.",
+          "marks": 1,
+          "rubric": [
+            { "type": "answer", "value": "62", "marks": 1 }
+          ]
+        },
+        {
+          "part": "c",
+          "question": "Find the median.",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "average of 5th and 6th values", "marks": 1 },
+            { "type": "answer", "value": "62", "marks": 1 }
+          ]
+        },
+        {
+          "part": "d",
+          "question": "Calculate the mean mark, correct to 1 decimal place.",
+          "marks": 3,
+          "rubric": [
+            { "type": "method", "value": "sum all values", "marks": 1 },
+            { "type": "working", "value": "660 ÷ 10", "marks": 1 },
+            { "type": "answer", "value": "66.0", "marks": 1 }
+          ]
+        },
+        {
+          "part": "e",
+          "question": "Find the range of the marks.",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "90 − 45", "marks": 1 },
+            { "type": "answer", "value": "45", "marks": 1 }
+          ]
+        },
+        {
+          "part": "f",
+          "question": "A student claims the mean is a better measure of central tendency than the mode for this data. Do you agree? Give a reason.",
+          "marks": 2,
+          "rubric": [
+            { "type": "answer", "value": "agree or disagree", "marks": 1 },
+            { "type": "answer", "value": "valid reason e.g. mean uses all values / mode is repeated by coincidence", "marks": 1 }
+          ]
+        },
+        {
+          "part": "g",
+          "question": "An 11th student sits the test and scores 94. What is the new mean? Give your answer to 1 decimal place.",
+          "marks": 3,
+          "rubric": [
+            { "type": "working", "value": "660 + 94 = 754", "marks": 1 },
+            { "type": "working", "value": "754 ÷ 11", "marks": 1 },
+            { "type": "answer", "value": "68.5", "marks": 1 }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 10,
+      "strand": "STRAND F: STATISTICS",
+      "unit": "Unit 19 & 20: Probability",
+      "topic": "Probability",
+      "context": "A bag contains 5 red balls, 3 blue balls and 2 green balls. A ball is drawn at random.",
+      "total_marks": 12,
+      "parts": [
+        {
+          "part": "a",
+          "question": "What is the probability of drawing a red ball?",
+          "marks": 1,
+          "rubric": [
+            { "type": "answer", "value": "1/2", "marks": 1 }
+          ]
+        },
+        {
+          "part": "b",
+          "question": "What is the probability of drawing a green ball?",
+          "marks": 1,
+          "rubric": [
+            { "type": "answer", "value": "1/5", "marks": 1 }
+          ]
+        },
+        {
+          "part": "c",
+          "question": "What is the probability of NOT drawing a blue ball?",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "1 − 3/10", "marks": 1 },
+            { "type": "answer", "value": "7/10", "marks": 1 }
+          ]
+        },
+        {
+          "part": "d",
+          "question": "A ball is drawn and NOT replaced. A second ball is then drawn. What is the probability that both balls are red?",
+          "marks": 3,
+          "rubric": [
+            { "type": "method", "value": "P(1st red) = 5/10", "marks": 1 },
+            { "type": "working", "value": "P(2nd red) = 4/9", "marks": 1 },
+            { "type": "answer", "value": "20/90 = 2/9", "marks": 1 }
+          ]
+        },
+        {
+          "part": "e",
+          "question": "A ball is drawn and replaced before the second draw. What is the probability of drawing a red then a blue?",
+          "marks": 3,
+          "rubric": [
+            { "type": "method", "value": "P(red) × P(blue) with replacement", "marks": 1 },
+            { "type": "working", "value": "5/10 × 3/10", "marks": 1 },
+            { "type": "answer", "value": "15/100 = 3/20", "marks": 1 }
+          ]
+        },
+        {
+          "part": "f",
+          "question": "Explain the difference between drawing with replacement and without replacement, and how it affects probability.",
+          "marks": 2,
+          "rubric": [
+            { "type": "answer", "value": "with replacement: sample size stays same, events are independent", "marks": 1 },
+            { "type": "answer", "value": "without replacement: sample size reduces, events are dependent", "marks": 1 }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 11,
+      "strand": "STRAND G: ALGEBRA",
+      "unit": "Unit 23 & 24: Algebraic Manipulation and Quadratics",
+      "topic": "Algebra",
+      "context": "Answer all parts. Show full working.",
+      "total_marks": 15,
+      "parts": [
+        {
+          "part": "a",
+          "question": "Expand and simplify: (2x + 3)(x − 4)",
+          "marks": 3,
+          "rubric": [
+            { "type": "method", "value": "FOIL or grid method", "marks": 1 },
+            { "type": "working", "value": "2x² − 8x + 3x − 12", "marks": 1 },
+            { "type": "answer", "value": "2x² − 5x − 12", "marks": 1 }
+          ]
+        },
+        {
+          "part": "b",
+          "question": "Factorise completely: 3x² − 12x",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "HCF = 3x", "marks": 1 },
+            { "type": "answer", "value": "3x(x − 4)", "marks": 1 }
+          ]
+        },
+        {
+          "part": "c",
+          "question": "Factorise: x² + x − 12",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "find two numbers that multiply to −12 and add to 1", "marks": 1 },
+            { "type": "answer", "value": "(x + 4)(x − 3)", "marks": 1 }
+          ]
+        },
+        {
+          "part": "d",
+          "question": "Solve: x² + x − 12 = 0",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "use factorisation from part (c)", "marks": 1 },
+            { "type": "answer", "value": "x = 3 or x = −4", "marks": 1 }
+          ]
+        },
+        {
+          "part": "e",
+          "question": "Solve the simultaneous equations: 3x + 2y = 16 and x − y = 2",
+          "marks": 4,
+          "rubric": [
+            { "type": "method", "value": "substitution or elimination method", "marks": 1 },
+            { "type": "working", "value": "x = y + 2 substituted → 3(y+2) + 2y = 16", "marks": 1 },
+            { "type": "answer", "value": "y = 2", "marks": 1 },
+            { "type": "answer", "value": "x = 4", "marks": 1 }
+          ]
+        },
+        {
+          "part": "f",
+          "question": "Verify your answer to part (e) by substituting back into both equations.",
+          "marks": 2,
+          "rubric": [
+            { "type": "working", "value": "3(4) + 2(2) = 16 ✓", "marks": 1 },
+            { "type": "working", "value": "4 − 2 = 2 ✓", "marks": 1 }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 12,
+      "strand": "STRAND H: RELATIONS, FUNCTIONS and GRAPHS",
+      "unit": "Unit 28 & 30: Straight Lines and Functions",
+      "topic": "Graphs and Functions",
+      "context": "The straight line L passes through the points A(1, 3) and B(5, 11).",
+      "total_marks": 14,
+      "parts": [
+        {
+          "part": "a",
+          "question": "Calculate the gradient of line L.",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "(11−3) / (5−1)", "marks": 1 },
+            { "type": "answer", "value": "2", "marks": 1 }
+          ]
+        },
+        {
+          "part": "b",
+          "question": "Find the equation of line L in the form y = mx + c.",
+          "marks": 3,
+          "rubric": [
+            { "type": "method", "value": "y − 3 = 2(x − 1)", "marks": 1 },
+            { "type": "working", "value": "y = 2x + 1", "marks": 1 },
+            { "type": "answer", "value": "y = 2x + 1", "marks": 1 }
+          ]
+        },
+        {
+          "part": "c",
+          "question": "Find the coordinates of the point where line L crosses the x-axis.",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "set y = 0: 0 = 2x + 1", "marks": 1 },
+            { "type": "answer", "value": "(−0.5, 0) or (−1/2, 0)", "marks": 1 }
+          ]
+        },
+        {
+          "part": "d",
+          "question": "A second line M is perpendicular to L and passes through B(5, 11). Find the equation of M.",
+          "marks": 3,
+          "rubric": [
+            { "type": "method", "value": "gradient of M = −1/2", "marks": 1 },
+            { "type": "working", "value": "y − 11 = −1/2(x − 5)", "marks": 1 },
+            { "type": "answer", "value": "y = −x/2 + 13.5", "marks": 1 }
+          ]
+        },
+        {
+          "part": "e",
+          "question": "Given f(x) = 2x + 1, find f⁻¹(x).",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "let y = 2x + 1; x = (y−1)/2", "marks": 1 },
+            { "type": "answer", "value": "f⁻¹(x) = (x−1)/2", "marks": 1 }
+          ]
+        },
+        {
+          "part": "f",
+          "question": "Find f⁻¹(7) and verify by computing f of your answer.",
+          "marks": 2,
+          "rubric": [
+            { "type": "answer", "value": "f⁻¹(7) = 3", "marks": 1 },
+            { "type": "working", "value": "f(3) = 7 ✓", "marks": 1 }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 13,
+      "strand": "STRAND I: GEOMETRY and TRIGONOMETRY",
+      "unit": "Unit 34 & 35: Pythagoras and Trigonometry",
+      "topic": "Trigonometry",
+      "context": "A vertical flagpole PQ stands on level ground. From a point A on the ground, 20 m from the base Q of the pole, the angle of elevation of the top P is 40°.",
+      "total_marks": 14,
+      "parts": [
+        {
+          "part": "a",
+          "question": "Draw a clearly labelled diagram showing the flagpole, point A, and the angle of elevation.",
+          "marks": 2,
+          "rubric": [
+            { "type": "answer", "value": "right angle at Q", "marks": 1 },
+            { "type": "answer", "value": "40° angle at A, 20 m base labelled", "marks": 1 }
+          ]
+        },
+        {
+          "part": "b",
+          "question": "Calculate the height PQ of the flagpole, correct to 2 decimal places.",
+          "marks": 3,
+          "rubric": [
+            { "type": "method", "value": "tan 40° = PQ / 20", "marks": 1 },
+            { "type": "working", "value": "PQ = 20 × tan 40°", "marks": 1 },
+            { "type": "answer", "value": "16.78 m", "marks": 1 }
+          ]
+        },
+        {
+          "part": "c",
+          "question": "Calculate the length of the line of sight AP, correct to 2 decimal places.",
+          "marks": 3,
+          "rubric": [
+            { "type": "method", "value": "cos 40° = 20 / AP or use Pythagoras", "marks": 1 },
+            { "type": "working", "value": "AP = 20 / cos 40°", "marks": 1 },
+            { "type": "answer", "value": "26.11 m", "marks": 1 }
+          ]
+        },
+        {
+          "part": "d",
+          "question": "From a point B on the other side of the pole, also on level ground, the angle of elevation is 55°. Find the distance BQ.",
+          "marks": 3,
+          "rubric": [
+            { "type": "method", "value": "tan 55° = 16.78 / BQ", "marks": 1 },
+            { "type": "working", "value": "BQ = 16.78 / tan 55°", "marks": 1 },
+            { "type": "answer", "value": "11.75 m", "marks": 1 }
+          ]
+        },
+        {
+          "part": "e",
+          "question": "What is the distance AB (A and B are on opposite sides of the pole)?",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "AB = AQ + BQ", "marks": 1 },
+            { "type": "answer", "value": "31.75 m", "marks": 1 }
+          ]
+        },
+        {
+          "part": "f",
+          "question": "Using your answer from part (b), calculate sin 40° using the triangle APQ. Compare it to the calculator value of sin 40° ≈ 0.643.",
+          "marks": 1,
+          "rubric": [
+            { "type": "answer", "value": "sin 40° = 16.78/26.11 ≈ 0.643 ✓", "marks": 1 }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 14,
+      "strand": "STRAND I: GEOMETRY and TRIGONOMETRY",
+      "unit": "Unit 37: Further Transformations",
+      "topic": "Transformations",
+      "context": "Triangle ABC has vertices at A(1, 1), B(3, 1) and C(3, 4).",
+      "total_marks": 13,
+      "parts": [
+        {
+          "part": "a",
+          "question": "Plot triangle ABC on a coordinate grid.",
+          "marks": 2,
+          "rubric": [
+            { "type": "answer", "value": "correct coordinates plotted", "marks": 1 },
+            { "type": "answer", "value": "triangle correctly drawn and labelled", "marks": 1 }
+          ]
+        },
+        {
+          "part": "b",
+          "question": "Reflect triangle ABC in the y-axis to give triangle A'B'C'. State the new coordinates.",
+          "marks": 3,
+          "rubric": [
+            { "type": "answer", "value": "A'(−1, 1)", "marks": 1 },
+            { "type": "answer", "value": "B'(−3, 1)", "marks": 1 },
+            { "type": "answer", "value": "C'(−3, 4)", "marks": 1 }
+          ]
+        },
+        {
+          "part": "c",
+          "question": "Translate triangle ABC by the vector (2, −3). State the coordinates of the image A''B''C''.",
+          "marks": 3,
+          "rubric": [
+            { "type": "answer", "value": "A''(3, −2)", "marks": 1 },
+            { "type": "answer", "value": "B''(5, −2)", "marks": 1 },
+            { "type": "answer", "value": "C''(5, 1)", "marks": 1 }
+          ]
+        },
+        {
+          "part": "d",
+          "question": "Rotate triangle ABC by 90° clockwise about the origin. State the new coordinates.",
+          "marks": 3,
+          "rubric": [
+            { "type": "method", "value": "(x, y) → (y, −x)", "marks": 1 },
+            { "type": "answer", "value": "A(1,−1), B(1,−3), C(4,−3)", "marks": 2 }
+          ]
+        },
+        {
+          "part": "e",
+          "question": "Is the triangle produced in part (d) congruent to the original? Give a reason.",
+          "marks": 2,
+          "rubric": [
+            { "type": "answer", "value": "yes", "marks": 1 },
+            { "type": "answer", "value": "rotation preserves shape and size", "marks": 1 }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 15,
+      "strand": "STRAND J: VECTORS and MATRICES",
+      "unit": "Unit 38 & 39: Vectors and Matrices",
+      "topic": "Vectors and Matrices",
+      "context": "Answer all parts of this question.",
+      "total_marks": 15,
+      "parts": [
+        {
+          "part": "a",
+          "question": "Given p = (3, −1) and q = (−2, 4), find: (i) p + q  (ii) 2p − q",
+          "marks": 4,
+          "rubric": [
+            { "type": "answer", "value": "p + q = (1, 3)", "marks": 2 },
+            { "type": "working", "value": "2p = (6, −2)", "marks": 1 },
+            { "type": "answer", "value": "2p − q = (8, −6)", "marks": 1 }
+          ]
+        },
+        {
+          "part": "b",
+          "question": "Find |p|, the magnitude of vector p.",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "√(3² + (−1)²)", "marks": 1 },
+            { "type": "answer", "value": "√10", "marks": 1 }
+          ]
+        },
+        {
+          "part": "c",
+          "question": "Given matrix A = [[2, 1],[3, 4]] and B = [[1, 0],[−1, 2]], find A + B.",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "add corresponding elements", "marks": 1 },
+            { "type": "answer", "value": "[[3,1],[2,6]]", "marks": 1 }
+          ]
+        },
+        {
+          "part": "d",
+          "question": "Find the product AB.",
+          "marks": 4,
+          "rubric": [
+            { "type": "method", "value": "row × column multiplication", "marks": 1 },
+            { "type": "working", "value": "row 1: [2×1+1×(−1), 2×0+1×2] = [1, 2]", "marks": 1 },
+            { "type": "working", "value": "row 2: [3×1+4×(−1), 3×0+4×2] = [−1, 8]", "marks": 1 },
+            { "type": "answer", "value": "[[1,2],[−1,8]]", "marks": 1 }
+          ]
+        },
+        {
+          "part": "e",
+          "question": "Find the determinant of matrix A.",
+          "marks": 2,
+          "rubric": [
+            { "type": "method", "value": "(2×4) − (1×3)", "marks": 1 },
+            { "type": "answer", "value": "5", "marks": 1 }
+          ]
+        },
+        {
+          "part": "f",
+          "question": "Since det(A) ≠ 0, matrix A has an inverse. State what this means geometrically.",
+          "marks": 1,
+          "rubric": [
+            { "type": "answer", "value": "the transformation is reversible / the matrix is non-singular", "marks": 1 }
+          ]
+        }
+      ]
+    }
+
+  ]
+}

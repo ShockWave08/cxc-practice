@@ -1,0 +1,2404 @@
+{
+  "paper1": [
+    {
+      "id": 1,
+      "strand": "History and Development of Sports",
+      "unit": "History and Development of Sports",
+      "topic": "History of Sports",
+      "difficulty": 1,
+      "question": "Which of the following ancient civilisations is most closely associated with the origin of the Olympic Games?",
+      "options": [
+        "Rome",
+        "Egypt",
+        "Greece",
+        "Persia"
+      ],
+      "answer": 2,
+      "explanation": "The ancient Olympic Games originated in Olympia, Greece, around 776 BC."
+    },
+    {
+      "id": 2,
+      "strand": "History and Development of Sports",
+      "unit": "History and Development of Sports",
+      "topic": "History of Sports",
+      "difficulty": 1,
+      "question": "In which year were the first modern Olympic Games held?",
+      "options": [
+        "1888",
+        "1896",
+        "1900",
+        "1912"
+      ],
+      "answer": 1,
+      "explanation": "The first modern Olympic Games were held in Athens, Greece in 1896."
+    },
+    {
+      "id": 3,
+      "strand": "History and Development of Sports",
+      "unit": "History and Development of Sports",
+      "topic": "History of Sports",
+      "difficulty": 1,
+      "question": "Which of the following best describes the purpose of the ancient Olympic Games?",
+      "options": [
+        "To raise money for the state",
+        "To honour the god Zeus through athletic competition",
+        "To train soldiers for battle",
+        "To entertain the Roman emperor"
+      ],
+      "answer": 1,
+      "explanation": "The ancient Olympics were a religious festival held in honour of Zeus, the chief Greek god."
+    },
+    {
+      "id": 4,
+      "strand": "History and Development of Sports",
+      "unit": "History and Development of Sports",
+      "topic": "Development of Sports in the Caribbean",
+      "difficulty": 2,
+      "question": "Which sport is considered the most historically significant colonial sport in the English-speaking Caribbean?",
+      "options": [
+        "Football",
+        "Basketball",
+        "Cricket",
+        "Athletics"
+      ],
+      "answer": 2,
+      "explanation": "Cricket was introduced by British colonisers and became deeply embedded in Caribbean culture and identity."
+    },
+    {
+      "id": 5,
+      "strand": "History and Development of Sports",
+      "unit": "History and Development of Sports",
+      "topic": "Development of Sports in the Caribbean",
+      "difficulty": 2,
+      "question": "The Caribbean's dominance in which athletic event has brought the region significant international recognition?",
+      "options": [
+        "Weightlifting",
+        "Sprinting",
+        "Cycling",
+        "Swimming"
+      ],
+      "answer": 1,
+      "explanation": "Caribbean athletes, particularly from Jamaica, have achieved extraordinary dominance in sprinting at the Olympic and World Championship level."
+    },
+    {
+      "id": 6,
+      "strand": "History and Development of Sports",
+      "unit": "History and Development of Sports",
+      "topic": "History of Sports",
+      "difficulty": 2,
+      "question": "Which international body governs world athletics?",
+      "options": [
+        "FIFA",
+        "World Athletics (formerly IAAF)",
+        "IOC",
+        "FINA"
+      ],
+      "answer": 1,
+      "explanation": "World Athletics (formerly the International Association of Athletics Federations) is the governing body for track and field events globally."
+    },
+    {
+      "id": 7,
+      "strand": "History and Development of Sports",
+      "unit": "History and Development of Sports",
+      "topic": "Development of Sports in the Caribbean",
+      "difficulty": 2,
+      "question": "Which organisation governs cricket in the Caribbean?",
+      "options": [
+        "ICC",
+        "FIFA Caribbean",
+        "Cricket West Indies (CWI)",
+        "CONCACAF"
+      ],
+      "answer": 2,
+      "explanation": "Cricket West Indies (formerly the West Indies Cricket Board) governs cricket across the Caribbean region."
+    },
+    {
+      "id": 8,
+      "strand": "History and Development of Sports",
+      "unit": "History and Development of Sports",
+      "topic": "History of Sports",
+      "difficulty": 3,
+      "question": "Which of the following was a significant social impact of sport during the colonial era in the Caribbean?",
+      "options": [
+        "It promoted racial equality",
+        "It was used as a tool to reinforce social class distinctions and colonial values",
+        "It replaced traditional indigenous games",
+        "It had no social impact"
+      ],
+      "answer": 1,
+      "explanation": "Colonial sports were often used to reinforce social hierarchies; certain sports were exclusive to the upper classes while others were for the working class."
+    },
+    {
+      "id": 9,
+      "strand": "History and Development of Sports",
+      "unit": "History and Development of Sports",
+      "topic": "History of Sports",
+      "difficulty": 2,
+      "question": "The Paralympic Games are best described as:",
+      "options": [
+        "A competition only for elderly athletes",
+        "An international multi-sport event for athletes with physical disabilities",
+        "A competition for developing nations",
+        "An amateur athletics competition"
+      ],
+      "answer": 1,
+      "explanation": "The Paralympic Games are an international multi-sport event for athletes with physical impairments, held alongside the Olympic Games."
+    },
+    {
+      "id": 10,
+      "strand": "History and Development of Sports",
+      "unit": "History and Development of Sports",
+      "topic": "Development of Sports in the Caribbean",
+      "difficulty": 3,
+      "question": "Which of the following factors most contributed to the rapid development of sport in the Caribbean after independence?",
+      "options": [
+        "Decreased interest in sport",
+        "Government investment in sport as a tool for national identity and pride",
+        "Reduction in school PE programmes",
+        "Decline in regional competitions"
+      ],
+      "answer": 1,
+      "explanation": "After independence, Caribbean governments invested in sport as a means of building national identity and achieving international recognition."
+    },
+    {
+      "id": 11,
+      "strand": "Muscular System",
+      "unit": "Muscular System",
+      "topic": "Types of Muscle",
+      "difficulty": 1,
+      "question": "Which type of muscle is under voluntary control?",
+      "options": [
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Skeletal muscle",
+        "Involuntary muscle"
+      ],
+      "answer": 2,
+      "explanation": "Skeletal muscle is attached to bones and is under conscious, voluntary control, enabling movement."
+    },
+    {
+      "id": 12,
+      "strand": "Muscular System",
+      "unit": "Muscular System",
+      "topic": "Types of Muscle",
+      "difficulty": 1,
+      "question": "What type of muscle makes up the walls of the heart?",
+      "options": [
+        "Skeletal muscle",
+        "Smooth muscle",
+        "Cardiac muscle",
+        "Voluntary muscle"
+      ],
+      "answer": 2,
+      "explanation": "The heart is composed of cardiac muscle, which contracts involuntarily and rhythmically throughout life."
+    },
+    {
+      "id": 13,
+      "strand": "Muscular System",
+      "unit": "Muscular System",
+      "topic": "Muscle Function",
+      "difficulty": 1,
+      "question": "Which of the following pairs of muscles work in opposition to produce movement at a joint?",
+      "options": [
+        "Cardiac and smooth",
+        "Agonist and antagonist",
+        "Flexor and synergist",
+        "Smooth and skeletal"
+      ],
+      "answer": 1,
+      "explanation": "Agonist muscles contract to produce movement while antagonist muscles relax; they work in opposition to control joint movement."
+    },
+    {
+      "id": 14,
+      "strand": "Muscular System",
+      "unit": "Muscular System",
+      "topic": "Muscle Function",
+      "difficulty": 2,
+      "question": "When you bend your arm at the elbow, which muscle acts as the agonist (prime mover)?",
+      "options": [
+        "Triceps brachii",
+        "Deltoid",
+        "Biceps brachii",
+        "Pectoralis major"
+      ],
+      "answer": 2,
+      "explanation": "The biceps brachii contracts (agonist) to flex the elbow, while the triceps brachii relaxes (antagonist)."
+    },
+    {
+      "id": 15,
+      "strand": "Muscular System",
+      "unit": "Muscular System",
+      "topic": "Muscle Function",
+      "difficulty": 2,
+      "question": "Which of the following correctly describes muscle hypertrophy?",
+      "options": [
+        "A decrease in muscle size",
+        "An increase in muscle fibre size due to resistance training",
+        "A muscle injury",
+        "The death of muscle tissue"
+      ],
+      "answer": 1,
+      "explanation": "Hypertrophy refers to the increase in muscle size as a result of increased protein synthesis from resistance training."
+    },
+    {
+      "id": 16,
+      "strand": "Muscular System",
+      "unit": "Muscular System",
+      "topic": "Types of Muscle Fibre",
+      "difficulty": 2,
+      "question": "Slow-twitch (Type I) muscle fibres are best suited for:",
+      "options": [
+        "Explosive sprinting",
+        "Heavy weightlifting",
+        "Endurance activities such as long-distance running",
+        "Jumping"
+      ],
+      "answer": 2,
+      "explanation": "Slow-twitch fibres are fatigue-resistant and use oxygen efficiently, making them ideal for sustained aerobic activities."
+    },
+    {
+      "id": 17,
+      "strand": "Muscular System",
+      "unit": "Muscular System",
+      "topic": "Types of Muscle Fibre",
+      "difficulty": 2,
+      "question": "Fast-twitch (Type II) muscle fibres are primarily used during:",
+      "options": [
+        "Marathon running",
+        "Slow cycling",
+        "Short explosive bursts of power such as sprinting",
+        "Low-intensity walking"
+      ],
+      "answer": 2,
+      "explanation": "Fast-twitch fibres contract rapidly and powerfully but fatigue quickly, suited to anaerobic explosive activities."
+    },
+    {
+      "id": 18,
+      "strand": "Muscular System",
+      "unit": "Muscular System",
+      "topic": "Muscle Function",
+      "difficulty": 3,
+      "question": "Which of the following is a correct description of isotonic muscle contraction?",
+      "options": [
+        "Muscle contracts with no change in length",
+        "Muscle tension remains constant while the muscle changes length",
+        "Muscle contracts against an immovable resistance",
+        "Muscle fibres do not activate"
+      ],
+      "answer": 1,
+      "explanation": "Isotonic contractions occur when the muscle changes length while maintaining constant tension, as in lifting a weight."
+    },
+    {
+      "id": 19,
+      "strand": "Muscular System",
+      "unit": "Muscular System",
+      "topic": "Muscle Injuries",
+      "difficulty": 2,
+      "question": "A muscle strain is best described as:",
+      "options": [
+        "A tear in a ligament",
+        "Stretching or tearing of muscle fibres or tendons",
+        "Inflammation of a bursa",
+        "Dislocation of a joint"
+      ],
+      "answer": 1,
+      "explanation": "A muscle strain involves overstretching or tearing of muscle fibres or their tendons, causing pain and limited movement."
+    },
+    {
+      "id": 20,
+      "strand": "Muscular System",
+      "unit": "Muscular System",
+      "topic": "Muscle Function",
+      "difficulty": 3,
+      "question": "Which of the following adaptations occurs in muscle as a result of regular aerobic training?",
+      "options": [
+        "Decreased mitochondrial density",
+        "Increased myoglobin content and mitochondrial density",
+        "Reduced capillarisation",
+        "Decreased oxygen uptake"
+      ],
+      "answer": 1,
+      "explanation": "Aerobic training increases the number and size of mitochondria and myoglobin content in muscle, improving oxygen use and endurance."
+    },
+    {
+      "id": 21,
+      "strand": "Respiratory System",
+      "unit": "Respiratory System",
+      "topic": "Structure of Respiratory System",
+      "difficulty": 1,
+      "question": "What is the primary function of the respiratory system?",
+      "options": [
+        "To pump blood around the body",
+        "To exchange oxygen and carbon dioxide between the body and the environment",
+        "To digest food",
+        "To filter waste from the blood"
+      ],
+      "answer": 1,
+      "explanation": "The respiratory system's main role is gaseous exchange — taking in oxygen and expelling carbon dioxide."
+    },
+    {
+      "id": 22,
+      "strand": "Respiratory System",
+      "unit": "Respiratory System",
+      "topic": "Structure of Respiratory System",
+      "difficulty": 1,
+      "question": "Where does gaseous exchange take place in the lungs?",
+      "options": [
+        "Trachea",
+        "Bronchi",
+        "Alveoli",
+        "Diaphragm"
+      ],
+      "answer": 2,
+      "explanation": "Gaseous exchange occurs in the alveoli — tiny air sacs with thin walls and a rich blood supply that allow O₂ and CO₂ to diffuse."
+    },
+    {
+      "id": 23,
+      "strand": "Respiratory System",
+      "unit": "Respiratory System",
+      "topic": "Breathing Mechanics",
+      "difficulty": 1,
+      "question": "Which muscle is primarily responsible for breathing?",
+      "options": [
+        "Intercostal muscles",
+        "Pectoralis major",
+        "Diaphragm",
+        "Abdominals"
+      ],
+      "answer": 2,
+      "explanation": "The diaphragm is the dome-shaped muscle below the lungs that contracts to increase thoracic volume during inhalation."
+    },
+    {
+      "id": 24,
+      "strand": "Respiratory System",
+      "unit": "Respiratory System",
+      "topic": "Exercise and Respiration",
+      "difficulty": 2,
+      "question": "Which of the following correctly describes what happens to breathing rate during exercise?",
+      "options": [
+        "It decreases to conserve energy",
+        "It increases to meet the greater oxygen demand of working muscles",
+        "It remains unchanged",
+        "It stops temporarily"
+      ],
+      "answer": 1,
+      "explanation": "During exercise, working muscles need more oxygen and produce more CO₂, so breathing rate increases to meet this demand."
+    },
+    {
+      "id": 25,
+      "strand": "Respiratory System",
+      "unit": "Respiratory System",
+      "topic": "Exercise and Respiration",
+      "difficulty": 2,
+      "question": "Tidal volume refers to:",
+      "options": [
+        "The total capacity of the lungs",
+        "The amount of air inhaled and exhaled in one normal breath",
+        "The maximum amount of air forcibly exhaled",
+        "The amount of air remaining after maximum exhalation"
+      ],
+      "answer": 1,
+      "explanation": "Tidal volume is the volume of air moved into or out of the lungs in a single normal breath, typically about 500 ml at rest."
+    },
+    {
+      "id": 26,
+      "strand": "Respiratory System",
+      "unit": "Respiratory System",
+      "topic": "Exercise and Respiration",
+      "difficulty": 2,
+      "question": "Which of the following is the correct pathway of air entering the body?",
+      "options": [
+        "Alveoli → bronchi → trachea → nose",
+        "Nose → trachea → bronchi → bronchioles → alveoli",
+        "Mouth → alveoli → bronchi → trachea",
+        "Bronchioles → bronchi → trachea → alveoli"
+      ],
+      "answer": 1,
+      "explanation": "Air enters through the nose/mouth, travels through the trachea, bronchi, bronchioles and finally reaches the alveoli for gas exchange."
+    },
+    {
+      "id": 27,
+      "strand": "Respiratory System",
+      "unit": "Respiratory System",
+      "topic": "Exercise and Respiration",
+      "difficulty": 3,
+      "question": "VO₂ max is a measure of:",
+      "options": [
+        "Maximum heart rate",
+        "The maximum amount of oxygen the body can use during intense exercise",
+        "Resting breathing rate",
+        "Lung capacity only"
+      ],
+      "answer": 1,
+      "explanation": "VO₂ max (maximal oxygen uptake) measures the maximum rate at which the body can consume oxygen during exhaustive exercise, a key indicator of cardiorespiratory fitness."
+    },
+    {
+      "id": 28,
+      "strand": "Respiratory System",
+      "unit": "Respiratory System",
+      "topic": "Exercise and Respiration",
+      "difficulty": 2,
+      "question": "Which of the following is an adaptation of the respiratory system to regular aerobic exercise?",
+      "options": [
+        "Decreased lung capacity",
+        "Increased vital capacity and more efficient gas exchange",
+        "Reduced breathing rate at rest",
+        "Smaller alveolar surface area"
+      ],
+      "answer": 1,
+      "explanation": "Regular aerobic training increases vital capacity and the efficiency of oxygen exchange in the lungs."
+    },
+    {
+      "id": 29,
+      "strand": "Respiratory System",
+      "unit": "Respiratory System",
+      "topic": "Exercise and Respiration",
+      "difficulty": 3,
+      "question": "Oxygen debt (EPOC) after exercise refers to:",
+      "options": [
+        "The lack of oxygen in the air",
+        "The elevated oxygen consumption after exercise used to restore the body to its resting state",
+        "A breathing disorder",
+        "The decrease in VO₂ max after training"
+      ],
+      "answer": 1,
+      "explanation": "EPOC (Excess Post-exercise Oxygen Consumption) describes the elevated oxygen intake after exercise, used to remove lactic acid and restore homeostasis."
+    },
+    {
+      "id": 30,
+      "strand": "Respiratory System",
+      "unit": "Respiratory System",
+      "topic": "Structure of Respiratory System",
+      "difficulty": 2,
+      "question": "The epiglottis serves what function during swallowing?",
+      "options": [
+        "Filters air entering the lungs",
+        "Covers the trachea to prevent food entering the airway",
+        "Produces mucus in the throat",
+        "Controls the opening of the bronchi"
+      ],
+      "answer": 1,
+      "explanation": "The epiglottis is a flap of cartilage that closes over the trachea during swallowing to prevent food and liquid from entering the airway."
+    },
+    {
+      "id": 31,
+      "strand": "Skeletal System",
+      "unit": "Skeletal System",
+      "topic": "Functions of the Skeleton",
+      "difficulty": 1,
+      "question": "Which of the following is NOT a function of the skeletal system?",
+      "options": [
+        "Support and shape",
+        "Protection of organs",
+        "Gaseous exchange",
+        "Blood cell production"
+      ],
+      "answer": 2,
+      "explanation": "Gaseous exchange is performed by the respiratory system. The skeleton supports, protects, enables movement, produces blood cells and stores minerals."
+    },
+    {
+      "id": 32,
+      "strand": "Skeletal System",
+      "unit": "Skeletal System",
+      "topic": "Bones and Joints",
+      "difficulty": 1,
+      "question": "Which type of joint allows the widest range of movement?",
+      "options": [
+        "Hinge joint",
+        "Pivot joint",
+        "Ball and socket joint",
+        "Gliding joint"
+      ],
+      "answer": 2,
+      "explanation": "Ball and socket joints, found at the hip and shoulder, allow movement in all directions and have the greatest range of motion."
+    },
+    {
+      "id": 33,
+      "strand": "Skeletal System",
+      "unit": "Skeletal System",
+      "topic": "Bones and Joints",
+      "difficulty": 1,
+      "question": "Which of the following is an example of a hinge joint?",
+      "options": [
+        "Hip",
+        "Shoulder",
+        "Elbow",
+        "Wrist"
+      ],
+      "answer": 2,
+      "explanation": "The elbow is a hinge joint, allowing flexion and extension in one plane of movement."
+    },
+    {
+      "id": 34,
+      "strand": "Skeletal System",
+      "unit": "Skeletal System",
+      "topic": "Bones and Joints",
+      "difficulty": 2,
+      "question": "What is the function of cartilage at a joint?",
+      "options": [
+        "To produce synovial fluid",
+        "To cushion bones and reduce friction at the joint surface",
+        "To attach muscle to bone",
+        "To produce red blood cells"
+      ],
+      "answer": 1,
+      "explanation": "Cartilage covers the ends of bones at joints, absorbing shock and reducing friction during movement."
+    },
+    {
+      "id": 35,
+      "strand": "Skeletal System",
+      "unit": "Skeletal System",
+      "topic": "Bones and Joints",
+      "difficulty": 2,
+      "question": "Which connective tissue connects bone to bone?",
+      "options": [
+        "Tendon",
+        "Ligament",
+        "Cartilage",
+        "Fascia"
+      ],
+      "answer": 1,
+      "explanation": "Ligaments are tough fibrous connective tissues that connect bone to bone, stabilising joints."
+    },
+    {
+      "id": 36,
+      "strand": "Skeletal System",
+      "unit": "Skeletal System",
+      "topic": "Bones and Joints",
+      "difficulty": 2,
+      "question": "Which of the following correctly describes a tendon?",
+      "options": [
+        "Connects bone to bone",
+        "Connects muscle to bone",
+        "Lines the inside of a joint",
+        "Covers the surface of bones"
+      ],
+      "answer": 1,
+      "explanation": "Tendons are fibrous connective tissues that attach muscle to bone, transmitting the force of muscle contraction to produce movement."
+    },
+    {
+      "id": 37,
+      "strand": "Skeletal System",
+      "unit": "Skeletal System",
+      "topic": "Skeletal Injuries",
+      "difficulty": 2,
+      "question": "A sprain is best described as:",
+      "options": [
+        "A fractured bone",
+        "Overstretching or tearing of a ligament",
+        "A muscle tear",
+        "Inflammation of a tendon"
+      ],
+      "answer": 1,
+      "explanation": "A sprain involves damage to a ligament, usually caused by a joint being forced beyond its normal range of movement."
+    },
+    {
+      "id": 38,
+      "strand": "Skeletal System",
+      "unit": "Skeletal System",
+      "topic": "Functions of the Skeleton",
+      "difficulty": 3,
+      "question": "Which of the following bones is primarily responsible for protecting the brain?",
+      "options": [
+        "Sternum",
+        "Vertebral column",
+        "Cranium",
+        "Femur"
+      ],
+      "answer": 2,
+      "explanation": "The cranium (skull) forms a protective case around the brain."
+    },
+    {
+      "id": 39,
+      "strand": "Skeletal System",
+      "unit": "Skeletal System",
+      "topic": "Bones and Joints",
+      "difficulty": 2,
+      "question": "Synovial fluid in a joint serves primarily to:",
+      "options": [
+        "Produce red blood cells",
+        "Lubricate the joint and reduce friction",
+        "Provide structural support",
+        "Attach muscle to bone"
+      ],
+      "answer": 1,
+      "explanation": "Synovial fluid lubricates the joint, reducing friction and allowing smooth movement of the joint surfaces."
+    },
+    {
+      "id": 40,
+      "strand": "Skeletal System",
+      "unit": "Skeletal System",
+      "topic": "Effects of Exercise on Skeleton",
+      "difficulty": 3,
+      "question": "Regular weight-bearing exercise has which of the following effects on bone?",
+      "options": [
+        "Decreases bone density",
+        "Increases bone density and strength",
+        "Reduces calcium content of bone",
+        "Has no effect on bone"
+      ],
+      "answer": 1,
+      "explanation": "Weight-bearing exercise stimulates bone remodelling, increasing bone mineral density and reducing the risk of osteoporosis."
+    },
+    {
+      "id": 41,
+      "strand": "Circulatory System",
+      "unit": "Circulatory System",
+      "topic": "Structure of Circulatory System",
+      "difficulty": 1,
+      "question": "Which chamber of the heart pumps oxygenated blood to the body?",
+      "options": [
+        "Right atrium",
+        "Right ventricle",
+        "Left atrium",
+        "Left ventricle"
+      ],
+      "answer": 3,
+      "explanation": "The left ventricle pumps oxygenated blood through the aorta to the rest of the body via systemic circulation."
+    },
+    {
+      "id": 42,
+      "strand": "Circulatory System",
+      "unit": "Circulatory System",
+      "topic": "Structure of Circulatory System",
+      "difficulty": 1,
+      "question": "Which blood vessels carry blood away from the heart?",
+      "options": [
+        "Veins",
+        "Capillaries",
+        "Arteries",
+        "Venules"
+      ],
+      "answer": 2,
+      "explanation": "Arteries carry blood away from the heart. Most carry oxygenated blood, with the exception of the pulmonary artery."
+    },
+    {
+      "id": 43,
+      "strand": "Circulatory System",
+      "unit": "Circulatory System",
+      "topic": "Structure of Circulatory System",
+      "difficulty": 1,
+      "question": "What is the function of red blood cells?",
+      "options": [
+        "Fight infection",
+        "Transport oxygen via haemoglobin",
+        "Clot the blood",
+        "Produce antibodies"
+      ],
+      "answer": 1,
+      "explanation": "Red blood cells contain haemoglobin which binds to oxygen, transporting it from the lungs to the body's tissues."
+    },
+    {
+      "id": 44,
+      "strand": "Circulatory System",
+      "unit": "Circulatory System",
+      "topic": "Exercise and Circulation",
+      "difficulty": 2,
+      "question": "Heart rate during exercise increases in order to:",
+      "options": [
+        "Reduce blood pressure",
+        "Deliver more oxygen and nutrients to working muscles and remove waste products faster",
+        "Lower body temperature",
+        "Decrease cardiac output"
+      ],
+      "answer": 1,
+      "explanation": "Increased heart rate raises cardiac output, ensuring working muscles receive more oxygenated blood and waste is removed more rapidly."
+    },
+    {
+      "id": 45,
+      "strand": "Circulatory System",
+      "unit": "Circulatory System",
+      "topic": "Exercise and Circulation",
+      "difficulty": 2,
+      "question": "Stroke volume refers to:",
+      "options": [
+        "The total number of heart beats per minute",
+        "The volume of blood pumped by the heart per beat",
+        "The pressure of blood in arteries",
+        "The amount of oxygen in the blood"
+      ],
+      "answer": 1,
+      "explanation": "Stroke volume is the volume of blood ejected by the left ventricle with each heartbeat."
+    },
+    {
+      "id": 46,
+      "strand": "Circulatory System",
+      "unit": "Circulatory System",
+      "topic": "Exercise and Circulation",
+      "difficulty": 2,
+      "question": "Which of the following is a long-term adaptation of the cardiovascular system to regular aerobic exercise?",
+      "options": [
+        "Increased resting heart rate",
+        "Decreased stroke volume",
+        "Cardiac hypertrophy (enlarged heart) and lower resting heart rate",
+        "Reduced capillary density"
+      ],
+      "answer": 2,
+      "explanation": "Regular aerobic training causes the heart to enlarge (cardiac hypertrophy), pump more blood per beat (higher stroke volume) and beat less often at rest."
+    },
+    {
+      "id": 47,
+      "strand": "Circulatory System",
+      "unit": "Circulatory System",
+      "topic": "Structure of Circulatory System",
+      "difficulty": 2,
+      "question": "Blood pressure is measured as two numbers. What does the higher number (systolic) represent?",
+      "options": [
+        "Pressure when the heart relaxes",
+        "Pressure when the heart contracts and pumps blood",
+        "The resting heart rate",
+        "The oxygen saturation of blood"
+      ],
+      "answer": 1,
+      "explanation": "Systolic pressure is the peak pressure in the arteries when the heart contracts and ejects blood."
+    },
+    {
+      "id": 48,
+      "strand": "Circulatory System",
+      "unit": "Circulatory System",
+      "topic": "Exercise and Circulation",
+      "difficulty": 3,
+      "question": "Cardiac output is calculated by:",
+      "options": [
+        "Stroke volume + heart rate",
+        "Stroke volume × heart rate",
+        "Stroke volume ÷ heart rate",
+        "Heart rate − stroke volume"
+      ],
+      "answer": 1,
+      "explanation": "Cardiac output = stroke volume × heart rate. It represents the total volume of blood the heart pumps per minute."
+    },
+    {
+      "id": 49,
+      "strand": "Circulatory System",
+      "unit": "Circulatory System",
+      "topic": "Exercise and Circulation",
+      "difficulty": 3,
+      "question": "Vasodilation during exercise refers to:",
+      "options": [
+        "Narrowing of blood vessels",
+        "Widening of blood vessels to increase blood flow to working muscles",
+        "Increased blood pressure",
+        "Reduced heart rate"
+      ],
+      "answer": 1,
+      "explanation": "Vasodilation is the widening of blood vessels, which reduces resistance and increases blood flow to active muscles during exercise."
+    },
+    {
+      "id": 50,
+      "strand": "Circulatory System",
+      "unit": "Circulatory System",
+      "topic": "Structure of Circulatory System",
+      "difficulty": 2,
+      "question": "What is the role of the capillaries in the circulatory system?",
+      "options": [
+        "Pump blood from the heart",
+        "Connect arteries to veins and allow exchange of nutrients oxygen and waste between blood and tissues",
+        "Store blood",
+        "Carry blood back to the heart only"
+      ],
+      "answer": 1,
+      "explanation": "Capillaries are tiny vessels where the exchange of oxygen, nutrients, CO₂ and waste products occurs between the blood and body tissues."
+    },
+    {
+      "id": 51,
+      "strand": "Fitness and Performance",
+      "unit": "Concepts of Fitness",
+      "topic": "Components of Fitness",
+      "difficulty": 1,
+      "question": "Which of the following is a component of health-related fitness?",
+      "options": [
+        "Speed",
+        "Agility",
+        "Cardiovascular endurance",
+        "Balance"
+      ],
+      "answer": 2,
+      "explanation": "Cardiovascular endurance is a health-related component of fitness. Speed, agility and balance are skill-related components."
+    },
+    {
+      "id": 52,
+      "strand": "Fitness and Performance",
+      "unit": "Concepts of Fitness",
+      "topic": "Components of Fitness",
+      "difficulty": 1,
+      "question": "Muscular strength is best defined as:",
+      "options": [
+        "The ability to exert maximum force in a single effort",
+        "The ability to sustain repeated muscular contractions over time",
+        "The range of movement at a joint",
+        "The ability to maintain balance"
+      ],
+      "answer": 0,
+      "explanation": "Muscular strength is the maximum force a muscle or muscle group can exert in a single contraction."
+    },
+    {
+      "id": 53,
+      "strand": "Fitness and Performance",
+      "unit": "Concepts of Fitness",
+      "topic": "Components of Fitness",
+      "difficulty": 1,
+      "question": "Flexibility refers to:",
+      "options": [
+        "The ability to change direction quickly",
+        "The range of motion available at a joint",
+        "The ability to maintain effort over time",
+        "The capacity to generate power rapidly"
+      ],
+      "answer": 1,
+      "explanation": "Flexibility is the range of motion possible at a joint, influenced by the length and elasticity of muscles and ligaments."
+    },
+    {
+      "id": 54,
+      "strand": "Fitness and Performance",
+      "unit": "Concepts of Fitness",
+      "topic": "Components of Fitness",
+      "difficulty": 2,
+      "question": "Which of the following is a skill-related component of fitness?",
+      "options": [
+        "Body composition",
+        "Cardiovascular endurance",
+        "Flexibility",
+        "Reaction time"
+      ],
+      "answer": 3,
+      "explanation": "Reaction time is a skill-related component of fitness, relevant to sports performance. The others are health-related."
+    },
+    {
+      "id": 55,
+      "strand": "Fitness and Performance",
+      "unit": "Concepts of Fitness",
+      "topic": "Components of Fitness",
+      "difficulty": 2,
+      "question": "Body composition refers to:",
+      "options": [
+        "The total weight of an athlete",
+        "The ratio of lean body mass (muscle bone organs) to body fat",
+        "The number of muscle fibres in the body",
+        "The flexibility of body joints"
+      ],
+      "answer": 1,
+      "explanation": "Body composition describes the proportions of fat mass and fat-free (lean) mass in the body."
+    },
+    {
+      "id": 56,
+      "strand": "Fitness and Performance",
+      "unit": "Concepts of Fitness",
+      "topic": "Components of Fitness",
+      "difficulty": 2,
+      "question": "A sprinter primarily requires which component of fitness?",
+      "options": [
+        "Cardiovascular endurance",
+        "Flexibility",
+        "Speed and muscular power",
+        "Muscular endurance"
+      ],
+      "answer": 2,
+      "explanation": "Sprinting requires rapid, explosive muscular contractions, making speed and power the primary fitness components."
+    },
+    {
+      "id": 57,
+      "strand": "Fitness and Performance",
+      "unit": "Concepts of Fitness",
+      "topic": "Principles of Training",
+      "difficulty": 2,
+      "question": "The FITT principle stands for:",
+      "options": [
+        "Flexibility, Intensity, Time, Training",
+        "Frequency, Intensity, Time, Type",
+        "Frequency, Interval, Technique, Training",
+        "Fitness, Intervals, Time, Type"
+      ],
+      "answer": 1,
+      "explanation": "FITT stands for Frequency (how often), Intensity (how hard), Time (how long) and Type (what kind) of exercise."
+    },
+    {
+      "id": 58,
+      "strand": "Fitness and Performance",
+      "unit": "Concepts of Fitness",
+      "topic": "Principles of Training",
+      "difficulty": 2,
+      "question": "The principle of progressive overload states that:",
+      "options": [
+        "Training intensity should remain the same throughout",
+        "The body must be gradually challenged beyond its current capacity to improve",
+        "Rest is more important than training",
+        "All athletes should train the same way"
+      ],
+      "answer": 1,
+      "explanation": "Progressive overload means gradually increasing training demands (frequency, intensity or duration) to continue improving fitness."
+    },
+    {
+      "id": 59,
+      "strand": "Fitness and Performance",
+      "unit": "Concepts of Fitness",
+      "topic": "Principles of Training",
+      "difficulty": 2,
+      "question": "The principle of specificity in training means:",
+      "options": [
+        "All exercises are equally beneficial for all sports",
+        "Training should be specific to the muscles and energy systems used in the target sport",
+        "Rest days must be specific and planned",
+        "Athletes should specialise in one sport only"
+      ],
+      "answer": 1,
+      "explanation": "Specificity means training should closely match the demands of the sport to produce relevant physiological adaptations."
+    },
+    {
+      "id": 60,
+      "strand": "Fitness and Performance",
+      "unit": "Concepts of Fitness",
+      "topic": "Principles of Training",
+      "difficulty": 3,
+      "question": "Which principle of training describes the loss of fitness gains when training stops?",
+      "options": [
+        "Specificity",
+        "Overload",
+        "Reversibility",
+        "Progression"
+      ],
+      "answer": 2,
+      "explanation": "Reversibility (also called detraining) describes the loss of fitness adaptations when training ceases or significantly reduces."
+    },
+    {
+      "id": 61,
+      "strand": "Fitness and Performance",
+      "unit": "Training and Its Effects",
+      "topic": "Methods of Training",
+      "difficulty": 2,
+      "question": "Interval training involves:",
+      "options": [
+        "Continuous exercise at moderate intensity",
+        "Alternating periods of high-intensity exercise with rest or low-intensity recovery periods",
+        "Lifting maximum weights with long rest",
+        "Stretching exercises only"
+      ],
+      "answer": 1,
+      "explanation": "Interval training alternates bouts of high-intensity effort with rest or active recovery, developing both aerobic and anaerobic fitness."
+    },
+    {
+      "id": 62,
+      "strand": "Fitness and Performance",
+      "unit": "Training and Its Effects",
+      "topic": "Methods of Training",
+      "difficulty": 2,
+      "question": "Circuit training is best described as:",
+      "options": [
+        "Running long distances continuously",
+        "Performing a series of different exercises at stations with minimal rest between them",
+        "Only weight training",
+        "Swimming laps at varying speeds"
+      ],
+      "answer": 1,
+      "explanation": "Circuit training involves performing exercises at multiple stations in sequence, developing strength, endurance and coordination."
+    },
+    {
+      "id": 63,
+      "strand": "Fitness and Performance",
+      "unit": "Training and Its Effects",
+      "topic": "Methods of Training",
+      "difficulty": 2,
+      "question": "Continuous training is most appropriate for developing:",
+      "options": [
+        "Explosive power",
+        "Cardiovascular endurance",
+        "Maximum strength",
+        "Reaction time"
+      ],
+      "answer": 1,
+      "explanation": "Continuous training involves sustained aerobic activity at moderate intensity, making it ideal for developing cardiovascular endurance."
+    },
+    {
+      "id": 64,
+      "strand": "Fitness and Performance",
+      "unit": "Training and Its Effects",
+      "topic": "Methods of Training",
+      "difficulty": 2,
+      "question": "Plyometric training is primarily used to develop:",
+      "options": [
+        "Flexibility",
+        "Cardiovascular endurance",
+        "Explosive power and speed",
+        "Muscular endurance"
+      ],
+      "answer": 2,
+      "explanation": "Plyometric exercises (e.g. bounding, box jumps) develop explosive power by training the stretch-shortening cycle of muscles."
+    },
+    {
+      "id": 65,
+      "strand": "Fitness and Performance",
+      "unit": "Training and Its Effects",
+      "topic": "Methods of Training",
+      "difficulty": 3,
+      "question": "Fartlek training differs from standard interval training because:",
+      "options": [
+        "It uses only running",
+        "Intensity and terrain vary continuously without fixed work-to-rest ratios",
+        "It is only performed indoors",
+        "It involves no rest periods at all"
+      ],
+      "answer": 1,
+      "explanation": "Fartlek (speed play) involves continuous running with unstructured variations in pace and terrain, unlike fixed interval training."
+    },
+    {
+      "id": 66,
+      "strand": "Fitness and Performance",
+      "unit": "Training and Its Effects",
+      "topic": "Warm Up and Cool Down",
+      "difficulty": 1,
+      "question": "Which of the following is the main purpose of a warm-up before exercise?",
+      "options": [
+        "To impress spectators",
+        "To gradually increase heart rate, body temperature and blood flow to muscles, preparing the body for exercise",
+        "To reduce the need for stretching",
+        "To decrease flexibility"
+      ],
+      "answer": 1,
+      "explanation": "A warm-up gradually raises body temperature and heart rate, increases blood flow to muscles and reduces injury risk."
+    },
+    {
+      "id": 67,
+      "strand": "Fitness and Performance",
+      "unit": "Training and Its Effects",
+      "topic": "Warm Up and Cool Down",
+      "difficulty": 2,
+      "question": "A cool-down after exercise primarily helps to:",
+      "options": [
+        "Build muscle rapidly",
+        "Gradually return the body to its resting state, remove lactic acid and reduce muscle soreness",
+        "Increase heart rate",
+        "Improve explosive power"
+      ],
+      "answer": 1,
+      "explanation": "A cool-down reduces heart rate and breathing gradually, promotes removal of lactic acid and reduces muscle soreness (DOMS)."
+    },
+    {
+      "id": 68,
+      "strand": "Fitness and Performance",
+      "unit": "Training and Its Effects",
+      "topic": "Effects of Training",
+      "difficulty": 2,
+      "question": "Which of the following is a short-term effect of exercise on the muscular system?",
+      "options": [
+        "Muscle hypertrophy",
+        "Increased muscle fibre number",
+        "Muscle fatigue and temporary increase in muscle temperature",
+        "Decreased reaction time"
+      ],
+      "answer": 2,
+      "explanation": "Short-term effects of exercise include muscle fatigue, increased temperature and lactic acid build-up — these are temporary."
+    },
+    {
+      "id": 69,
+      "strand": "Fitness and Performance",
+      "unit": "Training and Its Effects",
+      "topic": "Effects of Training",
+      "difficulty": 3,
+      "question": "Which of the following is a long-term cardiovascular adaptation to regular aerobic exercise?",
+      "options": [
+        "Increased resting heart rate",
+        "Decreased stroke volume",
+        "Lower resting heart rate and increased cardiac output during exercise",
+        "Narrowing of blood vessels"
+      ],
+      "answer": 2,
+      "explanation": "Long-term aerobic training lowers resting heart rate (bradycardia), increases stroke volume and improves cardiac output during exercise."
+    },
+    {
+      "id": 70,
+      "strand": "Fitness and Performance",
+      "unit": "Training and Its Effects",
+      "topic": "Effects of Training",
+      "difficulty": 3,
+      "question": "The term DOMS refers to:",
+      "options": [
+        "A type of warm-up",
+        "Delayed Onset Muscle Soreness — pain felt 24–72 hours after unfamiliar or intense exercise",
+        "A training method",
+        "An overuse injury"
+      ],
+      "answer": 1,
+      "explanation": "DOMS (Delayed Onset Muscle Soreness) is muscle pain and stiffness experienced 24–72 hours after exercise, caused by microscopic muscle damage."
+    },
+    {
+      "id": 71,
+      "strand": "Fitness and Performance",
+      "unit": "Skill and Other Factors Affecting Performance",
+      "topic": "Skill",
+      "difficulty": 1,
+      "question": "A closed skill in sport is best described as:",
+      "options": [
+        "A skill performed in an unpredictable environment",
+        "A skill performed in a stable, predictable environment",
+        "A skill that requires no practice",
+        "A skill only beginners use"
+      ],
+      "answer": 1,
+      "explanation": "Closed skills are performed in a stable, predictable environment where the performer can control the action, such as a gymnastics routine."
+    },
+    {
+      "id": 72,
+      "strand": "Fitness and Performance",
+      "unit": "Skill and Other Factors Affecting Performance",
+      "topic": "Skill",
+      "difficulty": 1,
+      "question": "Which of the following is an example of an open skill?",
+      "options": [
+        "A penalty kick in football",
+        "A vault in gymnastics",
+        "A set serve in volleyball",
+        "A track sprint start"
+      ],
+      "answer": 0,
+      "explanation": "A penalty kick is an open skill because it is performed in response to an unpredictable opponent (the goalkeeper)."
+    },
+    {
+      "id": 73,
+      "strand": "Fitness and Performance",
+      "unit": "Skill and Other Factors Affecting Performance",
+      "topic": "Skill",
+      "difficulty": 2,
+      "question": "Motor programmes are best described as:",
+      "options": [
+        "Computer software for sport analysis",
+        "Pre-learned movement patterns stored in memory that can be retrieved and executed automatically",
+        "Random unplanned movements",
+        "Conscious step-by-step instructions for movement"
+      ],
+      "answer": 1,
+      "explanation": "Motor programmes are stored patterns of movement that, once learned, can be executed without conscious thought."
+    },
+    {
+      "id": 74,
+      "strand": "Fitness and Performance",
+      "unit": "Skill and Other Factors Affecting Performance",
+      "topic": "Factors Affecting Performance",
+      "difficulty": 2,
+      "question": "Which of the following factors can negatively affect sports performance?",
+      "options": [
+        "Adequate sleep and rest",
+        "Positive mental attitude",
+        "Dehydration",
+        "High carbohydrate intake before competition"
+      ],
+      "answer": 2,
+      "explanation": "Dehydration impairs physical and cognitive performance, increasing fatigue and reducing concentration and coordination."
+    },
+    {
+      "id": 75,
+      "strand": "Fitness and Performance",
+      "unit": "Skill and Other Factors Affecting Performance",
+      "topic": "Factors Affecting Performance",
+      "difficulty": 2,
+      "question": "Which of the following best describes the role of feedback in skill learning?",
+      "options": [
+        "It is not useful for athletes",
+        "It provides information about performance that helps the learner identify errors and improve",
+        "It only discourages athletes",
+        "It replaces the need for practice"
+      ],
+      "answer": 1,
+      "explanation": "Feedback — from coaches, video analysis or body sensation — helps athletes identify errors and adjust their technique."
+    },
+    {
+      "id": 76,
+      "strand": "Fitness and Performance",
+      "unit": "Skill and Other Factors Affecting Performance",
+      "topic": "Skill",
+      "difficulty": 3,
+      "question": "The three stages of learning a new motor skill in order are:",
+      "options": [
+        "Autonomous, cognitive, associative",
+        "Cognitive, associative, autonomous",
+        "Practice, theory, application",
+        "Beginner, intermediate, expert"
+      ],
+      "answer": 1,
+      "explanation": "Fitts and Posner's model describes skill learning in three stages: cognitive (thinking), associative (refining) and autonomous (automatic)."
+    },
+    {
+      "id": 77,
+      "strand": "Fitness and Performance",
+      "unit": "Skill and Other Factors Affecting Performance",
+      "topic": "Factors Affecting Performance",
+      "difficulty": 2,
+      "question": "A 'plateaux' in learning refers to:",
+      "options": [
+        "Rapid improvement in performance",
+        "A period where performance temporarily stops improving despite continued practice",
+        "A type of training drill",
+        "A significant personal best performance"
+      ],
+      "answer": 1,
+      "explanation": "A performance plateau is a temporary halt in improvement during skill learning, often caused by fatigue, boredom or consolidation of learning."
+    },
+    {
+      "id": 78,
+      "strand": "Fitness and Performance",
+      "unit": "Sports Psychology",
+      "topic": "Motivation",
+      "difficulty": 1,
+      "question": "Intrinsic motivation in sport refers to:",
+      "options": [
+        "Being motivated by external rewards like trophies",
+        "Being motivated by internal factors such as enjoyment, personal satisfaction and love of the sport",
+        "Being pushed to perform by a coach",
+        "Being motivated by prize money"
+      ],
+      "answer": 1,
+      "explanation": "Intrinsic motivation comes from within the individual — performing for the love of the sport, personal satisfaction or challenge."
+    },
+    {
+      "id": 79,
+      "strand": "Fitness and Performance",
+      "unit": "Sports Psychology",
+      "topic": "Motivation",
+      "difficulty": 2,
+      "question": "Which of the following is an example of extrinsic motivation?",
+      "options": [
+        "Personal satisfaction from improving technique",
+        "Enjoying the game",
+        "Winning a gold medal and receiving prize money",
+        "Loving the challenge of competition"
+      ],
+      "answer": 2,
+      "explanation": "Extrinsic motivation comes from external rewards such as medals, trophies, money or recognition."
+    },
+    {
+      "id": 80,
+      "strand": "Fitness and Performance",
+      "unit": "Sports Psychology",
+      "topic": "Arousal and Anxiety",
+      "difficulty": 2,
+      "question": "The inverted-U theory of arousal suggests that:",
+      "options": [
+        "Performance always improves with increased arousal",
+        "Performance is best at an optimal moderate level of arousal — too low or too high impairs performance",
+        "Anxiety always improves performance",
+        "Low arousal is best for all sports"
+      ],
+      "answer": 1,
+      "explanation": "The inverted-U theory proposes that performance peaks at an optimal arousal level, declining when arousal is either too low or too high."
+    },
+    {
+      "id": 81,
+      "strand": "Fitness and Performance",
+      "unit": "Sports Psychology",
+      "topic": "Goal Setting",
+      "difficulty": 2,
+      "question": "SMART goal setting in sport means goals should be:",
+      "options": [
+        "Simple, measurable, achievable, relevant, timely",
+        "Specific, measurable, achievable, realistic, time-bound",
+        "Short, manageable, accurate, realistic, tested",
+        "Special, meaningful, achievable, recorded, tested"
+      ],
+      "answer": 1,
+      "explanation": "SMART goals are Specific, Measurable, Achievable, Realistic (or Relevant) and Time-bound, providing clear direction for performance improvement."
+    },
+    {
+      "id": 82,
+      "strand": "Fitness and Performance",
+      "unit": "Sports Psychology",
+      "topic": "Stress and Anxiety",
+      "difficulty": 2,
+      "question": "Somatic anxiety in sport refers to:",
+      "options": [
+        "Mental worry and negative thoughts",
+        "The physical symptoms of anxiety such as increased heart rate sweating and muscle tension",
+        "A type of sports injury",
+        "A method of relaxation"
+      ],
+      "answer": 1,
+      "explanation": "Somatic anxiety refers to the physical manifestations of anxiety, such as a racing heart, sweating and butterflies in the stomach."
+    },
+    {
+      "id": 83,
+      "strand": "Fitness and Performance",
+      "unit": "Sports Psychology",
+      "topic": "Stress and Anxiety",
+      "difficulty": 2,
+      "question": "Which of the following is a psychological technique used to manage pre-competition anxiety?",
+      "options": [
+        "Increasing caffeine intake",
+        "Visualisation and positive self-talk",
+        "Reducing sleep",
+        "Avoiding warm-up"
+      ],
+      "answer": 1,
+      "explanation": "Visualisation (mental rehearsal) and positive self-talk are evidence-based psychological techniques for managing pre-competition anxiety."
+    },
+    {
+      "id": 84,
+      "strand": "Fitness and Performance",
+      "unit": "Sports Psychology",
+      "topic": "Motivation",
+      "difficulty": 3,
+      "question": "Attribution theory in sport suggests that athletes explain their success or failure by attributing it to:",
+      "options": [
+        "Random chance only",
+        "Causes such as ability effort task difficulty and luck",
+        "Their coach's instructions",
+        "The weather conditions only"
+      ],
+      "answer": 1,
+      "explanation": "Attribution theory identifies four main causes athletes use to explain outcomes: ability, effort, task difficulty and luck."
+    },
+    {
+      "id": 85,
+      "strand": "Fitness and Performance",
+      "unit": "Sports Psychology",
+      "topic": "Aggression",
+      "difficulty": 3,
+      "question": "Which of the following best describes 'channelled aggression' in sport?",
+      "options": [
+        "Deliberately injuring an opponent",
+        "Directing assertive competitive energy positively within the rules of the sport",
+        "Arguing with officials",
+        "Hostile behaviour towards spectators"
+      ],
+      "answer": 1,
+      "explanation": "Channelled aggression directs competitive energy and assertiveness positively, enhancing performance within the rules without harming others."
+    },
+    {
+      "id": 86,
+      "strand": "Fitness and Performance",
+      "unit": "Sports Psychology",
+      "topic": "Cohesion",
+      "difficulty": 2,
+      "question": "Team cohesion refers to:",
+      "options": [
+        "Individual performance levels",
+        "The degree to which team members work together and are united in pursuit of a common goal",
+        "The physical fitness of a team",
+        "The skills of the team captain only"
+      ],
+      "answer": 1,
+      "explanation": "Team cohesion describes the degree of unity and cooperation among team members working toward shared goals."
+    },
+    {
+      "id": 87,
+      "strand": "Fitness and Performance",
+      "unit": "Sports Psychology",
+      "topic": "Motivation",
+      "difficulty": 2,
+      "question": "Which of the following coaching strategies would best maintain an athlete's intrinsic motivation?",
+      "options": [
+        "Offering large financial bonuses",
+        "Focusing only on winning",
+        "Providing positive feedback acknowledging effort and improvement",
+        "Increasing pressure and criticism"
+      ],
+      "answer": 2,
+      "explanation": "Positive, process-focused feedback nurtures intrinsic motivation by recognising effort and growth rather than only outcomes."
+    },
+    {
+      "id": 88,
+      "strand": "Fitness and Performance",
+      "unit": "Concepts of Fitness",
+      "topic": "Testing Fitness",
+      "difficulty": 2,
+      "question": "The Cooper 12-minute run test is used to estimate:",
+      "options": [
+        "Muscular strength",
+        "Flexibility",
+        "Cardiovascular endurance and VO₂ max",
+        "Body composition"
+      ],
+      "answer": 2,
+      "explanation": "The Cooper test measures how far a person can run in 12 minutes, providing an estimate of VO₂ max and aerobic fitness."
+    },
+    {
+      "id": 89,
+      "strand": "Fitness and Performance",
+      "unit": "Concepts of Fitness",
+      "topic": "Testing Fitness",
+      "difficulty": 2,
+      "question": "The sit-and-reach test measures:",
+      "options": [
+        "Muscular strength",
+        "Cardiovascular endurance",
+        "Lower back and hamstring flexibility",
+        "Body composition"
+      ],
+      "answer": 2,
+      "explanation": "The sit-and-reach test assesses flexibility of the lower back and hamstrings."
+    },
+    {
+      "id": 90,
+      "strand": "Fitness and Performance",
+      "unit": "Concepts of Fitness",
+      "topic": "Testing Fitness",
+      "difficulty": 2,
+      "question": "BMI (Body Mass Index) is calculated by:",
+      "options": [
+        "Height divided by weight",
+        "Weight (kg) divided by height (m²)",
+        "Weight multiplied by height",
+        "Waist measurement divided by height"
+      ],
+      "answer": 1,
+      "explanation": "BMI = weight in kg ÷ height in metres squared (m²). It provides a broad indicator of healthy weight range."
+    },
+    {
+      "id": 91,
+      "strand": "Health and Nutrition",
+      "unit": "Health and Nutrition",
+      "topic": "Nutrients",
+      "difficulty": 1,
+      "question": "Which macronutrient is the body's preferred and most immediate source of energy?",
+      "options": [
+        "Fat",
+        "Protein",
+        "Carbohydrates",
+        "Vitamins"
+      ],
+      "answer": 2,
+      "explanation": "Carbohydrates are the body's primary energy source, broken down into glucose for immediate use or stored as glycogen."
+    },
+    {
+      "id": 92,
+      "strand": "Health and Nutrition",
+      "unit": "Health and Nutrition",
+      "topic": "Nutrients",
+      "difficulty": 1,
+      "question": "Which of the following nutrients is essential for building and repairing muscle tissue?",
+      "options": [
+        "Carbohydrates",
+        "Protein",
+        "Fat",
+        "Water"
+      ],
+      "answer": 1,
+      "explanation": "Protein provides amino acids essential for muscle growth, repair and maintenance."
+    },
+    {
+      "id": 93,
+      "strand": "Health and Nutrition",
+      "unit": "Health and Nutrition",
+      "topic": "Nutrients",
+      "difficulty": 1,
+      "question": "Which of the following vitamins is produced by the body when exposed to sunlight?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": 3,
+      "explanation": "Vitamin D is synthesised in the skin when exposed to ultraviolet light from the sun, playing a key role in calcium absorption and bone health."
+    },
+    {
+      "id": 94,
+      "strand": "Health and Nutrition",
+      "unit": "Health and Nutrition",
+      "topic": "Diet and Performance",
+      "difficulty": 2,
+      "question": "Carbohydrate loading before endurance events is used to:",
+      "options": [
+        "Reduce body weight",
+        "Maximise glycogen stores in muscles and liver for sustained energy",
+        "Increase protein intake",
+        "Dehydrate the body"
+      ],
+      "answer": 1,
+      "explanation": "Carbohydrate loading maximises glycogen stores, providing a larger energy reservoir for prolonged endurance activities."
+    },
+    {
+      "id": 95,
+      "strand": "Health and Nutrition",
+      "unit": "Health and Nutrition",
+      "topic": "Diet and Performance",
+      "difficulty": 2,
+      "question": "Dehydration during exercise primarily affects performance by:",
+      "options": [
+        "Increasing muscular strength",
+        "Improving endurance",
+        "Reducing cognitive function, coordination and increasing fatigue",
+        "Decreasing body temperature"
+      ],
+      "answer": 2,
+      "explanation": "Dehydration impairs physical and mental performance, reducing coordination, decision-making and increasing the risk of heat illness."
+    },
+    {
+      "id": 96,
+      "strand": "Health and Nutrition",
+      "unit": "Health and Nutrition",
+      "topic": "Nutrients",
+      "difficulty": 2,
+      "question": "Which of the following is the main role of iron in athletic performance?",
+      "options": [
+        "Provides energy directly",
+        "Forms part of haemoglobin enabling red blood cells to carry oxygen",
+        "Builds muscle",
+        "Lubricates joints"
+      ],
+      "answer": 1,
+      "explanation": "Iron is a component of haemoglobin and myoglobin, enabling the transport and storage of oxygen in the blood and muscles."
+    },
+    {
+      "id": 97,
+      "strand": "Health and Nutrition",
+      "unit": "Health and Nutrition",
+      "topic": "Diet and Performance",
+      "difficulty": 2,
+      "question": "The recommended ratio of macronutrients for an endurance athlete's diet is approximately:",
+      "options": [
+        "High fat, low carbohydrate, moderate protein",
+        "High carbohydrate (60–70%), moderate protein (15–20%), lower fat (15–20%)",
+        "Equal amounts of all three macronutrients",
+        "High protein, low carbohydrate, low fat"
+      ],
+      "answer": 1,
+      "explanation": "Endurance athletes require a carbohydrate-dominant diet to fuel sustained aerobic activity and replenish glycogen stores."
+    },
+    {
+      "id": 98,
+      "strand": "Health and Nutrition",
+      "unit": "Health and Nutrition",
+      "topic": "Diet and Performance",
+      "difficulty": 3,
+      "question": "Which of the following best describes the glycaemic index (GI)?",
+      "options": [
+        "A measure of protein content in food",
+        "A ranking of carbohydrate foods based on how quickly they raise blood glucose levels",
+        "A measure of fat content",
+        "A calorie counting system"
+      ],
+      "answer": 1,
+      "explanation": "The GI ranks carbohydrate foods based on how rapidly they cause blood glucose to rise; low GI foods provide sustained energy release."
+    },
+    {
+      "id": 99,
+      "strand": "Health and Nutrition",
+      "unit": "Health and Nutrition",
+      "topic": "Diet and Performance",
+      "difficulty": 2,
+      "question": "Which of the following best describes the role of fat in the diet of an athlete?",
+      "options": [
+        "Fat has no role in athletic performance",
+        "Fat provides a long-term energy source, supports hormone production and aids absorption of fat-soluble vitamins",
+        "Fat only causes weight gain",
+        "Fat should be completely eliminated from an athlete's diet"
+      ],
+      "answer": 1,
+      "explanation": "Dietary fat is an important energy source for low-intensity exercise, supports hormone production and enables absorption of vitamins A, D, E and K."
+    },
+    {
+      "id": 100,
+      "strand": "Health and Nutrition",
+      "unit": "Health and Nutrition",
+      "topic": "Nutrients",
+      "difficulty": 2,
+      "question": "Calcium is most important for which of the following in the context of physical education?",
+      "options": [
+        "Providing energy during exercise",
+        "Maintaining strong bones and teeth and supporting muscle contraction",
+        "Producing red blood cells",
+        "Repairing skin tissue"
+      ],
+      "answer": 1,
+      "explanation": "Calcium is essential for bone strength and density, and plays a key role in muscle contraction and nerve function."
+    },
+    {
+      "id": 101,
+      "strand": "Trends and Issues",
+      "unit": "Trends and Issues",
+      "topic": "Trends in Sport",
+      "difficulty": 1,
+      "question": "Which of the following best describes the trend of sport commercialisation?",
+      "options": [
+        "Sport becoming less popular",
+        "The increasing role of business, sponsorship and media in driving and profiting from sport",
+        "Sport being played only in schools",
+        "Governments banning professional sport"
+      ],
+      "answer": 1,
+      "explanation": "Commercialisation of sport refers to the growing involvement of business interests, including sponsorship, broadcasting rights and merchandise."
+    },
+    {
+      "id": 102,
+      "strand": "Trends and Issues",
+      "unit": "Trends and Issues",
+      "topic": "Issues in Sport",
+      "difficulty": 1,
+      "question": "Doping in sport refers to:",
+      "options": [
+        "Training in extreme conditions",
+        "The use of prohibited substances or methods to enhance athletic performance",
+        "A legal supplement programme",
+        "A technique for improving concentration"
+      ],
+      "answer": 1,
+      "explanation": "Doping involves using substances or methods banned by sporting authorities (e.g. WADA) to gain an unfair performance advantage."
+    },
+    {
+      "id": 103,
+      "strand": "Trends and Issues",
+      "unit": "Trends and Issues",
+      "topic": "Issues in Sport",
+      "difficulty": 1,
+      "question": "Which international organisation is responsible for anti-doping efforts in sport?",
+      "options": [
+        "FIFA",
+        "The World Anti-Doping Agency (WADA)",
+        "The IOC only",
+        "CARICOM"
+      ],
+      "answer": 1,
+      "explanation": "WADA (World Anti-Doping Agency) sets and enforces global anti-doping rules and coordinates testing programmes."
+    },
+    {
+      "id": 104,
+      "strand": "Trends and Issues",
+      "unit": "Trends and Issues",
+      "topic": "Trends in Sport",
+      "difficulty": 2,
+      "question": "Technology in sport is increasingly used for:",
+      "options": [
+        "Replacing all human athletes",
+        "Performance analysis, injury prevention and officiating (e.g. VAR, Hawk-Eye)",
+        "Reducing the number of sports played",
+        "Eliminating all contact sports"
+      ],
+      "answer": 1,
+      "explanation": "Sports technology includes tools for performance analysis (GPS, video), injury monitoring and officiating aids like VAR and Hawk-Eye."
+    },
+    {
+      "id": 105,
+      "strand": "Trends and Issues",
+      "unit": "Trends and Issues",
+      "topic": "Issues in Sport",
+      "difficulty": 2,
+      "question": "Which of the following is an example of violence in sport?",
+      "options": [
+        "A hard but fair tackle",
+        "Deliberate injury to an opponent outside the rules of the game",
+        "Aggressive celebrating",
+        "Shouting instructions to teammates"
+      ],
+      "answer": 1,
+      "explanation": "Violence in sport refers to deliberate harmful acts that exceed the rules and norms of fair competition."
+    },
+    {
+      "id": 106,
+      "strand": "Trends and Issues",
+      "unit": "Trends and Issues",
+      "topic": "Issues in Sport",
+      "difficulty": 2,
+      "question": "Gender discrimination in sport most commonly refers to:",
+      "options": [
+        "Women being better athletes than men",
+        "Unequal opportunities, pay and media coverage for female athletes compared to male athletes",
+        "Sports having mixed-gender teams",
+        "Women choosing not to participate in sport"
+      ],
+      "answer": 1,
+      "explanation": "Gender discrimination in sport includes unequal prize money, media exposure and participation opportunities for women compared to men."
+    },
+    {
+      "id": 107,
+      "strand": "Trends and Issues",
+      "unit": "Trends and Issues",
+      "topic": "Trends in Sport",
+      "difficulty": 2,
+      "question": "Which of the following describes the concept of 'sport for all'?",
+      "options": [
+        "Elite athletes having access to the best facilities",
+        "The principle that physical activity and sport should be accessible to every member of society regardless of ability age or background",
+        "Professional sport only",
+        "Government control of all sporting events"
+      ],
+      "answer": 1,
+      "explanation": "Sport for all is the principle that participation in sport and physical activity is a right for everyone, regardless of gender, age, disability or background."
+    },
+    {
+      "id": 108,
+      "strand": "Trends and Issues",
+      "unit": "Trends and Issues",
+      "topic": "Issues in Sport",
+      "difficulty": 3,
+      "question": "Match-fixing in sport is a serious issue because:",
+      "options": [
+        "It improves fan engagement",
+        "It undermines the integrity of competition, destroys public trust and is often linked to organised crime",
+        "It benefits smaller teams",
+        "It increases prize money for athletes"
+      ],
+      "answer": 1,
+      "explanation": "Match-fixing corrupts the fundamental principle of fair competition and is frequently connected to illegal gambling and criminal organisations."
+    },
+    {
+      "id": 109,
+      "strand": "Trends and Issues",
+      "unit": "Trends and Issues",
+      "topic": "Trends in Sport",
+      "difficulty": 2,
+      "question": "The growth of e-sports (electronic sports) represents which trend in physical education?",
+      "options": [
+        "The decline of physical activity",
+        "The recognition of competitive gaming as a form of organised competition with professional leagues",
+        "The replacement of traditional sport",
+        "Reduced interest in sport generally"
+      ],
+      "answer": 1,
+      "explanation": "E-sports have grown into a major professional industry with international competitions, raising questions about the nature of sport and physical activity."
+    },
+    {
+      "id": 110,
+      "strand": "Trends and Issues",
+      "unit": "Trends and Issues",
+      "topic": "Issues in Sport",
+      "difficulty": 3,
+      "question": "Which of the following best describes the impact of racism in sport?",
+      "options": [
+        "It has no significant effect",
+        "It excludes and discourages athletes from minority groups, creates hostile environments and undermines the values of fair play",
+        "It improves competition",
+        "It only affects individual athletes not teams"
+      ],
+      "answer": 1,
+      "explanation": "Racism in sport marginalises athletes, damages team cohesion, and contradicts the core values of fair play, respect and inclusion."
+    },
+    {
+      "id": 111,
+      "strand": "History and Development of Sports",
+      "unit": "History and Development of Sports",
+      "topic": "History of Sports",
+      "difficulty": 2,
+      "question": "Which of the following events marked the beginning of professionalism in sport?",
+      "options": [
+        "The ancient Greek Olympics",
+        "The creation of paid leagues and professional contracts in sports such as football and cricket in the late 19th and early 20th centuries",
+        "The 2000 Sydney Olympics",
+        "The formation of CONCACAF"
+      ],
+      "answer": 1,
+      "explanation": "The late 19th century saw the rise of professional sport, with paid athletes and organised leagues beginning in football, cricket and baseball."
+    },
+    {
+      "id": 112,
+      "strand": "Muscular System",
+      "unit": "Muscular System",
+      "topic": "Muscle Function",
+      "difficulty": 2,
+      "question": "Which of the following describes an eccentric muscle contraction?",
+      "options": [
+        "The muscle shortens while producing tension",
+        "The muscle lengthens while producing tension",
+        "The muscle produces tension with no change in length",
+        "The muscle relaxes completely"
+      ],
+      "answer": 1,
+      "explanation": "An eccentric contraction occurs when a muscle produces force while lengthening, for example when lowering a weight slowly."
+    },
+    {
+      "id": 113,
+      "strand": "Muscular System",
+      "unit": "Muscular System",
+      "topic": "Muscle Function",
+      "difficulty": 3,
+      "question": "Which muscle is responsible for extending the knee joint?",
+      "options": [
+        "Hamstrings",
+        "Gastrocnemius",
+        "Quadriceps",
+        "Gluteus maximus"
+      ],
+      "answer": 2,
+      "explanation": "The quadriceps group (rectus femoris, vastus muscles) extends the knee joint — essential for kicking, jumping and running."
+    },
+    {
+      "id": 114,
+      "strand": "Respiratory System",
+      "unit": "Respiratory System",
+      "topic": "Exercise and Respiration",
+      "difficulty": 3,
+      "question": "During maximal exercise, which of the following occurs to the respiratory system?",
+      "options": [
+        "Breathing rate and tidal volume both decrease",
+        "Breathing rate increases and tidal volume increases to maximise ventilation",
+        "Only tidal volume increases",
+        "Breathing rate decreases to conserve energy"
+      ],
+      "answer": 1,
+      "explanation": "At maximal intensity, both breathing rate (frequency) and tidal volume increase dramatically to maximise minute ventilation and O₂ delivery."
+    },
+    {
+      "id": 115,
+      "strand": "Skeletal System",
+      "unit": "Skeletal System",
+      "topic": "Bones and Joints",
+      "difficulty": 2,
+      "question": "Which of the following is an example of a pivot joint?",
+      "options": [
+        "Hip",
+        "Knee",
+        "The joint between atlas and axis in the neck",
+        "Elbow"
+      ],
+      "answer": 2,
+      "explanation": "The joint between the atlas (C1) and axis (C2) vertebrae is a pivot joint, allowing rotational movement of the head."
+    },
+    {
+      "id": 116,
+      "strand": "Circulatory System",
+      "unit": "Circulatory System",
+      "topic": "Structure of Circulatory System",
+      "difficulty": 2,
+      "question": "Pulmonary circulation refers to:",
+      "options": [
+        "Blood flow from the heart to the body",
+        "Blood flow from the heart to the lungs and back",
+        "Blood flow in the muscles",
+        "Blood flow to the digestive system"
+      ],
+      "answer": 1,
+      "explanation": "Pulmonary circulation carries deoxygenated blood from the right ventricle to the lungs and returns oxygenated blood to the left atrium."
+    },
+    {
+      "id": 117,
+      "strand": "Fitness and Performance",
+      "unit": "Concepts of Fitness",
+      "topic": "Components of Fitness",
+      "difficulty": 2,
+      "question": "Which of the following best defines 'power' as a component of fitness?",
+      "options": [
+        "Maximum force in a single effort",
+        "The ability to exert force quickly — a combination of strength and speed",
+        "Sustained effort over time",
+        "Maintaining posture during movement"
+      ],
+      "answer": 1,
+      "explanation": "Power = strength × speed. It is the ability to exert maximum force as quickly as possible, critical in jumping, throwing and sprinting."
+    },
+    {
+      "id": 118,
+      "strand": "Fitness and Performance",
+      "unit": "Training and Its Effects",
+      "topic": "Effects of Training",
+      "difficulty": 2,
+      "question": "Which of the following is a long-term effect of regular resistance training on the muscular system?",
+      "options": [
+        "Decreased muscle size",
+        "Muscle hypertrophy (increased muscle fibre size) and increased strength",
+        "Increased flexibility",
+        "Reduced bone density"
+      ],
+      "answer": 1,
+      "explanation": "Regular resistance training causes muscle hypertrophy through increased protein synthesis, resulting in larger and stronger muscle fibres."
+    },
+    {
+      "id": 119,
+      "strand": "Fitness and Performance",
+      "unit": "Skill and Other Factors Affecting Performance",
+      "topic": "Skill",
+      "difficulty": 3,
+      "question": "Which of the following best describes a 'discrete skill'?",
+      "options": [
+        "A skill with no clear beginning or end",
+        "A skill with a clear beginning and end such as a throw or a kick",
+        "A skill performed in water",
+        "A skill requiring multiple players"
+      ],
+      "answer": 1,
+      "explanation": "Discrete skills have a clear start and finish, such as a penalty kick, a tennis serve or a gymnastics tumble."
+    },
+    {
+      "id": 120,
+      "strand": "Health and Nutrition",
+      "unit": "Health and Nutrition",
+      "topic": "Nutrients",
+      "difficulty": 2,
+      "question": "Which of the following is a fat-soluble vitamin?",
+      "options": [
+        "Vitamin C",
+        "Vitamin B12",
+        "Vitamin A",
+        "Vitamin B6"
+      ],
+      "answer": 2,
+      "explanation": "Vitamins A, D, E and K are fat-soluble, stored in body fat. Vitamins B and C are water-soluble and not stored as readily."
+    },
+    {
+      "id": 121,
+      "strand": "Trends and Issues",
+      "unit": "Trends and Issues",
+      "topic": "Trends in Sport",
+      "difficulty": 2,
+      "question": "Social media has impacted sport primarily by:",
+      "options": [
+        "Reducing athlete popularity",
+        "Increasing direct fan engagement, global athlete profiles and instant sport news coverage",
+        "Decreasing sponsorship opportunities",
+        "Limiting broadcasting of sports events"
+      ],
+      "answer": 1,
+      "explanation": "Social media allows athletes to build personal brands, engage fans directly and enables instant global coverage of sporting events."
+    },
+    {
+      "id": 122,
+      "strand": "History and Development of Sports",
+      "unit": "History and Development of Sports",
+      "topic": "Development of Sports in the Caribbean",
+      "difficulty": 3,
+      "question": "Which Caribbean athlete is most widely credited with transforming global sprinting and elevating the region's status in athletics?",
+      "options": [
+        "Carl Lewis",
+        "Donovan Bailey",
+        "Usain Bolt",
+        "Ben Johnson"
+      ],
+      "answer": 2,
+      "explanation": "Usain Bolt of Jamaica, multiple world record holder and Olympic champion, is widely credited with raising the profile of Caribbean athletics globally."
+    },
+    {
+      "id": 123,
+      "strand": "Muscular System",
+      "unit": "Muscular System",
+      "topic": "Types of Muscle",
+      "difficulty": 2,
+      "question": "Which of the following correctly describes smooth muscle?",
+      "options": [
+        "Striated and voluntary",
+        "Found in the walls of internal organs, involuntary and non-striated",
+        "Found in the heart, involuntary and striated",
+        "Attached to bones and voluntary"
+      ],
+      "answer": 1,
+      "explanation": "Smooth muscle is found in the walls of organs like the stomach and blood vessels, is involuntary and appears non-striated under a microscope."
+    },
+    {
+      "id": 124,
+      "strand": "Skeletal System",
+      "unit": "Skeletal System",
+      "topic": "Functions of the Skeleton",
+      "difficulty": 2,
+      "question": "Which of the following bones protects the heart and lungs?",
+      "options": [
+        "Pelvis",
+        "Cranium",
+        "Rib cage and sternum",
+        "Vertebral column"
+      ],
+      "answer": 2,
+      "explanation": "The rib cage and sternum form a protective bony structure around the heart and lungs."
+    },
+    {
+      "id": 125,
+      "strand": "Circulatory System",
+      "unit": "Circulatory System",
+      "topic": "Exercise and Circulation",
+      "difficulty": 2,
+      "question": "Blood redistribution during exercise refers to:",
+      "options": [
+        "Blood leaving the body",
+        "Increased blood flow directed to working muscles and away from non-essential organs",
+        "Decreased blood volume",
+        "Blood flowing to the digestive system during exercise"
+      ],
+      "answer": 1,
+      "explanation": "During exercise, vasoconstriction in non-essential areas (e.g. gut) and vasodilation in muscles redirect blood to where it is most needed."
+    },
+    {
+      "id": 126,
+      "strand": "Fitness and Performance",
+      "unit": "Sports Psychology",
+      "topic": "Concentration",
+      "difficulty": 2,
+      "question": "Attentional focus in sport refers to:",
+      "options": [
+        "Daydreaming during play",
+        "The ability to concentrate on relevant cues and block out distractions during performance",
+        "A type of training drill",
+        "A warm-up technique"
+      ],
+      "answer": 1,
+      "explanation": "Attentional focus is the psychological ability to direct concentration to what matters in competition while ignoring irrelevant distractions."
+    },
+    {
+      "id": 127,
+      "strand": "Health and Nutrition",
+      "unit": "Health and Nutrition",
+      "topic": "Diet and Performance",
+      "difficulty": 3,
+      "question": "What is the recommended hydration strategy for athletes during prolonged exercise?",
+      "options": [
+        "Drink only when extremely thirsty",
+        "Drink to replace fluid losses regularly before during and after exercise — aiming to avoid dehydration of more than 2% body weight",
+        "Avoid all fluids during exercise",
+        "Drink large amounts immediately before exercise only"
+      ],
+      "answer": 1,
+      "explanation": "Athletes should hydrate regularly before, during and after exercise to replace sweat losses and maintain performance and safety."
+    },
+    {
+      "id": 128,
+      "strand": "Trends and Issues",
+      "unit": "Trends and Issues",
+      "topic": "Issues in Sport",
+      "difficulty": 2,
+      "question": "Which of the following best describes the issue of gambling in sport?",
+      "options": [
+        "Gambling has no effect on sport",
+        "Gambling can lead to match-fixing, corruption and addiction which threaten the integrity of sport",
+        "Gambling is officially encouraged by all sports bodies",
+        "Gambling only affects horse racing"
+      ],
+      "answer": 1,
+      "explanation": "Gambling's links to sport create risks of corruption, match-fixing and addiction, threatening the integrity of competition."
+    },
+    {
+      "id": 129,
+      "strand": "Fitness and Performance",
+      "unit": "Training and Its Effects",
+      "topic": "Methods of Training",
+      "difficulty": 3,
+      "question": "The overtraining syndrome occurs when:",
+      "options": [
+        "An athlete trains too infrequently",
+        "An athlete trains excessively without adequate recovery, leading to performance decline, fatigue and injury",
+        "An athlete eats too much protein",
+        "An athlete doesn't warm up"
+      ],
+      "answer": 1,
+      "explanation": "Overtraining syndrome results from excessive training load without sufficient rest, causing chronic fatigue, performance decline and increased injury risk."
+    },
+    {
+      "id": 130,
+      "strand": "Health and Nutrition",
+      "unit": "Health and Nutrition",
+      "topic": "Diet and Performance",
+      "difficulty": 2,
+      "question": "Which of the following foods is the best source of complex carbohydrates for an athlete?",
+      "options": [
+        "White sugar",
+        "Brown rice, oats and wholemeal bread",
+        "Fried chicken",
+        "Butter and cream"
+      ],
+      "answer": 1,
+      "explanation": "Complex carbohydrates from whole grains provide sustained energy release, ideal for fuelling training and competition."
+    },
+    {
+      "id": 131,
+      "strand": "Skeletal System",
+      "unit": "Skeletal System",
+      "topic": "Bones and Joints",
+      "difficulty": 3,
+      "question": "Which of the following correctly describes the role of the meniscus in the knee joint?",
+      "options": [
+        "Connects the femur to the tibia",
+        "Acts as a shock absorber and helps distribute load within the knee joint",
+        "Produces synovial fluid",
+        "Attaches the quadriceps muscle to the patella"
+      ],
+      "answer": 1,
+      "explanation": "The menisci are C-shaped cartilage structures in the knee that absorb shock, distribute weight and stabilise the joint."
+    },
+    {
+      "id": 132,
+      "strand": "Respiratory System",
+      "unit": "Respiratory System",
+      "topic": "Structure of Respiratory System",
+      "difficulty": 2,
+      "question": "The function of the cilia lining the airways is to:",
+      "options": [
+        "Produce oxygen",
+        "Move mucus and trapped particles away from the lungs toward the throat",
+        "Warm incoming air only",
+        "Control breathing rate"
+      ],
+      "answer": 1,
+      "explanation": "Cilia are tiny hair-like structures that beat to move mucus (with trapped dust and bacteria) up toward the throat to be swallowed or expelled."
+    },
+    {
+      "id": 133,
+      "strand": "Circulatory System",
+      "unit": "Circulatory System",
+      "topic": "Structure of Circulatory System",
+      "difficulty": 3,
+      "question": "Which of the following correctly explains why athletes typically have a lower resting heart rate than non-athletes?",
+      "options": [
+        "Athletes have smaller hearts",
+        "Regular training increases stroke volume so the heart pumps more blood per beat and beats less frequently at rest",
+        "Athletes have less blood",
+        "Athletes breathe more slowly"
+      ],
+      "answer": 1,
+      "explanation": "Training-induced cardiac hypertrophy increases stroke volume, meaning the heart can meet the body's needs with fewer beats per minute (bradycardia)."
+    },
+    {
+      "id": 134,
+      "strand": "Fitness and Performance",
+      "unit": "Concepts of Fitness",
+      "topic": "Principles of Training",
+      "difficulty": 2,
+      "question": "Which of the following best explains the principle of individual differences in training?",
+      "options": [
+        "All athletes should follow identical training programmes",
+        "Training programmes must be tailored to each individual because people respond differently based on genetics age fitness level and experience",
+        "Every athlete will improve at the same rate",
+        "Group training is always better than individual training"
+      ],
+      "answer": 1,
+      "explanation": "Individual differences means that training must be personalised because people vary in their physiological responses, capacities and rates of adaptation."
+    },
+    {
+      "id": 135,
+      "strand": "Fitness and Performance",
+      "unit": "Skill and Other Factors Affecting Performance",
+      "topic": "Skill",
+      "difficulty": 2,
+      "question": "Transfer of learning in sport refers to:",
+      "options": [
+        "Moving to a new team",
+        "The effect that learning one skill has on the learning of another skill",
+        "Changing from one sport to another",
+        "Physical movement of athletes between clubs"
+      ],
+      "answer": 1,
+      "explanation": "Transfer of learning describes how mastering one skill can positively or negatively affect the learning of a related skill (e.g. badminton skills transferring to tennis)."
+    },
+    {
+      "id": 136,
+      "strand": "Health and Nutrition",
+      "unit": "Health and Nutrition",
+      "topic": "Nutrients",
+      "difficulty": 2,
+      "question": "Which of the following is the main function of dietary fibre?",
+      "options": [
+        "Building muscle",
+        "Providing energy for exercise",
+        "Aiding digestion and preventing constipation",
+        "Transporting oxygen in the blood"
+      ],
+      "answer": 2,
+      "explanation": "Dietary fibre aids digestive health by adding bulk to stools, promoting regular bowel movements and feeding beneficial gut bacteria."
+    },
+    {
+      "id": 137,
+      "strand": "Trends and Issues",
+      "unit": "Trends and Issues",
+      "topic": "Trends in Sport",
+      "difficulty": 3,
+      "question": "Which of the following best describes the impact of globalisation on sport?",
+      "options": [
+        "Sport has become confined to local communities",
+        "Sport has spread worldwide with international competitions leagues and athlete migration increasing cultural exchange",
+        "Globalisation has reduced the popularity of sport",
+        "Sport is now played only in developed nations"
+      ],
+      "answer": 1,
+      "explanation": "Globalisation has spread sport globally, creating international leagues, enabling athlete migration and increasing the reach and commercialisation of major sports."
+    },
+    {
+      "id": 138,
+      "strand": "History and Development of Sports",
+      "unit": "History and Development of Sports",
+      "topic": "Development of Sports in the Caribbean",
+      "difficulty": 2,
+      "question": "The Caribbean Games, forerunner to CARIFTA Games, were first held to:",
+      "options": [
+        "Replace the Olympic Games in the Caribbean",
+        "Provide competitive athletic opportunities for Caribbean youth and develop the region's athletic talent",
+        "Raise funds for Caribbean governments",
+        "Celebrate the end of colonialism only"
+      ],
+      "answer": 1,
+      "explanation": "The CARIFTA Games (Caribbean Free Trade Association Games) were established to develop athletic talent and provide competitive experience for Caribbean youth."
+    },
+    {
+      "id": 139,
+      "strand": "Fitness and Performance",
+      "unit": "Sports Psychology",
+      "topic": "Leadership",
+      "difficulty": 2,
+      "question": "Which of the following best describes a 'democratic' leadership style in sport?",
+      "options": [
+        "The coach makes all decisions without athlete input",
+        "The coach involves athletes in decision-making, values their input and fosters a collaborative environment",
+        "The coach only communicates through team captains",
+        "No coach is involved"
+      ],
+      "answer": 1,
+      "explanation": "A democratic coach involves athletes in planning and decisions, building ownership and motivation through collaborative leadership."
+    },
+    {
+      "id": 140,
+      "strand": "Health and Nutrition",
+      "unit": "Health and Nutrition",
+      "topic": "Diet and Performance",
+      "difficulty": 3,
+      "question": "Which of the following best describes the role of sports drinks during prolonged exercise?",
+      "options": [
+        "They are purely for flavour",
+        "They replace fluids, electrolytes and carbohydrates lost through sweat, maintaining performance during prolonged exercise",
+        "They are identical to water",
+        "They should only be consumed after exercise"
+      ],
+      "answer": 1,
+      "explanation": "Sports drinks contain water, electrolytes (sodium, potassium) and carbohydrates, making them useful for maintaining hydration and energy during prolonged exercise."
+    },
+    {
+      "id": 141,
+      "strand": "Muscular System",
+      "unit": "Muscular System",
+      "topic": "Muscle Injuries",
+      "difficulty": 2,
+      "question": "RICE is a common first aid treatment for soft tissue injuries. What does RICE stand for?",
+      "options": [
+        "Rest, Ice, Compression, Elevation",
+        "Run, Ice, Cool, Elevate",
+        "Rest, Injury, Compression, Exercise",
+        "Relax, Inform, Cold, Elevate"
+      ],
+      "answer": 0,
+      "explanation": "RICE stands for Rest, Ice, Compression and Elevation — the standard first-line management for sprains, strains and soft tissue injuries."
+    },
+    {
+      "id": 142,
+      "strand": "Skeletal System",
+      "unit": "Skeletal System",
+      "topic": "Effects of Exercise on Skeleton",
+      "difficulty": 2,
+      "question": "Osteoporosis is a condition characterised by:",
+      "options": [
+        "Increased bone density",
+        "Decreased bone density making bones brittle and prone to fracture",
+        "Inflammation of joint cartilage",
+        "Excessive bone growth"
+      ],
+      "answer": 1,
+      "explanation": "Osteoporosis involves loss of bone mineral density, making bones weak and vulnerable to fractures, especially in older adults."
+    },
+    {
+      "id": 143,
+      "strand": "Circulatory System",
+      "unit": "Circulatory System",
+      "topic": "Exercise and Circulation",
+      "difficulty": 3,
+      "question": "Which of the following correctly explains the Fick principle in exercise physiology?",
+      "options": [
+        "Oxygen consumption equals cardiac output plus blood pressure",
+        "Oxygen consumption equals the product of cardiac output and the arteriovenous oxygen difference",
+        "Heart rate always determines oxygen use",
+        "Stroke volume is independent of exercise intensity"
+      ],
+      "answer": 1,
+      "explanation": "The Fick principle states that VO₂ = cardiac output × (a-vO₂ difference), linking blood delivery with oxygen extraction by tissues."
+    },
+    {
+      "id": 144,
+      "strand": "Trends and Issues",
+      "unit": "Trends and Issues",
+      "topic": "Issues in Sport",
+      "difficulty": 3,
+      "question": "Which of the following best describes the concept of 'fair play' in sport?",
+      "options": [
+        "Winning at any cost",
+        "Competing within the rules and spirit of the game showing respect for opponents officials and the sport",
+        "Playing only when guaranteed to win",
+        "Avoiding all physical contact"
+      ],
+      "answer": 1,
+      "explanation": "Fair play encompasses competing honestly within the rules, showing respect and sportsmanship regardless of outcome."
+    },
+    {
+      "id": 145,
+      "strand": "Fitness and Performance",
+      "unit": "Concepts of Fitness",
+      "topic": "Components of Fitness",
+      "difficulty": 2,
+      "question": "Agility is best defined as:",
+      "options": [
+        "Maximum running speed",
+        "The ability to change direction quickly and accurately while maintaining control",
+        "The ability to lift heavy weights",
+        "Sustained cardiovascular effort"
+      ],
+      "answer": 1,
+      "explanation": "Agility is the ability to change body position and direction rapidly and accurately, used in sports such as football, basketball and tennis."
+    },
+    {
+      "id": 146,
+      "strand": "Health and Nutrition",
+      "unit": "Health and Nutrition",
+      "topic": "Diet and Performance",
+      "difficulty": 2,
+      "question": "Which of the following eating disorders is characterised by severe restriction of food intake?",
+      "options": [
+        "Bulimia nervosa",
+        "Binge eating disorder",
+        "Anorexia nervosa",
+        "Orthorexia"
+      ],
+      "answer": 2,
+      "explanation": "Anorexia nervosa involves severe, self-imposed restriction of food intake due to an intense fear of weight gain, leading to dangerous underweight."
+    },
+    {
+      "id": 147,
+      "strand": "Fitness and Performance",
+      "unit": "Sports Psychology",
+      "topic": "Confidence",
+      "difficulty": 2,
+      "question": "Self-efficacy in sport refers to:",
+      "options": [
+        "Physical strength",
+        "An athlete's belief in their own ability to successfully perform a specific task or skill",
+        "Fear of competition",
+        "A type of training technique"
+      ],
+      "answer": 1,
+      "explanation": "Self-efficacy (Bandura) is an athlete's confidence in their capacity to execute a particular skill or perform in a specific situation."
+    },
+    {
+      "id": 148,
+      "strand": "Trends and Issues",
+      "unit": "Trends and Issues",
+      "topic": "Trends in Sport",
+      "difficulty": 2,
+      "question": "Which of the following is an example of sport being used for social development?",
+      "options": [
+        "Professionalising all community sports",
+        "Using sport programmes to reduce crime youth unemployment and social exclusion in communities",
+        "Banning amateur sport",
+        "Restricting sport to elite athletes only"
+      ],
+      "answer": 1,
+      "explanation": "Sport for social development uses organised sporting activities to address social issues such as youth crime, unemployment and social exclusion."
+    },
+    {
+      "id": 149,
+      "strand": "History and Development of Sports",
+      "unit": "History and Development of Sports",
+      "topic": "History of Sports",
+      "difficulty": 3,
+      "question": "Which of the following best explains why the ancient Olympic Games were abolished?",
+      "options": [
+        "Athletes began demanding payment",
+        "They were banned by the Roman Emperor Theodosius I in 393 AD as part of a campaign against pagan practices",
+        "Facilities were destroyed in an earthquake",
+        "The Greeks chose to discontinue them"
+      ],
+      "answer": 1,
+      "explanation": "The ancient Olympic Games were abolished by Roman Emperor Theodosius I in 393 AD as part of his efforts to suppress pagan Greek religious festivals."
+    },
+    {
+      "id": 150,
+      "strand": "Fitness and Performance",
+      "unit": "Training and Its Effects",
+      "topic": "Methods of Training",
+      "difficulty": 3,
+      "question": "Which of the following training methods would be most appropriate for a 400m runner?",
+      "options": [
+        "Long slow distance running only",
+        "A combination of interval training for speed endurance and strength training for power",
+        "Plyometric training only",
+        "Continuous aerobic training at low intensity only"
+      ],
+      "answer": 1,
+      "explanation": "400m runners need speed endurance (sustained high-intensity running) and power, best developed through interval training and strength work."
+    }
+  ]
+}
