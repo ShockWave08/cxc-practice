@@ -1,0 +1,2404 @@
+{
+  "paper1": [
+    {
+      "id": 1,
+      "strand": "Background to Businesses",
+      "unit": "Background to Businesses",
+      "topic": "Nature of Business",
+      "difficulty": 1,
+      "question": "Which of the following best defines a business?",
+      "options": [
+        "Any activity that generates a profit",
+        "An organisation that produces goods or services to satisfy human wants and needs",
+        "A government department that provides services",
+        "A non-profit charity organisation"
+      ],
+      "answer": 1,
+      "explanation": "A business is any organisation engaged in producing goods or providing services to satisfy human wants and needs, usually with the aim of making a profit."
+    },
+    {
+      "id": 2,
+      "strand": "Background to Businesses",
+      "unit": "Background to Businesses",
+      "topic": "Nature of Business",
+      "difficulty": 1,
+      "question": "Which of the following is the PRIMARY objective of most private sector businesses?",
+      "options": [
+        "Providing employment",
+        "Serving the community",
+        "Making a profit",
+        "Paying taxes"
+      ],
+      "answer": 2,
+      "explanation": "The primary objective of most private sector businesses is to make a profit — earning more revenue than the costs incurred."
+    },
+    {
+      "id": 3,
+      "strand": "Background to Businesses",
+      "unit": "Background to Businesses",
+      "topic": "Wants and Needs",
+      "difficulty": 1,
+      "question": "A 'want' in economics differs from a 'need' because:",
+      "options": [
+        "Wants are essential for survival; needs are not",
+        "Needs are desired but not essential; wants are essential",
+        "Wants are desired but not essential for survival; needs are essential",
+        "There is no difference between wants and needs"
+      ],
+      "answer": 2,
+      "explanation": "Needs are essential for survival (food, water, shelter) while wants are desires that improve quality of life but are not essential."
+    },
+    {
+      "id": 4,
+      "strand": "Background to Businesses",
+      "unit": "Background to Businesses",
+      "topic": "Factors of Production",
+      "difficulty": 2,
+      "question": "Which of the following is NOT a factor of production?",
+      "options": [
+        "Land",
+        "Labour",
+        "Capital",
+        "Money"
+      ],
+      "answer": 3,
+      "explanation": "The four factors of production are land, labour, capital and enterprise (entrepreneurship). Money is a medium of exchange, not a factor of production itself."
+    },
+    {
+      "id": 5,
+      "strand": "Background to Businesses",
+      "unit": "Background to Businesses",
+      "topic": "Factors of Production",
+      "difficulty": 2,
+      "question": "The reward for entrepreneurship as a factor of production is:",
+      "options": [
+        "Wages",
+        "Rent",
+        "Interest",
+        "Profit"
+      ],
+      "answer": 3,
+      "explanation": "Each factor of production earns a reward: land → rent, labour → wages, capital → interest, enterprise → profit."
+    },
+    {
+      "id": 6,
+      "strand": "Background to Businesses",
+      "unit": "Background to Businesses",
+      "topic": "Types of Goods",
+      "difficulty": 2,
+      "question": "Which of the following is an example of a consumer good?",
+      "options": [
+        "A factory machine",
+        "A delivery truck",
+        "A loaf of bread",
+        "Raw steel"
+      ],
+      "answer": 2,
+      "explanation": "Consumer goods are bought by individuals for personal use. A loaf of bread is purchased for personal consumption."
+    },
+    {
+      "id": 7,
+      "strand": "Background to Businesses",
+      "unit": "Background to Businesses",
+      "topic": "Sectors of Industry",
+      "difficulty": 2,
+      "question": "A company that extracts crude oil from the ground is operating in which sector of industry?",
+      "options": [
+        "Primary",
+        "Secondary",
+        "Tertiary",
+        "Quaternary"
+      ],
+      "answer": 0,
+      "explanation": "The primary sector extracts raw materials directly from nature. Oil extraction is a primary sector activity."
+    },
+    {
+      "id": 8,
+      "strand": "Background to Businesses",
+      "unit": "Background to Businesses",
+      "topic": "Sectors of Industry",
+      "difficulty": 2,
+      "question": "Which sector of industry is concerned with the processing and manufacturing of goods?",
+      "options": [
+        "Primary",
+        "Secondary",
+        "Tertiary",
+        "Quaternary"
+      ],
+      "answer": 1,
+      "explanation": "The secondary sector converts raw materials into finished or semi-finished goods through manufacturing and processing."
+    },
+    {
+      "id": 9,
+      "strand": "Background to Businesses",
+      "unit": "Background to Businesses",
+      "topic": "Sectors of Industry",
+      "difficulty": 3,
+      "question": "A bank providing financial services is operating in which sector?",
+      "options": [
+        "Primary",
+        "Secondary",
+        "Tertiary",
+        "Primary and Secondary"
+      ],
+      "answer": 2,
+      "explanation": "The tertiary sector provides services rather than producing goods. Banking, retail, transport and tourism are all tertiary sector activities."
+    },
+    {
+      "id": 10,
+      "strand": "Background to Businesses",
+      "unit": "Background to Businesses",
+      "topic": "Scarcity and Choice",
+      "difficulty": 2,
+      "question": "The economic problem of scarcity arises because:",
+      "options": [
+        "People have unlimited wants but resources are limited",
+        "There are too many resources and too few wants",
+        "Governments control all production",
+        "Prices are too high"
+      ],
+      "answer": 0,
+      "explanation": "The fundamental economic problem is that human wants are unlimited while the resources available to satisfy them are finite — this is scarcity."
+    },
+    {
+      "id": 11,
+      "strand": "Types of Businesses and Economic Systems",
+      "unit": "Types of Businesses and Economic Systems",
+      "topic": "Economic Systems",
+      "difficulty": 1,
+      "question": "In a free market economy, prices are determined by:",
+      "options": [
+        "The government",
+        "Supply and demand in the market",
+        "International organisations",
+        "Trade unions"
+      ],
+      "answer": 1,
+      "explanation": "In a free market (capitalist) economy, prices are determined by the interaction of supply and demand without government interference."
+    },
+    {
+      "id": 12,
+      "strand": "Types of Businesses and Economic Systems",
+      "unit": "Types of Businesses and Economic Systems",
+      "topic": "Economic Systems",
+      "difficulty": 1,
+      "question": "A command economy is one in which:",
+      "options": [
+        "Consumers decide what is produced",
+        "Private individuals own all businesses",
+        "The government makes all major economic decisions about production and distribution",
+        "Prices are set by market forces"
+      ],
+      "answer": 2,
+      "explanation": "In a command (planned) economy, the government controls what is produced, how it is produced and for whom it is produced."
+    },
+    {
+      "id": 13,
+      "strand": "Types of Businesses and Economic Systems",
+      "unit": "Types of Businesses and Economic Systems",
+      "topic": "Economic Systems",
+      "difficulty": 2,
+      "question": "A mixed economy combines elements of:",
+      "options": [
+        "Primary and secondary sectors",
+        "Free market and command economies",
+        "Domestic and international trade",
+        "Private and public companies only"
+      ],
+      "answer": 1,
+      "explanation": "A mixed economy combines free market principles (private enterprise) with government intervention and public ownership."
+    },
+    {
+      "id": 14,
+      "strand": "Types of Businesses and Economic Systems",
+      "unit": "Types of Businesses and Economic Systems",
+      "topic": "Types of Business",
+      "difficulty": 1,
+      "question": "A sole trader business is owned by:",
+      "options": [
+        "The government",
+        "Two or more people",
+        "One person",
+        "Shareholders"
+      ],
+      "answer": 2,
+      "explanation": "A sole trader (sole proprietor) is a business owned and operated by a single individual."
+    },
+    {
+      "id": 15,
+      "strand": "Types of Businesses and Economic Systems",
+      "unit": "Types of Businesses and Economic Systems",
+      "topic": "Types of Business",
+      "difficulty": 2,
+      "question": "Which of the following is a DISADVANTAGE of a sole trader business?",
+      "options": [
+        "Easy to set up",
+        "Owner keeps all profits",
+        "Unlimited personal liability for business debts",
+        "Few legal requirements"
+      ],
+      "answer": 2,
+      "explanation": "A sole trader has unlimited liability — their personal assets can be used to settle business debts if the business cannot pay."
+    },
+    {
+      "id": 16,
+      "strand": "Types of Businesses and Economic Systems",
+      "unit": "Types of Businesses and Economic Systems",
+      "topic": "Types of Business",
+      "difficulty": 2,
+      "question": "In a partnership, the relationship between partners is governed by:",
+      "options": [
+        "The Companies Act",
+        "A partnership agreement (deed of partnership)",
+        "The Stock Exchange",
+        "An international trade treaty"
+      ],
+      "answer": 1,
+      "explanation": "A partnership agreement (deed of partnership) sets out the rights, responsibilities and profit-sharing arrangements between partners."
+    },
+    {
+      "id": 17,
+      "strand": "Types of Businesses and Economic Systems",
+      "unit": "Types of Businesses and Economic Systems",
+      "topic": "Types of Business",
+      "difficulty": 2,
+      "question": "Which of the following correctly describes a Private Limited Company (Ltd)?",
+      "options": [
+        "Shares are sold to the general public on the stock exchange",
+        "Shares are held privately and cannot be sold to the public without agreement of existing shareholders",
+        "Owned and controlled by the government",
+        "A company with unlimited liability"
+      ],
+      "answer": 1,
+      "explanation": "A private limited company's shares are not publicly traded. Shareholders have limited liability and share transfers require existing shareholder approval."
+    },
+    {
+      "id": 18,
+      "strand": "Types of Businesses and Economic Systems",
+      "unit": "Types of Businesses and Economic Systems",
+      "topic": "Types of Business",
+      "difficulty": 3,
+      "question": "A cooperative is different from other business types because:",
+      "options": [
+        "It aims to maximise profit for a single owner",
+        "It is owned and democratically controlled by its members who share profits and benefits",
+        "It is always controlled by the government",
+        "It can only operate in the agricultural sector"
+      ],
+      "answer": 1,
+      "explanation": "A cooperative is a member-owned, democratically run business where profits (or surpluses) are shared among members. Examples include credit unions and agricultural cooperatives."
+    },
+    {
+      "id": 19,
+      "strand": "Types of Businesses and Economic Systems",
+      "unit": "Types of Businesses and Economic Systems",
+      "topic": "Types of Business",
+      "difficulty": 3,
+      "question": "A Public Limited Company (PLC) differs from a Private Limited Company because:",
+      "options": [
+        "A PLC has unlimited liability",
+        "A PLC can offer shares to the general public on the stock exchange",
+        "A PLC is owned by the government",
+        "A PLC cannot make a profit"
+      ],
+      "answer": 1,
+      "explanation": "A PLC can raise capital by selling shares to the public through a stock exchange. This is the key difference from a private limited company."
+    },
+    {
+      "id": 20,
+      "strand": "Types of Businesses and Economic Systems",
+      "unit": "Types of Businesses and Economic Systems",
+      "topic": "Public Sector",
+      "difficulty": 2,
+      "question": "A statutory body (public corporation) is:",
+      "options": [
+        "A private company listed on the stock exchange",
+        "A government-owned organisation established by an Act of Parliament to provide a public service",
+        "A non-profit charity",
+        "A sole trader working for the government"
+      ],
+      "answer": 1,
+      "explanation": "A statutory body is a government-owned enterprise established by legislation to provide essential public services such as utilities, transport or communications."
+    },
+    {
+      "id": 21,
+      "strand": "Business Organization",
+      "unit": "Business Organization",
+      "topic": "Organisational Structure",
+      "difficulty": 1,
+      "question": "An organisational chart shows:",
+      "options": [
+        "The financial performance of a business",
+        "The hierarchy, departments and lines of authority within a business",
+        "The marketing strategy of a business",
+        "The production process"
+      ],
+      "answer": 1,
+      "explanation": "An organisational chart visually represents the structure of a business — showing departments, roles and reporting relationships."
+    },
+    {
+      "id": 22,
+      "strand": "Business Organization",
+      "unit": "Business Organization",
+      "topic": "Departments",
+      "difficulty": 1,
+      "question": "Which department is responsible for hiring, training and managing employees?",
+      "options": [
+        "Finance",
+        "Marketing",
+        "Production",
+        "Human Resources"
+      ],
+      "answer": 3,
+      "explanation": "The Human Resources (HR) department manages all aspects of the employee lifecycle: recruitment, training, appraisal and dismissal."
+    },
+    {
+      "id": 23,
+      "strand": "Business Organization",
+      "unit": "Business Organization",
+      "topic": "Organisational Structure",
+      "difficulty": 2,
+      "question": "The span of control in a business refers to:",
+      "options": [
+        "The geographic area covered by a business",
+        "The number of subordinates a manager directly supervises",
+        "The range of products offered",
+        "The distance between departments"
+      ],
+      "answer": 1,
+      "explanation": "Span of control is the number of employees a manager directly supervises. A wide span has many subordinates; a narrow span has few."
+    },
+    {
+      "id": 24,
+      "strand": "Business Organization",
+      "unit": "Business Organization",
+      "topic": "Organisational Structure",
+      "difficulty": 2,
+      "question": "Delegation in management means:",
+      "options": [
+        "A manager doing all the work themselves",
+        "Passing authority and responsibility for specific tasks to subordinates",
+        "Firing an employee",
+        "Taking on extra responsibilities"
+      ],
+      "answer": 1,
+      "explanation": "Delegation involves a manager assigning tasks and granting the necessary authority to subordinates to complete them."
+    },
+    {
+      "id": 25,
+      "strand": "Business Organization",
+      "unit": "Business Organization",
+      "topic": "Departments",
+      "difficulty": 2,
+      "question": "Which department is responsible for managing the financial records and producing financial statements?",
+      "options": [
+        "Marketing",
+        "Production",
+        "Accounts/Finance",
+        "Research and Development"
+      ],
+      "answer": 2,
+      "explanation": "The Accounts or Finance department manages financial records, prepares financial statements, handles budgets and manages cash flow."
+    },
+    {
+      "id": 26,
+      "strand": "Business Organization",
+      "unit": "Business Organization",
+      "topic": "Organisational Structure",
+      "difficulty": 3,
+      "question": "A flat organisational structure is characterised by:",
+      "options": [
+        "Many levels of management and narrow spans of control",
+        "Few levels of management and wide spans of control",
+        "Government control at every level",
+        "No management structure at all"
+      ],
+      "answer": 1,
+      "explanation": "A flat structure has few management layers and wide spans of control — decisions are made more quickly and communication is more direct."
+    },
+    {
+      "id": 27,
+      "strand": "Business Organization",
+      "unit": "Business Organization",
+      "topic": "Departments",
+      "difficulty": 2,
+      "question": "The production department is primarily responsible for:",
+      "options": [
+        "Advertising the company's products",
+        "Converting raw materials into finished goods",
+        "Recruiting staff",
+        "Managing company finances"
+      ],
+      "answer": 1,
+      "explanation": "The production (operations) department oversees the transformation of raw materials and components into finished goods or services."
+    },
+    {
+      "id": 28,
+      "strand": "Legal Aspects of Business",
+      "unit": "Legal Aspects of Business",
+      "topic": "Business Registration",
+      "difficulty": 1,
+      "question": "Why must businesses register with the relevant authorities?",
+      "options": [
+        "To reduce taxes",
+        "To operate legally, be recognised in law and comply with regulations",
+        "To attract more customers",
+        "To join a trade union"
+      ],
+      "answer": 1,
+      "explanation": "Business registration gives legal recognition to the business, allows it to enter contracts, comply with tax obligations and protect the business name."
+    },
+    {
+      "id": 29,
+      "strand": "Legal Aspects of Business",
+      "unit": "Legal Aspects of Business",
+      "topic": "Consumer Protection",
+      "difficulty": 2,
+      "question": "Consumer protection legislation is designed to:",
+      "options": [
+        "Protect businesses from consumers",
+        "Protect consumers from unfair business practices, unsafe products and deceptive advertising",
+        "Increase government tax revenue",
+        "Reduce competition between businesses"
+      ],
+      "answer": 1,
+      "explanation": "Consumer protection laws ensure that consumers are treated fairly, receive safe products, honest information and appropriate redress when things go wrong."
+    },
+    {
+      "id": 30,
+      "strand": "Legal Aspects of Business",
+      "unit": "Legal Aspects of Business",
+      "topic": "Employment Law",
+      "difficulty": 2,
+      "question": "Which of the following is a right of employees under labour legislation in most Caribbean countries?",
+      "options": [
+        "To work any number of hours without extra pay",
+        "The right to a minimum wage, safe working conditions and protection from unfair dismissal",
+        "To be paid only when profits are made",
+        "To own shares in the company automatically"
+      ],
+      "answer": 1,
+      "explanation": "Labour legislation typically guarantees minimum wage, safe conditions, paid leave, and protection against unfair dismissal."
+    },
+    {
+      "id": 31,
+      "strand": "Legal Aspects of Business",
+      "unit": "Legal Aspects of Business",
+      "topic": "Intellectual Property",
+      "difficulty": 2,
+      "question": "A patent gives an inventor:",
+      "options": [
+        "Permission to copy another's invention",
+        "Exclusive rights to make, use and sell an invention for a set period",
+        "Ownership of a brand name",
+        "Copyright over written works"
+      ],
+      "answer": 1,
+      "explanation": "A patent grants the inventor exclusive commercial rights over a new invention, typically for 20 years, preventing others from making or selling it without permission."
+    },
+    {
+      "id": 32,
+      "strand": "Legal Aspects of Business",
+      "unit": "Legal Aspects of Business",
+      "topic": "Intellectual Property",
+      "difficulty": 2,
+      "question": "A trademark is used to:",
+      "options": [
+        "Protect a written book or song",
+        "Identify and distinguish the goods or services of one company from another",
+        "Grant exclusive production rights",
+        "Protect a new invention"
+      ],
+      "answer": 1,
+      "explanation": "A trademark is a distinctive sign (logo, name, symbol) that identifies goods or services of a particular business and distinguishes them from competitors."
+    },
+    {
+      "id": 33,
+      "strand": "Business Management",
+      "unit": "Business Management",
+      "topic": "Management Functions",
+      "difficulty": 1,
+      "question": "Which of the following is NOT one of the main functions of management?",
+      "options": [
+        "Planning",
+        "Organising",
+        "Manufacturing",
+        "Controlling"
+      ],
+      "answer": 2,
+      "explanation": "The main management functions are Planning, Organising, Staffing, Directing and Controlling (POSDC). Manufacturing is a production function, not a management function."
+    },
+    {
+      "id": 34,
+      "strand": "Business Management",
+      "unit": "Business Management",
+      "topic": "Management Functions",
+      "difficulty": 2,
+      "question": "The planning function of management involves:",
+      "options": [
+        "Monitoring performance against targets",
+        "Setting objectives and determining how to achieve them",
+        "Assigning tasks to employees",
+        "Motivating the workforce"
+      ],
+      "answer": 1,
+      "explanation": "Planning involves setting goals and objectives and deciding the strategies, resources and actions needed to achieve them."
+    },
+    {
+      "id": 35,
+      "strand": "Business Management",
+      "unit": "Business Management",
+      "topic": "Leadership Styles",
+      "difficulty": 2,
+      "question": "An autocratic management style is characterised by:",
+      "options": [
+        "Involving all employees in decision-making",
+        "The manager making all decisions without consulting staff",
+        "Giving employees complete freedom to make decisions",
+        "Decisions being made by committee"
+      ],
+      "answer": 1,
+      "explanation": "An autocratic (authoritarian) manager makes decisions independently, gives instructions and expects them to be followed without question."
+    },
+    {
+      "id": 36,
+      "strand": "Business Management",
+      "unit": "Business Management",
+      "topic": "Motivation",
+      "difficulty": 2,
+      "question": "According to Maslow's Hierarchy of Needs, which is the HIGHEST level of need?",
+      "options": [
+        "Safety needs",
+        "Social needs",
+        "Esteem needs",
+        "Self-actualisation"
+      ],
+      "answer": 3,
+      "explanation": "Maslow's hierarchy (lowest to highest): Physiological → Safety → Social → Esteem → Self-actualisation. Self-actualisation (realising one's full potential) is the highest level."
+    },
+    {
+      "id": 37,
+      "strand": "Business Management",
+      "unit": "Business Management",
+      "topic": "Leadership Styles",
+      "difficulty": 2,
+      "question": "A democratic leadership style is most likely to result in:",
+      "options": [
+        "Fast decision-making",
+        "High employee morale and involvement in decisions",
+        "Poor quality decisions",
+        "Reduced creativity"
+      ],
+      "answer": 1,
+      "explanation": "Democratic leadership involves employees in decision-making, which typically improves morale, motivation and buy-in, though decisions may take longer."
+    },
+    {
+      "id": 38,
+      "strand": "Business Management",
+      "unit": "Business Management",
+      "topic": "Communication",
+      "difficulty": 2,
+      "question": "Which of the following is a barrier to effective communication in business?",
+      "options": [
+        "Clear language",
+        "Good listening skills",
+        "Information overload and jargon",
+        "Regular feedback"
+      ],
+      "answer": 2,
+      "explanation": "Barriers to communication include information overload, use of jargon, noise, poor listening and cultural differences."
+    },
+    {
+      "id": 39,
+      "strand": "Business Management",
+      "unit": "Business Management",
+      "topic": "Management Functions",
+      "difficulty": 3,
+      "question": "The controlling function of management involves:",
+      "options": [
+        "Planning future goals",
+        "Assigning tasks to staff",
+        "Monitoring performance, comparing it to targets and taking corrective action if needed",
+        "Motivating employees"
+      ],
+      "answer": 2,
+      "explanation": "Controlling involves measuring actual performance against planned targets, identifying deviations and taking corrective action to keep the business on track."
+    },
+    {
+      "id": 40,
+      "strand": "Business Management",
+      "unit": "Business Management",
+      "topic": "Motivation",
+      "difficulty": 3,
+      "question": "Frederick Herzberg's Two-Factor Theory identifies which TWO categories of workplace factors?",
+      "options": [
+        "Profit factors and loss factors",
+        "Hygiene factors (which prevent dissatisfaction) and motivators (which create satisfaction)",
+        "Internal and external motivators",
+        "Financial and non-financial rewards only"
+      ],
+      "answer": 1,
+      "explanation": "Herzberg identified hygiene factors (e.g. pay, working conditions — prevent dissatisfaction) and motivators (e.g. achievement, recognition — create genuine satisfaction)."
+    },
+    {
+      "id": 41,
+      "strand": "Entrepreneurship",
+      "unit": "Entrepreneurship",
+      "topic": "Characteristics of Entrepreneurs",
+      "difficulty": 1,
+      "question": "Which of the following is a key characteristic of a successful entrepreneur?",
+      "options": [
+        "Avoidance of all risk",
+        "Willingness to take calculated risks and innovate",
+        "Working only for others",
+        "Dependence on government support"
+      ],
+      "answer": 1,
+      "explanation": "Entrepreneurs are characterised by their willingness to take calculated risks, innovate, identify opportunities and organise resources to create a business."
+    },
+    {
+      "id": 42,
+      "strand": "Entrepreneurship",
+      "unit": "Entrepreneurship",
+      "topic": "Role of Entrepreneurs",
+      "difficulty": 1,
+      "question": "The role of an entrepreneur in an economy includes:",
+      "options": [
+        "Reducing competition",
+        "Creating jobs, introducing new products and stimulating economic growth",
+        "Controlling government policy",
+        "Managing public utilities"
+      ],
+      "answer": 1,
+      "explanation": "Entrepreneurs drive economic growth by creating employment, introducing innovation, identifying market gaps and generating wealth."
+    },
+    {
+      "id": 43,
+      "strand": "Entrepreneurship",
+      "unit": "Entrepreneurship",
+      "topic": "Small Business",
+      "difficulty": 2,
+      "question": "Which of the following is an advantage of small businesses in an economy?",
+      "options": [
+        "They have the largest market share",
+        "They are flexible, can respond quickly to market changes and provide personalised service",
+        "They always have access to large capital",
+        "They face no competition"
+      ],
+      "answer": 1,
+      "explanation": "Small businesses are highly flexible and adaptable. They can respond quickly to customer needs and often provide personalised service that large firms cannot."
+    },
+    {
+      "id": 44,
+      "strand": "Entrepreneurship",
+      "unit": "Entrepreneurship",
+      "topic": "Challenges of Entrepreneurship",
+      "difficulty": 2,
+      "question": "Which of the following is a common challenge faced by new entrepreneurs in the Caribbean?",
+      "options": [
+        "Too much available capital",
+        "Easy access to government grants",
+        "Difficulty accessing finance and limited management experience",
+        "No competition in the market"
+      ],
+      "answer": 2,
+      "explanation": "Common barriers for Caribbean entrepreneurs include limited access to start-up capital, lack of business experience and high costs of borrowing."
+    },
+    {
+      "id": 45,
+      "strand": "Entrepreneurship",
+      "unit": "Entrepreneurship",
+      "topic": "Business Plan",
+      "difficulty": 2,
+      "question": "A business plan is important because it:",
+      "options": [
+        "Guarantees business success",
+        "Provides a roadmap for the business and is often required by lenders and investors",
+        "Replaces the need for management",
+        "Automatically secures government contracts"
+      ],
+      "answer": 1,
+      "explanation": "A business plan outlines objectives, strategies, financial projections and operational plans. It is essential for attracting investors and securing finance."
+    },
+    {
+      "id": 46,
+      "strand": "Entrepreneurship",
+      "unit": "Entrepreneurship",
+      "topic": "Characteristics of Entrepreneurs",
+      "difficulty": 3,
+      "question": "The term 'intrapreneur' refers to:",
+      "options": [
+        "A foreign investor",
+        "An employee who acts entrepreneurially within an existing organisation, developing new ideas and projects",
+        "A sole trader working internationally",
+        "A government business advisor"
+      ],
+      "answer": 1,
+      "explanation": "An intrapreneur applies entrepreneurial thinking within an established company — developing new products, services or processes from within."
+    },
+    {
+      "id": 47,
+      "strand": "Establishment of a Business",
+      "unit": "Establishment of a Business",
+      "topic": "Starting a Business",
+      "difficulty": 1,
+      "question": "Which of the following is the FIRST step in establishing a new business?",
+      "options": [
+        "Hiring staff",
+        "Identifying a business opportunity or gap in the market",
+        "Renting premises",
+        "Purchasing equipment"
+      ],
+      "answer": 1,
+      "explanation": "The first step is identifying a viable business opportunity or unmet market need — this forms the foundation for all subsequent planning."
+    },
+    {
+      "id": 48,
+      "strand": "Establishment of a Business",
+      "unit": "Establishment of a Business",
+      "topic": "Location",
+      "difficulty": 2,
+      "question": "Which of the following is the MOST important factor when choosing a business location?",
+      "options": [
+        "Proximity to the owner's home",
+        "Closeness to the target market and customers",
+        "Distance from competitors only",
+        "The colour of the building"
+      ],
+      "answer": 1,
+      "explanation": "Location decisions must consider proximity to customers, suppliers, transport links, labour supply and competitors. Customer access is typically the most critical factor."
+    },
+    {
+      "id": 49,
+      "strand": "Establishment of a Business",
+      "unit": "Establishment of a Business",
+      "topic": "Sources of Finance",
+      "difficulty": 2,
+      "question": "Retained profits as a source of business finance refers to:",
+      "options": [
+        "Money borrowed from a bank",
+        "Profits from previous years kept within the business rather than paid out as dividends",
+        "Money raised by selling new shares",
+        "A government grant"
+      ],
+      "answer": 1,
+      "explanation": "Retained profits (ploughed-back profits) are earnings from previous periods kept in the business to finance growth and operations — an internal source of finance."
+    },
+    {
+      "id": 50,
+      "strand": "Establishment of a Business",
+      "unit": "Establishment of a Business",
+      "topic": "Sources of Finance",
+      "difficulty": 2,
+      "question": "Which of the following is an EXTERNAL source of finance for a new business?",
+      "options": [
+        "Retained profits",
+        "Owner's personal savings",
+        "A bank loan",
+        "Sale of unwanted assets"
+      ],
+      "answer": 2,
+      "explanation": "External finance comes from outside the business. Bank loans, investor funding, overdrafts and venture capital are all external sources of finance."
+    },
+    {
+      "id": 51,
+      "strand": "Contracts",
+      "unit": "Contracts",
+      "topic": "Elements of a Contract",
+      "difficulty": 1,
+      "question": "Which of the following is NOT an essential element of a valid contract?",
+      "options": [
+        "Offer",
+        "Acceptance",
+        "A written document",
+        "Consideration"
+      ],
+      "answer": 2,
+      "explanation": "A valid contract requires offer, acceptance, consideration, capacity and intention to create legal relations. A written document is not always required — many contracts are verbal."
+    },
+    {
+      "id": 52,
+      "strand": "Contracts",
+      "unit": "Contracts",
+      "topic": "Elements of a Contract",
+      "difficulty": 1,
+      "question": "'Consideration' in contract law refers to:",
+      "options": [
+        "The politeness shown by parties",
+        "Something of value given by each party to the contract",
+        "The duration of the contract",
+        "The signature on the contract"
+      ],
+      "answer": 1,
+      "explanation": "Consideration is something of value (money, goods, service or a promise) given by each party as the price for the other's promise."
+    },
+    {
+      "id": 53,
+      "strand": "Contracts",
+      "unit": "Contracts",
+      "topic": "Types of Contracts",
+      "difficulty": 2,
+      "question": "A void contract is one that:",
+      "options": [
+        "Has not yet been signed",
+        "Has no legal effect from the start — it is legally unenforceable",
+        "Can be cancelled by one party",
+        "Is perfectly valid and enforceable"
+      ],
+      "answer": 1,
+      "explanation": "A void contract has no legal effect whatsoever — it is treated as though it never existed. Examples include contracts for illegal activities."
+    },
+    {
+      "id": 54,
+      "strand": "Contracts",
+      "unit": "Contracts",
+      "topic": "Elements of a Contract",
+      "difficulty": 2,
+      "question": "'Capacity' as an element of a contract means:",
+      "options": [
+        "The size of the contract",
+        "Both parties must have the legal ability to enter into a contract — e.g. be of legal age and of sound mind",
+        "The physical space available for the contract",
+        "The duration of the agreement"
+      ],
+      "answer": 1,
+      "explanation": "Capacity means parties must be legally competent to contract — generally being of the required age (18+) and of sound mind."
+    },
+    {
+      "id": 55,
+      "strand": "Contracts",
+      "unit": "Contracts",
+      "topic": "Breach of Contract",
+      "difficulty": 2,
+      "question": "A breach of contract occurs when:",
+      "options": [
+        "Both parties agree to end the contract",
+        "One party fails to perform their contractual obligations without legal justification",
+        "A contract is signed",
+        "A contract expires naturally"
+      ],
+      "answer": 1,
+      "explanation": "A breach of contract occurs when one party fails to fulfil their obligations under the contract without a valid legal excuse."
+    },
+    {
+      "id": 56,
+      "strand": "Contracts",
+      "unit": "Contracts",
+      "topic": "Types of Contracts",
+      "difficulty": 3,
+      "question": "Which of the following correctly describes a voidable contract?",
+      "options": [
+        "A contract that is illegal",
+        "A contract that is valid but can be cancelled by one of the parties under certain circumstances",
+        "A contract with no consideration",
+        "A contract between minors only"
+      ],
+      "answer": 1,
+      "explanation": "A voidable contract is initially valid but one party has the right to cancel (void) it due to circumstances such as misrepresentation, duress or lack of capacity."
+    },
+    {
+      "id": 57,
+      "strand": "Business Documents",
+      "unit": "Business Documents",
+      "topic": "Trade Documents",
+      "difficulty": 1,
+      "question": "A purchase order is a document sent by a:",
+      "options": [
+        "Seller to confirm delivery",
+        "Buyer to a seller formally requesting goods or services",
+        "Bank to confirm payment",
+        "Shipper to confirm despatch"
+      ],
+      "answer": 1,
+      "explanation": "A purchase order is issued by a buyer to a seller formally requesting specific goods or services at agreed prices and quantities."
+    },
+    {
+      "id": 58,
+      "strand": "Business Documents",
+      "unit": "Business Documents",
+      "topic": "Trade Documents",
+      "difficulty": 1,
+      "question": "An invoice is a document that:",
+      "options": [
+        "Requests goods from a supplier",
+        "Records that goods have been received",
+        "Details the goods supplied and the amount owed by the buyer to the seller",
+        "Confirms that payment has been received"
+      ],
+      "answer": 2,
+      "explanation": "An invoice is sent by the seller to the buyer listing the goods or services supplied, quantities, prices and the total amount payable."
+    },
+    {
+      "id": 59,
+      "strand": "Business Documents",
+      "unit": "Business Documents",
+      "topic": "Trade Documents",
+      "difficulty": 2,
+      "question": "A statement of account sent to a customer shows:",
+      "options": [
+        "The goods available for sale",
+        "A summary of all transactions between buyer and seller over a period, including amounts owed",
+        "The delivery schedule",
+        "The production costs of goods"
+      ],
+      "answer": 1,
+      "explanation": "A statement of account summarises all invoices, payments and credits over a trading period, showing the net balance owed by the customer."
+    },
+    {
+      "id": 60,
+      "strand": "Business Documents",
+      "unit": "Business Documents",
+      "topic": "Trade Documents",
+      "difficulty": 2,
+      "question": "A credit note is issued by a seller to a buyer when:",
+      "options": [
+        "Additional goods are ordered",
+        "Goods are returned or an overcharge has occurred — reducing the amount owed",
+        "Payment is received",
+        "A new order is placed"
+      ],
+      "answer": 1,
+      "explanation": "A credit note reduces the amount owed by the buyer — issued when goods are returned as faulty, damaged or incorrectly charged."
+    },
+    {
+      "id": 61,
+      "strand": "Business Documents",
+      "unit": "Business Documents",
+      "topic": "Trade Documents",
+      "difficulty": 2,
+      "question": "A delivery note accompanies goods and is used to:",
+      "options": [
+        "Request payment from the buyer",
+        "Confirm the details of goods delivered so the recipient can check and sign for them",
+        "Order new stock",
+        "Apply for credit terms"
+      ],
+      "answer": 1,
+      "explanation": "A delivery note lists the goods being delivered and is signed by the recipient as proof of receipt. It does not show prices."
+    },
+    {
+      "id": 62,
+      "strand": "Business Documents",
+      "unit": "Business Documents",
+      "topic": "Trade Documents",
+      "difficulty": 3,
+      "question": "Which document would a buyer send to a supplier before an invoice is issued, formally placing an order?",
+      "options": [
+        "Delivery note",
+        "Statement of account",
+        "Credit note",
+        "Purchase order"
+      ],
+      "answer": 3,
+      "explanation": "A purchase order is sent by the buyer to the supplier before goods are dispatched, formally requesting the goods at specified terms."
+    },
+    {
+      "id": 63,
+      "strand": "Insurance",
+      "unit": "Insurance",
+      "topic": "Principles of Insurance",
+      "difficulty": 1,
+      "question": "The principle of indemnity in insurance means:",
+      "options": [
+        "The insurer must pay more than the loss",
+        "The insured is restored to the same financial position as before the loss — no more, no less",
+        "Both parties must share losses equally",
+        "The premium must equal the sum insured"
+      ],
+      "answer": 1,
+      "explanation": "Indemnity ensures the insured is compensated for the actual financial loss suffered, preventing profit from insurance claims."
+    },
+    {
+      "id": 64,
+      "strand": "Insurance",
+      "unit": "Insurance",
+      "topic": "Principles of Insurance",
+      "difficulty": 1,
+      "question": "The principle of insurable interest means:",
+      "options": [
+        "Anyone can insure anything",
+        "The insured must stand to suffer a genuine financial loss if the insured event occurs",
+        "Insurance must be taken out in writing",
+        "The insurer must accept all applications"
+      ],
+      "answer": 1,
+      "explanation": "Insurable interest means the policyholder must have a financial stake in the subject matter — they must suffer a financial loss if it is damaged or lost."
+    },
+    {
+      "id": 65,
+      "strand": "Insurance",
+      "unit": "Insurance",
+      "topic": "Types of Insurance",
+      "difficulty": 2,
+      "question": "Which type of insurance is COMPULSORY for vehicle owners in most Caribbean countries?",
+      "options": [
+        "Comprehensive insurance",
+        "Third party insurance",
+        "Life insurance",
+        "Property insurance"
+      ],
+      "answer": 1,
+      "explanation": "Third party insurance is legally required for vehicles — it covers injury or damage caused to other parties (third parties) by the insured vehicle."
+    },
+    {
+      "id": 66,
+      "strand": "Insurance",
+      "unit": "Insurance",
+      "topic": "Principles of Insurance",
+      "difficulty": 2,
+      "question": "The principle of subrogation in insurance means:",
+      "options": [
+        "The insured can claim from multiple insurers for the same loss",
+        "After paying a claim, the insurer takes over the insured's right to recover losses from a third party responsible for the damage",
+        "The insured must disclose all relevant information",
+        "Both parties share the risk equally"
+      ],
+      "answer": 1,
+      "explanation": "Subrogation allows the insurer, after paying a claim, to step into the insured's shoes and recover the money from the third party responsible for the loss."
+    },
+    {
+      "id": 67,
+      "strand": "Insurance",
+      "unit": "Insurance",
+      "topic": "Principles of Insurance",
+      "difficulty": 2,
+      "question": "Utmost good faith (uberrimae fidei) in insurance requires:",
+      "options": [
+        "The premium to be as low as possible",
+        "Both the insurer and insured to disclose all material facts relevant to the insurance honestly",
+        "The insurer to accept all claims",
+        "The insured to photograph all property"
+      ],
+      "answer": 1,
+      "explanation": "Utmost good faith requires both parties to disclose all material facts truthfully. Failure to do so by the insured can void the policy."
+    },
+    {
+      "id": 68,
+      "strand": "Insurance",
+      "unit": "Insurance",
+      "topic": "Types of Insurance",
+      "difficulty": 3,
+      "question": "Which of the following best describes an insurance premium?",
+      "options": [
+        "The amount paid out in a claim",
+        "The regular payment made by the insured to the insurer in exchange for insurance cover",
+        "The value of the insured property",
+        "The deductible on a policy"
+      ],
+      "answer": 1,
+      "explanation": "The premium is the regular payment (monthly, quarterly or annually) made by the policyholder to keep the insurance policy active."
+    },
+    {
+      "id": 69,
+      "strand": "Production",
+      "unit": "Production",
+      "topic": "Types of Production",
+      "difficulty": 1,
+      "question": "Mass production involves:",
+      "options": [
+        "Making products one at a time to customer specifications",
+        "Producing large quantities of identical standardised products using assembly lines",
+        "Producing goods in small batches",
+        "Only producing primary sector goods"
+      ],
+      "answer": 1,
+      "explanation": "Mass production (flow production) produces large volumes of identical standardised goods using automated assembly lines, achieving economies of scale."
+    },
+    {
+      "id": 70,
+      "strand": "Production",
+      "unit": "Production",
+      "topic": "Costs of Production",
+      "difficulty": 1,
+      "question": "Fixed costs are costs that:",
+      "options": [
+        "Change with the level of output",
+        "Remain constant regardless of the level of output",
+        "Are always zero",
+        "Are paid only once"
+      ],
+      "answer": 1,
+      "explanation": "Fixed costs (e.g. rent, insurance, management salaries) remain constant regardless of how much or how little is produced."
+    },
+    {
+      "id": 71,
+      "strand": "Production",
+      "unit": "Production",
+      "topic": "Costs of Production",
+      "difficulty": 2,
+      "question": "Which of the following is a variable cost?",
+      "options": [
+        "Factory rent",
+        "Management salaries",
+        "Raw materials used in production",
+        "Insurance premiums"
+      ],
+      "answer": 2,
+      "explanation": "Variable costs change directly with the level of output. Raw materials increase as more is produced, making them a variable cost."
+    },
+    {
+      "id": 72,
+      "strand": "Production",
+      "unit": "Production",
+      "topic": "Economies of Scale",
+      "difficulty": 2,
+      "question": "Economies of scale refer to the:",
+      "options": [
+        "Increase in unit costs as output increases",
+        "Reduction in unit costs as output increases due to spreading fixed costs and greater efficiency",
+        "The maximum output of a business",
+        "The cost of setting up production"
+      ],
+      "answer": 1,
+      "explanation": "Economies of scale are the cost advantages gained by increasing production — average costs per unit fall as output rises."
+    },
+    {
+      "id": 73,
+      "strand": "Production",
+      "unit": "Production",
+      "topic": "Types of Production",
+      "difficulty": 2,
+      "question": "Job production is most suitable for:",
+      "options": [
+        "Producing millions of identical items",
+        "Making unique, one-off products made specifically to a customer's requirements",
+        "Mass-market consumer goods",
+        "Agricultural products"
+      ],
+      "answer": 1,
+      "explanation": "Job production produces a single unique item to a customer's specification, such as a custom-built home or a tailored suit."
+    },
+    {
+      "id": 74,
+      "strand": "Production",
+      "unit": "Production",
+      "topic": "Quality",
+      "difficulty": 2,
+      "question": "Quality control in production refers to:",
+      "options": [
+        "Hiring only highly qualified staff",
+        "Checking finished products to identify and remove those that do not meet the required standard",
+        "Producing as many units as possible",
+        "Setting production targets"
+      ],
+      "answer": 1,
+      "explanation": "Quality control involves inspecting products after production to identify defects and ensure they meet required standards before reaching customers."
+    },
+    {
+      "id": 75,
+      "strand": "Production",
+      "unit": "Production",
+      "topic": "Costs of Production",
+      "difficulty": 3,
+      "question": "A business has fixed costs of $5,000 per month and variable costs of $10 per unit. If it produces 500 units, what is the total cost?",
+      "options": [
+        "$5,000",
+        "$10,000",
+        "$10,000",
+        "$10,000"
+      ],
+      "answer": 2,
+      "explanation": "Total cost = Fixed costs + Variable costs = $5,000 + (500 × $10) = $5,000 + $5,000 = $10,000."
+    },
+    {
+      "id": 76,
+      "strand": "Marketing",
+      "unit": "Marketing",
+      "topic": "Marketing Mix",
+      "difficulty": 1,
+      "question": "The '4 Ps' of the marketing mix are:",
+      "options": [
+        "People, Place, Profit, Promotion",
+        "Product, Price, Place, Promotion",
+        "Product, Profit, People, Place",
+        "Price, People, Promotion, Production"
+      ],
+      "answer": 1,
+      "explanation": "The 4 Ps of the marketing mix are Product, Price, Place and Promotion — the key tools a business uses to market its goods and services."
+    },
+    {
+      "id": 77,
+      "strand": "Marketing",
+      "unit": "Marketing",
+      "topic": "Market Research",
+      "difficulty": 1,
+      "question": "Primary market research involves:",
+      "options": [
+        "Collecting data that already exists e.g. from published reports",
+        "Collecting new first-hand data directly from consumers through surveys or interviews",
+        "Using competitors' data",
+        "Reviewing sales figures from past years"
+      ],
+      "answer": 1,
+      "explanation": "Primary research collects new data directly from the source. Methods include surveys, interviews, focus groups and observation."
+    },
+    {
+      "id": 78,
+      "strand": "Marketing",
+      "unit": "Marketing",
+      "topic": "Market Research",
+      "difficulty": 2,
+      "question": "Secondary market research uses:",
+      "options": [
+        "Interviews with new customers",
+        "Brand new data collected specifically for the current purpose",
+        "Existing data from published sources such as government statistics, trade journals and company reports",
+        "Only internal company data"
+      ],
+      "answer": 2,
+      "explanation": "Secondary research uses data already collected and published by others — it is cheaper and quicker than primary research but may be outdated or less relevant."
+    },
+    {
+      "id": 79,
+      "strand": "Marketing",
+      "unit": "Marketing",
+      "topic": "Market Segmentation",
+      "difficulty": 2,
+      "question": "Market segmentation involves:",
+      "options": [
+        "Selling to all customers in the same way",
+        "Dividing the total market into distinct groups of customers with similar characteristics and needs",
+        "Reducing the size of the market",
+        "Focusing only on the largest customer groups"
+      ],
+      "answer": 1,
+      "explanation": "Market segmentation divides the market into identifiable groups (e.g. by age, income, location, lifestyle) so that products and marketing can be tailored to each segment."
+    },
+    {
+      "id": 80,
+      "strand": "Marketing",
+      "unit": "Marketing",
+      "topic": "Marketing Mix",
+      "difficulty": 2,
+      "question": "Which element of the marketing mix relates to how a product is made available to consumers?",
+      "options": [
+        "Product",
+        "Price",
+        "Place",
+        "Promotion"
+      ],
+      "answer": 2,
+      "explanation": "Place (distribution) covers how and where the product is made available to the customer — including retail stores, online platforms and distribution channels."
+    },
+    {
+      "id": 81,
+      "strand": "Marketing",
+      "unit": "Marketing",
+      "topic": "Promotion",
+      "difficulty": 2,
+      "question": "Advertising, personal selling, sales promotions and public relations are all examples of:",
+      "options": [
+        "Pricing strategies",
+        "Distribution channels",
+        "Elements of the promotional mix",
+        "Production methods"
+      ],
+      "answer": 2,
+      "explanation": "The promotional mix (or communications mix) includes advertising, personal selling, sales promotions, public relations and direct marketing."
+    },
+    {
+      "id": 82,
+      "strand": "Marketing",
+      "unit": "Marketing",
+      "topic": "Pricing",
+      "difficulty": 3,
+      "question": "Penetration pricing involves:",
+      "options": [
+        "Setting a very high price to reflect luxury positioning",
+        "Setting a low initial price to gain market share quickly before raising prices later",
+        "Matching competitors' prices exactly",
+        "Setting price based on cost plus a fixed markup"
+      ],
+      "answer": 1,
+      "explanation": "Penetration pricing sets a low initial price to attract customers and build market share rapidly. Prices are typically raised once the product is established."
+    },
+    {
+      "id": 83,
+      "strand": "Logistics and Supply Chain",
+      "unit": "Logistics and Supply Chain",
+      "topic": "Supply Chain",
+      "difficulty": 1,
+      "question": "The supply chain refers to:",
+      "options": [
+        "A chain of retail stores",
+        "The sequence of activities and organisations involved in producing and delivering a product from raw material to final consumer",
+        "A type of business agreement",
+        "The financial transactions between businesses"
+      ],
+      "answer": 1,
+      "explanation": "The supply chain encompasses all stages from sourcing raw materials through production, distribution and delivery to the end consumer."
+    },
+    {
+      "id": 84,
+      "strand": "Logistics and Supply Chain",
+      "unit": "Logistics and Supply Chain",
+      "topic": "Channels of Distribution",
+      "difficulty": 1,
+      "question": "Which of the following is an example of a DIRECT channel of distribution?",
+      "options": [
+        "Manufacturer → wholesaler → retailer → consumer",
+        "Manufacturer → agent → retailer → consumer",
+        "Manufacturer selling directly to the consumer via their own website",
+        "Manufacturer → retailer → consumer"
+      ],
+      "answer": 2,
+      "explanation": "A direct channel has no intermediaries — the manufacturer sells directly to the consumer, such as through a factory shop, website or market stall."
+    },
+    {
+      "id": 85,
+      "strand": "Logistics and Supply Chain",
+      "unit": "Logistics and Supply Chain",
+      "topic": "Channels of Distribution",
+      "difficulty": 2,
+      "question": "The role of a wholesaler in the distribution channel is to:",
+      "options": [
+        "Sell directly to individual consumers in small quantities",
+        "Buy large quantities from manufacturers and sell in smaller quantities to retailers",
+        "Manufacture goods for sale",
+        "Advertise products to the public"
+      ],
+      "answer": 1,
+      "explanation": "Wholesalers buy in bulk from manufacturers and break bulk — selling smaller quantities to retailers. They provide warehousing and logistics between production and retail."
+    },
+    {
+      "id": 86,
+      "strand": "Logistics and Supply Chain",
+      "unit": "Logistics and Supply Chain",
+      "topic": "Inventory Management",
+      "difficulty": 2,
+      "question": "Just-in-Time (JIT) inventory management means:",
+      "options": [
+        "Keeping large amounts of stock at all times",
+        "Ordering and receiving materials only as they are needed in production, minimising stock holding costs",
+        "Producing goods only when orders are received",
+        "Holding 12 months of stock in reserve"
+      ],
+      "answer": 1,
+      "explanation": "JIT minimises inventory by ordering materials to arrive just as they are needed in production, reducing storage costs and waste but requiring reliable suppliers."
+    },
+    {
+      "id": 87,
+      "strand": "Logistics and Supply Chain",
+      "unit": "Logistics and Supply Chain",
+      "topic": "Supply Chain",
+      "difficulty": 3,
+      "question": "Which of the following is a risk associated with a global supply chain?",
+      "options": [
+        "Lower production costs",
+        "Greater supplier choice",
+        "Supply disruptions from natural disasters, political instability or transport delays affecting production",
+        "Better product quality always"
+      ],
+      "answer": 2,
+      "explanation": "Global supply chains offer cost benefits but increase vulnerability to disruptions such as natural disasters, port strikes, political events or transport failures."
+    },
+    {
+      "id": 88,
+      "strand": "Business Finance",
+      "unit": "Business Finance",
+      "topic": "Financial Statements",
+      "difficulty": 1,
+      "question": "The purpose of a profit and loss account (income statement) is to:",
+      "options": [
+        "Show the assets and liabilities of a business",
+        "Calculate the profit or loss made by a business over a period",
+        "Show the cash position of the business",
+        "Record all transactions in order"
+      ],
+      "answer": 1,
+      "explanation": "The profit and loss (income) statement shows all revenues and expenses over a period, calculating the net profit or loss."
+    },
+    {
+      "id": 89,
+      "strand": "Business Finance",
+      "unit": "Business Finance",
+      "topic": "Financial Statements",
+      "difficulty": 2,
+      "question": "A balance sheet shows:",
+      "options": [
+        "Sales revenue over the year",
+        "A business's assets, liabilities and owner's equity at a specific point in time",
+        "Monthly cash flows",
+        "The cost of goods sold"
+      ],
+      "answer": 1,
+      "explanation": "A balance sheet (statement of financial position) provides a snapshot of what a business owns (assets), what it owes (liabilities) and the owner's stake (equity) on a specific date."
+    },
+    {
+      "id": 90,
+      "strand": "Business Finance",
+      "unit": "Business Finance",
+      "topic": "Cash Flow",
+      "difficulty": 2,
+      "question": "A cash flow forecast is used to:",
+      "options": [
+        "Calculate profit",
+        "Predict future cash inflows and outflows to identify potential shortfalls and plan accordingly",
+        "Record all assets",
+        "Set selling prices"
+      ],
+      "answer": 1,
+      "explanation": "A cash flow forecast projects expected cash receipts and payments, helping businesses identify periods of potential cash shortage and arrange finance in advance."
+    },
+    {
+      "id": 91,
+      "strand": "Business Finance",
+      "unit": "Business Finance",
+      "topic": "Financial Ratios",
+      "difficulty": 3,
+      "question": "Gross profit is calculated as:",
+      "options": [
+        "Revenue − all expenses",
+        "Revenue − cost of goods sold",
+        "Net profit + overheads",
+        "Total assets − total liabilities"
+      ],
+      "answer": 1,
+      "explanation": "Gross profit = Revenue − Cost of Goods Sold (COGS). It measures profitability before deducting operating expenses."
+    },
+    {
+      "id": 92,
+      "strand": "Business Finance",
+      "unit": "Business Finance",
+      "topic": "Break-Even",
+      "difficulty": 3,
+      "question": "The break-even point is the level of output where:",
+      "options": [
+        "Profit is maximised",
+        "Total revenue equals total costs — the business makes neither profit nor loss",
+        "Variable costs equal fixed costs",
+        "The business starts losing money"
+      ],
+      "answer": 1,
+      "explanation": "Break-even is the production level where total revenue exactly equals total costs. Below this, a loss is made; above it, a profit is made."
+    },
+    {
+      "id": 93,
+      "strand": "Role of Government",
+      "unit": "Role of Government",
+      "topic": "Government and Business",
+      "difficulty": 1,
+      "question": "Which of the following is a way in which government SUPPORTS business in the Caribbean?",
+      "options": [
+        "Imposing excessive taxes",
+        "Providing grants, subsidies, infrastructure and a legal framework for business",
+        "Banning private enterprise",
+        "Controlling all prices"
+      ],
+      "answer": 1,
+      "explanation": "Governments support business through grants, subsidies, investment in infrastructure, training programmes, legal frameworks and trade agreements."
+    },
+    {
+      "id": 94,
+      "strand": "Role of Government",
+      "unit": "Role of Government",
+      "topic": "Taxation",
+      "difficulty": 2,
+      "question": "Value Added Tax (VAT) is an example of:",
+      "options": [
+        "A direct tax paid by businesses on profits",
+        "An indirect tax added to the price of goods and services and collected by businesses on behalf of the government",
+        "A tax only paid by importers",
+        "A tax on personal income"
+      ],
+      "answer": 1,
+      "explanation": "VAT is an indirect tax — it is added to the selling price of goods and services. Businesses collect it from customers and pass it to the government."
+    },
+    {
+      "id": 95,
+      "strand": "Role of Government",
+      "unit": "Role of Government",
+      "topic": "Government and Business",
+      "difficulty": 2,
+      "question": "A tariff is a tax placed on:",
+      "options": [
+        "Domestic businesses only",
+        "Imported goods, making them more expensive and protecting domestic producers",
+        "Personal income",
+        "Company profits"
+      ],
+      "answer": 1,
+      "explanation": "Tariffs are import duties that raise the price of imported goods, making domestic alternatives more competitive and protecting local industries."
+    },
+    {
+      "id": 96,
+      "strand": "Role of Government",
+      "unit": "Role of Government",
+      "topic": "Government and Business",
+      "difficulty": 2,
+      "question": "Which of the following describes the role of a central bank in the Caribbean?",
+      "options": [
+        "It provides loans to individual consumers",
+        "It manages the money supply, issues currency, regulates commercial banks and implements monetary policy",
+        "It operates as a commercial bank",
+        "It controls all government spending"
+      ],
+      "answer": 1,
+      "explanation": "The central bank manages monetary policy, issues currency, regulates the banking system and maintains financial stability."
+    },
+    {
+      "id": 97,
+      "strand": "Role of Government",
+      "unit": "Role of Government",
+      "topic": "Government and Business",
+      "difficulty": 3,
+      "question": "A subsidy given to a local farmer by the government is intended to:",
+      "options": [
+        "Increase the price of food",
+        "Reduce the farmer's costs allowing them to compete with lower-priced imports and maintain local production",
+        "Increase government revenue",
+        "Discourage farming"
+      ],
+      "answer": 1,
+      "explanation": "Subsidies reduce producers' costs, enabling them to lower prices or remain viable against cheaper imports, supporting domestic production and employment."
+    },
+    {
+      "id": 98,
+      "strand": "Business Technology",
+      "unit": "Business Technology",
+      "topic": "ICT in Business",
+      "difficulty": 1,
+      "question": "Which of the following is a benefit of using information technology in business?",
+      "options": [
+        "Increased paperwork",
+        "Slower communication",
+        "Faster processing of data, improved communication and reduced costs",
+        "Higher staffing costs"
+      ],
+      "answer": 2,
+      "explanation": "ICT enables faster data processing, better communication (email, video conferencing), reduced costs through automation and improved customer service."
+    },
+    {
+      "id": 99,
+      "strand": "Business Technology",
+      "unit": "Business Technology",
+      "topic": "E-commerce",
+      "difficulty": 2,
+      "question": "E-commerce refers to:",
+      "options": [
+        "Electronic manufacturing of goods",
+        "The buying and selling of goods and services over the internet",
+        "Communicating by email only",
+        "Government online services"
+      ],
+      "answer": 1,
+      "explanation": "E-commerce (electronic commerce) involves commercial transactions — buying, selling, marketing and servicing products — conducted over the internet."
+    },
+    {
+      "id": 100,
+      "strand": "Business Technology",
+      "unit": "Business Technology",
+      "topic": "ICT in Business",
+      "difficulty": 2,
+      "question": "A database management system (DBMS) in business is used to:",
+      "options": [
+        "Manufacture products electronically",
+        "Organise, store, retrieve and manage large amounts of data efficiently",
+        "Design company websites only",
+        "Process customer payments only"
+      ],
+      "answer": 1,
+      "explanation": "A DBMS organises and manages structured data, enabling efficient storage, retrieval and manipulation of business information such as customer records and inventory."
+    },
+    {
+      "id": 101,
+      "strand": "Business Technology",
+      "unit": "Business Technology",
+      "topic": "ICT in Business",
+      "difficulty": 2,
+      "question": "Social media marketing allows businesses to:",
+      "options": [
+        "Avoid all customer contact",
+        "Reach and engage with large audiences at relatively low cost compared to traditional advertising",
+        "Only sell to young people",
+        "Replace all other forms of marketing"
+      ],
+      "answer": 1,
+      "explanation": "Social media platforms allow businesses to target specific audiences, build brand awareness, engage customers and advertise cost-effectively."
+    },
+    {
+      "id": 102,
+      "strand": "Business Technology",
+      "unit": "Business Technology",
+      "topic": "ICT in Business",
+      "difficulty": 3,
+      "question": "Cloud computing in business refers to:",
+      "options": [
+        "Weather forecasting for businesses",
+        "Storing and accessing data and software over the internet rather than on local computers",
+        "Using computers outdoors",
+        "A type of network security"
+      ],
+      "answer": 1,
+      "explanation": "Cloud computing delivers computing services (storage, software, processing) over the internet, allowing businesses to access data anywhere and scale resources flexibly."
+    },
+    {
+      "id": 103,
+      "strand": "Standard of Living",
+      "unit": "Standard of Living",
+      "topic": "Standard of Living",
+      "difficulty": 1,
+      "question": "The standard of living of a population is best measured by:",
+      "options": [
+        "The size of the country",
+        "GDP per capita and access to goods, services and quality of life indicators",
+        "The number of businesses",
+        "The strength of the military"
+      ],
+      "answer": 1,
+      "explanation": "Standard of living is typically measured using GDP per capita, access to healthcare, education, housing, and other quality of life indicators."
+    },
+    {
+      "id": 104,
+      "strand": "Standard of Living",
+      "unit": "Standard of Living",
+      "topic": "Standard of Living",
+      "difficulty": 1,
+      "question": "Which of the following would most directly IMPROVE the standard of living?",
+      "options": [
+        "Rising unemployment",
+        "Higher inflation with stagnant wages",
+        "Increased access to quality healthcare and education",
+        "Higher import taxes"
+      ],
+      "answer": 2,
+      "explanation": "Access to quality healthcare and education improves health outcomes, productivity and income-earning potential, directly improving standard of living."
+    },
+    {
+      "id": 105,
+      "strand": "Standard of Living",
+      "unit": "Standard of Living",
+      "topic": "Quality of Life",
+      "difficulty": 2,
+      "question": "'Quality of life' differs from 'standard of living' because it:",
+      "options": [
+        "Is measured only by income",
+        "Includes non-material factors such as health, happiness, personal freedom, safety and environmental quality",
+        "Is only relevant for wealthy nations",
+        "Only applies to the elderly"
+      ],
+      "answer": 1,
+      "explanation": "Quality of life is broader than standard of living — it includes subjective well-being, personal freedom, safety, environmental quality and social relationships, not just material wealth."
+    },
+    {
+      "id": 106,
+      "strand": "Standard of Living",
+      "unit": "Standard of Living",
+      "topic": "Standard of Living",
+      "difficulty": 2,
+      "question": "Which of the following is a cause of low standard of living in many Caribbean territories?",
+      "options": [
+        "High levels of tourism",
+        "High government spending on education",
+        "High levels of national debt, unemployment and dependence on imported goods",
+        "Strong manufacturing sectors"
+      ],
+      "answer": 2,
+      "explanation": "Many Caribbean nations face challenges including high national debt, unemployment, small domestic markets and heavy reliance on imported goods, which constrain living standards."
+    },
+    {
+      "id": 107,
+      "strand": "Standard of Living",
+      "unit": "Standard of Living",
+      "topic": "Economic Indicators",
+      "difficulty": 2,
+      "question": "Inflation refers to:",
+      "options": [
+        "A decrease in the general price level",
+        "A sustained rise in the general level of prices over time, reducing purchasing power",
+        "An increase in employment",
+        "A rise in the value of the currency"
+      ],
+      "answer": 1,
+      "explanation": "Inflation is a sustained increase in the general price level, which reduces the purchasing power of money — people can buy less for the same amount."
+    },
+    {
+      "id": 108,
+      "strand": "Standard of Living",
+      "unit": "Standard of Living",
+      "topic": "Economic Indicators",
+      "difficulty": 3,
+      "question": "Which of the following best explains why economic growth does not always lead to an improved standard of living for all citizens?",
+      "options": [
+        "Economic growth always reduces poverty",
+        "Growth benefits may be unevenly distributed — inequality means some groups do not share in the gains",
+        "All growth reduces unemployment",
+        "High growth always causes inflation"
+      ],
+      "answer": 1,
+      "explanation": "Economic growth increases overall national income but if the gains are concentrated among the wealthy, many citizens may not experience an improved standard of living."
+    },
+    {
+      "id": 109,
+      "strand": "Background to Businesses",
+      "unit": "Background to Businesses",
+      "topic": "Opportunity Cost",
+      "difficulty": 2,
+      "question": "Opportunity cost is best defined as:",
+      "options": [
+        "The actual financial cost of a purchase",
+        "The value of the next best alternative forgone when a choice is made",
+        "The cost of raw materials",
+        "The interest on a loan"
+      ],
+      "answer": 1,
+      "explanation": "Opportunity cost is the benefit of the next best alternative that is given up when a decision is made — a fundamental concept in economics and business decision-making."
+    },
+    {
+      "id": 110,
+      "strand": "Types of Businesses and Economic Systems",
+      "unit": "Types of Businesses and Economic Systems",
+      "topic": "Franchising",
+      "difficulty": 2,
+      "question": "A franchise is a business arrangement where:",
+      "options": [
+        "One company buys another completely",
+        "The franchisee purchases the right to operate a business using the franchisor's established brand, systems and support",
+        "Two businesses merge into one",
+        "A business sells shares on the stock exchange"
+      ],
+      "answer": 1,
+      "explanation": "In franchising, the franchisee pays for the right to use the franchisor's brand name, products and business model, benefiting from an established system."
+    },
+    {
+      "id": 111,
+      "strand": "Business Organization",
+      "unit": "Business Organization",
+      "topic": "Communication",
+      "difficulty": 2,
+      "question": "Which of the following is an example of vertical communication in a business?",
+      "options": [
+        "Communication between managers of different departments at the same level",
+        "Communication between a manager and their subordinate (upward or downward)",
+        "Communication between two colleagues in the same team",
+        "Communication between the business and its customers"
+      ],
+      "answer": 1,
+      "explanation": "Vertical communication flows up or down the organisational hierarchy — between managers and subordinates or subordinates reporting to managers."
+    },
+    {
+      "id": 112,
+      "strand": "Legal Aspects of Business",
+      "unit": "Legal Aspects of Business",
+      "topic": "Business Registration",
+      "difficulty": 2,
+      "question": "A Memorandum of Association is a document required when forming a company that:",
+      "options": [
+        "Lists the company's employees",
+        "Sets out the company's name, objectives, registered address and capital structure",
+        "Describes the daily operations of the business",
+        "Records customer transactions"
+      ],
+      "answer": 1,
+      "explanation": "The Memorandum of Association is an external document defining the company's fundamental relationship with the outside world — name, objectives and share capital."
+    },
+    {
+      "id": 113,
+      "strand": "Business Management",
+      "unit": "Business Management",
+      "topic": "SWOT Analysis",
+      "difficulty": 2,
+      "question": "A SWOT analysis examines a business's:",
+      "options": [
+        "Sales, Workers, Operations and Technology",
+        "Strengths, Weaknesses, Opportunities and Threats",
+        "Strategy, Workforce, Output and Targets",
+        "Skills, Wages, Output and Training"
+      ],
+      "answer": 1,
+      "explanation": "SWOT analysis is a strategic planning tool examining internal Strengths and Weaknesses and external Opportunities and Threats facing a business."
+    },
+    {
+      "id": 114,
+      "strand": "Entrepreneurship",
+      "unit": "Entrepreneurship",
+      "topic": "Innovation",
+      "difficulty": 2,
+      "question": "Innovation in business refers to:",
+      "options": [
+        "Repeating existing production methods",
+        "The process of introducing new or significantly improved products, processes or business models",
+        "Copying a competitor's product",
+        "Reducing the number of products offered"
+      ],
+      "answer": 1,
+      "explanation": "Innovation involves creating new or significantly improved products, services, processes or business models that add value and competitive advantage."
+    },
+    {
+      "id": 115,
+      "strand": "Establishment of a Business",
+      "unit": "Establishment of a Business",
+      "topic": "Market Research",
+      "difficulty": 2,
+      "question": "Before starting a business, a market research study helps the entrepreneur to:",
+      "options": [
+        "Guarantee success",
+        "Understand customer needs, assess competition and identify potential demand before investing",
+        "Hire all necessary staff",
+        "Set up accounting systems"
+      ],
+      "answer": 1,
+      "explanation": "Market research helps entrepreneurs understand their target market, assess demand, identify competitors and reduce the risk of business failure."
+    },
+    {
+      "id": 116,
+      "strand": "Contracts",
+      "unit": "Contracts",
+      "topic": "Elements of a Contract",
+      "difficulty": 2,
+      "question": "Which of the following would make a contract VOID?",
+      "options": [
+        "Both parties are adults",
+        "The contract is for an illegal purpose",
+        "One party is a company",
+        "The contract involves a large sum of money"
+      ],
+      "answer": 1,
+      "explanation": "A contract for an illegal purpose (e.g. to commit a crime) is void — it has no legal effect regardless of what was agreed."
+    },
+    {
+      "id": 117,
+      "strand": "Business Documents",
+      "unit": "Business Documents",
+      "topic": "Trade Documents",
+      "difficulty": 2,
+      "question": "A quotation sent by a supplier to a potential buyer contains:",
+      "options": [
+        "A request for goods",
+        "Details of the price, terms and conditions at which goods or services will be supplied",
+        "Confirmation of delivery",
+        "A summary of account transactions"
+      ],
+      "answer": 1,
+      "explanation": "A quotation (price quote) from a seller tells the potential buyer the price, terms and conditions under which goods or services will be supplied."
+    },
+    {
+      "id": 118,
+      "strand": "Insurance",
+      "unit": "Insurance",
+      "topic": "Types of Insurance",
+      "difficulty": 2,
+      "question": "Life assurance differs from most other types of insurance because:",
+      "options": [
+        "It does not require premium payments",
+        "The event insured against (death) is certain to happen — only the timing is uncertain",
+        "It covers property only",
+        "It pays out immediately on signing the policy"
+      ],
+      "answer": 1,
+      "explanation": "Life assurance covers a certainty (death) rather than a risk — it is a matter of when, not if. Other insurance covers events that may or may not happen."
+    },
+    {
+      "id": 119,
+      "strand": "Production",
+      "unit": "Production",
+      "topic": "Technology in Production",
+      "difficulty": 2,
+      "question": "Automation in production involves:",
+      "options": [
+        "Hiring more workers for repetitive tasks",
+        "Using machines and computer systems to perform tasks that were previously done by humans",
+        "Producing goods by hand",
+        "Outsourcing production to another country"
+      ],
+      "answer": 1,
+      "explanation": "Automation uses technology to perform repetitive or complex tasks, increasing efficiency, consistency and output while reducing labour costs."
+    },
+    {
+      "id": 120,
+      "strand": "Marketing",
+      "unit": "Marketing",
+      "topic": "Product Life Cycle",
+      "difficulty": 2,
+      "question": "During the growth stage of the product life cycle:",
+      "options": [
+        "Sales are low and the product is being launched",
+        "Sales rise rapidly as the product gains market acceptance and profits begin to grow",
+        "Sales have peaked and are beginning to decline",
+        "The product is being withdrawn from the market"
+      ],
+      "answer": 1,
+      "explanation": "In the growth stage, the product gains market awareness, sales accelerate, competitors enter the market and profits begin to increase."
+    },
+    {
+      "id": 121,
+      "strand": "Marketing",
+      "unit": "Marketing",
+      "topic": "Branding",
+      "difficulty": 2,
+      "question": "Branding gives a business competitive advantage because:",
+      "options": [
+        "It reduces production costs",
+        "It creates a distinct identity and customer loyalty, making customers more likely to choose the brand over competitors",
+        "It eliminates the need for advertising",
+        "It reduces the need for quality control"
+      ],
+      "answer": 1,
+      "explanation": "A strong brand creates recognition, trust and loyalty among customers, differentiating the product from competitors and often allowing premium pricing."
+    },
+    {
+      "id": 122,
+      "strand": "Logistics and Supply Chain",
+      "unit": "Logistics and Supply Chain",
+      "topic": "Logistics",
+      "difficulty": 2,
+      "question": "Logistics in business refers to:",
+      "options": [
+        "The legal aspects of trading",
+        "The planning and management of the flow of goods, information and resources from origin to the point of consumption",
+        "Financial planning only",
+        "Marketing and sales activities"
+      ],
+      "answer": 1,
+      "explanation": "Logistics encompasses planning, implementing and controlling the efficient flow of goods, services and information between the point of origin and point of consumption."
+    },
+    {
+      "id": 123,
+      "strand": "Business Finance",
+      "unit": "Business Finance",
+      "topic": "Financial Statements",
+      "difficulty": 2,
+      "question": "Working capital is defined as:",
+      "options": [
+        "The total value of a company's assets",
+        "Current assets minus current liabilities — the funds available for day-to-day business operations",
+        "The long-term investment in the business",
+        "The profit retained in the business"
+      ],
+      "answer": 1,
+      "explanation": "Working capital = Current assets − Current liabilities. It measures a business's ability to meet its short-term obligations and fund daily operations."
+    },
+    {
+      "id": 124,
+      "strand": "Role of Government",
+      "unit": "Role of Government",
+      "topic": "Government and Business",
+      "difficulty": 2,
+      "question": "Which of the following is an example of a government fiscal policy tool?",
+      "options": [
+        "Changing interest rates",
+        "Buying and selling government bonds",
+        "Changing tax rates and government spending levels",
+        "Setting the exchange rate"
+      ],
+      "answer": 2,
+      "explanation": "Fiscal policy uses taxation and government expenditure to influence the economy. Monetary policy uses interest rates and money supply."
+    },
+    {
+      "id": 125,
+      "strand": "Business Technology",
+      "unit": "Business Technology",
+      "topic": "Cybersecurity",
+      "difficulty": 3,
+      "question": "Which of the following is the most important reason for businesses to invest in cybersecurity?",
+      "options": [
+        "To reduce electricity costs",
+        "To protect sensitive business and customer data from theft, breaches and cyberattacks",
+        "To eliminate the need for staff",
+        "To reduce marketing costs"
+      ],
+      "answer": 1,
+      "explanation": "Cybersecurity protects businesses from data breaches, financial fraud and reputational damage caused by cyberattacks — increasingly critical as more business is conducted online."
+    },
+    {
+      "id": 126,
+      "strand": "Standard of Living",
+      "unit": "Standard of Living",
+      "topic": "Economic Indicators",
+      "difficulty": 2,
+      "question": "Unemployment occurs when:",
+      "options": [
+        "All workers are employed",
+        "People who are willing and able to work cannot find employment",
+        "Workers choose to retire early",
+        "Workers are employed part-time only"
+      ],
+      "answer": 1,
+      "explanation": "Unemployment exists when individuals who are willing and able to work at prevailing wages cannot find employment."
+    },
+    {
+      "id": 127,
+      "strand": "Background to Businesses",
+      "unit": "Background to Businesses",
+      "topic": "Division of Labour",
+      "difficulty": 2,
+      "question": "Division of labour refers to:",
+      "options": [
+        "Splitting the workforce into unions",
+        "Breaking production into specialised tasks performed by different workers, increasing efficiency",
+        "Dividing profits among workers",
+        "Equal pay for all workers"
+      ],
+      "answer": 1,
+      "explanation": "Division of labour breaks production into specialised tasks. Workers become highly skilled at their specific task, improving speed, quality and efficiency."
+    },
+    {
+      "id": 128,
+      "strand": "Types of Businesses and Economic Systems",
+      "unit": "Types of Businesses and Economic Systems",
+      "topic": "Multinational Companies",
+      "difficulty": 3,
+      "question": "A multinational corporation (MNC) is a company that:",
+      "options": [
+        "Trades only within its home country",
+        "Has operations, production and sales in multiple countries",
+        "Is owned by multiple governments",
+        "Only employs international workers"
+      ],
+      "answer": 1,
+      "explanation": "Multinational corporations operate in multiple countries — they may have headquarters in one country and production, sales or service operations in many others."
+    },
+    {
+      "id": 129,
+      "strand": "Business Management",
+      "unit": "Business Management",
+      "topic": "Management Functions",
+      "difficulty": 2,
+      "question": "Which of the following is an example of the staffing function of management?",
+      "options": [
+        "Setting the company's annual budget",
+        "Recruiting, selecting and training employees for specific roles",
+        "Monitoring production quality",
+        "Choosing a distribution channel"
+      ],
+      "answer": 1,
+      "explanation": "Staffing involves all HR activities — determining workforce needs, recruiting, selecting, training and managing the performance of employees."
+    },
+    {
+      "id": 130,
+      "strand": "Entrepreneurship",
+      "unit": "Entrepreneurship",
+      "topic": "Social Entrepreneurship",
+      "difficulty": 3,
+      "question": "A social enterprise differs from a traditional business because:",
+      "options": [
+        "It aims only to maximise profit",
+        "Its primary purpose is to achieve a social or environmental objective while generating income to sustain itself",
+        "It is always owned by the government",
+        "It never generates any revenue"
+      ],
+      "answer": 1,
+      "explanation": "Social enterprises pursue social or environmental goals as their primary purpose, reinvesting surpluses to further those goals rather than maximising shareholder profit."
+    },
+    {
+      "id": 131,
+      "strand": "Establishment of a Business",
+      "unit": "Establishment of a Business",
+      "topic": "Sources of Finance",
+      "difficulty": 3,
+      "question": "Venture capital is a source of finance typically provided to:",
+      "options": [
+        "Large established corporations",
+        "High-growth start-up businesses with significant potential in exchange for equity (ownership)",
+        "Government departments",
+        "Charities only"
+      ],
+      "answer": 1,
+      "explanation": "Venture capitalists invest in early-stage businesses with high growth potential, taking an equity stake in return for funding and often providing strategic guidance."
+    },
+    {
+      "id": 132,
+      "strand": "Contracts",
+      "unit": "Contracts",
+      "topic": "Breach of Contract",
+      "difficulty": 2,
+      "question": "Which of the following is a remedy for breach of contract?",
+      "options": [
+        "Criminal prosecution of the defaulting party",
+        "Damages (financial compensation) payable to the injured party",
+        "Automatic cancellation of all business activities",
+        "Warning the other party only"
+      ],
+      "answer": 1,
+      "explanation": "The primary remedy for breach of contract is damages — a court-ordered payment to compensate the injured party for losses suffered as a result of the breach."
+    },
+    {
+      "id": 133,
+      "strand": "Business Documents",
+      "unit": "Business Documents",
+      "topic": "Financial Documents",
+      "difficulty": 2,
+      "question": "A receipt is a document that:",
+      "options": [
+        "Requests payment from a customer",
+        "Confirms that payment has been made and received",
+        "Lists goods available for sale",
+        "Orders goods from a supplier"
+      ],
+      "answer": 1,
+      "explanation": "A receipt is proof of payment — it confirms that the seller has received the payment from the buyer for goods or services provided."
+    },
+    {
+      "id": 134,
+      "strand": "Insurance",
+      "unit": "Insurance",
+      "topic": "Types of Insurance",
+      "difficulty": 2,
+      "question": "Employers' liability insurance protects a business against:",
+      "options": [
+        "Damage to company vehicles",
+        "Claims made by employees who suffer injuries or illnesses as a result of their work",
+        "Losses from fire or theft",
+        "Customer complaints"
+      ],
+      "answer": 1,
+      "explanation": "Employers' liability insurance covers a business's legal liability to employees who are injured, become ill or die as a result of their employment."
+    },
+    {
+      "id": 135,
+      "strand": "Production",
+      "unit": "Production",
+      "topic": "Productivity",
+      "difficulty": 2,
+      "question": "Labour productivity is calculated as:",
+      "options": [
+        "Total revenue divided by number of workers",
+        "Total output divided by number of workers (or hours worked)",
+        "Total costs divided by output",
+        "Profit divided by wages"
+      ],
+      "answer": 1,
+      "explanation": "Labour productivity = Total output ÷ Number of workers (or hours worked). It measures the efficiency of labour input in production."
+    },
+    {
+      "id": 136,
+      "strand": "Marketing",
+      "unit": "Marketing",
+      "topic": "Marketing Mix",
+      "difficulty": 2,
+      "question": "Which pricing strategy involves setting a high initial price for a new innovative product before gradually lowering it?",
+      "options": [
+        "Penetration pricing",
+        "Cost-plus pricing",
+        "Price skimming",
+        "Competitive pricing"
+      ],
+      "answer": 2,
+      "explanation": "Price skimming sets a high initial price targeting early adopters willing to pay a premium, then lowers the price over time to reach broader market segments."
+    },
+    {
+      "id": 137,
+      "strand": "Logistics and Supply Chain",
+      "unit": "Logistics and Supply Chain",
+      "topic": "Channels of Distribution",
+      "difficulty": 3,
+      "question": "Which of the following is an advantage of using an indirect distribution channel?",
+      "options": [
+        "Higher profit margins for the producer",
+        "The producer loses control of how the product is sold",
+        "Intermediaries have established networks and customer bases, extending market reach without the producer managing distribution",
+        "Direct access to customer feedback"
+      ],
+      "answer": 2,
+      "explanation": "Intermediaries (wholesalers, retailers, agents) provide established distribution networks, reducing the producer's need to manage logistics while reaching wider markets."
+    },
+    {
+      "id": 138,
+      "strand": "Business Finance",
+      "unit": "Business Finance",
+      "topic": "Break-Even",
+      "difficulty": 3,
+      "question": "The margin of safety in business refers to:",
+      "options": [
+        "The amount of insurance a business holds",
+        "The difference between actual output and break-even output — showing how far sales can fall before a loss is made",
+        "The profit margin on each unit",
+        "The minimum wage paid to employees"
+      ],
+      "answer": 1,
+      "explanation": "Margin of safety = Actual output − Break-even output. It shows how much output or sales can fall before the business starts making a loss."
+    },
+    {
+      "id": 139,
+      "strand": "Role of Government",
+      "unit": "Role of Government",
+      "topic": "Regulation",
+      "difficulty": 2,
+      "question": "Anti-monopoly (competition) legislation is designed to:",
+      "options": [
+        "Create government monopolies",
+        "Prevent any single business from dominating a market unfairly and protect competition",
+        "Increase business taxes",
+        "Encourage mergers between large companies"
+      ],
+      "answer": 1,
+      "explanation": "Competition law prevents monopolistic practices, price-fixing and other anti-competitive behaviour that harms consumers and reduces market efficiency."
+    },
+    {
+      "id": 140,
+      "strand": "Standard of Living",
+      "unit": "Standard of Living",
+      "topic": "Standard of Living",
+      "difficulty": 3,
+      "question": "Which of the following correctly distinguishes GDP from GNP?",
+      "options": [
+        "GDP includes income earned abroad by citizens; GNP does not",
+        "GDP measures total output within a country's borders; GNP includes net income earned abroad by nationals",
+        "GDP is only for developing countries",
+        "GNP measures only agricultural output"
+      ],
+      "answer": 1,
+      "explanation": "GDP (Gross Domestic Product) counts all output within a country's borders. GNP (Gross National Product) adds net income earned by nationals abroad and subtracts income earned by foreigners within the country."
+    },
+    {
+      "id": 141,
+      "strand": "Business Organization",
+      "unit": "Business Organization",
+      "topic": "Departments",
+      "difficulty": 2,
+      "question": "The research and development (R&D) department in a business is responsible for:",
+      "options": [
+        "Managing accounts",
+        "Recruiting staff",
+        "Developing new products and improving existing ones through innovation and testing",
+        "Handling customer complaints"
+      ],
+      "answer": 2,
+      "explanation": "R&D focuses on innovation — creating new products, improving existing ones and developing new technologies to keep the business competitive."
+    },
+    {
+      "id": 142,
+      "strand": "Business Management",
+      "unit": "Business Management",
+      "topic": "Decision Making",
+      "difficulty": 3,
+      "question": "A PEST analysis examines which external factors affecting a business?",
+      "options": [
+        "Productivity, Efficiency, Staffing, Technology",
+        "Political, Economic, Social and Technological factors in the business environment",
+        "Pricing, Expenditure, Sales and Trends",
+        "Planning, Execution, Strategy and Tactics"
+      ],
+      "answer": 1,
+      "explanation": "PEST analysis examines Political, Economic, Social and Technological factors in the macro-environment that can affect a business's strategy and operations."
+    },
+    {
+      "id": 143,
+      "strand": "Entrepreneurship",
+      "unit": "Entrepreneurship",
+      "topic": "Business Plan",
+      "difficulty": 2,
+      "question": "Which section of a business plan describes how the business will reach its target customers?",
+      "options": [
+        "Financial projections",
+        "Executive summary",
+        "Marketing plan",
+        "Operational plan"
+      ],
+      "answer": 2,
+      "explanation": "The marketing plan section describes the target market, marketing mix strategy (product, price, place, promotion) and how the business will acquire and retain customers."
+    },
+    {
+      "id": 144,
+      "strand": "Production",
+      "unit": "Production",
+      "topic": "Types of Production",
+      "difficulty": 2,
+      "question": "Batch production involves:",
+      "options": [
+        "Making one unique item at a time",
+        "Producing a specific quantity of identical products before switching to produce a different product",
+        "Continuous production of millions of identical units",
+        "Producing goods only when orders are received"
+      ],
+      "answer": 1,
+      "explanation": "Batch production makes a set quantity (a batch) of one product, then switches the production line to make a batch of another. Examples include bread baking and clothing manufacture."
+    },
+    {
+      "id": 145,
+      "strand": "Marketing",
+      "unit": "Marketing",
+      "topic": "Consumer Behaviour",
+      "difficulty": 2,
+      "question": "Which of the following factors is most likely to influence a consumer's purchasing decision?",
+      "options": [
+        "The weather only",
+        "A combination of price, quality, branding, peer influence and personal income",
+        "The production method used",
+        "The business's organisational structure"
+      ],
+      "answer": 1,
+      "explanation": "Consumer behaviour is influenced by a complex mix of factors including price, quality, branding, social influence, cultural norms and individual income."
+    },
+    {
+      "id": 146,
+      "strand": "Logistics and Supply Chain",
+      "unit": "Logistics and Supply Chain",
+      "topic": "Supply Chain",
+      "difficulty": 2,
+      "question": "Supply chain management aims to:",
+      "options": [
+        "Increase the number of intermediaries",
+        "Optimise the flow of goods and information to reduce costs, improve efficiency and ensure timely delivery",
+        "Eliminate all suppliers",
+        "Increase inventory holding costs"
+      ],
+      "answer": 1,
+      "explanation": "Effective SCM coordinates suppliers, production, logistics and distribution to minimise costs, reduce waste and ensure products reach customers on time."
+    },
+    {
+      "id": 147,
+      "strand": "Business Finance",
+      "unit": "Business Finance",
+      "topic": "Sources of Finance",
+      "difficulty": 2,
+      "question": "Trade credit as a source of finance means:",
+      "options": [
+        "A loan from the bank",
+        "Buying goods from a supplier now and paying at an agreed later date — effectively receiving interest-free short-term credit",
+        "Issuing shares to raise capital",
+        "Using the owner's savings"
+      ],
+      "answer": 1,
+      "explanation": "Trade credit allows businesses to receive goods or services and pay for them later (e.g. 30–90 days), providing a short-term, interest-free source of working capital."
+    },
+    {
+      "id": 148,
+      "strand": "Role of Government",
+      "unit": "Role of Government",
+      "topic": "Government and Business",
+      "difficulty": 2,
+      "question": "Import quotas are used by governments to:",
+      "options": [
+        "Encourage foreign trade",
+        "Limit the quantity of specific goods that can be imported, protecting domestic producers",
+        "Increase government revenue from imports",
+        "Attract foreign investment"
+      ],
+      "answer": 1,
+      "explanation": "Import quotas set a maximum quantity of a specific good that can be imported, protecting domestic industries from foreign competition."
+    },
+    {
+      "id": 149,
+      "strand": "Business Technology",
+      "unit": "Business Technology",
+      "topic": "ICT in Business",
+      "difficulty": 2,
+      "question": "Which of the following is an example of using technology to improve customer service in a Caribbean business?",
+      "options": [
+        "Removing all customer communication channels",
+        "Using a Customer Relationship Management (CRM) system to track interactions and personalise service",
+        "Reducing operating hours",
+        "Eliminating online shopping options"
+      ],
+      "answer": 1,
+      "explanation": "CRM systems store customer data and interaction history, enabling businesses to personalise service, manage relationships and improve customer retention."
+    },
+    {
+      "id": 150,
+      "strand": "Standard of Living",
+      "unit": "Standard of Living",
+      "topic": "Economic Indicators",
+      "difficulty": 3,
+      "question": "Which of the following would most effectively improve the standard of living in a developing Caribbean country in the long term?",
+      "options": [
+        "Short-term foreign aid only",
+        "Investment in education, infrastructure and sustainable industries combined with good governance",
+        "Increasing import duties only",
+        "Reducing the working population"
+      ],
+      "answer": 1,
+      "explanation": "Sustainable improvement in living standards requires investment in human capital (education), physical capital (infrastructure), productive industries and transparent governance."
+    }
+  ]
+}

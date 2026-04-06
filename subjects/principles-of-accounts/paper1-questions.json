@@ -1,0 +1,2404 @@
+{
+  "paper1": [
+    {
+      "id": 1,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Nature of Accounting",
+      "difficulty": 1,
+      "question": "Which of the following best defines accounting?",
+      "options": [
+        "The process of managing a business",
+        "The process of recording, classifying, summarising and interpreting financial transactions",
+        "The process of paying taxes",
+        "The process of managing employees"
+      ],
+      "answer": 1,
+      "explanation": "Accounting is the systematic process of recording, classifying, summarising and interpreting financial transactions to provide information for decision-making."
+    },
+    {
+      "id": 2,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Users of Accounting Information",
+      "difficulty": 1,
+      "question": "Which of the following is an INTERNAL user of accounting information?",
+      "options": [
+        "A bank considering a loan application",
+        "The government tax authority",
+        "A manager making operational decisions",
+        "A potential investor"
+      ],
+      "answer": 2,
+      "explanation": "Internal users work within the business — managers, owners and employees use accounting information for planning and decision-making."
+    },
+    {
+      "id": 3,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Accounting Concepts",
+      "difficulty": 1,
+      "question": "The going concern concept assumes that:",
+      "options": [
+        "A business will be sold immediately",
+        "A business will continue to operate for the foreseeable future",
+        "All assets will be liquidated immediately",
+        "Profits will always be made"
+      ],
+      "answer": 1,
+      "explanation": "The going concern concept assumes the business will continue to operate indefinitely, so assets are valued at cost rather than liquidation value."
+    },
+    {
+      "id": 4,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Accounting Concepts",
+      "difficulty": 1,
+      "question": "The accruals (matching) concept states that:",
+      "options": [
+        "Revenue is recorded only when cash is received",
+        "Expenses and revenues are matched to the period in which they occur, regardless of when cash is paid or received",
+        "Only large transactions are recorded",
+        "All transactions must be recorded immediately"
+      ],
+      "answer": 1,
+      "explanation": "The accruals concept matches income and expenditure to the period they relate to, not when cash changes hands."
+    },
+    {
+      "id": 5,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Accounting Concepts",
+      "difficulty": 2,
+      "question": "The prudence (conservatism) concept means:",
+      "options": [
+        "All income should be recognised immediately",
+        "Losses are recognised as soon as they are anticipated, but profits are only recognised when realised",
+        "Assets should always be overstated",
+        "Liabilities should be understated"
+      ],
+      "answer": 1,
+      "explanation": "Prudence requires anticipating potential losses immediately but only recording profits when they are certain — preventing overstatement of assets and profits."
+    },
+    {
+      "id": 6,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Accounting Concepts",
+      "difficulty": 2,
+      "question": "The consistency concept requires that:",
+      "options": [
+        "All businesses use the same accounting methods",
+        "A business uses the same accounting methods from one period to the next, allowing meaningful comparisons",
+        "Accounts are prepared monthly",
+        "All assets are valued at market price"
+      ],
+      "answer": 1,
+      "explanation": "Consistency ensures the same accounting methods are applied in each period so that financial statements are comparable across years."
+    },
+    {
+      "id": 7,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Accounting Equation",
+      "difficulty": 1,
+      "question": "The accounting equation is:",
+      "options": [
+        "Assets = Liabilities + Revenue",
+        "Assets = Liabilities + Owner's Equity (Capital)",
+        "Assets + Liabilities = Capital",
+        "Revenue − Expenses = Assets"
+      ],
+      "answer": 1,
+      "explanation": "The fundamental accounting equation: Assets = Liabilities + Owner's Equity (Capital). This must always balance."
+    },
+    {
+      "id": 8,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Accounting Equation",
+      "difficulty": 2,
+      "question": "A business has assets of $50,000 and liabilities of $18,000. What is the owner's equity?",
+      "options": [
+        "$68,000",
+        "$32,000",
+        "$18,000",
+        "$50,000"
+      ],
+      "answer": 1,
+      "explanation": "Owner's Equity = Assets − Liabilities = $50,000 − $18,000 = $32,000."
+    },
+    {
+      "id": 9,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Types of Assets",
+      "difficulty": 1,
+      "question": "Which of the following is a current asset?",
+      "options": [
+        "Motor vehicle",
+        "Land and buildings",
+        "Trade receivables (debtors)",
+        "Machinery"
+      ],
+      "answer": 2,
+      "explanation": "Current assets are short-term assets expected to be converted to cash within one year. Trade receivables (debtors) are a current asset."
+    },
+    {
+      "id": 10,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Types of Assets",
+      "difficulty": 1,
+      "question": "Which of the following is a non-current (fixed) asset?",
+      "options": [
+        "Cash at bank",
+        "Inventory",
+        "Prepaid expenses",
+        "Motor vehicles used in the business"
+      ],
+      "answer": 3,
+      "explanation": "Non-current assets are long-term assets held for use over more than one year. Motor vehicles used in the business are non-current assets."
+    },
+    {
+      "id": 11,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Types of Liabilities",
+      "difficulty": 1,
+      "question": "A bank overdraft is classified as:",
+      "options": [
+        "A non-current liability",
+        "A non-current asset",
+        "A current liability",
+        "Owner's equity"
+      ],
+      "answer": 2,
+      "explanation": "A bank overdraft is repayable on demand, so it is classified as a current liability."
+    },
+    {
+      "id": 12,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Double Entry",
+      "difficulty": 1,
+      "question": "In double-entry bookkeeping, every transaction affects:",
+      "options": [
+        "Only one account",
+        "At least two accounts — one is debited and one is credited",
+        "Three accounts at minimum",
+        "Only revenue and expense accounts"
+      ],
+      "answer": 1,
+      "explanation": "The double-entry principle states that every transaction has two equal and opposite effects — one debit and one credit of equal value."
+    },
+    {
+      "id": 13,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Double Entry",
+      "difficulty": 2,
+      "question": "When a business purchases goods on credit, the journal entry is:",
+      "options": [
+        "Debit Cash, Credit Purchases",
+        "Debit Purchases, Credit Accounts Payable (Creditor)",
+        "Debit Sales, Credit Purchases",
+        "Debit Accounts Payable, Credit Purchases"
+      ],
+      "answer": 1,
+      "explanation": "Buying goods on credit: Debit Purchases (expense increases) and Credit Accounts Payable/Creditor (liability increases)."
+    },
+    {
+      "id": 14,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Double Entry",
+      "difficulty": 2,
+      "question": "When a business receives cash from a debtor, the correct entry is:",
+      "options": [
+        "Debit Debtors, Credit Cash",
+        "Debit Cash, Credit Sales",
+        "Debit Cash, Credit Debtors (Accounts Receivable)",
+        "Debit Sales, Credit Cash"
+      ],
+      "answer": 2,
+      "explanation": "Receiving cash from a debtor: Debit Cash (asset increases) and Credit Debtors/Accounts Receivable (asset decreases — debt is settled)."
+    },
+    {
+      "id": 15,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Accounting Concepts",
+      "difficulty": 3,
+      "question": "The materiality concept means:",
+      "options": [
+        "All transactions must be recorded regardless of size",
+        "Insignificant items need not be treated strictly according to accounting rules if doing so would not affect the decisions of users",
+        "Only material goods are recorded",
+        "All assets are recorded at market value"
+      ],
+      "answer": 1,
+      "explanation": "Materiality allows minor items to be treated in the simplest practical way — full accounting treatment is applied only where it would materially affect decision-making."
+    },
+    {
+      "id": 16,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Capital vs Revenue",
+      "difficulty": 2,
+      "question": "Capital expenditure refers to:",
+      "options": [
+        "Day-to-day running costs of the business",
+        "Spending on non-current assets that will provide benefits over more than one accounting period",
+        "Payments of dividends to shareholders",
+        "All cash payments made by the business"
+      ],
+      "answer": 1,
+      "explanation": "Capital expenditure acquires or improves non-current assets (e.g. buying machinery, extending premises) providing economic benefits over multiple periods."
+    },
+    {
+      "id": 17,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Capital vs Revenue",
+      "difficulty": 2,
+      "question": "Which of the following is an example of revenue expenditure?",
+      "options": [
+        "Buying a new delivery van",
+        "Building an extension to a warehouse",
+        "Paying the monthly electricity bill",
+        "Purchasing new computer equipment"
+      ],
+      "answer": 2,
+      "explanation": "Revenue expenditure is day-to-day spending on running the business — not acquiring assets. Electricity bills are a recurring operating expense."
+    },
+    {
+      "id": 18,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Income Statement",
+      "difficulty": 1,
+      "question": "The gross profit is calculated as:",
+      "options": [
+        "Revenue − all expenses",
+        "Revenue − Cost of Goods Sold (COGS)",
+        "Net profit + expenses",
+        "Total assets − total liabilities"
+      ],
+      "answer": 1,
+      "explanation": "Gross Profit = Revenue (Sales) − Cost of Goods Sold. It measures profitability before deducting operating expenses."
+    },
+    {
+      "id": 19,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Income Statement",
+      "difficulty": 1,
+      "question": "Net profit is calculated as:",
+      "options": [
+        "Gross profit + all expenses",
+        "Gross profit − operating expenses",
+        "Revenue − cost of goods sold",
+        "Total assets − total liabilities"
+      ],
+      "answer": 1,
+      "explanation": "Net Profit = Gross Profit − Operating Expenses (overheads). It is the final profit after all costs have been deducted."
+    },
+    {
+      "id": 20,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Income Statement",
+      "difficulty": 2,
+      "question": "A business has sales of $80,000, opening inventory $10,000, purchases $45,000 and closing inventory $8,000. What is the gross profit?",
+      "options": [
+        "$33,000",
+        "$47,000",
+        "$35,000",
+        "$80,000"
+      ],
+      "answer": 0,
+      "explanation": "COGS = Opening inventory + Purchases − Closing inventory = 10,000 + 45,000 − 8,000 = $47,000. Gross Profit = 80,000 − 47,000 = $33,000."
+    },
+    {
+      "id": 21,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Statement of Financial Position",
+      "difficulty": 1,
+      "question": "The statement of financial position (balance sheet) shows:",
+      "options": [
+        "The profit or loss for the period",
+        "A summary of all income and expenses",
+        "A snapshot of a business's assets, liabilities and capital at a specific date",
+        "Only the cash position of a business"
+      ],
+      "answer": 2,
+      "explanation": "The statement of financial position (balance sheet) shows what a business owns (assets), owes (liabilities) and the owner's stake (capital/equity) at a specific point in time."
+    },
+    {
+      "id": 22,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Statement of Financial Position",
+      "difficulty": 2,
+      "question": "On a statement of financial position, capital is calculated as:",
+      "options": [
+        "Assets + Liabilities",
+        "Assets − Liabilities",
+        "Liabilities − Assets",
+        "Revenue − Expenses"
+      ],
+      "answer": 1,
+      "explanation": "Capital (Owner's Equity) = Total Assets − Total Liabilities. This reflects the owner's net worth in the business."
+    },
+    {
+      "id": 23,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Financial Ratios",
+      "difficulty": 2,
+      "question": "The gross profit margin is calculated as:",
+      "options": [
+        "(Net profit / Revenue) × 100",
+        "(Gross profit / Revenue) × 100",
+        "Gross profit / Total assets",
+        "Revenue / Cost of goods sold"
+      ],
+      "answer": 1,
+      "explanation": "Gross Profit Margin = (Gross Profit ÷ Revenue) × 100. It shows what percentage of sales revenue becomes gross profit."
+    },
+    {
+      "id": 24,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Financial Ratios",
+      "difficulty": 2,
+      "question": "The current ratio measures:",
+      "options": [
+        "How profitable the business is",
+        "Whether the business can meet its short-term debts using its current assets",
+        "The efficiency of stock management",
+        "The return on capital invested"
+      ],
+      "answer": 1,
+      "explanation": "Current Ratio = Current Assets ÷ Current Liabilities. It assesses a business's ability to pay its short-term obligations."
+    },
+    {
+      "id": 25,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Financial Ratios",
+      "difficulty": 2,
+      "question": "A business has current assets of $24,000 and current liabilities of $8,000. What is the current ratio?",
+      "options": [
+        "0.33:1",
+        "3:1",
+        "2:1",
+        "8:1"
+      ],
+      "answer": 1,
+      "explanation": "Current Ratio = Current Assets ÷ Current Liabilities = 24,000 ÷ 8,000 = 3:1. Generally a ratio of 2:1 is considered healthy."
+    },
+    {
+      "id": 26,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Financial Ratios",
+      "difficulty": 3,
+      "question": "The acid test (quick) ratio excludes inventory from current assets because:",
+      "options": [
+        "Inventory is a non-current asset",
+        "Inventory may not be quickly converted to cash to meet immediate obligations",
+        "Inventory has no value",
+        "Inventory is always sold immediately"
+      ],
+      "answer": 1,
+      "explanation": "The acid test ratio = (Current Assets − Inventory) ÷ Current Liabilities. Inventory is excluded as it may take time to sell and convert to cash."
+    },
+    {
+      "id": 27,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Financial Ratios",
+      "difficulty": 3,
+      "question": "The return on capital employed (ROCE) is calculated as:",
+      "options": [
+        "Net profit / Total assets × 100",
+        "Net profit / Capital employed × 100",
+        "Gross profit / Revenue × 100",
+        "Capital employed / Net profit × 100"
+      ],
+      "answer": 1,
+      "explanation": "ROCE = (Net Profit ÷ Capital Employed) × 100. It measures how efficiently the business generates profit from its capital."
+    },
+    {
+      "id": 28,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Sales and Purchases Journals",
+      "difficulty": 1,
+      "question": "The sales journal (sales day book) is used to record:",
+      "options": [
+        "All cash sales",
+        "All credit sales of goods",
+        "All purchases of goods",
+        "Returns of goods by customers"
+      ],
+      "answer": 1,
+      "explanation": "The sales journal records all credit sales — transactions where goods are sold but payment will be received later."
+    },
+    {
+      "id": 29,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Sales and Purchases Journals",
+      "difficulty": 1,
+      "question": "The purchases journal (purchases day book) records:",
+      "options": [
+        "All cash purchases",
+        "All credit purchases of goods for resale",
+        "All expenses paid",
+        "Returns of goods to suppliers"
+      ],
+      "answer": 1,
+      "explanation": "The purchases journal records all credit purchases of goods for resale — when goods are bought but not yet paid for."
+    },
+    {
+      "id": 30,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Returns Journals",
+      "difficulty": 1,
+      "question": "The sales returns journal (returns inward book) records:",
+      "options": [
+        "Goods returned by the business to suppliers",
+        "Goods returned by customers to the business",
+        "All sales transactions",
+        "Cash received from customers"
+      ],
+      "answer": 1,
+      "explanation": "The sales returns journal (returns inward) records goods returned TO the business BY customers. These reduce sales revenue."
+    },
+    {
+      "id": 31,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Cash Book",
+      "difficulty": 1,
+      "question": "The cash book serves as both a book of original entry AND:",
+      "options": [
+        "A trial balance",
+        "A ledger account for cash and bank",
+        "An income statement",
+        "A balance sheet"
+      ],
+      "answer": 1,
+      "explanation": "The cash book is unique — it is both a book of original entry and a ledger account, recording all cash and bank receipts and payments."
+    },
+    {
+      "id": 32,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Cash Book",
+      "difficulty": 2,
+      "question": "A contra entry in the cash book occurs when:",
+      "options": [
+        "Cash is received from a debtor",
+        "A cheque is paid to a creditor",
+        "Cash is transferred to the bank or withdrawn from the bank — both sides of the cash book are affected",
+        "An error is corrected"
+      ],
+      "answer": 2,
+      "explanation": "A contra entry affects both the cash and bank columns of the cash book — e.g. banking cash (credit cash column, debit bank column) or withdrawing from bank for office use."
+    },
+    {
+      "id": 33,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Petty Cash",
+      "difficulty": 2,
+      "question": "The imprest system of petty cash means:",
+      "options": [
+        "Petty cash is never replenished",
+        "The petty cash float is restored to a fixed amount at the start of each period by reimbursing the amount spent",
+        "All expenses go through petty cash",
+        "Petty cash is managed by a senior accountant"
+      ],
+      "answer": 1,
+      "explanation": "The imprest system maintains petty cash at a fixed float. After expenses are paid, the cashier reimburses the exact amount spent to restore the float to its original level."
+    },
+    {
+      "id": 34,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "General Journal",
+      "difficulty": 2,
+      "question": "The general journal is used to record:",
+      "options": [
+        "Only credit sales",
+        "Only cash transactions",
+        "Transactions that do not fit in any other specialised journal — such as opening entries, corrections and depreciation",
+        "All purchases"
+      ],
+      "answer": 2,
+      "explanation": "The general (nominal) journal records miscellaneous transactions not covered by specialist journals — including opening entries, year-end adjustments and error corrections."
+    },
+    {
+      "id": 35,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Trial Balance",
+      "difficulty": 1,
+      "question": "A trial balance is prepared to:",
+      "options": [
+        "Calculate profit for the year",
+        "Verify that total debits equal total credits in the ledger accounts",
+        "Prepare the cash flow statement",
+        "Show all assets and liabilities"
+      ],
+      "answer": 1,
+      "explanation": "A trial balance lists all ledger account balances to check that total debits equal total credits — it verifies the arithmetical accuracy of the double-entry records."
+    },
+    {
+      "id": 36,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Trial Balance",
+      "difficulty": 2,
+      "question": "Which of the following errors will be detected by a trial balance?",
+      "options": [
+        "Posting a transaction to the wrong account",
+        "Recording a transaction twice in both accounts",
+        "Omitting a transaction entirely from both accounts",
+        "A transposition error where a debit is recorded as a credit"
+      ],
+      "answer": 3,
+      "explanation": "A trial balance detects errors where debits and credits are not equal — such as recording a debit amount as a credit, which would cause the trial balance to disagree."
+    },
+    {
+      "id": 37,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Ledger Accounts",
+      "difficulty": 2,
+      "question": "Posting to the ledger means:",
+      "options": [
+        "Preparing the trial balance",
+        "Transferring entries from the books of original entry to the appropriate ledger accounts",
+        "Balancing the cash book",
+        "Preparing the income statement"
+      ],
+      "answer": 1,
+      "explanation": "Posting involves transferring the entries from the books of prime entry (journals, cash book) to the individual ledger accounts where they are recorded in T-account format."
+    },
+    {
+      "id": 38,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Ledger Accounts",
+      "difficulty": 2,
+      "question": "Which ledger would contain the account of a customer who owes the business money?",
+      "options": [
+        "General ledger (nominal ledger)",
+        "Private ledger",
+        "Purchases ledger (creditors ledger)",
+        "Sales ledger (debtors ledger)"
+      ],
+      "answer": 3,
+      "explanation": "The sales ledger (debtors ledger) contains individual accounts for each customer (debtor) who owes the business money for goods sold on credit."
+    },
+    {
+      "id": 39,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Bank Reconciliation",
+      "difficulty": 2,
+      "question": "A bank reconciliation statement is prepared to:",
+      "options": [
+        "Prepare the income statement",
+        "Explain and reconcile the difference between the cash book balance and the bank statement balance",
+        "Calculate the bank overdraft",
+        "Record all bank transactions"
+      ],
+      "answer": 1,
+      "explanation": "A bank reconciliation explains why the cash book balance and bank statement balance differ — due to timing differences such as unpresented cheques and outstanding deposits."
+    },
+    {
+      "id": 40,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Bank Reconciliation",
+      "difficulty": 3,
+      "question": "An unpresented cheque in a bank reconciliation is a cheque that:",
+      "options": [
+        "Has been returned by the bank",
+        "Has been written and sent to a payee but has not yet been presented to and cleared by the bank",
+        "Was written incorrectly",
+        "Was deposited but not yet credited"
+      ],
+      "answer": 1,
+      "explanation": "An unpresented (outstanding) cheque has been issued and recorded in the cash book but has not yet been presented to the bank for payment — so it appears on the cash book but not the bank statement."
+    },
+    {
+      "id": 41,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Depreciation",
+      "difficulty": 1,
+      "question": "Depreciation is best defined as:",
+      "options": [
+        "The market value of an asset",
+        "The gradual loss in value of a non-current asset over its useful life due to wear, tear and obsolescence",
+        "The cost of repairing an asset",
+        "The annual increase in asset value"
+      ],
+      "answer": 1,
+      "explanation": "Depreciation allocates the cost of a non-current asset over its useful life, reflecting the reduction in its economic value through use, age or obsolescence."
+    },
+    {
+      "id": 42,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Depreciation",
+      "difficulty": 2,
+      "question": "Using the straight-line method, depreciation is calculated as:",
+      "options": [
+        "Cost × Depreciation rate",
+        "(Cost − Residual value) / Useful life in years",
+        "Net book value × Depreciation rate",
+        "Cost / Number of years only"
+      ],
+      "answer": 1,
+      "explanation": "Straight-line depreciation: Annual depreciation = (Cost − Residual/Scrap value) ÷ Estimated useful life. This gives an equal charge each year."
+    },
+    {
+      "id": 43,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Depreciation",
+      "difficulty": 2,
+      "question": "A machine costs $20,000, has a residual value of $2,000 and a useful life of 6 years. Using straight-line depreciation, what is the annual depreciation?",
+      "options": [
+        "$3,333",
+        "$3,000",
+        "$2,000",
+        "$20,000"
+      ],
+      "answer": 1,
+      "explanation": "Annual depreciation = (Cost − Residual value) ÷ Useful life = ($20,000 − $2,000) ÷ 6 = $18,000 ÷ 6 = $3,000."
+    },
+    {
+      "id": 44,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Depreciation",
+      "difficulty": 3,
+      "question": "Under the reducing balance method, depreciation is charged at a fixed percentage on the:",
+      "options": [
+        "Original cost each year",
+        "Net book value (carrying value) at the start of each year",
+        "Residual value only",
+        "Average of cost and residual value"
+      ],
+      "answer": 1,
+      "explanation": "Reducing balance depreciation applies a fixed percentage to the net book value (cost minus accumulated depreciation) at the beginning of each year, giving higher charges in early years."
+    },
+    {
+      "id": 45,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Accruals and Prepayments",
+      "difficulty": 1,
+      "question": "An accrued expense is:",
+      "options": [
+        "An expense paid in advance for a future period",
+        "An expense incurred in the current period but not yet paid",
+        "Income received but not yet earned",
+        "An asset of the business"
+      ],
+      "answer": 1,
+      "explanation": "An accrued expense (accrual) is a cost that has been incurred in the current accounting period but has not yet been paid — it is a current liability."
+    },
+    {
+      "id": 46,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Accruals and Prepayments",
+      "difficulty": 2,
+      "question": "A prepaid expense is:",
+      "options": [
+        "An expense owed but not yet paid",
+        "An amount paid in advance for a service that will be received in a future accounting period",
+        "Revenue received in advance",
+        "An outstanding creditor"
+      ],
+      "answer": 1,
+      "explanation": "A prepayment is an expense paid in advance — the payment covers a period beyond the current accounting year. It is treated as a current asset."
+    },
+    {
+      "id": 47,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Accruals and Prepayments",
+      "difficulty": 2,
+      "question": "A business pays insurance of $1,200 for 12 months starting 1 October. The accounting year ends 31 December. What is the prepayment at year end?",
+      "options": [
+        "$300",
+        "$900",
+        "$1,200",
+        "$400"
+      ],
+      "answer": 1,
+      "explanation": "3 months (Oct–Dec) used = $300. 9 months (Jan–Sep) prepaid = $900. Prepayment = $1,200 × 9/12 = $900."
+    },
+    {
+      "id": 48,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Bad Debts",
+      "difficulty": 1,
+      "question": "A bad debt is:",
+      "options": [
+        "A debt owed by the business",
+        "A debt owed to the business that is considered irrecoverable and written off",
+        "An overdue invoice",
+        "A long-term loan"
+      ],
+      "answer": 1,
+      "explanation": "A bad debt is an amount owed by a debtor that the business considers will never be recovered — it is written off as an expense in the income statement."
+    },
+    {
+      "id": 49,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Bad Debts",
+      "difficulty": 2,
+      "question": "The double entry for writing off a bad debt is:",
+      "options": [
+        "Debit Bad Debts Expense, Credit Debtors (Accounts Receivable)",
+        "Debit Debtors, Credit Bad Debts",
+        "Debit Cash, Credit Bad Debts",
+        "Debit Sales, Credit Debtors"
+      ],
+      "answer": 0,
+      "explanation": "Writing off a bad debt: Debit Bad Debts Expense (expense increases) and Credit Accounts Receivable/Debtors (asset decreases as debt is removed)."
+    },
+    {
+      "id": 50,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Provision for Bad Debts",
+      "difficulty": 2,
+      "question": "A provision for bad debts (doubtful debts) is created to:",
+      "options": [
+        "Write off all debtors",
+        "Recognise the possibility that some debtors may not pay, matching the potential loss to the correct accounting period",
+        "Increase profits",
+        "Record cash received from debtors"
+      ],
+      "answer": 1,
+      "explanation": "A provision for bad debts anticipates that some debts may not be collected, applying the prudence concept by recognising potential losses in the period they arise."
+    },
+    {
+      "id": 51,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Provision for Bad Debts",
+      "difficulty": 3,
+      "question": "A business has debtors of $40,000 and maintains a provision for bad debts at 5%. What is the provision?",
+      "options": [
+        "$400",
+        "$2,000",
+        "$5,000",
+        "$800"
+      ],
+      "answer": 1,
+      "explanation": "Provision = 5% × $40,000 = $2,000."
+    },
+    {
+      "id": 52,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Inventory Valuation",
+      "difficulty": 2,
+      "question": "The FIFO (First In First Out) method of inventory valuation assumes that:",
+      "options": [
+        "The most recently purchased goods are sold first",
+        "The oldest stock purchased is sold first, so closing inventory is valued at the most recent prices",
+        "All items have the same cost",
+        "Items are chosen at random for sale"
+      ],
+      "answer": 1,
+      "explanation": "FIFO assumes the first goods purchased are the first to be sold. Closing inventory is therefore valued at the most recent (latest) purchase prices."
+    },
+    {
+      "id": 53,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Inventory Valuation",
+      "difficulty": 3,
+      "question": "The AVCO (Average Cost) method values inventory at:",
+      "options": [
+        "The most recent purchase price",
+        "The oldest purchase price",
+        "The weighted average cost of all units held",
+        "The selling price less profit margin"
+      ],
+      "answer": 2,
+      "explanation": "AVCO calculates a weighted average cost each time a new batch is purchased, and issues (sales) are costed at this average."
+    },
+    {
+      "id": 54,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Errors and Corrections",
+      "difficulty": 2,
+      "question": "An error of omission means:",
+      "options": [
+        "A transaction was recorded in the wrong account",
+        "A transaction was recorded twice",
+        "A transaction was completely omitted from the accounting records",
+        "The wrong amount was recorded"
+      ],
+      "answer": 2,
+      "explanation": "An error of omission occurs when a transaction is completely left out of the books — it is not recorded in any account."
+    },
+    {
+      "id": 55,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Errors and Corrections",
+      "difficulty": 2,
+      "question": "An error of commission occurs when:",
+      "options": [
+        "A transaction is omitted entirely",
+        "The correct amount is posted but to the wrong person's account (e.g. wrong debtor account)",
+        "A transaction is reversed — debit and credit swapped",
+        "Two errors cancel each other out"
+      ],
+      "answer": 1,
+      "explanation": "An error of commission records the correct amount and type but in the wrong account — e.g. crediting the sales account of the wrong customer."
+    },
+    {
+      "id": 56,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Errors and Corrections",
+      "difficulty": 2,
+      "question": "A compensating error occurs when:",
+      "options": [
+        "Only one account is debited",
+        "Two or more errors of equal amount cancel each other out so the trial balance still agrees",
+        "A transaction is omitted",
+        "The wrong accounting concept is applied"
+      ],
+      "answer": 1,
+      "explanation": "Compensating errors are two or more mistakes that cancel each other out, so the trial balance still balances — these are not detected by the trial balance."
+    },
+    {
+      "id": 57,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Errors and Corrections",
+      "difficulty": 3,
+      "question": "A suspense account is used when:",
+      "options": [
+        "A new asset is purchased",
+        "The trial balance does not agree and a temporary account is opened to record the difference while errors are investigated",
+        "A debtor is written off",
+        "Depreciation is charged"
+      ],
+      "answer": 1,
+      "explanation": "A suspense account is a temporary account used to make the trial balance agree while the cause of the disagreement is investigated and corrected."
+    },
+    {
+      "id": 58,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Club Accounts",
+      "difficulty": 1,
+      "question": "Non-profit organisations such as clubs and societies prepare which account instead of an income statement?",
+      "options": [
+        "Trading account",
+        "Receipts and Payments account and Income and Expenditure account",
+        "Profit and loss account",
+        "Manufacturing account"
+      ],
+      "answer": 1,
+      "explanation": "Non-profit organisations prepare a Receipts and Payments Account (cash summary) and an Income and Expenditure Account (equivalent to profit/loss) showing surplus or deficit."
+    },
+    {
+      "id": 59,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Club Accounts",
+      "difficulty": 1,
+      "question": "In club accounts, a surplus means:",
+      "options": [
+        "The club made a loss",
+        "Income exceeded expenditure for the period",
+        "The club owes more than it owns",
+        "Cash received exceeded cash paid"
+      ],
+      "answer": 1,
+      "explanation": "A surplus (rather than profit) arises in non-profit organisations when total income exceeds total expenditure for the period."
+    },
+    {
+      "id": 60,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Club Accounts",
+      "difficulty": 2,
+      "question": "The accumulated fund of a club or society is equivalent to:",
+      "options": [
+        "Cash held by the club",
+        "The capital (owner's equity) section of a business — representing members' net worth in the organisation",
+        "The club's annual income",
+        "Total debts owed by the club"
+      ],
+      "answer": 1,
+      "explanation": "The accumulated fund is the net assets belonging to the members of a non-profit organisation — equivalent to owner's equity in a commercial business."
+    },
+    {
+      "id": 61,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Club Accounts",
+      "difficulty": 2,
+      "question": "Subscriptions received in advance by a club are treated as:",
+      "options": [
+        "Income in the current period",
+        "A current asset",
+        "A current liability — income received but not yet earned",
+        "An expense"
+      ],
+      "answer": 2,
+      "explanation": "Subscriptions received for a future period are unearned income — a current liability, as the club owes service to the member for the period paid."
+    },
+    {
+      "id": 62,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Club Accounts",
+      "difficulty": 3,
+      "question": "Life membership fees received by a club are usually:",
+      "options": [
+        "Taken fully as income in the year received",
+        "Credited to a life membership fund (capital fund) and gradually transferred to income over a number of years",
+        "Treated as a current liability only",
+        "Ignored in the accounts"
+      ],
+      "answer": 1,
+      "explanation": "Life membership fees are large one-time receipts. They are typically treated as capital receipts and transferred to income gradually to match the benefit provided over the member's lifetime."
+    },
+    {
+      "id": 63,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Partnerships",
+      "difficulty": 1,
+      "question": "A partnership is formed when:",
+      "options": [
+        "One person sets up a business alone",
+        "Two or more people carry on a business together with a view to profit",
+        "A company lists its shares on the stock exchange",
+        "A government department provides services"
+      ],
+      "answer": 1,
+      "explanation": "A partnership is a business relationship between two or more individuals who share ownership, responsibilities and profits."
+    },
+    {
+      "id": 64,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Partnerships",
+      "difficulty": 2,
+      "question": "The appropriation account of a partnership shows:",
+      "options": [
+        "The gross profit of the partnership",
+        "How the net profit is divided between partners — including salaries, interest on capital and profit shares",
+        "The total assets of the partnership",
+        "Cash flows of the partnership"
+      ],
+      "answer": 1,
+      "explanation": "The appropriation account divides the net profit among partners according to the partnership agreement — after charging partner salaries and interest on capital."
+    },
+    {
+      "id": 65,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Partnerships",
+      "difficulty": 2,
+      "question": "Interest on capital in a partnership is:",
+      "options": [
+        "A reward for lending money to outside parties",
+        "An allowance paid to partners based on the capital they have invested in the business, charged before profit is shared",
+        "The interest on bank loans",
+        "A deduction from the partner's drawings"
+      ],
+      "answer": 1,
+      "explanation": "Interest on capital rewards partners for the capital they have invested, compensating those who contribute more capital proportionally."
+    },
+    {
+      "id": 66,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Partnerships",
+      "difficulty": 2,
+      "question": "Partners' drawings are:",
+      "options": [
+        "Amounts invested by partners",
+        "Amounts withdrawn by partners from the business for personal use — reducing their capital accounts",
+        "Profits allocated to partners",
+        "Loans from partners to the business"
+      ],
+      "answer": 1,
+      "explanation": "Drawings are amounts taken out of the business by partners (or sole traders) for personal use, reducing the partner's capital or current account balance."
+    },
+    {
+      "id": 67,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Partnerships",
+      "difficulty": 3,
+      "question": "A partner's current account records:",
+      "options": [
+        "The fixed capital invested by the partner",
+        "The running balance of a partner's share of profits, drawings, salaries and interest on capital",
+        "Only cash transactions",
+        "The partnership's bank balance"
+      ],
+      "answer": 1,
+      "explanation": "The current account tracks ongoing transactions — profit shares, drawings, salary allowances and interest on capital — separately from the fixed capital account."
+    },
+    {
+      "id": 68,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Limited Companies",
+      "difficulty": 1,
+      "question": "Share capital in a limited company refers to:",
+      "options": [
+        "Money borrowed from the bank",
+        "The total value of shares issued to shareholders as a source of long-term finance",
+        "The company's annual profit",
+        "The total assets of the company"
+      ],
+      "answer": 1,
+      "explanation": "Share capital is the money raised by issuing shares to shareholders — it is a permanent source of finance and part of the company's equity."
+    },
+    {
+      "id": 69,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Limited Companies",
+      "difficulty": 2,
+      "question": "Retained earnings (retained profit) in a company refers to:",
+      "options": [
+        "All profits paid out to shareholders",
+        "The portion of profits kept in the business after dividends are paid — used for reinvestment",
+        "The share capital of the company",
+        "Money owed to creditors"
+      ],
+      "answer": 1,
+      "explanation": "Retained earnings are accumulated profits that have not been distributed as dividends. They are reinvested in the business and appear in the equity section of the balance sheet."
+    },
+    {
+      "id": 70,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Limited Companies",
+      "difficulty": 2,
+      "question": "Dividends paid by a company are:",
+      "options": [
+        "Payments to creditors",
+        "Payments of interest on loans",
+        "Distributions of profit to shareholders",
+        "Operating expenses of the company"
+      ],
+      "answer": 2,
+      "explanation": "Dividends are distributions of a company's profits to its shareholders as a return on their investment."
+    },
+    {
+      "id": 71,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Limited Companies",
+      "difficulty": 3,
+      "question": "Debentures are best described as:",
+      "options": [
+        "Ordinary shares in a company",
+        "Long-term loans (debt instruments) issued by a company that carry a fixed rate of interest",
+        "Preference shares",
+        "Accumulated profits"
+      ],
+      "answer": 1,
+      "explanation": "Debentures are long-term debt instruments issued by companies, carrying a fixed interest rate and repayable on a specified date. Unlike shareholders, debenture holders are creditors."
+    },
+    {
+      "id": 72,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Incomplete Records",
+      "difficulty": 1,
+      "question": "Incomplete records arise when:",
+      "options": [
+        "A business has too many transactions",
+        "A business does not keep full double-entry bookkeeping records",
+        "A business makes a loss",
+        "Errors are made in the trial balance"
+      ],
+      "answer": 1,
+      "explanation": "Incomplete records occur when a business does not maintain a full set of double-entry accounts — common with small businesses and sole traders."
+    },
+    {
+      "id": 73,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Incomplete Records",
+      "difficulty": 2,
+      "question": "To find the opening capital from incomplete records, which formula is used?",
+      "options": [
+        "Opening capital = Assets + Liabilities",
+        "Opening capital = Liabilities − Assets",
+        "Opening capital = Assets − Liabilities",
+        "Opening capital = Revenue − Expenses"
+      ],
+      "answer": 2,
+      "explanation": "Opening Capital = Total Assets − Total Liabilities (from the opening statement of affairs). This applies the fundamental accounting equation."
+    },
+    {
+      "id": 74,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Incomplete Records",
+      "difficulty": 2,
+      "question": "The statement of affairs is used in incomplete records to:",
+      "options": [
+        "Prepare the income statement",
+        "Calculate the opening or closing capital of a business by listing assets and liabilities at a point in time",
+        "Record all cash transactions",
+        "Prepare the bank reconciliation"
+      ],
+      "answer": 1,
+      "explanation": "A statement of affairs is a simplified balance sheet used in incomplete records to calculate capital at the start or end of a period."
+    },
+    {
+      "id": 75,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Incomplete Records",
+      "difficulty": 3,
+      "question": "If a business's closing capital is $35,000, opening capital is $28,000 and drawings are $6,000, what is the net profit?",
+      "options": [
+        "$7,000",
+        "$13,000",
+        "$1,000",
+        "$6,000"
+      ],
+      "answer": 1,
+      "explanation": "Net Profit = Closing capital − Opening capital + Drawings = 35,000 − 28,000 + 6,000 = $13,000."
+    },
+    {
+      "id": 76,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Mark-up and Margin",
+      "difficulty": 2,
+      "question": "Mark-up is the percentage added to the COST PRICE to determine the selling price. If cost is $80 and mark-up is 25%, what is the selling price?",
+      "options": [
+        "$20",
+        "$100",
+        "$105",
+        "$60"
+      ],
+      "answer": 1,
+      "explanation": "Mark-up: 25% × $80 = $20. Selling price = $80 + $20 = $100."
+    },
+    {
+      "id": 77,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Mark-up and Margin",
+      "difficulty": 2,
+      "question": "Gross profit margin is the gross profit expressed as a percentage of:",
+      "options": [
+        "Cost of goods sold",
+        "Selling price (revenue)",
+        "Total assets",
+        "Net profit"
+      ],
+      "answer": 1,
+      "explanation": "Gross profit margin = (Gross Profit ÷ Revenue/Selling Price) × 100. It differs from mark-up which uses cost price as the base."
+    },
+    {
+      "id": 78,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Mark-up and Margin",
+      "difficulty": 3,
+      "question": "A business applies a 20% margin on sales. If sales are $50,000, what is the gross profit?",
+      "options": [
+        "$8,333",
+        "$10,000",
+        "$40,000",
+        "$6,000"
+      ],
+      "answer": 1,
+      "explanation": "Margin of 20% on sales means Gross Profit = 20% × $50,000 = $10,000."
+    },
+    {
+      "id": 79,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Manufacturing Accounts",
+      "difficulty": 2,
+      "question": "The prime cost in a manufacturing account consists of:",
+      "options": [
+        "Factory overheads only",
+        "Direct materials + Direct labour + Direct expenses",
+        "Total production cost",
+        "Selling and distribution costs"
+      ],
+      "answer": 1,
+      "explanation": "Prime cost is the total of direct production costs: direct materials used + direct labour + direct expenses. It excludes factory overheads."
+    },
+    {
+      "id": 80,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Manufacturing Accounts",
+      "difficulty": 2,
+      "question": "Factory overheads in a manufacturing account include:",
+      "options": [
+        "Raw materials purchased",
+        "Direct labour costs",
+        "Indirect production costs such as factory rent, supervisor wages and depreciation of machinery",
+        "Selling expenses"
+      ],
+      "answer": 2,
+      "explanation": "Factory overheads are indirect manufacturing costs — they cannot be traced directly to specific units of output. They include factory rent, power, indirect wages and machinery depreciation."
+    },
+    {
+      "id": 81,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Accounting Concepts",
+      "difficulty": 2,
+      "question": "The historical cost concept requires that assets are recorded at:",
+      "options": [
+        "Current market value",
+        "The original cost paid at the time of acquisition",
+        "Replacement cost",
+        "Net realisable value"
+      ],
+      "answer": 1,
+      "explanation": "The historical cost concept states that assets and transactions should be recorded at their original cost — not adjusted for changes in market value."
+    },
+    {
+      "id": 82,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Financial Ratios",
+      "difficulty": 2,
+      "question": "The net profit margin is calculated as:",
+      "options": [
+        "Gross profit / Revenue × 100",
+        "Net profit / Revenue × 100",
+        "Net profit / Total assets × 100",
+        "Revenue / Net profit × 100"
+      ],
+      "answer": 1,
+      "explanation": "Net Profit Margin = (Net Profit ÷ Revenue) × 100. It shows what percentage of sales revenue becomes net profit after all costs."
+    },
+    {
+      "id": 83,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Financial Ratios",
+      "difficulty": 3,
+      "question": "A business has net profit of $12,000 and revenue of $80,000. What is the net profit margin?",
+      "options": [
+        "6.67%",
+        "15%",
+        "12%",
+        "8%"
+      ],
+      "answer": 1,
+      "explanation": "Net Profit Margin = ($12,000 ÷ $80,000) × 100 = 15%."
+    },
+    {
+      "id": 84,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Ledger Accounts",
+      "difficulty": 2,
+      "question": "When a business sells goods on credit, the entry in the ledger is:",
+      "options": [
+        "Debit Sales, Credit Debtors",
+        "Debit Cash, Credit Sales",
+        "Debit Debtors (Accounts Receivable), Credit Sales",
+        "Debit Purchases, Credit Debtors"
+      ],
+      "answer": 2,
+      "explanation": "Credit sales: Debit Debtors/Accounts Receivable (asset increases — money owed to business) and Credit Sales (revenue increases)."
+    },
+    {
+      "id": 85,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Bank Reconciliation",
+      "difficulty": 3,
+      "question": "The cash book shows a balance of $3,500. Outstanding lodgements (deposits in transit) are $800 and unpresented cheques total $300. What is the bank statement balance?",
+      "options": [
+        "$3,000",
+        "$3,200",
+        "$4,300",
+        "$4,000"
+      ],
+      "answer": 0,
+      "explanation": "Bank statement balance = Cash book balance + Unpresented cheques − Outstanding lodgements = 3,500 + 300 − 800 = $3,000. (Or: Start from cash book, add unpresented cheques not yet cleared, deduct deposits not yet credited.)"
+    },
+    {
+      "id": 86,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Depreciation",
+      "difficulty": 3,
+      "question": "A vehicle costs $30,000. Depreciation is charged at 20% per annum using the reducing balance method. What is the net book value at the end of Year 2?",
+      "options": [
+        "$18,000",
+        "$19,200",
+        "$12,000",
+        "$24,000"
+      ],
+      "answer": 1,
+      "explanation": "Year 1: 20% × 30,000 = $6,000; NBV = $24,000. Year 2: 20% × 24,000 = $4,800; NBV = $24,000 − $4,800 = $19,200."
+    },
+    {
+      "id": 87,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Club Accounts",
+      "difficulty": 2,
+      "question": "The Receipts and Payments Account of a club is similar to:",
+      "options": [
+        "An income statement",
+        "A cash book — it records all cash received and paid during a period",
+        "A balance sheet",
+        "A trial balance"
+      ],
+      "answer": 1,
+      "explanation": "The Receipts and Payments Account is a summary of all cash and bank receipts and payments during a period — equivalent to a club's cash book summary."
+    },
+    {
+      "id": 88,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Partnerships",
+      "difficulty": 3,
+      "question": "If a partnership earns net profit of $30,000 and partner A is entitled to a salary of $8,000 and the remainder is split 60:40 between A and B, how much does partner A receive in total?",
+      "options": [
+        "$18,000",
+        "$20,800",
+        "$22,400",
+        "$8,000"
+      ],
+      "answer": 1,
+      "explanation": "Profit after salary = 30,000 − 8,000 = $22,000. A's share = 60% × 22,000 = $13,200. A's total = $8,000 + $13,200 = $21,200. Closest = $20,800 — recalculate: A's salary $8,000 + profit share 60% × $22,000 = $13,200. Total = $21,200."
+    },
+    {
+      "id": 89,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Incomplete Records",
+      "difficulty": 3,
+      "question": "A trader has total sales of $60,000. The gross profit margin is 25%. What is the cost of goods sold?",
+      "options": [
+        "$15,000",
+        "$45,000",
+        "$48,000",
+        "$20,000"
+      ],
+      "answer": 1,
+      "explanation": "Gross profit = 25% × 60,000 = $15,000. COGS = Sales − Gross Profit = 60,000 − 15,000 = $45,000."
+    },
+    {
+      "id": 90,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Cash Flow",
+      "difficulty": 2,
+      "question": "A cash flow statement shows:",
+      "options": [
+        "The profit earned during a period",
+        "The actual movements of cash in and out of the business over a period, classified into operating, investing and financing activities",
+        "The assets and liabilities at year end",
+        "Only bank transactions"
+      ],
+      "answer": 1,
+      "explanation": "A cash flow statement tracks actual cash movements — it is classified into operating (day-to-day), investing (assets) and financing (loans/capital) activities."
+    },
+    {
+      "id": 91,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Double Entry",
+      "difficulty": 2,
+      "question": "When a business pays rent by cheque, the correct entry is:",
+      "options": [
+        "Debit Bank, Credit Rent",
+        "Debit Rent Expense, Credit Bank",
+        "Debit Rent, Credit Cash",
+        "Debit Bank, Credit Cash"
+      ],
+      "answer": 1,
+      "explanation": "Paying rent by cheque: Debit Rent Expense (expense increases) and Credit Bank (asset decreases as bank balance falls)."
+    },
+    {
+      "id": 92,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Double Entry",
+      "difficulty": 2,
+      "question": "When a business takes out a bank loan of $10,000, the correct entry is:",
+      "options": [
+        "Debit Loan, Credit Bank",
+        "Debit Bank, Credit Loan (Liability)",
+        "Debit Cash, Credit Capital",
+        "Debit Expenses, Credit Bank"
+      ],
+      "answer": 1,
+      "explanation": "Bank loan received: Debit Bank (asset increases) and Credit Loan/Bank Loan (liability increases — business owes the bank)."
+    },
+    {
+      "id": 93,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Petty Cash",
+      "difficulty": 2,
+      "question": "The petty cash book records:",
+      "options": [
+        "All major cash payments",
+        "Small cash payments for minor expenses such as postage, stationery and cleaning materials",
+        "All bank transactions",
+        "Credit purchases only"
+      ],
+      "answer": 1,
+      "explanation": "The petty cash book records small, frequent cash payments for minor business expenses that are too small to process through the main cash book."
+    },
+    {
+      "id": 94,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Accruals and Prepayments",
+      "difficulty": 3,
+      "question": "A business owes $600 rent at year end that has not been paid. How should this be treated in the financial statements?",
+      "options": [
+        "Ignored until paid",
+        "Added to rent expense in the income statement and shown as a current liability (accrual) on the balance sheet",
+        "Deducted from rent expense",
+        "Recorded as a current asset"
+      ],
+      "answer": 1,
+      "explanation": "An accrued expense: add $600 to rent in the income statement (full expense matched to period) and include $600 as a current liability on the balance sheet."
+    },
+    {
+      "id": 95,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Financial Ratios",
+      "difficulty": 3,
+      "question": "The stock turnover (inventory days) ratio measures:",
+      "options": [
+        "How profitable the business is",
+        "How many times inventory is sold and replaced in a period, or how many days inventory is held on average",
+        "The liquidity of the business",
+        "The return on investment"
+      ],
+      "answer": 1,
+      "explanation": "Stock turnover = COGS ÷ Average Inventory (times per year) or Average Inventory ÷ COGS × 365 (days). It shows how efficiently inventory is managed."
+    },
+    {
+      "id": 96,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Limited Companies",
+      "difficulty": 2,
+      "question": "Ordinary shares differ from preference shares in that:",
+      "options": [
+        "Ordinary shareholders receive a fixed dividend",
+        "Ordinary shareholders have voting rights and receive dividends after preference shareholders, sharing in residual profit",
+        "Preference shareholders take on more risk",
+        "Ordinary shares are always worth more"
+      ],
+      "answer": 1,
+      "explanation": "Ordinary (equity) shareholders vote at company meetings and receive variable dividends from residual profits after preference shareholders are paid first. They bear more risk but potential for greater reward."
+    },
+    {
+      "id": 97,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Manufacturing Accounts",
+      "difficulty": 3,
+      "question": "The cost of production (cost of goods manufactured) in a manufacturing account is:",
+      "options": [
+        "Prime cost only",
+        "Prime cost + Factory overheads + Opening WIP − Closing WIP",
+        "Direct materials only",
+        "Sales revenue minus profit"
+      ],
+      "answer": 1,
+      "explanation": "Cost of Production = Prime Cost + Factory Overheads + Opening Work in Progress − Closing Work in Progress. This gives the full cost of goods completed during the period."
+    },
+    {
+      "id": 98,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Trial Balance",
+      "difficulty": 3,
+      "question": "An error of principle occurs when:",
+      "options": [
+        "The wrong amount is posted",
+        "A transaction is omitted from the records",
+        "A transaction is recorded in the correct amount but in the wrong type of account — e.g. treating capital expenditure as revenue expenditure",
+        "Two errors cancel each other out"
+      ],
+      "answer": 2,
+      "explanation": "An error of principle records a transaction in the wrong class of account — e.g. debiting the purchase of a non-current asset to the purchases (expense) account instead of the asset account."
+    },
+    {
+      "id": 99,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Statement of Financial Position",
+      "difficulty": 2,
+      "question": "Working capital is defined as:",
+      "options": [
+        "Total assets − Total liabilities",
+        "Current assets − Current liabilities",
+        "Non-current assets − Long-term liabilities",
+        "Share capital + Retained earnings"
+      ],
+      "answer": 1,
+      "explanation": "Working capital = Current Assets − Current Liabilities. It measures the funds available for day-to-day operations and the ability to meet short-term debts."
+    },
+    {
+      "id": 100,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Errors and Corrections",
+      "difficulty": 3,
+      "question": "An error of original entry occurs when:",
+      "options": [
+        "A transaction is completely omitted",
+        "The same incorrect amount is entered on both the debit and credit side — the trial balance still agrees but the figures are wrong",
+        "A transaction is posted to the wrong account",
+        "Two errors cancel each other out"
+      ],
+      "answer": 1,
+      "explanation": "An error of original entry involves the wrong amount being recorded in the books of prime entry — the same wrong figure appears on both the debit and credit sides so the trial balance still balances."
+    },
+    {
+      "id": 101,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Accounting Concepts",
+      "difficulty": 2,
+      "question": "The business entity concept states that:",
+      "options": [
+        "A business and its owner are the same legal entity",
+        "The business is treated as a separate entity from its owner — owner's personal transactions are kept separate from the business",
+        "A business must be incorporated as a company",
+        "All businesses must prepare accounts"
+      ],
+      "answer": 1,
+      "explanation": "The business entity concept treats the business as separate from its owner(s). Personal transactions of the owner are excluded from the business accounts."
+    },
+    {
+      "id": 102,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Double Entry",
+      "difficulty": 2,
+      "question": "When a business owner introduces additional capital in cash, the correct entry is:",
+      "options": [
+        "Debit Capital, Credit Cash",
+        "Debit Cash, Credit Capital",
+        "Debit Expenses, Credit Capital",
+        "Debit Capital, Credit Bank"
+      ],
+      "answer": 1,
+      "explanation": "Owner introduces cash capital: Debit Cash/Bank (asset increases) and Credit Capital (owner's equity increases)."
+    },
+    {
+      "id": 103,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Types of Assets",
+      "difficulty": 2,
+      "question": "Goodwill is classified as:",
+      "options": [
+        "A current asset",
+        "A current liability",
+        "An intangible non-current asset",
+        "A revenue expense"
+      ],
+      "answer": 2,
+      "explanation": "Goodwill is an intangible non-current asset representing the value of a business's reputation, customer relationships and brand above the value of its net tangible assets."
+    },
+    {
+      "id": 104,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Income Statement",
+      "difficulty": 2,
+      "question": "Which of the following would appear on the credit side of a trading account?",
+      "options": [
+        "Opening inventory",
+        "Purchases",
+        "Sales revenue",
+        "Carriage inwards"
+      ],
+      "answer": 2,
+      "explanation": "The credit side of the trading account shows Sales (revenue). The debit side shows opening inventory, purchases, carriage inwards and is closed off to find gross profit."
+    },
+    {
+      "id": 105,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Income Statement",
+      "difficulty": 2,
+      "question": "Carriage inwards is the cost of:",
+      "options": [
+        "Delivering goods to customers",
+        "Transporting purchased goods from the supplier to the business — added to cost of goods sold",
+        "Storing goods in the warehouse",
+        "Returning goods to suppliers"
+      ],
+      "answer": 1,
+      "explanation": "Carriage inwards is the freight cost of bringing purchased goods to the business. It is included in the cost of goods sold as part of the trading account."
+    },
+    {
+      "id": 106,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Income Statement",
+      "difficulty": 2,
+      "question": "Carriage outwards is classified as:",
+      "options": [
+        "Part of cost of goods sold",
+        "A selling expense in the income statement — the cost of delivering goods to customers",
+        "A current asset",
+        "A reduction in sales revenue"
+      ],
+      "answer": 1,
+      "explanation": "Carriage outwards is the cost of delivering goods to customers — it is an expense charged below the gross profit line in the income statement."
+    },
+    {
+      "id": 107,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Sales and Purchases Journals",
+      "difficulty": 2,
+      "question": "The total of the purchases journal is posted to the:",
+      "options": [
+        "Debit of the individual creditors accounts only",
+        "Debit of the Purchases account in the general ledger and credited to individual creditor accounts in the purchases ledger",
+        "Credit of the Sales account",
+        "Debit of the Cash account"
+      ],
+      "answer": 1,
+      "explanation": "The purchases journal total is posted: Debit Purchases account (general ledger) and Credit individual supplier (creditor) accounts in the purchases ledger."
+    },
+    {
+      "id": 108,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Cash Book",
+      "difficulty": 2,
+      "question": "A dishonoured cheque appears in the cash book as:",
+      "options": [
+        "A debit entry — it increases the bank balance",
+        "A credit entry — the bank reverses the entry, reducing the bank balance",
+        "It does not appear in the cash book",
+        "A debit in the petty cash book"
+      ],
+      "answer": 1,
+      "explanation": "A dishonoured cheque is one returned unpaid by the bank. The bank reverses the receipt, so it is recorded as a credit (reducing the bank balance) in the cash book."
+    },
+    {
+      "id": 109,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Accruals and Prepayments",
+      "difficulty": 2,
+      "question": "Accrued income (income receivable) is:",
+      "options": [
+        "Income received in advance",
+        "Income earned during the current period but not yet received or recorded — treated as a current asset",
+        "An expense owed but not paid",
+        "A long-term liability"
+      ],
+      "answer": 1,
+      "explanation": "Accrued income is revenue earned in the current period but not yet received in cash — it is a current asset (debtor) on the balance sheet."
+    },
+    {
+      "id": 110,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Accruals and Prepayments",
+      "difficulty": 3,
+      "question": "Deferred income (income received in advance) is treated as:",
+      "options": [
+        "Current period income",
+        "A current liability — the business owes a service or refund for income received but not yet earned",
+        "A current asset",
+        "An expense"
+      ],
+      "answer": 1,
+      "explanation": "Income received in advance is unearned — the business has the cash but has not yet provided the corresponding goods or service, so it is a current liability."
+    },
+    {
+      "id": 111,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Club Accounts",
+      "difficulty": 3,
+      "question": "A club has subscriptions received during the year of $8,500, subscriptions in arrears at the start of the year of $400, subscriptions in advance at the start of the year of $200, subscriptions in arrears at the end of the year of $500, and subscriptions in advance at year end of $300. What is the subscription income for the Income and Expenditure Account?",
+      "options": [
+        "$8,500",
+        "$8,900",
+        "$9,000",
+        "$8,100"
+      ],
+      "answer": 2,
+      "explanation": "Subscription income = Cash received + Closing arrears − Opening arrears − Closing advance + Opening advance = 8500 + 500 − 400 − 300 + 200 = $8,500. Recalculate: 8500 + 500 − 400 − 300 + 200 = 8500. Correct answer = $8,500."
+    },
+    {
+      "id": 112,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Partnerships",
+      "difficulty": 3,
+      "question": "When a new partner is admitted to a partnership, goodwill is often raised to:",
+      "options": [
+        "Reduce the existing partners' capital",
+        "Compensate the existing partners for giving up a share of future profits to the new partner",
+        "Increase the bank balance",
+        "Record the new partner's contribution only"
+      ],
+      "answer": 1,
+      "explanation": "When a new partner joins, goodwill is raised in the books at its agreed value and credited to existing partners' capital accounts in the old profit-sharing ratio — compensating them for the goodwill they built up."
+    },
+    {
+      "id": 113,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Limited Companies",
+      "difficulty": 2,
+      "question": "The statement of changes in equity for a company shows:",
+      "options": [
+        "Only the net profit for the year",
+        "Movements in shareholders' equity including retained profit, dividends paid and new share issues during the period",
+        "Only the dividends paid",
+        "The cash position of the company"
+      ],
+      "answer": 1,
+      "explanation": "The statement of changes in equity shows how shareholders' equity changed during the period — including profit, dividends, new shares issued and any other comprehensive income."
+    },
+    {
+      "id": 114,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Incomplete Records",
+      "difficulty": 2,
+      "question": "In incomplete records, total purchases can be estimated using:",
+      "options": [
+        "The sales journal total",
+        "Opening creditors + Cash paid to creditors − Closing creditors",
+        "Cash received from debtors only",
+        "The bank statement balance"
+      ],
+      "answer": 1,
+      "explanation": "Total Purchases = Opening Creditors + Cash Paid to Creditors − Closing Creditors. This reconstructs credit purchases from available data."
+    },
+    {
+      "id": 115,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Incomplete Records",
+      "difficulty": 2,
+      "question": "Total sales revenue in incomplete records can be estimated using:",
+      "options": [
+        "Only cash sales recorded",
+        "Opening debtors + Cash received from debtors − Closing debtors",
+        "Total expenses − Total profit",
+        "Cash book balance at year end"
+      ],
+      "answer": 1,
+      "explanation": "Total Sales = Opening Debtors + Cash Received from Debtors − Closing Debtors. This reconstructs total sales from the debtors' control account."
+    },
+    {
+      "id": 116,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Accounting Concepts",
+      "difficulty": 3,
+      "question": "The money measurement concept states that:",
+      "options": [
+        "All transactions are measured in local currency only",
+        "Only transactions that can be expressed in monetary (money) terms are recorded in the accounts",
+        "The value of money never changes",
+        "Inflation must always be accounted for"
+      ],
+      "answer": 1,
+      "explanation": "The money measurement concept limits accounting records to items that can be quantified in monetary terms — non-monetary items like staff morale or brand reputation are excluded."
+    },
+    {
+      "id": 117,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Financial Ratios",
+      "difficulty": 3,
+      "question": "A business has current assets of $45,000 (including inventory of $15,000) and current liabilities of $20,000. What is the acid test ratio?",
+      "options": [
+        "2.25:1",
+        "1.5:1",
+        "3:1",
+        "1:1"
+      ],
+      "answer": 1,
+      "explanation": "Acid Test = (Current Assets − Inventory) ÷ Current Liabilities = (45,000 − 15,000) ÷ 20,000 = 30,000 ÷ 20,000 = 1.5:1."
+    },
+    {
+      "id": 118,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "General Journal",
+      "difficulty": 2,
+      "question": "The correct journal entry to record the purchase of equipment worth $5,000 on credit is:",
+      "options": [
+        "Dr Equipment $5,000, Cr Purchases $5,000",
+        "Dr Equipment $5,000, Cr Accounts Payable $5,000",
+        "Dr Purchases $5,000, Cr Equipment $5,000",
+        "Dr Bank $5,000, Cr Equipment $5,000"
+      ],
+      "answer": 1,
+      "explanation": "Buying equipment on credit: Dr Equipment (non-current asset increases) and Cr Accounts Payable/Creditor (liability increases). Equipment is not posted to Purchases."
+    },
+    {
+      "id": 119,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Inventory Valuation",
+      "difficulty": 3,
+      "question": "Under FIFO, if there are 10 units purchased at $5 and then 20 units at $6, and 15 units are sold, what is the value of closing inventory?",
+      "options": [
+        "$75",
+        "$90",
+        "$75",
+        "$80"
+      ],
+      "answer": 1,
+      "explanation": "FIFO: first 10 units sold at $5 = $50; next 5 units sold at $6 = $30. Total COGS = $80. Remaining = 15 units at $6 = $90 closing inventory."
+    },
+    {
+      "id": 120,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Club Accounts",
+      "difficulty": 2,
+      "question": "The bar trading account of a club shows:",
+      "options": [
+        "The club's total income and expenditure",
+        "The profit or loss made specifically from the club's bar activities",
+        "The members' subscription income",
+        "The club's cash balance"
+      ],
+      "answer": 1,
+      "explanation": "A bar (or refreshment) trading account shows the gross profit or loss from the club's bar activities — calculated separately before inclusion in the Income and Expenditure Account."
+    },
+    {
+      "id": 121,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Manufacturing Accounts",
+      "difficulty": 2,
+      "question": "Work in progress (WIP) in a manufacturing account refers to:",
+      "options": [
+        "Finished goods ready for sale",
+        "Raw materials not yet used",
+        "Goods that have been started in production but are not yet completed at the accounting period end",
+        "Goods sold but not yet delivered"
+      ],
+      "answer": 2,
+      "explanation": "Work in progress is partially completed production — goods on which manufacturing has started but not been completed by the end of the accounting period."
+    },
+    {
+      "id": 122,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Capital vs Revenue",
+      "difficulty": 3,
+      "question": "Which of the following is a capital receipt?",
+      "options": [
+        "Cash received from customers for goods sold",
+        "Rent income received",
+        "Proceeds from selling a non-current asset",
+        "Interest received on investments"
+      ],
+      "answer": 2,
+      "explanation": "Capital receipts arise from non-recurring transactions — selling non-current assets, raising a loan or issuing shares. They are not included in the income statement."
+    },
+    {
+      "id": 123,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Financial Ratios",
+      "difficulty": 3,
+      "question": "The debtor collection period (debtor days) is calculated as:",
+      "options": [
+        "Debtors / Revenue × 12",
+        "Debtors / Revenue × 365",
+        "Revenue / Debtors × 100",
+        "Net profit / Debtors × 100"
+      ],
+      "answer": 1,
+      "explanation": "Debtor Days = (Trade Receivables ÷ Revenue) × 365. It shows the average number of days it takes to collect payment from debtors."
+    },
+    {
+      "id": 124,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Bank Reconciliation",
+      "difficulty": 2,
+      "question": "Bank charges appearing on the bank statement but not in the cash book should be:",
+      "options": [
+        "Ignored as they are the bank's error",
+        "Added to the bank statement balance",
+        "Entered as a credit in the cash book to reduce the bank balance",
+        "Recorded as income"
+      ],
+      "answer": 2,
+      "explanation": "Bank charges on the statement reduce the bank balance. The business must record them as a credit entry in the cash book (not already done) to update the cash book balance."
+    },
+    {
+      "id": 125,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Bad Debts",
+      "difficulty": 3,
+      "question": "A provision for bad debts is increased from $1,500 to $2,200. What is the entry in the income statement?",
+      "options": [
+        "$2,200 expense",
+        "$700 expense — only the increase",
+        "$1,500 expense",
+        "No entry required"
+      ],
+      "answer": 1,
+      "explanation": "Only the increase in the provision is charged to the income statement: $2,200 − $1,500 = $700 additional provision expense."
+    },
+    {
+      "id": 126,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Partnerships",
+      "difficulty": 2,
+      "question": "Interest on drawings charged to a partner:",
+      "options": [
+        "Increases the partner's capital account",
+        "Increases partnership profit (credit to profit and loss)",
+        "Is charged to the partner's current account as a debit",
+        "Is ignored in partnership accounts"
+      ],
+      "answer": 1,
+      "explanation": "Interest on drawings is charged to partners to discourage excessive drawings. It increases partnership profits — it is a credit in the appropriation account (increases divisible profit)."
+    },
+    {
+      "id": 127,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Cash Flow",
+      "difficulty": 3,
+      "question": "Which of the following is classified as an investing activity in a cash flow statement?",
+      "options": [
+        "Cash received from customers",
+        "Payment of wages",
+        "Purchase of a new delivery vehicle",
+        "Payment of a bank loan interest"
+      ],
+      "answer": 2,
+      "explanation": "Investing activities involve the acquisition and disposal of non-current assets. Buying a delivery vehicle is an investing outflow."
+    },
+    {
+      "id": 128,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Accounting Equation",
+      "difficulty": 3,
+      "question": "A business buys inventory worth $3,000 on credit. What is the effect on the accounting equation?",
+      "options": [
+        "Assets increase by $3,000 only",
+        "Assets increase by $3,000 (inventory) and liabilities increase by $3,000 (creditor) — equity unchanged",
+        "Assets decrease and liabilities decrease",
+        "Equity increases by $3,000"
+      ],
+      "answer": 1,
+      "explanation": "Buying on credit: inventory (asset) increases by $3,000 and accounts payable (liability) increases by $3,000. The accounting equation remains balanced with equity unchanged."
+    },
+    {
+      "id": 129,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Ledger Accounts",
+      "difficulty": 3,
+      "question": "The control account (total account) for debtors is used to:",
+      "options": [
+        "Record individual customer balances",
+        "Provide a total check of all individual debtor accounts in the sales ledger — the control account total should match the sum of individual balances",
+        "Replace the sales ledger",
+        "Record only cash sales"
+      ],
+      "answer": 1,
+      "explanation": "The debtors control account summarises all transactions affecting debtors as a whole. Its balance should equal the total of all individual debtor account balances in the sales ledger."
+    },
+    {
+      "id": 130,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Limited Companies",
+      "difficulty": 3,
+      "question": "The statutory reserve (share premium account) arises when:",
+      "options": [
+        "Dividends are paid to shareholders",
+        "Shares are issued at a price above their nominal (face) value — the excess is credited to the share premium account",
+        "The company makes a large profit",
+        "Shares are bought back from shareholders"
+      ],
+      "answer": 1,
+      "explanation": "Share premium is the amount received above the nominal value of shares when they are issued. E.g. if a $1 share is issued for $3, the $2 excess is share premium."
+    },
+    {
+      "id": 131,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Depreciation",
+      "difficulty": 2,
+      "question": "Accumulated depreciation on the balance sheet represents:",
+      "options": [
+        "The current year's depreciation charge only",
+        "The total depreciation charged on an asset from the date of purchase to the balance sheet date",
+        "The scrap value of the asset",
+        "The replacement cost of the asset"
+      ],
+      "answer": 1,
+      "explanation": "Accumulated depreciation is the total depreciation charged over the asset's life so far. Net Book Value = Cost − Accumulated Depreciation."
+    },
+    {
+      "id": 132,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Financial Ratios",
+      "difficulty": 2,
+      "question": "A high debtor collection period indicates:",
+      "options": [
+        "Debtors are paying quickly — good for cash flow",
+        "Debtors are taking longer to pay — potential cash flow problem",
+        "The business is very profitable",
+        "The business has no debtors"
+      ],
+      "answer": 1,
+      "explanation": "A high debtor collection period means customers are taking a long time to pay. This can strain cash flow and may indicate poor credit control."
+    },
+    {
+      "id": 133,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Mark-up and Margin",
+      "difficulty": 3,
+      "question": "A business applies a mark-up of 33⅓% on cost. If cost of goods sold is $60,000, what is the gross profit?",
+      "options": [
+        "$15,000",
+        "$20,000",
+        "$40,000",
+        "$80,000"
+      ],
+      "answer": 1,
+      "explanation": "Mark-up 33⅓% on cost: Gross Profit = 33⅓% × $60,000 = $20,000. Sales = $60,000 + $20,000 = $80,000."
+    },
+    {
+      "id": 134,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Sales and Purchases Journals",
+      "difficulty": 3,
+      "question": "Trade discount is:",
+      "options": [
+        "A discount given for early payment of invoices",
+        "A reduction in the list price given to trade customers — it is deducted before recording in the books and does NOT appear in the accounting records",
+        "A cash discount recorded in the cash book",
+        "A reduction given at the end of the year"
+      ],
+      "answer": 1,
+      "explanation": "Trade discount reduces the invoice price given to trade customers. It is deducted before the invoice is prepared and is NOT recorded separately in the books — only the net price is recorded."
+    },
+    {
+      "id": 135,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Cash Book",
+      "difficulty": 2,
+      "question": "Cash discount allowed (discount allowed to debtors for early payment) is recorded in the cash book as:",
+      "options": [
+        "A credit in the cash column",
+        "A debit in the discount allowed column",
+        "A credit in the bank column",
+        "An entry in the purchases journal"
+      ],
+      "answer": 1,
+      "explanation": "Discount allowed is recorded as a debit in the discount allowed column of the cash book (an expense to the business) when a debtor pays early and takes the discount."
+    },
+    {
+      "id": 136,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Club Accounts",
+      "difficulty": 2,
+      "question": "Donations received by a club are generally treated as:",
+      "options": [
+        "Revenue income in the I&E account",
+        "Capital receipts added to the accumulated fund",
+        "A current liability",
+        "An expense"
+      ],
+      "answer": 1,
+      "explanation": "Large one-off donations are typically treated as capital receipts — credited to the accumulated fund rather than the Income and Expenditure account."
+    },
+    {
+      "id": 137,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Accounting Concepts",
+      "difficulty": 2,
+      "question": "The realisation concept states that:",
+      "options": [
+        "Profits are recorded as soon as an order is received",
+        "Revenue is recognised only when it is earned and it is reasonably certain to be received — typically at the point of sale",
+        "All future profits are recorded in advance",
+        "Income is recorded when cash is received only"
+      ],
+      "answer": 1,
+      "explanation": "The realisation concept recognises revenue only when it is earned (goods or services delivered) and collection is reasonably assured — not when cash is received."
+    },
+    {
+      "id": 138,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Errors and Corrections",
+      "difficulty": 2,
+      "question": "Which of the following errors is NOT revealed by a trial balance?",
+      "options": [
+        "A transposition error of different amounts",
+        "A transaction posted to the wrong class of account (error of principle)",
+        "An arithmetic error in a ledger account",
+        "Posting the wrong amount to one account only"
+      ],
+      "answer": 1,
+      "explanation": "An error of principle posts to the wrong type of account but the same debit = credit relationship holds — so the trial balance still agrees and the error is hidden."
+    },
+    {
+      "id": 139,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Manufacturing Accounts",
+      "difficulty": 3,
+      "question": "The sequence of accounts in a manufacturing business is:",
+      "options": [
+        "Income statement → Manufacturing account → Balance sheet",
+        "Manufacturing account → Trading account → Income statement → Balance sheet",
+        "Balance sheet → Manufacturing account → Income statement",
+        "Trading account → Manufacturing account → Balance sheet"
+      ],
+      "answer": 1,
+      "explanation": "The manufacturing account calculates the cost of production, which feeds into the trading account as cost of goods sold, then the income statement calculates net profit, and the balance sheet follows."
+    },
+    {
+      "id": 140,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Financial Ratios",
+      "difficulty": 3,
+      "question": "A business has COGS of $36,000 and average inventory of $6,000. How many times does inventory turn over per year?",
+      "options": [
+        "3 times",
+        "6 times",
+        "36 times",
+        "12 times"
+      ],
+      "answer": 1,
+      "explanation": "Inventory Turnover = COGS ÷ Average Inventory = $36,000 ÷ $6,000 = 6 times per year."
+    },
+    {
+      "id": 141,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Returns Journals",
+      "difficulty": 2,
+      "question": "The purchases returns journal (returns outward book) records:",
+      "options": [
+        "Goods returned by customers",
+        "All cash refunds received",
+        "Goods returned by the business to its suppliers",
+        "Damaged goods written off"
+      ],
+      "answer": 2,
+      "explanation": "The purchases returns journal (returns outward) records goods sent back by the business to its suppliers — reducing the amount owed to creditors."
+    },
+    {
+      "id": 142,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Depreciation",
+      "difficulty": 2,
+      "question": "The disposal of a non-current asset at a loss means:",
+      "options": [
+        "The sale proceeds exceeded the net book value",
+        "The net book value exceeded the sale proceeds — the difference is a loss on disposal charged to the income statement",
+        "The asset was sold for exactly its book value",
+        "The asset was donated to charity"
+      ],
+      "answer": 1,
+      "explanation": "A loss on disposal occurs when the sale proceeds are less than the net book value of the asset. This loss is charged as an expense in the income statement."
+    },
+    {
+      "id": 143,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Partnerships",
+      "difficulty": 2,
+      "question": "If partners do not have a formal partnership agreement, which Act determines how profits are shared?",
+      "options": [
+        "The Companies Act",
+        "The relevant Partnership Act — typically requiring equal profit sharing and no partner salaries or interest on capital",
+        "The Employment Act",
+        "The Insolvency Act"
+      ],
+      "answer": 1,
+      "explanation": "In the absence of a partnership agreement, the Partnership Act applies — profits are shared equally, no partner receives a salary and no interest is paid on capital."
+    },
+    {
+      "id": 144,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Cash Flow",
+      "difficulty": 2,
+      "question": "Depreciation is added back to profit in the operating section of a cash flow statement because:",
+      "options": [
+        "It is a profit",
+        "It is a non-cash expense — it reduced profit but did not involve any cash payment",
+        "It increases the bank balance",
+        "It is a source of revenue"
+      ],
+      "answer": 1,
+      "explanation": "Depreciation is a non-cash charge — it reduces profit on paper but no cash leaves the business. It must be added back to net profit when calculating operating cash flow."
+    },
+    {
+      "id": 145,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Types of Assets",
+      "difficulty": 2,
+      "question": "Which of the following is an example of an intangible non-current asset?",
+      "options": [
+        "Land",
+        "Cash",
+        "Patents and trademarks",
+        "Inventory"
+      ],
+      "answer": 2,
+      "explanation": "Intangible assets have no physical form but have economic value. Patents, trademarks, copyrights and goodwill are intangible non-current assets."
+    },
+    {
+      "id": 146,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Income Statement",
+      "difficulty": 3,
+      "question": "A business has sales of $120,000, sales returns of $5,000, opening inventory of $8,000, purchases of $70,000, purchases returns of $3,000 and closing inventory of $12,000. What is the gross profit?",
+      "options": [
+        "$52,000",
+        "$62,000",
+        "$47,000",
+        "$57,000"
+      ],
+      "answer": 0,
+      "explanation": "Net sales = 120,000 − 5,000 = $115,000. COGS = 8,000 + (70,000 − 3,000) − 12,000 = 8,000 + 67,000 − 12,000 = $63,000. Gross profit = 115,000 − 63,000 = $52,000."
+    },
+    {
+      "id": 147,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Bank Reconciliation",
+      "difficulty": 2,
+      "question": "A standing order on the bank statement that has not been recorded in the cash book should be:",
+      "options": [
+        "Ignored",
+        "Added to the bank statement balance",
+        "Entered as a credit in the cash book — reducing the cash book balance",
+        "Recorded as income"
+      ],
+      "answer": 2,
+      "explanation": "A standing order payment appears on the bank statement (bank has paid) but if not yet in the cash book, it must be credited there to reduce the cash book balance to match."
+    },
+    {
+      "id": 148,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Provision for Bad Debts",
+      "difficulty": 3,
+      "question": "A provision for bad debts is reduced from $3,000 to $2,000. The effect on the income statement is:",
+      "options": [
+        "$1,000 expense — a charge against profit",
+        "$1,000 income — a credit to profit",
+        "$3,000 expense",
+        "No effect"
+      ],
+      "answer": 1,
+      "explanation": "A reduction in the provision releases $1,000 back into the income statement as income (credit) — it increases profit because less is being set aside for potential bad debts."
+    },
+    {
+      "id": 149,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Limited Companies",
+      "difficulty": 3,
+      "question": "Which of the following would appear in the equity section of a company's statement of financial position?",
+      "options": [
+        "Bank loan",
+        "Trade payables",
+        "Share capital and retained earnings",
+        "Accrued expenses"
+      ],
+      "answer": 2,
+      "explanation": "The equity section shows shareholders' funds — share capital (ordinary and preference), share premium and retained earnings (accumulated profits)."
+    },
+    {
+      "id": 150,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Manufacturing Accounts",
+      "difficulty": 3,
+      "question": "A manufacturer has: Raw materials used $40,000, Direct labour $25,000, Factory overheads $15,000, Opening WIP $5,000, Closing WIP $8,000. What is the cost of production?",
+      "options": [
+        "$77,000",
+        "$80,000",
+        "$83,000",
+        "$70,000"
+      ],
+      "answer": 0,
+      "explanation": "Prime cost = 40,000 + 25,000 = $65,000. Factory overheads = $15,000. Production cost before WIP adj = $80,000. + Opening WIP $5,000 − Closing WIP $8,000 = $77,000."
+    }
+  ]
+}

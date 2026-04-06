@@ -1,0 +1,152 @@
+{
+  "paper2": [
+    {
+      "id": 1,
+      "strand": "Computer Fundamentals",
+      "unit": "Computer Fundamentals",
+      "topic": "Computer Hardware, Software and Number Systems",
+      "context": "A school is setting up a new computer laboratory and needs to understand the components of a computer system, different types of software and how data is represented internally.",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"Describe the function of EACH of the following hardware components: (i) CPU (ii) RAM (iii) Hard Disk Drive (iv) Motherboard","marks":8,"rubric":[{"type":"answer","value":"CPU: fetches decodes and executes instructions performs all processing and calculations","marks":2},{"type":"answer","value":"RAM: temporary volatile memory stores currently running programs and data lost when power off","marks":2},{"type":"answer","value":"HDD: permanent secondary storage stores OS programs and files retained when powered off","marks":2},{"type":"answer","value":"Motherboard: main circuit board connects all components allows communication between CPU RAM storage peripherals","marks":2}]},
+        {"part":"b","question":"Distinguish between system software and application software. Give TWO examples of each.","marks":4,"rubric":[{"type":"answer","value":"system software manages hardware and provides platform e.g. Windows Linux device drivers","marks":2},{"type":"answer","value":"application software performs user tasks e.g. Microsoft Word Google Chrome spreadsheet games","marks":2}]},
+        {"part":"c","question":"Convert the following: (i) Binary 11001 to decimal (ii) Decimal 19 to binary","marks":4,"rubric":[{"type":"answer","value":"11001 binary = 16+8+1 = 25 decimal","marks":2},{"type":"answer","value":"19 decimal = 16+2+1 = 10011 binary","marks":2}]}
+      ]
+    },
+    {
+      "id": 2,
+      "strand": "Information Processing",
+      "unit": "Information Processing",
+      "topic": "Information Processing and Data Quality",
+      "context": "A Caribbean hospital is setting up a patient registration system. The system must collect accurate patient data and process it effectively. The IT team must consider the type of data collected and the validation rules applied.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Distinguish between DATA and INFORMATION, giving a relevant example from the hospital context.","marks":3,"rubric":[{"type":"answer","value":"data is raw unprocessed facts e.g. patient ages heights temperatures with no context","marks":1},{"type":"answer","value":"information is processed meaningful data e.g. average patient age in a ward or a diagnosis report","marks":1},{"type":"answer","value":"example is appropriate and clearly shows the distinction","marks":1}]},
+        {"part":"b","question":"Describe FOUR types of data validation checks that should be applied to the patient registration form, giving an example of each.","marks":8,"rubric":[{"type":"answer","value":"range check: date of birth year must be between 1900 and current year","marks":2},{"type":"answer","value":"presence check: name and ID fields must not be left empty","marks":2},{"type":"answer","value":"format check: date must be in DD/MM/YYYY format national ID must match pattern","marks":2},{"type":"answer","value":"type check: age must be numeric phone number must contain digits only","marks":2}]},
+        {"part":"c","question":"Explain the difference between data validation and data verification, and give ONE example of each.","marks":4,"rubric":[{"type":"answer","value":"validation checks data is reasonable correct format and within rules at input stage e.g. age cannot be negative","marks":2},{"type":"answer","value":"verification checks data was accurately transferred or entered e.g. re-entering password twice to confirm","marks":2}]}
+      ]
+    },
+    {
+      "id": 3,
+      "strand": "Computer Networks and Web Technologies",
+      "unit": "Computer Networks and Web Technologies",
+      "topic": "Networks, Internet and Cybersecurity",
+      "context": "A small business in Barbados wants to connect its five computers in a network and set up a secure website for online sales. The owner needs to understand network types, internet services and security threats.",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"Compare a LAN and a WAN in terms of: (i) geographic coverage (ii) ownership (iii) speed.","marks":6,"rubric":[{"type":"answer","value":"LAN: small area e.g. building or campus; WAN: large area countries or globally","marks":2},{"type":"answer","value":"LAN: privately owned; WAN: shared public or mix of private and public infrastructure","marks":2},{"type":"answer","value":"LAN: generally faster due to short distances; WAN: typically slower due to distance and shared infrastructure","marks":2}]},
+        {"part":"b","question":"Describe THREE cybersecurity threats the business should be aware of and suggest ONE protection method for each.","marks":6,"rubric":[{"type":"answer","value":"phishing: fake emails trick staff into revealing passwords — train employees to verify sender and not click suspicious links","marks":2},{"type":"answer","value":"malware/virus: software damages system or steals data — install reputable antivirus and keep it updated","marks":2},{"type":"answer","value":"hacking/unauthorised access: criminals break into system — use firewall strong passwords and 2FA","marks":2}]},
+        {"part":"c","question":"Explain why HTTPS is important for the business's e-commerce website, and state what SSL/TLS encryption does.","marks":4,"rubric":[{"type":"answer","value":"HTTPS encrypts data between customer browser and server protecting payment and personal details","marks":2},{"type":"answer","value":"SSL/TLS creates a secure encrypted tunnel so data cannot be read by third parties during transmission","marks":2}]}
+      ]
+    },
+    {
+      "id": 4,
+      "strand": "Social and Economic Impact of ICT",
+      "unit": "Social and Economic Impact of ICT",
+      "topic": "Social and Economic Impact of ICT",
+      "context": "ICT has transformed daily life and business in the Caribbean. However, it brings both benefits and challenges to society.",
+      "total_marks": 14,
+      "parts": [
+        {"part":"a","question":"Describe THREE economic benefits of ICT for Caribbean businesses and individuals.","marks":6,"rubric":[{"type":"answer","value":"e-commerce allows businesses to reach global markets beyond small local Caribbean market","marks":2},{"type":"answer","value":"reduced communication costs email video conferencing cheaper than travel","marks":2},{"type":"answer","value":"automation increases productivity and efficiency reducing operational costs","marks":2}]},
+        {"part":"b","question":"Explain the concept of the digital divide and discuss TWO of its effects on Caribbean society.","marks":4,"rubric":[{"type":"answer","value":"digital divide is inequality in access to ICT between groups due to income geography or education","marks":2},{"type":"answer","value":"effect: those without access miss educational and economic opportunities — widens inequality","marks":1},{"type":"answer","value":"effect: rural communities may have inferior services if government relies heavily on digital delivery","marks":1}]},
+        {"part":"c","question":"Identify and explain TWO legal or ethical issues arising from the widespread use of ICT.","marks":4,"rubric":[{"type":"answer","value":"copyright/intellectual property: illegal copying of software music or images without permission violates creators' rights","marks":2},{"type":"answer","value":"data privacy: personal data collected online may be misused without consent laws needed to protect individuals","marks":2}]}
+      ]
+    },
+    {
+      "id": 5,
+      "strand": "Word Processing",
+      "unit": "Word Processing",
+      "topic": "Word Processing and Web Page Design",
+      "context": "A student is using word processing software to create a report and also learning to design a basic web page for a school project.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Describe FOUR features of word processing software that would be useful when creating a formal report, explaining how each feature helps.","marks":8,"rubric":[{"type":"answer","value":"headers and footers: show document title page numbers on every page for professional presentation","marks":2},{"type":"answer","value":"spell check and grammar check: identifies errors automatically improving accuracy","marks":2},{"type":"answer","value":"table of contents: automatically generated from headings allowing easy navigation of long report","marks":2},{"type":"answer","value":"mail merge: creates personalised versions of the report for multiple recipients automatically","marks":2}]},
+        {"part":"b","question":"Write HTML code to create a simple web page that includes: a main heading 'My School', a paragraph 'Welcome to our website', and a hyperlink to www.example.com with the text 'Click here'.","marks":4,"rubric":[{"type":"answer","value":"<!DOCTYPE html> and <html> <head> <title> tags present","marks":1},{"type":"answer","value":"<h1>My School</h1> correct","marks":1},{"type":"answer","value":"<p>Welcome to our website</p> correct","marks":1},{"type":"answer","value":"<a href='www.example.com'>Click here</a> correct","marks":1}]},
+        {"part":"c","question":"State THREE principles of good web page design.","marks":3,"rubric":[{"type":"answer","value":"consistent navigation so users always know where they are","marks":1},{"type":"answer","value":"readable fonts and sufficient contrast between text and background","marks":1},{"type":"answer","value":"responsive design that adapts to different screen sizes and fast loading time","marks":1}]}
+      ]
+    },
+    {
+      "id": 6,
+      "strand": "Spreadsheets",
+      "unit": "Spreadsheets",
+      "topic": "Spreadsheets",
+      "context": "A teacher wants to use a spreadsheet to manage student scores for five subjects. The spreadsheet should calculate totals, averages and grades automatically.",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"Write the spreadsheet formula for EACH of the following tasks:\n(i) Calculate the total of scores in cells B2 to F2\n(ii) Calculate the average of the same range\n(iii) Find the maximum score in column B (B2:B30)\n(iv) Count how many students scored above 75 in column G (G2:G30)","marks":8,"rubric":[{"type":"answer","value":"=SUM(B2:F2) or =B2+C2+D2+E2+F2","marks":2},{"type":"answer","value":"=AVERAGE(B2:F2)","marks":2},{"type":"answer","value":"=MAX(B2:B30)","marks":2},{"type":"answer","value":"=COUNTIF(G2:G30,\">75\")","marks":2}]},
+        {"part":"b","question":"Explain what the following formula does: =IF(H2>=70,\"Pass\",\"Fail\")","marks":2,"rubric":[{"type":"answer","value":"checks if value in H2 is greater than or equal to 70","marks":1},{"type":"answer","value":"if true displays Pass if false displays Fail","marks":1}]},
+        {"part":"c","question":"Explain the difference between an absolute cell reference and a relative cell reference. Give an example of when you would use an absolute reference in the teacher's spreadsheet.","marks":4,"rubric":[{"type":"answer","value":"relative reference e.g. A1 adjusts automatically when formula is copied to another cell","marks":1},{"type":"answer","value":"absolute reference e.g. $A$1 stays fixed when copied","marks":1},{"type":"answer","value":"example: if pass mark is stored in cell $B$1 and used in multiple IF formulas the absolute reference ensures all formulas always refer to the same pass mark cell","marks":2}]},
+        {"part":"d","question":"State ONE type of chart that would be most suitable for showing each student's total score and explain why.","marks":2,"rubric":[{"type":"answer","value":"bar or column chart","marks":1},{"type":"answer","value":"best for comparing discrete values across multiple students easy to see differences in height","marks":1}]}
+      ]
+    },
+    {
+      "id": 7,
+      "strand": "Databases",
+      "unit": "Databases",
+      "topic": "Databases",
+      "context": "A small library in Trinidad wants to create a database to manage books and members. The database will have two tables: BOOKS (BookID, Title, Author, Genre, Available) and MEMBERS (MemberID, Name, Email, JoinDate).",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"Identify the primary key for each table and explain why it was chosen.","marks":4,"rubric":[{"type":"answer","value":"BOOKS primary key: BookID — uniquely identifies each book as title and author could repeat","marks":2},{"type":"answer","value":"MEMBERS primary key: MemberID — uniquely identifies each member as names could be duplicated","marks":2}]},
+        {"part":"b","question":"Write an SQL query to: (i) Retrieve the Title and Author of all books where Genre is 'Fiction' (ii) Retrieve all fields from MEMBERS where the Name contains 'Smith'","marks":4,"rubric":[{"type":"answer","value":"SELECT Title, Author FROM BOOKS WHERE Genre = 'Fiction'","marks":2},{"type":"answer","value":"SELECT * FROM MEMBERS WHERE Name LIKE '%Smith%'","marks":2}]},
+        {"part":"c","question":"The library wants to add a LOANS table to track which member borrowed which book. Design the LOANS table by stating: (i) The fields it should contain (ii) Its primary key (iii) The foreign keys and which tables they reference","marks":5,"rubric":[{"type":"answer","value":"fields: LoanID BookID MemberID LoanDate DueDate ReturnDate","marks":2},{"type":"answer","value":"primary key: LoanID","marks":1},{"type":"answer","value":"foreign key: BookID references BOOKS(BookID)","marks":1},{"type":"answer","value":"foreign key: MemberID references MEMBERS(MemberID)","marks":1}]},
+        {"part":"d","question":"Explain the concept of referential integrity and why it is important in this database.","marks":3,"rubric":[{"type":"answer","value":"referential integrity ensures foreign key values must match existing primary key values in referenced table","marks":2},{"type":"answer","value":"important: prevents recording a loan for a book or member that does not exist in the database","marks":1}]}
+      ]
+    },
+    {
+      "id": 8,
+      "strand": "Problem Solving and Program Design",
+      "unit": "Problem Solving and Program Design",
+      "topic": "Problem Solving, Algorithms and Flowcharts",
+      "context": "A student needs to write a program that asks a user to enter 5 numbers and then displays the total and average of those numbers.",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"Write a pseudocode algorithm for the program described above.","marks":6,"rubric":[{"type":"answer","value":"SET total = 0","marks":1},{"type":"answer","value":"FOR i FROM 1 TO 5 or loop 5 times","marks":2},{"type":"answer","value":"INPUT number","marks":1},{"type":"answer","value":"SET total = total + number","marks":1},{"type":"answer","value":"PRINT total and average = total / 5","marks":1}]},
+        {"part":"b","question":"Draw a flowchart for the algorithm. Use correct flowchart symbols.","marks":5,"rubric":[{"type":"answer","value":"start oval present","marks":1},{"type":"answer","value":"process rectangle: initialise total=0 counter=0","marks":1},{"type":"answer","value":"parallelogram input for each number or loop input","marks":1},{"type":"answer","value":"decision diamond for loop condition counter < 5","marks":1},{"type":"answer","value":"output parallelogram for total and average and end oval","marks":1}]},
+        {"part":"c","question":"Using a trace table, show the values of 'total' and 'i' as the algorithm executes if the user enters: 4, 7, 3, 8, 3","marks":3,"rubric":[{"type":"answer","value":"i=1 input=4 total=4","marks":1},{"type":"answer","value":"i=2 input=7 total=11; i=3 input=3 total=14; i=4 input=8 total=22","marks":1},{"type":"answer","value":"i=5 input=3 total=25; average = 25/5 = 5","marks":1}]},
+        {"part":"d","question":"State the difference between a syntax error and a logic error in programming.","marks":2,"rubric":[{"type":"answer","value":"syntax error breaks language rules prevents program from running e.g. missing colon wrong spelling of keyword","marks":1},{"type":"answer","value":"logic error program runs but gives incorrect results due to flawed algorithm e.g. dividing by wrong number","marks":1}]}
+      ]
+    },
+    {
+      "id": 9,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Programming — Basics and Control Structures",
+      "context": "You are required to write Python programs to solve the problems below. Show your code clearly and explain your reasoning.",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"Write a Python program that:\n(i) Asks the user to enter their name and age\n(ii) Prints a greeting: 'Hello [name], you are [age] years old'\n(iii) Checks if they are 18 or over and prints 'You are an adult' or 'You are a minor'","marks":6,"rubric":[{"type":"answer","value":"name = input('Enter your name: ') and age = int(input('Enter your age: '))","marks":2},{"type":"answer","value":"print('Hello ' + name + ', you are ' + str(age) + ' years old') or f-string equivalent","marks":2},{"type":"answer","value":"if age >= 18: print('You are an adult') else: print('You are a minor')","marks":2}]},
+        {"part":"b","question":"Write a Python program using a FOR loop that prints the multiplication table for 5 (5×1 to 5×10).","marks":4,"rubric":[{"type":"answer","value":"for i in range(1, 11): correct range","marks":1},{"type":"answer","value":"print(5, 'x', i, '=', 5*i) or equivalent","marks":2},{"type":"answer","value":"output shows 5x1=5 through 5x10=50","marks":1}]},
+        {"part":"c","question":"Write a Python function called 'is_even' that takes a number as a parameter and returns True if the number is even and False if it is odd. Then call the function and print the result for the number 14.","marks":4,"rubric":[{"type":"answer","value":"def is_even(n): correct function definition","marks":1},{"type":"answer","value":"return n % 2 == 0 correct logic using modulus","marks":2},{"type":"answer","value":"print(is_even(14)) outputs True","marks":1}]},
+        {"part":"d","question":"State ONE advantage of using functions in a Python program.","marks":2,"rubric":[{"type":"answer","value":"functions create reusable blocks of code reducing repetition","marks":1},{"type":"answer","value":"makes programs easier to read test and maintain","marks":1}]}
+      ]
+    },
+    {
+      "id": 10,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Programming — Lists, Loops and Problem Solving",
+      "context": "A school wants a Python program to manage a list of student names and calculate statistics about their exam scores.",
+      "total_marks": 17,
+      "parts": [
+        {"part":"a","question":"Write a Python program that:\n(i) Creates a list of 5 student names\n(ii) Prints each name using a for loop\n(iii) Prints the total number of students using len()","marks":6,"rubric":[{"type":"answer","value":"students = ['name1','name2','name3','name4','name5'] correct list syntax","marks":2},{"type":"answer","value":"for name in students: print(name) correct loop syntax","marks":2},{"type":"answer","value":"print('Total students:', len(students)) correct use of len()","marks":2}]},
+        {"part":"b","question":"Write a Python program that:\n(i) Asks the user to enter 5 exam scores using a loop and stores them in a list\n(ii) Calculates and prints the total, highest and lowest scores","marks":6,"rubric":[{"type":"answer","value":"scores = [] and loop 5 times appending input converted to int","marks":2},{"type":"answer","value":"print('Total:', sum(scores)) correct","marks":2},{"type":"answer","value":"print('Highest:', max(scores)) and print('Lowest:', min(scores)) correct","marks":2}]},
+        {"part":"c","question":"What will the following Python code output? Explain each step.\nscores = [45, 82, 67, 90, 55]\ncount = 0\nfor s in scores:\n    if s >= 70:\n        count += 1\nprint('Passes:', count)","marks":4,"rubric":[{"type":"answer","value":"loop iterates through each score in the list","marks":1},{"type":"answer","value":"checks if each score is 70 or above 82 and 90 qualify","marks":1},{"type":"answer","value":"count increments to 2","marks":1},{"type":"answer","value":"output: Passes: 2","marks":1}]},
+        {"part":"d","question":"What is the purpose of the .append() method in Python and when would you use it?","marks":1,"rubric":[{"type":"answer","value":"append adds an item to the end of a list used to build up a list dynamically e.g. collecting user inputs in a loop","marks":1}]}
+      ]
+    },
+    {
+      "id": 11,
+      "strand": "Problem Solving and Program Design",
+      "unit": "Problem Solving and Program Design",
+      "topic": "Algorithm Design and Python Implementation",
+      "context": "A shop needs a program to calculate the total cost of items purchased, apply a 10% discount if the total exceeds $100, and display the final amount due.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Write a pseudocode algorithm for the shop program described above.","marks":5,"rubric":[{"type":"answer","value":"INPUT number of items","marks":1},{"type":"answer","value":"loop to input price of each item and accumulate total","marks":2},{"type":"answer","value":"IF total > 100 THEN total = total × 0.90 (apply 10% discount)","marks":1},{"type":"answer","value":"PRINT final total","marks":1}]},
+        {"part":"b","question":"Write the complete Python program implementing the algorithm above.","marks":8,"rubric":[{"type":"answer","value":"n = int(input()) and total = 0 initialisation","marks":1},{"type":"answer","value":"for loop running n times","marks":2},{"type":"answer","value":"price = float(input()) and total += price inside loop","marks":2},{"type":"answer","value":"if total > 100: total = total * 0.90 correct conditional and calculation","marks":2},{"type":"answer","value":"print('Amount due: $', round(total, 2)) or equivalent output","marks":1}]},
+        {"part":"c","question":"Test your program with these values: Items entered — $45, $30, $40. Show the expected output step by step.","marks":2,"rubric":[{"type":"answer","value":"total = 45 + 30 + 40 = $115 which exceeds $100","marks":1},{"type":"answer","value":"discount applied: 115 × 0.90 = $103.50 output: Amount due: $103.50","marks":1}]}
+      ]
+    }
+  ]
+}

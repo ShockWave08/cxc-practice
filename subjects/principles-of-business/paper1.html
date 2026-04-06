@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Principles of Business Paper 1 – CXC Practice Hub</title>
+  <link rel="stylesheet" href="../../styles/main.css">
+</head>
+<body>
+  <nav>
+    <a href="index.html">← Principles of Business</a> | <a href="../../index.html">Home</a>
+    <span style="float:right; display:flex; gap:8px;">
+      <button id="dark-toggle" style="font-size:0.85em; padding:5px 10px;">🌙</button>
+    </span>
+  </nav>
+  <h1>💼 Principles of Business – Paper 1 (Multiple Choice)</h1>
+
+  <div id="setup">
+    <label>Difficulty:
+      <select id="difficulty">
+        <option value="all">All</option>
+        <option value="1">Easy</option>
+        <option value="2">Medium</option>
+        <option value="3">Hard</option>
+      </select>
+    </label>
+    <label>Topic:
+      <select id="unit">
+        <option value="all">All Topics</option>
+        <option value="Background to Businesses">Background to Businesses</option>
+        <option value="Types of Businesses and Economic Systems">Types of Businesses and Economic Systems</option>
+        <option value="Business Organization">Business Organization</option>
+        <option value="Legal Aspects of Business">Legal Aspects of Business</option>
+        <option value="Business Management">Business Management</option>
+        <option value="Entrepreneurship">Entrepreneurship</option>
+        <option value="Establishment of a Business">Establishment of a Business</option>
+        <option value="Contracts">Contracts</option>
+        <option value="Business Documents">Business Documents</option>
+        <option value="Insurance">Insurance</option>
+        <option value="Production">Production</option>
+        <option value="Marketing">Marketing</option>
+        <option value="Logistics and Supply Chain">Logistics and Supply Chain</option>
+        <option value="Business Finance">Business Finance</option>
+        <option value="Role of Government">Role of Government</option>
+        <option value="Business Technology">Business Technology</option>
+        <option value="Standard of Living">Standard of Living</option>
+      </select>
+    </label>
+    <label><input type="checkbox" id="adaptiveMode"> Adaptive Mode (focus weak topics)</label>
+    <label><input type="checkbox" id="spacedMode"> Spaced Repetition (prioritise unseen &amp; missed)</label>
+    <label>Number of Questions:
+      <input type="number" id="numQuestions" value="10" min="1" max="150">
+    </label>
+    <button onclick="startExam('Principles of Business')">Start Exam</button>
+  </div>
+
+  <div id="review-overlay"
+       style="display:none; position:fixed; inset:0; background:rgba(0,0,0,0.6);
+              z-index:100; align-items:center; justify-content:center; padding:16px;">
+    <div style="background:var(--bg,white); border-radius:12px; padding:24px;
+                max-width:600px; width:100%; max-height:90vh; overflow-y:auto;
+                box-shadow:0 8px 32px rgba(0,0,0,0.25);"></div>
+  </div>
+
+  <div id="timer"></div>
+  <div id="question-container"></div>
+  <button id="submit-btn" onclick="submitExam()" style="display:none;">Submit Exam</button>
+  <div id="results"></div>
+
+  <script src="../../js/storage.js"></script>
+  <script src="../../js/adaptive.js"></script>
+  <script src="../../js/question-loader.js"></script>
+  <script src="../../js/exam-engine.js"></script>
+  <script>
+    applyDarkMode();
+    loadQuestions("paper1-questions.json", "paper1");
+    document.getElementById("dark-toggle").addEventListener("click", () => {
+      const next = !getDarkMode(); setDarkMode(next); applyDarkMode();
+      document.getElementById("dark-toggle").innerText = next ? "☀️" : "🌙";
+    });
+    document.getElementById("dark-toggle").innerText = getDarkMode() ? "☀️" : "🌙";
+  </script>
+</body>
+</html>

@@ -43,6 +43,9 @@ function showQuestion() {
         ${isFlagged ? "🚩 Flagged" : "⚑ Flag"}
       </button>
     </div>
+    ${q.passage ? `<div style="background:#f4f6f8; border-left:4px solid #2471a3;
+      padding:12px 16px; border-radius:0 6px 6px 0; margin-bottom:14px;
+      white-space:pre-line; font-size:0.92em; line-height:1.6;">${q.passage}</div>` : ''}
     <h3 style="margin-bottom:14px;">${q.question}</h3>
   `;
 

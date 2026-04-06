@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>English A Paper 2 – CXC Practice Hub</title>
+  <link rel="stylesheet" href="../../styles/main.css">
+</head>
+<body>
+  <nav>
+    <a href="index.html">← English A</a> | <a href="../../index.html">Home</a>
+    <span style="float:right; display:flex; gap:8px;">
+      <button id="dark-toggle" style="font-size:0.85em; padding:5px 10px;">🌙</button>
+    </span>
+  </nav>
+  <h1>📝 English A – Paper 2 (Structured &amp; Essay Writing)</h1>
+
+  <div id="p2-setup">
+    <p>Read all instructions carefully. Writing tasks are assessed on content, organisation, language and mechanics.</p>
+    <label>Number of Questions:
+      <input type="number" id="p2-num-questions" value="3" min="1" max="11">
+    </label>
+    <br><br>
+    <button onclick="startPaper2Exam()">Start Paper 2</button>
+  </div>
+
+  <div id="p2-exam-area" style="display:none;">
+    <div id="p2-timer" style="font-size:1.1em; font-weight:bold; margin-bottom:14px;"></div>
+    <div id="p2-question-area"></div>
+    <div style="margin-top:16px; display:flex; gap:10px; flex-wrap:wrap;">
+      <button id="p2-prev-btn" onclick="prevP2()" style="display:none;">← Back</button>
+      <button id="p2-next-btn" onclick="nextP2()">Next →</button>
+      <button id="p2-submit-btn" onclick="submitPaper2()" style="display:none; background:#c0392b;">Submit Paper</button>
+    </div>
+  </div>
+
+  <script src="../../js/storage.js"></script>
+  <script src="../../js/question-loader.js"></script>
+  <script src="../../js/paper2-engine.js"></script>
+  <script>
+    applyDarkMode();
+    loadQuestions("paper2-questions.json", "paper2");
+    document.getElementById("dark-toggle").addEventListener("click", () => {
+      const next = !getDarkMode(); setDarkMode(next); applyDarkMode();
+      document.getElementById("dark-toggle").innerText = next ? "☀️" : "🌙";
+    });
+    document.getElementById("dark-toggle").innerText = getDarkMode() ? "☀️" : "🌙";
+  </script>
+</body>
+</html>

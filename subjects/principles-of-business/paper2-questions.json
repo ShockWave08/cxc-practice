@@ -1,0 +1,163 @@
+{
+  "paper2": [
+    {
+      "id": 1,
+      "strand": "Background to Businesses",
+      "unit": "Background to Businesses",
+      "topic": "Background to Businesses and Economic Systems",
+      "context": "Businesses exist to satisfy human wants and needs by producing goods and services using the factors of production. The type of economic system determines how these resources are allocated.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Distinguish between a 'want' and a 'need', giving TWO examples of each relevant to the Caribbean.","marks":4,"rubric":[{"type":"answer","value":"need: essential for survival e.g. food water shelter clothing","marks":2},{"type":"answer","value":"want: desired but not essential e.g. smartphone branded clothing car entertainment","marks":2}]},
+        {"part":"b","question":"Name and describe the FOUR factors of production and state the reward earned by each.","marks":8,"rubric":[{"type":"answer","value":"land: all natural resources reward is rent","marks":2},{"type":"answer","value":"labour: human effort and skills reward is wages","marks":2},{"type":"answer","value":"capital: man-made resources used in production reward is interest","marks":2},{"type":"answer","value":"enterprise: organises other factors takes risk reward is profit","marks":2}]},
+        {"part":"c","question":"Distinguish between the primary, secondary and tertiary sectors of industry, giving ONE Caribbean example of each.","marks":3,"rubric":[{"type":"answer","value":"primary extracts raw materials e.g. fishing farming bauxite mining","marks":1},{"type":"answer","value":"secondary processes manufactures goods e.g. rum production food processing","marks":1},{"type":"answer","value":"tertiary provides services e.g. banking tourism hospitality","marks":1}]}
+      ]
+    },
+    {
+      "id": 2,
+      "strand": "Types of Businesses and Economic Systems",
+      "unit": "Types of Businesses and Economic Systems",
+      "topic": "Types of Business Organisations",
+      "context": "Businesses can be organised in various legal forms, each with different characteristics regarding ownership, liability, capital raising and control. Choosing the right business structure is an important decision for any entrepreneur.",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"Describe THREE differences between a sole trader and a private limited company.","marks":6,"rubric":[{"type":"answer","value":"sole trader owned by one person limited company owned by shareholders","marks":2},{"type":"answer","value":"sole trader has unlimited liability limited company members have limited liability","marks":2},{"type":"answer","value":"sole trader raises capital from personal savings limited company raises capital by selling shares","marks":2}]},
+        {"part":"b","question":"Explain the concept of 'limited liability' and explain why it is attractive to investors.","marks":4,"rubric":[{"type":"answer","value":"limited liability means shareholders can only lose the amount they invested in the company","marks":2},{"type":"answer","value":"attractive because personal assets are protected investors can invest without risking everything they own","marks":2}]},
+        {"part":"c","question":"Describe the characteristics of a cooperative and give TWO examples found in the Caribbean.","marks":4,"rubric":[{"type":"answer","value":"owned and controlled by members one member one vote democratic","marks":2},{"type":"answer","value":"examples: credit union agricultural cooperative workers cooperative","marks":2}]},
+        {"part":"d","question":"Distinguish between a free market economy and a command economy.","marks":2,"rubric":[{"type":"answer","value":"free market prices set by supply and demand private ownership","marks":1},{"type":"answer","value":"command government controls production distribution resources state ownership","marks":1}]}
+      ]
+    },
+    {
+      "id": 3,
+      "strand": "Business Management",
+      "unit": "Business Management",
+      "topic": "Business Management and Organisation",
+      "context": "Effective management is essential for business success. Managers must plan, organise, staff, direct and control business activities. Understanding management styles and motivational theories helps managers get the best from their workforce.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"State and explain the FIVE functions of management (POSDC).","marks":10,"rubric":[{"type":"answer","value":"planning: setting objectives and determining how to achieve them","marks":2},{"type":"answer","value":"organising: arranging resources and tasks to achieve goals","marks":2},{"type":"answer","value":"staffing: recruiting training and managing employees","marks":2},{"type":"answer","value":"directing: guiding and motivating staff to carry out plans","marks":2},{"type":"answer","value":"controlling: monitoring performance and taking corrective action","marks":2}]},
+        {"part":"b","question":"Compare autocratic and democratic leadership styles, giving ONE advantage and ONE disadvantage of each.","marks":4,"rubric":[{"type":"answer","value":"autocratic advantage: fast decisions clear direction disadvantage: low morale demotivates staff","marks":2},{"type":"answer","value":"democratic advantage: higher morale buy-in better decisions disadvantage: slower decision-making","marks":2}]},
+        {"part":"c","question":"State Maslow's Hierarchy of Needs from lowest to highest.","marks":1,"rubric":[{"type":"answer","value":"physiological safety social esteem self-actualisation","marks":1}]}
+      ]
+    },
+    {
+      "id": 4,
+      "strand": "Entrepreneurship",
+      "unit": "Entrepreneurship",
+      "topic": "Entrepreneurship and Business Planning",
+      "context": "Entrepreneurs are the driving force behind new businesses. They identify opportunities, take risks and organise resources to create value. A well-prepared business plan is essential for both guiding the business and attracting finance.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Identify and explain FOUR characteristics of a successful entrepreneur.","marks":8,"rubric":[{"type":"answer","value":"risk-taking: willing to take calculated risks to pursue opportunities","marks":2},{"type":"answer","value":"innovative: generates new ideas products or processes","marks":2},{"type":"answer","value":"determined: persists in the face of challenges and setbacks","marks":2},{"type":"answer","value":"leadership: motivates and organises others to work toward goals","marks":2}]},
+        {"part":"b","question":"Explain THREE reasons why a business plan is important for a new entrepreneur.","marks":3,"rubric":[{"type":"answer","value":"provides a roadmap giving direction and helping the business stay on track","marks":1},{"type":"answer","value":"required by banks and investors when applying for finance","marks":1},{"type":"answer","value":"helps identify potential problems and plan solutions before they arise","marks":1}]},
+        {"part":"c","question":"Describe THREE challenges commonly faced by entrepreneurs in the Caribbean.","marks":4,"rubric":[{"type":"answer","value":"limited access to start-up capital and high cost of borrowing","marks":2},{"type":"answer","value":"small domestic market limiting growth potential","marks":1},{"type":"answer","value":"competition from large foreign companies and imports","marks":1}]}
+      ]
+    },
+    {
+      "id": 5,
+      "strand": "Contracts",
+      "unit": "Contracts",
+      "topic": "Contracts and Legal Aspects of Business",
+      "context": "Business transactions are governed by contract law. A valid contract creates legally binding obligations. Understanding the elements of a valid contract and what happens when one is breached is essential for any business person.",
+      "total_marks": 14,
+      "parts": [
+        {"part":"a","question":"State and explain FIVE essential elements of a valid contract.","marks":10,"rubric":[{"type":"answer","value":"offer: a clear proposal made by one party to another","marks":2},{"type":"answer","value":"acceptance: unqualified agreement to all terms of the offer","marks":2},{"type":"answer","value":"consideration: something of value given by each party","marks":2},{"type":"answer","value":"capacity: both parties must be legally able to contract e.g. of legal age","marks":2},{"type":"answer","value":"intention to create legal relations: parties must intend the agreement to be legally binding","marks":2}]},
+        {"part":"b","question":"Distinguish between a void and a voidable contract.","marks":2,"rubric":[{"type":"answer","value":"void contract has no legal effect from the start e.g. illegal contract","marks":1},{"type":"answer","value":"voidable contract is valid but can be cancelled by one party e.g. contract obtained through misrepresentation","marks":1}]},
+        {"part":"c","question":"State TWO remedies available to a party when a contract is breached.","marks":2,"rubric":[{"type":"answer","value":"damages financial compensation for losses suffered","marks":1},{"type":"answer","value":"specific performance court orders the defaulting party to fulfil the contract","marks":1}]}
+      ]
+    },
+    {
+      "id": 6,
+      "strand": "Business Documents",
+      "unit": "Business Documents",
+      "topic": "Business Documents",
+      "context": "Business transactions involve a series of documents that create a clear record of what was agreed, ordered, delivered and paid. Understanding the purpose and sequence of these documents is essential for efficient business operations.",
+      "total_marks": 14,
+      "parts": [
+        {"part":"a","question":"Place the following documents in the correct order in a typical business transaction: invoice, delivery note, purchase order, statement of account, quotation.","marks":5,"rubric":[{"type":"answer","value":"quotation: supplier provides prices and terms","marks":1},{"type":"answer","value":"purchase order: buyer formally orders goods","marks":1},{"type":"answer","value":"delivery note: accompanies goods on delivery","marks":1},{"type":"answer","value":"invoice: seller requests payment","marks":1},{"type":"answer","value":"statement of account: summary of transactions and balance owed","marks":1}]},
+        {"part":"b","question":"Explain the purpose of a credit note and state when it would be issued.","marks":3,"rubric":[{"type":"answer","value":"a credit note reduces the amount owed by the buyer","marks":1},{"type":"answer","value":"issued when goods are returned as faulty or damaged","marks":1},{"type":"answer","value":"or when an overcharge has been made on the original invoice","marks":1}]},
+        {"part":"c","question":"Distinguish between a quotation and a purchase order.","marks":4,"rubric":[{"type":"answer","value":"quotation sent by seller to buyer showing price terms and conditions","marks":2},{"type":"answer","value":"purchase order sent by buyer to seller formally requesting specific goods at agreed price","marks":2}]},
+        {"part":"d","question":"State the information typically found on an invoice.","marks":2,"rubric":[{"type":"answer","value":"name and address of buyer and seller invoice number date","marks":1},{"type":"answer","value":"description quantity price of goods total amount due and payment terms","marks":1}]}
+      ]
+    },
+    {
+      "id": 7,
+      "strand": "Insurance",
+      "unit": "Insurance",
+      "topic": "Insurance",
+      "context": "Insurance is a risk management tool that protects individuals and businesses against financial loss. Several fundamental principles govern insurance contracts to ensure fairness and prevent abuse.",
+      "total_marks": 14,
+      "parts": [
+        {"part":"a","question":"Explain FOUR principles of insurance.","marks":8,"rubric":[{"type":"answer","value":"insurable interest: insured must have financial stake in what is insured","marks":2},{"type":"answer","value":"utmost good faith: both parties must disclose all material facts honestly","marks":2},{"type":"answer","value":"indemnity: insured restored to same financial position as before loss no profit from claim","marks":2},{"type":"answer","value":"subrogation: insurer takes over insured's rights to recover from third party after paying claim","marks":2}]},
+        {"part":"b","question":"Describe THREE types of insurance that would be important for a Caribbean small business owner.","marks":6,"rubric":[{"type":"answer","value":"fire insurance covers damage to premises and contents from fire","marks":2},{"type":"answer","value":"employers liability covers claims from employees injured at work","marks":2},{"type":"answer","value":"public liability covers claims from members of the public injured on business premises","marks":2}]}
+      ]
+    },
+    {
+      "id": 8,
+      "strand": "Production",
+      "unit": "Production",
+      "topic": "Production and Marketing",
+      "context": "Production transforms inputs into outputs of goods or services. Businesses must manage costs, productivity and quality. Marketing ensures that the right product reaches the right customer at the right price and place.",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"Distinguish between fixed costs and variable costs, giving TWO examples of each.","marks":4,"rubric":[{"type":"answer","value":"fixed costs do not change with output e.g. rent insurance salaries","marks":2},{"type":"answer","value":"variable costs change with output e.g. raw materials packaging direct labour","marks":2}]},
+        {"part":"b","question":"A business has fixed costs of $8,000 per month, variable costs of $15 per unit and sells each unit for $35. Calculate: (i) Total cost if 400 units are produced (ii) Total revenue from selling 400 units (iii) Profit or loss made.","marks":6,"rubric":[{"type":"answer","value":"total cost = 8000 + (400 × 15) = 8000 + 6000 = $14,000","marks":2},{"type":"answer","value":"total revenue = 400 × 35 = $14,000","marks":2},{"type":"answer","value":"profit/loss = 14000 - 14000 = $0 break-even","marks":2}]},
+        {"part":"c","question":"Explain the 4 Ps of the marketing mix and give a practical example of each for a Caribbean food product.","marks":6,"rubric":[{"type":"answer","value":"product: the good or service offered e.g. jerk chicken seasoning","marks":2},{"type":"answer","value":"price: what is charged e.g. competitive pricing against imported brands","marks":2},{"type":"answer","value":"place: how product reaches customer e.g. supermarkets online delivery","marks":1},{"type":"answer","value":"promotion: how product is communicated e.g. social media advertising food festivals","marks":1}]}
+      ]
+    },
+    {
+      "id": 9,
+      "strand": "Business Finance",
+      "unit": "Business Finance",
+      "topic": "Business Finance",
+      "context": "Access to finance is essential for business start-up, growth and survival. Businesses use financial statements to monitor performance and make decisions. Understanding financial concepts enables better business management.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Distinguish between internal and external sources of finance, giving TWO examples of each.","marks":6,"rubric":[{"type":"answer","value":"internal: generated from within the business e.g. retained profits sale of assets","marks":3},{"type":"answer","value":"external: from outside the business e.g. bank loan issue of shares venture capital trade credit","marks":3}]},
+        {"part":"b","question":"Explain the purpose of a cash flow forecast and describe TWO problems that might arise from a negative cash flow.","marks":4,"rubric":[{"type":"answer","value":"predicts future cash inflows and outflows to identify potential shortfalls and plan","marks":2},{"type":"answer","value":"inability to pay suppliers or employees on time","marks":1},{"type":"answer","value":"difficulty meeting loan repayments leading to risk of business failure","marks":1}]},
+        {"part":"c","question":"Calculate the gross profit and net profit for a business with: Revenue $50,000 — Cost of goods sold $30,000 — Operating expenses $12,000.","marks":4,"rubric":[{"type":"answer","value":"gross profit = revenue - COGS = 50000 - 30000 = $20,000","marks":2},{"type":"answer","value":"net profit = gross profit - expenses = 20000 - 12000 = $8,000","marks":2}]},
+        {"part":"d","question":"State ONE benefit of a break-even analysis for a business.","marks":1,"rubric":[{"type":"answer","value":"shows minimum output needed to cover costs helps set sales targets and pricing decisions","marks":1}]}
+      ]
+    },
+    {
+      "id": 10,
+      "strand": "Role of Government",
+      "unit": "Role of Government",
+      "topic": "Role of Government in Business",
+      "context": "Governments play a critical role in shaping the business environment through legislation, taxation, subsidies and trade policy. Understanding the relationship between government and business is important for Caribbean entrepreneurs.",
+      "total_marks": 14,
+      "parts": [
+        {"part":"a","question":"Identify and explain THREE ways in which Caribbean governments support business development.","marks":6,"rubric":[{"type":"answer","value":"grants and subsidies reducing start-up or operating costs for businesses","marks":2},{"type":"answer","value":"investment in infrastructure roads ports utilities that businesses rely on","marks":2},{"type":"answer","value":"training programmes improving the skills of the workforce available to businesses","marks":2}]},
+        {"part":"b","question":"Explain how each of the following government policies affects businesses: (i) Tariffs (ii) Subsidies (iii) VAT.","marks":6,"rubric":[{"type":"answer","value":"tariffs: make imports more expensive protecting local businesses from foreign competition","marks":2},{"type":"answer","value":"subsidies: reduce costs for domestic producers making them more competitive","marks":2},{"type":"answer","value":"VAT: indirect tax businesses collect on behalf of government increases costs for consumers","marks":2}]},
+        {"part":"c","question":"State the role of a central bank in a Caribbean economy.","marks":2,"rubric":[{"type":"answer","value":"manages monetary policy controls money supply and interest rates","marks":1},{"type":"answer","value":"issues currency regulates commercial banks maintains financial stability","marks":1}]}
+      ]
+    },
+    {
+      "id": 11,
+      "strand": "Business Technology",
+      "unit": "Business Technology",
+      "topic": "Business Technology and Standard of Living",
+      "context": "Technology is transforming how businesses operate, communicate and sell. E-commerce, social media and data management tools have opened new opportunities particularly for small Caribbean businesses. Meanwhile, business activity directly affects the standard of living of the population.",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"Describe THREE ways in which technology has changed how businesses operate in the Caribbean.","marks":6,"rubric":[{"type":"answer","value":"e-commerce allows businesses to sell online reaching customers beyond local market","marks":2},{"type":"answer","value":"social media enables low-cost targeted marketing and customer engagement","marks":2},{"type":"answer","value":"cloud computing and digital accounting reduce costs and improve efficiency","marks":2}]},
+        {"part":"b","question":"Explain TWO risks associated with the use of technology in business.","marks":4,"rubric":[{"type":"answer","value":"cybersecurity risk data breaches and hacking can lead to financial loss and reputational damage","marks":2},{"type":"answer","value":"technology dependency: system failures can disrupt operations and loss of data","marks":2}]},
+        {"part":"c","question":"Explain the relationship between business activity and standard of living, giving THREE specific examples.","marks":6,"rubric":[{"type":"answer","value":"businesses create employment providing income that improves purchasing power","marks":2},{"type":"answer","value":"businesses pay taxes which fund government services like healthcare and education","marks":2},{"type":"answer","value":"businesses produce goods and services improving access to products that enhance quality of life","marks":2}]}
+      ]
+    },
+    {
+      "id": 12,
+      "strand": "Logistics and Supply Chain",
+      "unit": "Logistics and Supply Chain",
+      "topic": "Logistics, Supply Chain and Marketing",
+      "context": "Getting products to consumers efficiently is as important as producing them. Businesses must manage their supply chains and choose appropriate distribution channels. Effective marketing ensures customers are aware of and desire the product.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Draw or describe the stages in a typical supply chain for a Caribbean agricultural product such as bananas.","marks":4,"rubric":[{"type":"answer","value":"farmer grows and harvests bananas raw material stage","marks":1},{"type":"answer","value":"transported to processor or exporter","marks":1},{"type":"answer","value":"wholesaler distributes to retailers","marks":1},{"type":"answer","value":"retailer sells to final consumer","marks":1}]},
+        {"part":"b","question":"Compare a direct and an indirect channel of distribution. Give ONE advantage of each.","marks":4,"rubric":[{"type":"answer","value":"direct no intermediaries manufacturer sells to consumer e.g. online store advantage higher profit margin","marks":2},{"type":"answer","value":"indirect uses intermediaries wholesalers retailers advantage wider market reach established networks","marks":2}]},
+        {"part":"c","question":"Explain market segmentation and describe how a Caribbean business could segment its market.","marks":4,"rubric":[{"type":"answer","value":"market segmentation divides market into groups with similar needs characteristics","marks":2},{"type":"answer","value":"e.g. by age income location lifestyle — targeting young professionals with premium product or low income consumers with value range","marks":2}]},
+        {"part":"d","question":"Explain why after-sales service is important for customer retention.","marks":3,"rubric":[{"type":"answer","value":"builds customer loyalty through continued support warranties repairs","marks":1},{"type":"answer","value":"encourages repeat purchases and positive word-of-mouth referrals","marks":1},{"type":"answer","value":"differentiates the business from competitors who offer less support","marks":1}]}
+      ]
+    }
+  ]
+}

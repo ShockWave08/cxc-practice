@@ -7,8 +7,8 @@ A GitHub Pages site for Caribbean students preparing for CXC/CSEC examinations.
 - English *(coming soon)*
 - Social Studies (Paper 1 & Paper 2)
 - Physical Education (Paper 1 & Paper 2)
-- Integrated Science *(coming soon)*
-- Principles of Business *(coming soon)*
+- Integrated Science (Paper 1 & Paper 2)
+- Principles of Business (Paper 1 & Paper 2)
 - Principles of Accounts *(coming soon)*
 - Information Technology *(coming soon)*
 

@@ -1,0 +1,2440 @@
+{
+  "paper1": [
+    {
+      "id": 1,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Main Idea and Supporting Details",
+      "difficulty": 1,
+      "passage": "The Caribbean region is particularly vulnerable to the effects of climate change. Rising sea levels threaten low-lying coastal communities, while increased hurricane intensity puts lives and infrastructure at risk. Coral reefs, which protect coastlines and support fishing industries, are bleaching at alarming rates due to warmer ocean temperatures. Governments across the region have begun implementing adaptation strategies, including the construction of sea walls and the development of early warning systems for extreme weather events.",
+      "question": "What is the MAIN idea of this passage?",
+      "options": [
+        "Sea walls are being built across the Caribbean.",
+        "The Caribbean faces serious threats from climate change and is taking steps to adapt.",
+        "Coral reefs are dying because of tourism.",
+        "Hurricanes are the only threat to the Caribbean region."
+      ],
+      "answer": 1,
+      "explanation": "The passage covers multiple climate threats (sea levels, hurricanes, coral reefs) and mentions adaptation strategies — the main idea encompasses all of these, making option B the best summary."
+    },
+    {
+      "id": 2,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Vocabulary in Context",
+      "difficulty": 1,
+      "passage": "The Caribbean region is particularly vulnerable to the effects of climate change. Rising sea levels threaten low-lying coastal communities, while increased hurricane intensity puts lives and infrastructure at risk. Coral reefs, which protect coastlines and support fishing industries, are bleaching at alarming rates due to warmer ocean temperatures. Governments across the region have begun implementing adaptation strategies, including the construction of sea walls and the development of early warning systems for extreme weather events.",
+      "question": "As used in the passage, the word 'vulnerable' most nearly means:",
+      "options": [
+        "Powerful and resistant",
+        "Easily harmed or at risk",
+        "Completely prepared",
+        "Geographically remote"
+      ],
+      "answer": 1,
+      "explanation": "The passage describes threats to the Caribbean — 'vulnerable' means susceptible to harm, which fits the context of facing climate threats."
+    },
+    {
+      "id": 3,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Inference",
+      "difficulty": 2,
+      "passage": "The Caribbean region is particularly vulnerable to the effects of climate change. Rising sea levels threaten low-lying coastal communities, while increased hurricane intensity puts lives and infrastructure at risk. Coral reefs, which protect coastlines and support fishing industries, are bleaching at alarming rates due to warmer ocean temperatures. Governments across the region have begun implementing adaptation strategies, including the construction of sea walls and the development of early warning systems for extreme weather events.",
+      "question": "Which of the following can be INFERRED from the passage?",
+      "options": [
+        "Caribbean governments are ignoring the problem of climate change.",
+        "Climate change has no effect on the fishing industry.",
+        "The loss of coral reefs could harm both coastal protection and people's livelihoods.",
+        "Sea walls have completely solved the problem of rising sea levels."
+      ],
+      "answer": 2,
+      "explanation": "The passage states reefs 'protect coastlines and support fishing industries' — inferring their loss would damage both coastal protection and the economy of fishing communities."
+    },
+    {
+      "id": 4,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Purpose and Audience",
+      "difficulty": 2,
+      "passage": "The Caribbean region is particularly vulnerable to the effects of climate change. Rising sea levels threaten low-lying coastal communities, while increased hurricane intensity puts lives and infrastructure at risk. Coral reefs, which protect coastlines and support fishing industries, are bleaching at alarming rates due to warmer ocean temperatures. Governments across the region have begun implementing adaptation strategies, including the construction of sea walls and the development of early warning systems for extreme weather events.",
+      "question": "The PRIMARY purpose of this passage is to:",
+      "options": [
+        "Entertain readers with stories about Caribbean life",
+        "Persuade governments to spend more money on sea walls",
+        "Inform readers about the impact of climate change on the Caribbean and measures being taken",
+        "Warn tourists not to visit Caribbean beaches"
+      ],
+      "answer": 2,
+      "explanation": "The passage presents factual information about climate threats and government responses without emotional appeals or calls to action — its purpose is to inform."
+    },
+    {
+      "id": 5,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Subject-Verb Agreement",
+      "difficulty": 1,
+      "question": "Choose the sentence in which the subject and verb AGREE correctly.",
+      "options": [
+        "The team of players are practising every morning.",
+        "Neither the manager nor the workers was informed.",
+        "Each of the students have submitted their assignment.",
+        "The committee has reached a unanimous decision."
+      ],
+      "answer": 3,
+      "explanation": "'The committee' is a collective noun treated as singular in Standard English — 'has reached' is correct. 'Each' takes a singular verb; 'neither...nor' follows the verb agreement of the nearest subject."
+    },
+    {
+      "id": 6,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Tense",
+      "difficulty": 1,
+      "question": "Choose the option that correctly completes the sentence: 'By the time she arrived, the meeting _____ already _____.'",
+      "options": [
+        "was... starting",
+        "had... begun",
+        "has... begun",
+        "will have... started"
+      ],
+      "answer": 1,
+      "explanation": "The past perfect tense ('had begun') is used to show an action completed before another past action ('she arrived')."
+    },
+    {
+      "id": 7,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Pronouns",
+      "difficulty": 2,
+      "question": "Which of the following sentences uses pronouns CORRECTLY?",
+      "options": [
+        "Between you and I, the answer is obvious.",
+        "Him and his brother went to the market.",
+        "The prize was shared between Marcus and her.",
+        "Myself completed the assignment on time."
+      ],
+      "answer": 2,
+      "explanation": "'Between' is a preposition and requires object pronouns. 'Marcus and her' is correct (object form). 'Between you and I' should be 'me'; 'Him and his brother' should be 'He and his brother'; 'Myself' cannot replace 'I' as a subject."
+    },
+    {
+      "id": 8,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Sentence Structure",
+      "difficulty": 2,
+      "question": "Which of the following is a COMPLEX sentence?",
+      "options": [
+        "She ran quickly but arrived late.",
+        "The sun rose and the birds began to sing.",
+        "Although it was raining heavily, the match continued.",
+        "He studied hard. He passed the exam."
+      ],
+      "answer": 2,
+      "explanation": "A complex sentence contains one independent clause and at least one dependent (subordinate) clause. 'Although it was raining heavily' is a subordinate clause; 'the match continued' is the main clause."
+    },
+    {
+      "id": 9,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Punctuation",
+      "topic": "Punctuation",
+      "difficulty": 1,
+      "question": "Which sentence is punctuated CORRECTLY?",
+      "options": [
+        "The teacher said, \"Please submit your work by Friday.\"",
+        "The teacher said \"Please submit your work by Friday\".",
+        "The teacher said, 'Please submit your work by Friday\".",
+        "The teacher said: please submit your work by friday."
+      ],
+      "answer": 0,
+      "explanation": "Direct speech requires a comma after the introductory phrase, opening and closing quotation marks around the spoken words, and the full stop inside the closing quotation mark."
+    },
+    {
+      "id": 10,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Punctuation",
+      "topic": "Apostrophe",
+      "difficulty": 1,
+      "question": "Which sentence uses the apostrophe CORRECTLY?",
+      "options": [
+        "The student's books were left on the desk. (one student)",
+        "The students book's were left on the desk.",
+        "Its a beautiful morning.",
+        "The childrens' playground was renovated."
+      ],
+      "answer": 0,
+      "explanation": "For singular possession, add 's to the noun. 'The student's books' correctly shows one student possessing books. 'It's' (with apostrophe) is a contraction of 'it is'; 'its' is possessive. 'Children' is already plural — the correct form is 'children's'."
+    },
+    {
+      "id": 11,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Vocabulary",
+      "topic": "Synonyms",
+      "difficulty": 1,
+      "question": "Choose the word CLOSEST in meaning to 'eloquent'.",
+      "options": [
+        "Confused",
+        "Articulate and persuasive in expression",
+        "Aggressive",
+        "Silent"
+      ],
+      "answer": 1,
+      "explanation": "Eloquent means expressing oneself fluently and persuasively — articulate is the closest synonym."
+    },
+    {
+      "id": 12,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Vocabulary",
+      "topic": "Antonyms",
+      "difficulty": 1,
+      "question": "Choose the word OPPOSITE in meaning to 'concise'.",
+      "options": [
+        "Brief",
+        "Clear",
+        "Lengthy and wordy",
+        "Accurate"
+      ],
+      "answer": 2,
+      "explanation": "Concise means expressing something in few words. The antonym is lengthy, wordy or verbose."
+    },
+    {
+      "id": 13,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Summary Skills",
+      "topic": "Identifying Key Points",
+      "difficulty": 2,
+      "passage": "Exercise is one of the most important factors in maintaining good health. Regular physical activity reduces the risk of chronic diseases such as heart disease, diabetes and obesity. It also improves mental health by releasing endorphins, which reduce stress and anxiety. Furthermore, exercise helps to maintain a healthy weight, strengthens bones and muscles, and improves sleep quality. Health professionals recommend at least 150 minutes of moderate-intensity exercise per week for adults.",
+      "question": "Which of the following BEST summarises the main point of this passage?",
+      "options": [
+        "Adults should exercise for exactly 150 minutes per week.",
+        "Exercise releases endorphins that reduce stress.",
+        "Regular exercise provides wide-ranging physical and mental health benefits.",
+        "Heart disease can only be prevented through exercise."
+      ],
+      "answer": 2,
+      "explanation": "The passage covers multiple benefits — disease prevention, mental health, weight, bones, sleep — making 'wide-ranging physical and mental health benefits' the most comprehensive summary."
+    },
+    {
+      "id": 14,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Cause and Effect",
+      "difficulty": 2,
+      "passage": "Exercise is one of the most important factors in maintaining good health. Regular physical activity reduces the risk of chronic diseases such as heart disease, diabetes and obesity. It also improves mental health by releasing endorphins, which reduce stress and anxiety. Furthermore, exercise helps to maintain a healthy weight, strengthens bones and muscles, and improves sleep quality. Health professionals recommend at least 150 minutes of moderate-intensity exercise per week for adults.",
+      "question": "According to the passage, what is the EFFECT of endorphins released during exercise?",
+      "options": [
+        "They strengthen bones and muscles.",
+        "They reduce stress and anxiety.",
+        "They prevent heart disease directly.",
+        "They improve sleep quality only."
+      ],
+      "answer": 1,
+      "explanation": "The passage states exercise improves mental health 'by releasing endorphins, which reduce stress and anxiety' — a direct cause and effect relationship."
+    },
+    {
+      "id": 15,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Register",
+      "topic": "Formal vs Informal Language",
+      "difficulty": 2,
+      "question": "Which of the following is written in FORMAL register?",
+      "options": [
+        "Hey! Can you check out this cool report and gimme your thoughts?",
+        "I am writing to bring to your attention the findings of the recent investigation.",
+        "So basically the whole thing went kinda wrong, you know what I mean?",
+        "Bro, the deadline is tomorrow, don't forget!"
+      ],
+      "answer": 1,
+      "explanation": "Formal register uses standard vocabulary, complete sentences and avoids colloquialisms and contractions. 'I am writing to bring to your attention...' is appropriately formal for official communication."
+    },
+    {
+      "id": 16,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Parts of Speech",
+      "difficulty": 1,
+      "question": "In the sentence 'She quickly finished the difficult assignment', the word 'quickly' is a:",
+      "options": [
+        "Adjective",
+        "Noun",
+        "Adverb",
+        "Conjunction"
+      ],
+      "answer": 2,
+      "explanation": "An adverb modifies a verb, adjective or another adverb. 'Quickly' modifies the verb 'finished' — it describes how she finished — making it an adverb."
+    },
+    {
+      "id": 17,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Sentence Errors",
+      "difficulty": 2,
+      "question": "Which of the following sentences contains a DANGLING modifier?",
+      "options": [
+        "Running quickly down the street, Marcus caught the bus.",
+        "Walking to school, her bag was very heavy.",
+        "After the storm passed, the children went outside to play.",
+        "Although tired, James completed his homework before sleeping."
+      ],
+      "answer": 1,
+      "explanation": "In 'Walking to school, her bag was very heavy' the participial phrase 'Walking to school' should modify the subject, but the subject is 'her bag' which cannot walk. This is a dangling modifier."
+    },
+    {
+      "id": 18,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Punctuation",
+      "topic": "Comma Usage",
+      "difficulty": 2,
+      "question": "Which sentence uses commas CORRECTLY?",
+      "options": [
+        "She bought bread milk and eggs at the market.",
+        "She bought bread, milk, and eggs at the market.",
+        "She, bought bread milk, and eggs at the market.",
+        "She bought, bread, milk and, eggs at the market."
+      ],
+      "answer": 1,
+      "explanation": "Items in a series are separated by commas. The serial (Oxford) comma before 'and' in the last item ('milk, and eggs') is optional but correct usage."
+    },
+    {
+      "id": 19,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Tone and Mood",
+      "difficulty": 2,
+      "passage": "The old house stood at the end of the unpaved road, its windows dark and hollow as empty eye sockets. The paint had long since blistered and peeled, leaving raw grey wood exposed to the elements. Weeds choked what had once been a garden. No bird sang near that place. Even the wind seemed to hold its breath as it passed.",
+      "question": "The tone of this passage can BEST be described as:",
+      "options": [
+        "Joyful and celebratory",
+        "Gloomy and foreboding",
+        "Humorous and lighthearted",
+        "Angry and confrontational"
+      ],
+      "answer": 1,
+      "explanation": "Words like 'dark', 'hollow', 'blistered', 'choked', 'No bird sang' and 'hold its breath' create a sinister, gloomy atmosphere that suggests danger or decay."
+    },
+    {
+      "id": 20,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Figurative Language",
+      "difficulty": 2,
+      "passage": "The old house stood at the end of the unpaved road, its windows dark and hollow as empty eye sockets. The paint had long since blistered and peeled, leaving raw grey wood exposed to the elements. Weeds choked what had once been a garden. No bird sang near that place. Even the wind seemed to hold its breath as it passed.",
+      "question": "The phrase 'windows dark and hollow as empty eye sockets' is an example of:",
+      "options": [
+        "Onomatopoeia",
+        "Alliteration",
+        "Simile",
+        "Hyperbole"
+      ],
+      "answer": 2,
+      "explanation": "A simile makes a direct comparison using 'like' or 'as'. 'Windows...as empty eye sockets' compares the windows to eye sockets using 'as' — this is a simile."
+    },
+    {
+      "id": 21,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Figurative Language",
+      "difficulty": 2,
+      "passage": "The old house stood at the end of the unpaved road, its windows dark and hollow as empty eye sockets. The paint had long since blistered and peeled, leaving raw grey wood exposed to the elements. Weeds choked what had once been a garden. No bird sang near that place. Even the wind seemed to hold its breath as it passed.",
+      "question": "'The wind seemed to hold its breath' is an example of:",
+      "options": [
+        "Simile",
+        "Metaphor",
+        "Personification",
+        "Alliteration"
+      ],
+      "answer": 2,
+      "explanation": "Personification attributes human qualities to non-human things. Giving the wind the human ability to 'hold its breath' is personification."
+    },
+    {
+      "id": 22,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Figurative Language",
+      "difficulty": 1,
+      "question": "Which of the following is an example of ALLITERATION?",
+      "options": [
+        "The moon was a ghostly galleon tossed upon cloudy seas.",
+        "She sells seashells by the seashore.",
+        "His heart was a drum beating in his chest.",
+        "The thunder clapped so loud it seemed to shake the earth."
+      ],
+      "answer": 1,
+      "explanation": "Alliteration is the repetition of the same initial consonant sound in nearby words. 'Sells seashells...seashore' repeats the 's' sound."
+    },
+    {
+      "id": 23,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Figurative Language",
+      "difficulty": 1,
+      "question": "Which of the following is an example of ONOMATOPOEIA?",
+      "options": [
+        "The soldiers were as brave as lions.",
+        "Life is a journey with many unexpected turns.",
+        "The bees buzzed lazily in the afternoon heat.",
+        "She was the brightest star in the school."
+      ],
+      "answer": 2,
+      "explanation": "Onomatopoeia is the use of words that imitate sounds. 'Buzzed' imitates the sound bees make — this is onomatopoeia."
+    },
+    {
+      "id": 24,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Poetry",
+      "difficulty": 2,
+      "question": "What is the term for the repetition of similar vowel sounds in nearby words, as in 'the rain in Spain stays mainly on the plain'?",
+      "options": [
+        "Alliteration",
+        "Consonance",
+        "Assonance",
+        "Rhyme"
+      ],
+      "answer": 2,
+      "explanation": "Assonance is the repetition of vowel sounds within nearby words. 'rain', 'Spain', 'mainly', 'plain' all share the long 'a' vowel sound."
+    },
+    {
+      "id": 25,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Narrative",
+      "difficulty": 2,
+      "question": "A story told using 'I' and describing events from the narrator's personal experience is written in which point of view?",
+      "options": [
+        "Second person",
+        "Third person omniscient",
+        "Third person limited",
+        "First person"
+      ],
+      "answer": 3,
+      "explanation": "First person narration uses 'I' and presents the story from the narrator's personal perspective. The reader only knows what this narrator sees, thinks and feels."
+    },
+    {
+      "id": 26,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Poetry",
+      "difficulty": 2,
+      "question": "A poem with fourteen lines, typically written in iambic pentameter, is called a:",
+      "options": [
+        "Haiku",
+        "Ballad",
+        "Sonnet",
+        "Ode"
+      ],
+      "answer": 2,
+      "explanation": "A sonnet has exactly fourteen lines and is traditionally written in iambic pentameter. Famous sonnets were written by Shakespeare and Petrarch."
+    },
+    {
+      "id": 27,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Character and Theme",
+      "difficulty": 2,
+      "passage": "Maria had always been told she was too quiet, too careful, too slow to speak. But when the village council began debating whether to sell the community land to the resort developers, she found herself standing at the microphone before she had even decided to rise from her seat. 'This land is not ours to sell,' she said, her voice steadier than she felt. 'It belongs to our grandchildren.'",
+      "question": "Which of the following BEST describes Maria's character as shown in this passage?",
+      "options": [
+        "Timid and unwilling to take a stand",
+        "Overcautious and indecisive",
+        "Reserved but capable of courageous action when it matters",
+        "Aggressive and confrontational toward the council"
+      ],
+      "answer": 2,
+      "explanation": "Although Maria is described as 'quiet' and 'careful', she surprises even herself by speaking up with conviction. This shows that beneath her reserved nature lies courage when the issue matters."
+    },
+    {
+      "id": 28,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Theme",
+      "difficulty": 3,
+      "passage": "Maria had always been told she was too quiet, too careful, too slow to speak. But when the village council began debating whether to sell the community land to the resort developers, she found herself standing at the microphone before she had even decided to rise from her seat. 'This land is not ours to sell,' she said, her voice steadier than she felt. 'It belongs to our grandchildren.'",
+      "question": "Which theme is MOST prominent in this passage?",
+      "options": [
+        "The dangers of resort development in the Caribbean",
+        "Stewardship, community responsibility and finding one's voice",
+        "The importance of attending council meetings",
+        "Why quiet people should not speak in public"
+      ],
+      "answer": 1,
+      "explanation": "Maria's statement 'This land belongs to our grandchildren' centres on responsibility to future generations, and her act of speaking up reflects the theme of finding one's voice for a greater cause."
+    },
+    {
+      "id": 29,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Identifying Persuasive Techniques",
+      "difficulty": 2,
+      "passage": "Every year, thousands of tonnes of plastic waste enter our Caribbean Sea, choking marine life and contaminating the beaches that define our identity as a region. Our fishermen are pulling up plastic instead of fish. Our children swim in waters littered with debris. If we do not act NOW, we will lose not just our natural paradise, but our way of life. Support the plastic ban. Sign the petition today.",
+      "question": "Which persuasive technique is used in 'Our fishermen are pulling up plastic instead of fish. Our children swim in waters littered with debris'?",
+      "options": [
+        "Statistics and data",
+        "Anecdotal humour",
+        "Emotive language and vivid imagery appealing to the reader's emotions",
+        "Expert testimony"
+      ],
+      "answer": 2,
+      "explanation": "These sentences use vivid, emotionally charged imagery — fishermen pulling plastic, children swimming in debris — to provoke an emotional response in the reader, a key persuasive technique."
+    },
+    {
+      "id": 30,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Writer's Purpose",
+      "difficulty": 2,
+      "passage": "Every year, thousands of tonnes of plastic waste enter our Caribbean Sea, choking marine life and contaminating the beaches that define our identity as a region. Our fishermen are pulling up plastic instead of fish. Our children swim in waters littered with debris. If we do not act NOW, we will lose not just our natural paradise, but our way of life. Support the plastic ban. Sign the petition today.",
+      "question": "The PRIMARY purpose of this passage is to:",
+      "options": [
+        "Inform readers about the types of plastic found in the sea",
+        "Entertain readers with stories about Caribbean fishing",
+        "Persuade readers to support a ban on plastic",
+        "Describe the beauty of Caribbean beaches"
+      ],
+      "answer": 2,
+      "explanation": "The passage uses emotional language, urgency ('act NOW') and a direct call to action ('Sign the petition today') — all hallmarks of persuasive writing aimed at changing behaviour."
+    },
+    {
+      "id": 31,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Tone",
+      "difficulty": 2,
+      "passage": "Every year, thousands of tonnes of plastic waste enter our Caribbean Sea, choking marine life and contaminating the beaches that define our identity as a region. Our fishermen are pulling up plastic instead of fish. Our children swim in waters littered with debris. If we do not act NOW, we will lose not just our natural paradise, but our way of life. Support the plastic ban. Sign the petition today.",
+      "question": "The tone of this passage is best described as:",
+      "options": [
+        "Calm and impartial",
+        "Humorous and light",
+        "Urgent and impassioned",
+        "Academic and detached"
+      ],
+      "answer": 2,
+      "explanation": "Words like 'choking', 'NOW' (capitalised for emphasis), 'we will lose' and the direct call to action create an urgent, emotionally charged tone."
+    },
+    {
+      "id": 32,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Vocabulary",
+      "topic": "Connotation",
+      "difficulty": 2,
+      "question": "The word 'paradise' in 'we will lose our natural paradise' is used to:",
+      "options": [
+        "Describe the scientific biodiversity of the ocean",
+        "Evoke positive emotional associations with the beauty and preciousness of the Caribbean environment",
+        "Suggest that the Caribbean is perfect and flawless",
+        "Make a religious reference"
+      ],
+      "answer": 1,
+      "explanation": "'Paradise' has strong positive connotations — perfection, beauty, something irreplaceable. The writer chooses it to make readers feel the potential loss would be devastating."
+    },
+    {
+      "id": 33,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Active and Passive Voice",
+      "difficulty": 2,
+      "question": "Which of the following sentences is in the PASSIVE voice?",
+      "options": [
+        "The teacher marked all the examination papers.",
+        "All the examination papers were marked by the teacher.",
+        "She has written three reports this week.",
+        "They will announce the results tomorrow."
+      ],
+      "answer": 1,
+      "explanation": "In the passive voice the subject receives the action rather than performing it. 'The examination papers' (subject) 'were marked' (passive verb) 'by the teacher' — the subject is acted upon."
+    },
+    {
+      "id": 34,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Conjunctions",
+      "difficulty": 1,
+      "question": "Choose the CORRECT conjunction to complete the sentence: 'She studied hard _____ she could pass the examination.'",
+      "options": [
+        "but",
+        "although",
+        "so that",
+        "however"
+      ],
+      "answer": 2,
+      "explanation": "'So that' introduces a clause of purpose — she studied hard WITH THE PURPOSE OF passing. 'But' and 'although' show contrast; 'however' is a conjunctive adverb that cannot join clauses this way."
+    },
+    {
+      "id": 35,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Spelling",
+      "topic": "Spelling",
+      "difficulty": 1,
+      "question": "Which of the following words is spelled CORRECTLY?",
+      "options": [
+        "accomodation",
+        "accomadation",
+        "accommodation",
+        "accommondation"
+      ],
+      "answer": 2,
+      "explanation": "'Accommodation' has double 'c' and double 'm'. A common memory aid: it has room for two c's and two m's."
+    },
+    {
+      "id": 36,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Spelling",
+      "topic": "Spelling",
+      "difficulty": 1,
+      "question": "Which of the following words is spelled CORRECTLY?",
+      "options": [
+        "definately",
+        "definitely",
+        "defenitely",
+        "definitly"
+      ],
+      "answer": 1,
+      "explanation": "'Definitely' comes from 'definite' + 'ly'. The middle syllable is '-ite-' not '-ate-'. A common misspelling is 'definately' which should be avoided."
+    },
+    {
+      "id": 37,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Conditional Sentences",
+      "difficulty": 3,
+      "question": "Which sentence correctly uses the second conditional?",
+      "options": [
+        "If it rains tomorrow, we will cancel the picnic.",
+        "If she studied harder, she would pass the exam.",
+        "If he had left earlier, he would have caught the bus.",
+        "When I see him, I will give him your message."
+      ],
+      "answer": 1,
+      "explanation": "The second conditional describes an imaginary or unlikely present/future situation: 'if + past simple, would + infinitive'. 'If she studied harder, she would pass' fits this form."
+    },
+    {
+      "id": 38,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Irony",
+      "difficulty": 3,
+      "question": "A fire station burns to the ground. A wedding photographer forgets her camera. A police station is robbed. These are all examples of:",
+      "options": [
+        "Metaphor",
+        "Foreshadowing",
+        "Situational irony",
+        "Allusion"
+      ],
+      "answer": 2,
+      "explanation": "Situational irony occurs when the opposite of what is expected happens. A fire station burning and a police station being robbed are ironic precisely because these places are meant to prevent such events."
+    },
+    {
+      "id": 39,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Conflict",
+      "difficulty": 2,
+      "question": "A character struggles with their own guilt and self-doubt about a decision they made. This is an example of which type of conflict?",
+      "options": [
+        "Character versus Character",
+        "Character versus Society",
+        "Character versus Nature",
+        "Character versus Self"
+      ],
+      "answer": 3,
+      "explanation": "Internal conflict (character versus self) involves a character's struggle with their own emotions, beliefs, desires or conscience — guilt and self-doubt are internal struggles."
+    },
+    {
+      "id": 40,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Argument Structure",
+      "difficulty": 2,
+      "question": "In a well-structured argumentative essay, the THESIS STATEMENT is:",
+      "options": [
+        "Found at the end of the essay as a conclusion",
+        "A sentence that presents background information only",
+        "The writer's central claim or position on the topic, usually found in the introduction",
+        "A list of facts without the writer's opinion"
+      ],
+      "answer": 2,
+      "explanation": "A thesis statement presents the writer's main argument or position. It is typically placed at the end of the introductory paragraph and guides the direction of the entire essay."
+    },
+    {
+      "id": 41,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Text Structure",
+      "difficulty": 2,
+      "question": "A passage that presents a problem and then outlines possible ways to address it is organised using which text structure?",
+      "options": [
+        "Chronological order",
+        "Compare and contrast",
+        "Problem and solution",
+        "Cause and effect"
+      ],
+      "answer": 2,
+      "explanation": "Problem-solution text structure identifies a problem and proposes one or more solutions. This is different from cause-effect (which explains why something happens) or chronological (time-ordered) structure."
+    },
+    {
+      "id": 42,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Summary Skills",
+      "topic": "Summary Writing",
+      "difficulty": 2,
+      "question": "When writing a summary, which of the following should be AVOIDED?",
+      "options": [
+        "Using your own words as much as possible",
+        "Including only the main points of the passage",
+        "Adding your personal opinion and new information not found in the original",
+        "Keeping the summary shorter than the original passage"
+      ],
+      "answer": 2,
+      "explanation": "A summary presents only the main points of the original text in a condensed form. Personal opinions and information not in the original text must not be added."
+    },
+    {
+      "id": 43,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Report Writing",
+      "topic": "Report Writing",
+      "difficulty": 2,
+      "question": "Which of the following features is CHARACTERISTIC of a formal report?",
+      "options": [
+        "Personal pronouns such as 'I' and 'we' used throughout",
+        "Informal headings and casual language",
+        "Sections including an introduction, findings, conclusions and recommendations",
+        "A conversational tone aimed at a friend"
+      ],
+      "answer": 2,
+      "explanation": "A formal report uses third person, has a clear structure (title, introduction/terms of reference, findings, conclusions, recommendations) and uses formal, objective language."
+    },
+    {
+      "id": 44,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Letter Writing",
+      "topic": "Formal Letter Format",
+      "difficulty": 1,
+      "question": "In a formal letter, the salutation 'Dear Sir/Madam' should be closed with:",
+      "options": [
+        "Yours sincerely",
+        "Yours faithfully",
+        "Best wishes",
+        "Kind regards"
+      ],
+      "answer": 1,
+      "explanation": "When you do not know the name of the recipient ('Dear Sir/Madam'), close with 'Yours faithfully'. When you know the name ('Dear Mr Brown'), close with 'Yours sincerely'."
+    },
+    {
+      "id": 45,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Persuasive Writing",
+      "topic": "Rhetorical Devices",
+      "difficulty": 2,
+      "question": "The technique of asking a question in writing that does not require an answer — used to make the reader think — is called:",
+      "options": [
+        "A direct question",
+        "A rhetorical question",
+        "An indirect question",
+        "A hypothetical question"
+      ],
+      "answer": 1,
+      "explanation": "A rhetorical question is used for effect rather than to seek information. Example: 'How long must we tolerate this?' — the writer does not expect an answer but wants the reader to reflect."
+    },
+    {
+      "id": 46,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Persuasive Writing",
+      "topic": "Rhetorical Devices",
+      "difficulty": 3,
+      "question": "The repetition of a phrase at the BEGINNING of successive clauses for emphasis — as in 'We will fight, we will not yield, we will prevail' — is called:",
+      "options": [
+        "Epistrophe",
+        "Anaphora",
+        "Chiasmus",
+        "Asyndeton"
+      ],
+      "answer": 1,
+      "explanation": "Anaphora is the deliberate repetition of a word or phrase at the beginning of successive clauses. It creates rhythm and emphasis. Martin Luther King's 'I have a dream' speech is a famous example."
+    },
+    {
+      "id": 47,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Setting",
+      "difficulty": 2,
+      "question": "In literature, 'setting' refers to:",
+      "options": [
+        "The moral lesson of the story",
+        "The main character's personality",
+        "The time, place and social environment in which a story takes place",
+        "The turning point of the plot"
+      ],
+      "answer": 2,
+      "explanation": "Setting encompasses when and where a story takes place, including the historical period, geographical location and social context — all of which shape the characters and events."
+    },
+    {
+      "id": 48,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Plot Structure",
+      "difficulty": 2,
+      "question": "The climax of a story is best described as:",
+      "options": [
+        "The opening scene that introduces characters",
+        "The falling action after the main events",
+        "The moment of highest tension or the turning point where the conflict is resolved",
+        "The conclusion where loose ends are tied up"
+      ],
+      "answer": 2,
+      "explanation": "The climax is the highest point of tension in a narrative — the turning point where the central conflict comes to a head and begins to be resolved."
+    },
+    {
+      "id": 49,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Reported Speech",
+      "difficulty": 3,
+      "question": "Which of the following correctly converts the direct speech to reported speech? Direct: She said, 'I am going to the market.'",
+      "options": [
+        "She said that she is going to the market.",
+        "She said that she was going to the market.",
+        "She said that I am going to the market.",
+        "She said she goes to the market."
+      ],
+      "answer": 1,
+      "explanation": "In reported speech, the tense shifts back (backshifting): 'am going' (present continuous) becomes 'was going' (past continuous). The pronoun also changes from 'I' to 'she'."
+    },
+    {
+      "id": 50,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Persuasive Writing",
+      "topic": "Counter-argument",
+      "difficulty": 3,
+      "question": "In a persuasive essay, acknowledging and responding to the opposing viewpoint is called:",
+      "options": [
+        "The thesis statement",
+        "The hook",
+        "The concession and rebuttal",
+        "The anecdote"
+      ],
+      "answer": 2,
+      "explanation": "A concession acknowledges the opposing view's validity; a rebuttal then argues why the writer's position is stronger. Including both strengthens credibility and makes the argument more persuasive."
+    },
+    {
+      "id": 51,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Fact vs Opinion",
+      "difficulty": 2,
+      "passage": "Water scarcity is an increasingly urgent problem in several Caribbean territories. Barbados, one of the most densely populated islands in the world, relies heavily on desalination and rainwater harvesting to meet its needs. Trinidad and Tobago, blessed with significant rainfall, faces distribution challenges in some rural areas. Scientists warn that climate change will intensify drought periods across the region, potentially making freshwater access a critical issue within the next two decades.",
+      "question": "Which of the following is a FACT from the passage rather than an opinion?",
+      "options": [
+        "Water management is the most important issue facing the Caribbean.",
+        "Barbados relies heavily on desalination and rainwater harvesting.",
+        "Trinidad and Tobago should share its water with other islands.",
+        "All Caribbean islands face exactly the same water challenges."
+      ],
+      "answer": 1,
+      "explanation": "A fact can be verified. The passage states Barbados 'relies heavily on desalination and rainwater harvesting' as a factual claim. The other options are opinions or generalisations not supported by the text."
+    },
+    {
+      "id": 52,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Inference",
+      "difficulty": 2,
+      "passage": "Water scarcity is an increasingly urgent problem in several Caribbean territories. Barbados, one of the most densely populated islands in the world, relies heavily on desalination and rainwater harvesting to meet its needs. Trinidad and Tobago, blessed with significant rainfall, faces distribution challenges in some rural areas. Scientists warn that climate change will intensify drought periods across the region, potentially making freshwater access a critical issue within the next two decades.",
+      "question": "What can be INFERRED about Trinidad and Tobago from the passage?",
+      "options": [
+        "It has no water problems at all.",
+        "Having plentiful rainfall does not guarantee that all residents have equal access to clean water.",
+        "It is the most water-secure island in the Caribbean.",
+        "It gets less rainfall than Barbados."
+      ],
+      "answer": 1,
+      "explanation": "The passage notes T&T is 'blessed with significant rainfall' yet faces 'distribution challenges in some rural areas' — implying that rainfall abundance does not automatically translate to equal access for all."
+    },
+    {
+      "id": 53,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Vocabulary in Context",
+      "difficulty": 2,
+      "passage": "Water scarcity is an increasingly urgent problem in several Caribbean territories. Barbados, one of the most densely populated islands in the world, relies heavily on desalination and rainwater harvesting to meet its needs. Trinidad and Tobago, blessed with significant rainfall, faces distribution challenges in some rural areas. Scientists warn that climate change will intensify drought periods across the region, potentially making freshwater access a critical issue within the next two decades.",
+      "question": "The word 'intensify' as used in the passage most nearly means:",
+      "options": [
+        "Reduce and lessen",
+        "Make more severe or stronger",
+        "Distribute more evenly",
+        "Delay and postpone"
+      ],
+      "answer": 1,
+      "explanation": "Context: climate change will 'intensify drought periods' — making them worse. 'Intensify' means to increase in strength or severity."
+    },
+    {
+      "id": 54,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Main Idea",
+      "difficulty": 1,
+      "passage": "Water scarcity is an increasingly urgent problem in several Caribbean territories. Barbados, one of the most densely populated islands in the world, relies heavily on desalination and rainwater harvesting to meet its needs. Trinidad and Tobago, blessed with significant rainfall, faces distribution challenges in some rural areas. Scientists warn that climate change will intensify drought periods across the region, potentially making freshwater access a critical issue within the next two decades.",
+      "question": "The BEST title for this passage would be:",
+      "options": [
+        "How to Harvest Rainwater in Barbados",
+        "Water Challenges in the Caribbean: Present and Future",
+        "Why Trinidad and Tobago Has Too Much Rain",
+        "A Guide to Desalination Technology"
+      ],
+      "answer": 1,
+      "explanation": "The passage covers current water challenges across the region AND future threats from climate change — 'Water Challenges in the Caribbean: Present and Future' captures both dimensions."
+    },
+    {
+      "id": 55,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Tone and Atmosphere",
+      "difficulty": 2,
+      "passage": "Sunday mornings in Grandma's kitchen smelled of cinnamon and cocoa and fresh bread still warm from the oven. The radio played old calypso softly, and the whole house moved at the pace of the breeze through the jalousies. Nobody rushed. Nobody had to be anywhere. Time belonged to us, stretched out like a hammock between two trees, and we lay in it gratefully.",
+      "question": "The mood created in this passage is best described as:",
+      "options": [
+        "Tense and anxious",
+        "Warm, nostalgic and unhurried",
+        "Melancholic and sorrowful",
+        "Exciting and fast-paced"
+      ],
+      "answer": 1,
+      "explanation": "Sensory details (cinnamon, cocoa, warm bread), the slow pace ('nobody rushed'), and the imagery of a hammock all create a warm, nostalgic, peaceful mood."
+    },
+    {
+      "id": 56,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Figurative Language",
+      "difficulty": 2,
+      "passage": "Sunday mornings in Grandma's kitchen smelled of cinnamon and cocoa and fresh bread still warm from the oven. The radio played old calypso softly, and the whole house moved at the pace of the breeze through the jalousies. Nobody rushed. Nobody had to be anywhere. Time belonged to us, stretched out like a hammock between two trees, and we lay in it gratefully.",
+      "question": "'Time belonged to us, stretched out like a hammock between two trees' uses which TWO literary devices?",
+      "options": [
+        "Metaphor and alliteration",
+        "Personification and simile",
+        "Onomatopoeia and hyperbole",
+        "Irony and oxymoron"
+      ],
+      "answer": 1,
+      "explanation": "'Time belonged to us' gives time the human-like quality of belonging to someone (personification). 'Stretched out like a hammock' makes a direct comparison using 'like' (simile)."
+    },
+    {
+      "id": 57,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Sentence Types",
+      "difficulty": 2,
+      "question": "A sentence that makes a statement is called a:",
+      "options": [
+        "Imperative sentence",
+        "Interrogative sentence",
+        "Declarative sentence",
+        "Exclamatory sentence"
+      ],
+      "answer": 2,
+      "explanation": "A declarative sentence makes a statement. An imperative gives a command. An interrogative asks a question. An exclamatory expresses strong emotion."
+    },
+    {
+      "id": 58,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Prepositions",
+      "difficulty": 1,
+      "question": "Choose the CORRECT preposition to complete the sentence: 'She has been waiting _____ three hours.'",
+      "options": [
+        "since",
+        "for",
+        "from",
+        "during"
+      ],
+      "answer": 1,
+      "explanation": "'For' is used with a duration of time (three hours, two days, a year). 'Since' is used with a point in time (since Monday, since 2010)."
+    },
+    {
+      "id": 59,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Articles",
+      "difficulty": 1,
+      "question": "Choose the correct article to complete the sentence: 'She plays _____ violin in the school orchestra.'",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "No article needed"
+      ],
+      "answer": 2,
+      "explanation": "The definite article 'the' is used with musical instruments when referring to playing them: 'play the violin', 'play the piano', 'play the guitar'."
+    },
+    {
+      "id": 60,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Punctuation",
+      "topic": "Semicolons and Colons",
+      "difficulty": 2,
+      "question": "Which sentence uses the SEMICOLON correctly?",
+      "options": [
+        "She loves reading; however she prefers non-fiction.",
+        "She loves reading; however, she prefers non-fiction.",
+        "She loves reading; and prefers non-fiction.",
+        "She loves; reading however she prefers non-fiction."
+      ],
+      "answer": 1,
+      "explanation": "A semicolon can join two independent clauses, especially when using a conjunctive adverb like 'however'. The correct punctuation is: independent clause + semicolon + conjunctive adverb + comma + independent clause."
+    },
+    {
+      "id": 61,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Spelling",
+      "topic": "Homophones",
+      "difficulty": 1,
+      "question": "Choose the CORRECT word to complete the sentence: 'The council voted to _____ the new regulation.'",
+      "options": [
+        "accept",
+        "except",
+        "expect",
+        "effect"
+      ],
+      "answer": 0,
+      "explanation": "'Accept' means to receive or agree to something. 'Except' means excluding. The council voted to accept (agree to/receive) the regulation."
+    },
+    {
+      "id": 62,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Spelling",
+      "topic": "Homophones",
+      "difficulty": 2,
+      "question": "Which sentence uses 'affect' and 'effect' CORRECTLY?",
+      "options": [
+        "The rain will effect our plans; the affect will be significant.",
+        "The rain will affect our plans; the effect will be significant.",
+        "The rain will affect our plans; the affect will be significant.",
+        "The rain will effect our plans; the effect will be significant."
+      ],
+      "answer": 1,
+      "explanation": "'Affect' is usually a verb (to influence). 'Effect' is usually a noun (a result). 'The rain will affect (verb) our plans; the effect (noun) will be significant.' is correct."
+    },
+    {
+      "id": 63,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Vocabulary",
+      "topic": "Word Forms",
+      "difficulty": 2,
+      "question": "What is the NOUN form of the adjective 'generous'?",
+      "options": [
+        "Generously",
+        "Generosity",
+        "Generous",
+        "Generise"
+      ],
+      "answer": 1,
+      "explanation": "The noun form of 'generous' is 'generosity'. 'Generously' is the adverb form."
+    },
+    {
+      "id": 64,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Sentence Errors — Run-on",
+      "difficulty": 2,
+      "question": "Which of the following is a RUN-ON sentence?",
+      "options": [
+        "She studied hard; she passed the exam.",
+        "Although tired, she continued working.",
+        "She was exhausted she kept going anyway.",
+        "She finished the assignment, then she rested."
+      ],
+      "answer": 2,
+      "explanation": "A run-on sentence joins two independent clauses without appropriate punctuation or a conjunction. 'She was exhausted she kept going anyway' has two complete sentences joined without any connector."
+    },
+    {
+      "id": 65,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Fragments",
+      "difficulty": 2,
+      "question": "Which of the following is a SENTENCE FRAGMENT?",
+      "options": [
+        "The students completed their project on time.",
+        "Running through the park every morning before school.",
+        "Despite the rain, the match continued.",
+        "She read the entire book in one evening."
+      ],
+      "answer": 1,
+      "explanation": "A sentence fragment lacks a subject, a complete verb or both. 'Running through the park every morning before school' has no subject performing the action — it is a fragment."
+    },
+    {
+      "id": 66,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Identifying Bias",
+      "difficulty": 3,
+      "passage": "The proposed shopping mall will undoubtedly destroy the character of our historic town centre. Only those who care nothing for heritage and community would support such a reckless development. Our green spaces will vanish overnight, and our children will inherit a concrete wasteland. Every right-thinking resident should stand against this travesty.",
+      "question": "This passage is BIASED because it:",
+      "options": [
+        "Provides balanced evidence for and against the mall",
+        "Uses emotive and absolute language, dismisses opposing views and presents no supporting evidence",
+        "Includes statistics and expert opinions",
+        "Acknowledges the economic benefits of the development"
+      ],
+      "answer": 1,
+      "explanation": "The passage uses loaded words ('reckless', 'wasteland', 'travesty'), dismisses supporters ('care nothing for heritage'), makes sweeping claims ('undoubtedly', 'overnight') and provides no factual evidence — all signs of bias."
+    },
+    {
+      "id": 67,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Vocabulary",
+      "topic": "Emotive Language",
+      "difficulty": 2,
+      "passage": "The proposed shopping mall will undoubtedly destroy the character of our historic town centre. Only those who care nothing for heritage and community would support such a reckless development. Our green spaces will vanish overnight, and our children will inherit a concrete wasteland. Every right-thinking resident should stand against this travesty.",
+      "question": "The word 'wasteland' is used primarily to:",
+      "options": [
+        "Provide a factual description of the area after construction",
+        "Create a negative, emotive image of what the town will become to provoke the reader's concern",
+        "Describe the current state of the town centre",
+        "Give a scientific assessment of urban development"
+      ],
+      "answer": 1,
+      "explanation": "'Wasteland' carries strongly negative connotations of desolation and lifelessness. The writer uses it emotively — not as a factual description but to alarm the reader and generate opposition."
+    },
+    {
+      "id": 68,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Character Motivation",
+      "difficulty": 3,
+      "passage": "For twenty years, Delroy had built his reputation stone by stone, sunrise to sunset, never missing a day. So when the young supervisor questioned his work in front of the whole crew, Delroy simply set down his tools, removed his hard hat, and walked off the site without a word. His hands trembled. Not from anger, he told himself. From something quieter and deeper.",
+      "question": "What is MOST likely the reason Delroy walked off the site?",
+      "options": [
+        "He was physically exhausted from twenty years of work.",
+        "His professional dignity was wounded and he could not respond without losing control.",
+        "He had already planned to resign that day.",
+        "He disagreed with the supervisor about the construction technique."
+      ],
+      "answer": 1,
+      "explanation": "Delroy's twenty years of dedicated work, the public humiliation ('in front of the whole crew'), his silent response and trembling hands all suggest his dignity was deeply wounded — he left to preserve self-control rather than react impulsively."
+    },
+    {
+      "id": 69,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Imagery",
+      "difficulty": 2,
+      "question": "Imagery in literature is BEST described as:",
+      "options": [
+        "A comparison using 'like' or 'as'",
+        "Language that appeals to the senses — sight, sound, touch, taste and smell — to create vivid mental pictures",
+        "The repetition of consonant sounds",
+        "A direct address to an absent or imaginary person"
+      ],
+      "answer": 1,
+      "explanation": "Imagery uses descriptive language targeting the five senses to create vivid pictures and experiences in the reader's mind. It is the broader category that encompasses similes, metaphors and other sensory descriptions."
+    },
+    {
+      "id": 70,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Symbolism",
+      "difficulty": 3,
+      "question": "In literature, a SYMBOL is:",
+      "options": [
+        "A character who represents a historical figure",
+        "An object, person, place or event that carries meaning beyond its literal interpretation",
+        "A direct comparison between two unlike things",
+        "A statement that says the opposite of what is meant"
+      ],
+      "answer": 1,
+      "explanation": "A symbol represents something beyond its literal meaning. For example, a dove may symbolise peace; a storm may symbolise turmoil. Symbols enrich the layers of meaning in a text."
+    },
+    {
+      "id": 71,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Countable and Uncountable Nouns",
+      "difficulty": 2,
+      "question": "Which sentence is GRAMMATICALLY CORRECT?",
+      "options": [
+        "She gave me a very useful advices.",
+        "She gave me several helpful suggestions.",
+        "She gave me a informations about the programme.",
+        "She gave me some usefuls tips."
+      ],
+      "answer": 1,
+      "explanation": "'Advice' and 'information' are uncountable nouns — they cannot be made plural or used with 'a'. 'Suggestions' and 'tips' are countable and can be pluralised."
+    },
+    {
+      "id": 72,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Comparatives and Superlatives",
+      "difficulty": 1,
+      "question": "Which sentence uses the comparative form CORRECTLY?",
+      "options": [
+        "She is the most tallest student in the class.",
+        "This exam is more harder than the last one.",
+        "Today is hotter than yesterday.",
+        "He runs more faster than his brother."
+      ],
+      "answer": 2,
+      "explanation": "For one-syllable adjectives, add '-er' for comparatives: 'hot' becomes 'hotter'. Double the final consonant when the adjective ends in consonant-vowel-consonant. 'Most tallest' and 'more harder' are double comparatives — incorrect."
+    },
+    {
+      "id": 73,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Punctuation",
+      "topic": "Dashes and Parentheses",
+      "difficulty": 2,
+      "question": "Which sentence correctly uses a DASH for emphasis?",
+      "options": [
+        "She wanted only one thing — justice.",
+        "She wanted only one thing - justice.",
+        "She wanted only one thing: justice.",
+        "All of the above are correct uses of punctuation for this purpose."
+      ],
+      "answer": 3,
+      "explanation": "An em dash (—), a hyphen used as a dash (–), or a colon (:) can all be used to introduce a word or phrase for emphasis. All three options are acceptable in different style guides."
+    },
+    {
+      "id": 74,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Persuasive Writing",
+      "topic": "Appeals",
+      "difficulty": 3,
+      "question": "A persuasive writer who uses statistics, research findings and expert quotes to support their argument is primarily using:",
+      "options": [
+        "Pathos — an appeal to emotion",
+        "Ethos — an appeal to credibility",
+        "Logos — an appeal to logic and reason",
+        "Kairos — an appeal to timing"
+      ],
+      "answer": 2,
+      "explanation": "Logos appeals to logic and reason through facts, statistics, data and reasoned arguments. Pathos appeals to emotions. Ethos appeals to the writer's credibility or trustworthiness."
+    },
+    {
+      "id": 75,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Scanning for Information",
+      "difficulty": 1,
+      "passage": "The CSEC English A examination consists of three papers. Paper 01 is a 90-minute multiple-choice paper comprising 60 questions drawn equally from three modules. Paper 02 is a 2-hour 45-minute written paper requiring candidates to complete structured and essay-type questions. Paper 03 (or 032 for private candidates) is the School-Based Assessment, which accounts for 25% of the final mark.",
+      "question": "According to the passage, Paper 01 consists of how many questions?",
+      "options": [
+        "20",
+        "45",
+        "60",
+        "90"
+      ],
+      "answer": 2,
+      "explanation": "The passage states Paper 01 comprises '60 questions drawn equally from three modules'. This is a retrieval question requiring the reader to scan for a specific fact."
+    },
+    {
+      "id": 76,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Author's Tone",
+      "difficulty": 2,
+      "passage": "The CSEC English A examination consists of three papers. Paper 01 is a 90-minute multiple-choice paper comprising 60 questions drawn equally from three modules. Paper 02 is a 2-hour 45-minute written paper requiring candidates to complete structured and essay-type questions. Paper 03 (or 032 for private candidates) is the School-Based Assessment, which accounts for 25% of the final mark.",
+      "question": "The tone of this passage is BEST described as:",
+      "options": [
+        "Enthusiastic and encouraging",
+        "Neutral and informative",
+        "Critical and disapproving",
+        "Humorous and informal"
+      ],
+      "answer": 1,
+      "explanation": "The passage presents factual information about the examination structure using precise, objective language without emotional language or personal opinion — the tone is neutral and informative."
+    },
+    {
+      "id": 77,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Modal Verbs",
+      "difficulty": 2,
+      "question": "Which modal verb expresses ABILITY?",
+      "options": [
+        "must",
+        "should",
+        "can",
+        "will"
+      ],
+      "answer": 2,
+      "explanation": "'Can' (and 'could') expresses ability: 'She can speak three languages.' 'Must' expresses obligation; 'should' expresses advice or expectation; 'will' expresses future or intention."
+    },
+    {
+      "id": 78,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Spelling",
+      "topic": "Spelling Rules",
+      "difficulty": 1,
+      "question": "Which of the following words is spelled CORRECTLY?",
+      "options": [
+        "occured",
+        "occurred",
+        "ocurred",
+        "occurrd"
+      ],
+      "answer": 1,
+      "explanation": "'Occurred' doubles the final consonant because the stress falls on the final syllable (oc-CURRED) and it ends in consonant-vowel-consonant. The correct spelling is 'occurred'."
+    },
+    {
+      "id": 79,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Hyperbole",
+      "difficulty": 1,
+      "question": "Which of the following is an example of HYPERBOLE?",
+      "options": [
+        "The stars are tiny diamonds scattered across the sky.",
+        "I have told you a million times to clean your room.",
+        "The wind whispered through the leaves.",
+        "She walked as gracefully as a swan."
+      ],
+      "answer": 1,
+      "explanation": "Hyperbole is deliberate exaggeration for effect. 'A million times' is not literally true — it is used to express extreme frustration or emphasis."
+    },
+    {
+      "id": 80,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Metaphor",
+      "difficulty": 1,
+      "question": "Which of the following is a METAPHOR?",
+      "options": [
+        "Her smile was like the sunrise.",
+        "Life is a rollercoaster.",
+        "The crowd roared louder than thunder.",
+        "He ran as fast as the wind."
+      ],
+      "answer": 1,
+      "explanation": "A metaphor states that one thing IS another (without using 'like' or 'as'). 'Life is a rollercoaster' directly equates life to a rollercoaster — this is a metaphor. The others use 'like' or 'than', making them similes."
+    },
+    {
+      "id": 81,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Report Writing",
+      "topic": "Report Structure",
+      "difficulty": 2,
+      "question": "In a formal report, the section that presents data, observations and findings WITHOUT interpretation is called:",
+      "options": [
+        "The Recommendations",
+        "The Conclusion",
+        "The Findings (or Presentation of Data)",
+        "The Introduction"
+      ],
+      "answer": 2,
+      "explanation": "The Findings section presents what was observed or discovered. Conclusions interpret what the findings mean; Recommendations suggest what should be done as a result."
+    },
+    {
+      "id": 82,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Letter Writing",
+      "topic": "Letter Format",
+      "difficulty": 1,
+      "question": "In a formal letter, where is the RECIPIENT'S address positioned?",
+      "options": [
+        "On the right-hand side, above the date",
+        "After the closing and signature",
+        "On the left-hand side, below the sender's address and date",
+        "At the very bottom of the letter"
+      ],
+      "answer": 2,
+      "explanation": "In a formal letter, the layout is: sender's address (top right) → date → recipient's address (left) → salutation → body → closing → signature. The recipient's address appears on the left below the date."
+    },
+    {
+      "id": 83,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Persuasive Writing",
+      "topic": "Speech Writing",
+      "difficulty": 2,
+      "question": "A speech written for formal delivery should differ from an essay MAINLY in that it:",
+      "options": [
+        "Contains no paragraphs",
+        "Uses second person ('you') to directly address the audience and includes techniques for spoken delivery such as repetition and rhetorical questions",
+        "Is shorter and requires no introduction",
+        "Does not need to have a clear argument"
+      ],
+      "answer": 1,
+      "explanation": "A speech is designed to be heard, not read. It uses direct address ('you', 'we'), repetition for emphasis, rhetorical questions, and acknowledgement of the audience ('Ladies and gentlemen') in ways an essay does not."
+    },
+    {
+      "id": 84,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Foreshadowing",
+      "difficulty": 2,
+      "question": "Foreshadowing in a narrative is:",
+      "options": [
+        "Describing events that happened before the main story begins",
+        "A hint or clue given early in the story about events that will occur later",
+        "Describing the setting in great detail",
+        "When a character reflects on the past"
+      ],
+      "answer": 1,
+      "explanation": "Foreshadowing plants hints early in a text about what will happen later, creating anticipation or tension. It differs from flashback, which describes past events."
+    },
+    {
+      "id": 85,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Relative Clauses",
+      "difficulty": 2,
+      "question": "Which sentence uses a DEFINING (restrictive) relative clause correctly?",
+      "options": [
+        "My brother, who lives in London, called me yesterday.",
+        "The student who scored highest won the prize.",
+        "The report, which was very detailed, impressed the committee.",
+        "My father, whose car is red, works downtown."
+      ],
+      "answer": 1,
+      "explanation": "A defining (restrictive) relative clause identifies WHICH person or thing is meant — it is essential to the meaning and has no commas. 'The student who scored highest' defines which student — without this clause, we do not know who won."
+    },
+    {
+      "id": 86,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Vocabulary",
+      "topic": "Prefixes and Suffixes",
+      "difficulty": 2,
+      "question": "The prefix 'mis-' as in 'misinterpret' means:",
+      "options": [
+        "Before or in front of",
+        "Wrongly or badly",
+        "Again or repeatedly",
+        "Not or opposite of"
+      ],
+      "answer": 1,
+      "explanation": "'Mis-' means wrongly or badly: misinterpret (interpret wrongly), mislead (lead astray), misuse (use wrongly). 'Pre-' = before; 're-' = again; 'un-' = not."
+    },
+    {
+      "id": 87,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Logical Fallacies",
+      "difficulty": 3,
+      "question": "The argument 'Everyone is buying this product, so it must be good' is an example of which logical fallacy?",
+      "options": [
+        "Straw man",
+        "Ad hominem",
+        "Bandwagon (appeal to popularity)",
+        "False dilemma"
+      ],
+      "answer": 2,
+      "explanation": "The bandwagon fallacy assumes something is true or good simply because many people believe it or do it. Popularity does not equal quality or correctness."
+    },
+    {
+      "id": 88,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Dramatic Irony",
+      "difficulty": 3,
+      "question": "Dramatic irony occurs when:",
+      "options": [
+        "A character says the opposite of what they mean",
+        "An unexpected event happens that contradicts expectations",
+        "The audience knows something important that a character does not",
+        "Two characters misunderstand each other"
+      ],
+      "answer": 2,
+      "explanation": "Dramatic irony creates tension when the audience possesses information that a character lacks — causing the audience to feel anticipation, fear or amusement as events unfold."
+    },
+    {
+      "id": 89,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Parallel Structure",
+      "difficulty": 3,
+      "question": "Which sentence demonstrates PARALLEL STRUCTURE?",
+      "options": [
+        "She likes reading, to swim and to dance.",
+        "She likes reading, swimming and dancing.",
+        "She likes to read, swimming and to dance.",
+        "She likes reading, to swim and dancing."
+      ],
+      "answer": 1,
+      "explanation": "Parallel structure requires that items in a series share the same grammatical form. 'Reading, swimming and dancing' are all present participles (gerunds) — parallel and grammatically consistent."
+    },
+    {
+      "id": 90,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Spelling",
+      "topic": "Commonly Confused Words",
+      "difficulty": 2,
+      "question": "Choose the correct word: 'The principal purpose of the meeting was to _____ a new policy.'",
+      "options": [
+        "adapt",
+        "adopt",
+        "adept",
+        "adjunct"
+      ],
+      "answer": 1,
+      "explanation": "'Adopt' means to take up or approve something formally (adopt a policy). 'Adapt' means to change or adjust something for a new purpose. 'Adept' is an adjective meaning skilled."
+    },
+    {
+      "id": 91,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Pathetic Fallacy",
+      "difficulty": 3,
+      "question": "When the weather or natural setting in a story is described to reflect a character's emotions — such as a thunderstorm during a moment of grief — this is called:",
+      "options": [
+        "Onomatopoeia",
+        "Personification",
+        "Pathetic fallacy",
+        "Irony"
+      ],
+      "answer": 2,
+      "explanation": "Pathetic fallacy attributes human emotions to the environment or weather. A storm during grief, sunshine at a happy wedding — using natural elements to mirror a character's inner state."
+    },
+    {
+      "id": 92,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Author's Purpose",
+      "difficulty": 2,
+      "passage": "Youth unemployment in the Caribbean remains stubbornly high, with rates exceeding 25% in several territories. Limited opportunities in traditional sectors such as agriculture and manufacturing have pushed many young people toward the informal economy. However, the growth of the digital economy presents new possibilities. With the right investment in digital skills training, Caribbean youth could position themselves competitively in global remote work markets.",
+      "question": "The author's overall PURPOSE in this passage is to:",
+      "options": [
+        "Complain about governments failing youth",
+        "Inform readers about the problem of youth unemployment and suggest a potential solution",
+        "Advertise digital skills training programmes",
+        "Compare youth unemployment rates across all Caribbean territories"
+      ],
+      "answer": 1,
+      "explanation": "The passage presents the problem (high youth unemployment) and then pivots to a solution (digital economy and skills training) — its purpose is informative with a constructive suggestion."
+    },
+    {
+      "id": 93,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Vocabulary in Context",
+      "difficulty": 2,
+      "passage": "Youth unemployment in the Caribbean remains stubbornly high, with rates exceeding 25% in several territories. Limited opportunities in traditional sectors such as agriculture and manufacturing have pushed many young people toward the informal economy. However, the growth of the digital economy presents new possibilities. With the right investment in digital skills training, Caribbean youth could position themselves competitively in global remote work markets.",
+      "question": "The word 'stubbornly' as used in the passage suggests that youth unemployment:",
+      "options": [
+        "Has been decreasing quickly",
+        "Is determined and willful",
+        "Persists and resists change despite efforts to reduce it",
+        "Affects mainly stubborn or lazy young people"
+      ],
+      "answer": 2,
+      "explanation": "In this context 'stubbornly' is used adverbially to mean 'persistently' or 'refusing to change' — youth unemployment remains high despite efforts to address it."
+    },
+    {
+      "id": 94,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Persuasive Writing",
+      "topic": "Expository vs Persuasive",
+      "difficulty": 2,
+      "question": "The MAIN difference between expository writing and persuasive writing is that:",
+      "options": [
+        "Expository writing tells stories while persuasive writing presents facts",
+        "Expository writing informs or explains without taking a position; persuasive writing aims to change the reader's opinion or behaviour",
+        "Persuasive writing is always longer than expository writing",
+        "Expository writing is only found in textbooks"
+      ],
+      "answer": 1,
+      "explanation": "Expository writing presents information objectively (explanations, reports, instructions). Persuasive writing takes a position and uses evidence, emotion and logic to change the reader's mind or prompt action."
+    },
+    {
+      "id": 95,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Negation",
+      "difficulty": 2,
+      "question": "Which of the following sentences uses STANDARD ENGLISH negation correctly?",
+      "options": [
+        "She didn't do nothing wrong.",
+        "He never said nothing to nobody.",
+        "They do not have any objections.",
+        "We ain't got no time for that."
+      ],
+      "answer": 2,
+      "explanation": "Standard English avoids double negatives. 'Do not have any' is correct — using two negatives ('didn't...nothing', 'never...nothing...nobody') is non-standard."
+    },
+    {
+      "id": 96,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Inference from Poetry",
+      "difficulty": 3,
+      "passage": "I come from the long way round,\nfrom the island of cane and fire,\ncarrying in my chest the drumbeat\nof those who did not choose to come.\nI plant my feet on new ground\nbut the soil remembers the old.",
+      "question": "The speaker in this poem MOST likely represents:",
+      "options": [
+        "A tourist visiting a Caribbean island for the first time",
+        "A person of Caribbean heritage living in a diaspora community, aware of their ancestral history of slavery",
+        "A farmer planting crops in a new field",
+        "A child learning about history at school"
+      ],
+      "answer": 1,
+      "explanation": "'Those who did not choose to come' alludes to enslaved Africans. 'The island of cane and fire' suggests a sugar plantation past. 'New ground' with soil that 'remembers the old' suggests diaspora and ancestral connection."
+    },
+    {
+      "id": 97,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Poetry — Enjambment",
+      "difficulty": 3,
+      "question": "In poetry, enjambment refers to:",
+      "options": [
+        "When each line ends with a full stop and complete thought",
+        "The repetition of sounds at the end of lines",
+        "When a sentence or phrase runs over from one line to the next without a pause at the line ending",
+        "The regular rhythm pattern of a poem"
+      ],
+      "answer": 2,
+      "explanation": "Enjambment (from French 'to stride over') occurs when a sentence continues beyond the end of one line into the next without punctuation, creating a flowing, conversational effect."
+    },
+    {
+      "id": 98,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Vocabulary",
+      "topic": "Idiomatic Expressions",
+      "difficulty": 2,
+      "question": "What does the idiomatic expression 'burning the midnight oil' mean?",
+      "options": [
+        "Setting fire to petroleum products at night",
+        "Working or studying late into the night",
+        "Wasting energy on unimportant tasks",
+        "Celebrating with fireworks"
+      ],
+      "answer": 1,
+      "explanation": "'Burning the midnight oil' is an idiom meaning to work or study late into the night — originating from the days when oil lamps were used for late-night work."
+    },
+    {
+      "id": 99,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Persuasive Writing",
+      "topic": "Audience Awareness",
+      "difficulty": 2,
+      "question": "When writing a persuasive letter to a newspaper editor, the writer should PRIMARILY consider:",
+      "options": [
+        "Using as many technical terms as possible",
+        "The audience — writing clearly, persuasively and with evidence appropriate for an informed general readership",
+        "Making the letter as long as possible",
+        "Including personal anecdotes only"
+      ],
+      "answer": 1,
+      "explanation": "A letter to a newspaper editor targets a broad, educated general audience. The writer should be clear, present a strong position with supporting evidence, and use accessible but formal language."
+    },
+    {
+      "id": 100,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Summary Skills",
+      "topic": "Summary Technique",
+      "difficulty": 3,
+      "question": "When summarising a passage, the writer should ensure the summary:",
+      "options": [
+        "Is the same length as the original text",
+        "Includes all examples and details from the original",
+        "Captures the main ideas in fewer words and in the writer's own words without adding new information",
+        "Begins with a direct quotation from the passage"
+      ],
+      "answer": 2,
+      "explanation": "A good summary is significantly shorter than the original, uses the writer's own words, focuses on main points rather than supporting details, and adds no personal opinions or new information."
+    },
+    {
+      "id": 101,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Collocations",
+      "difficulty": 2,
+      "question": "Which of the following is the correct collocation?",
+      "options": [
+        "make a mistake",
+        "do a mistake",
+        "create a mistake",
+        "perform a mistake"
+      ],
+      "answer": 0,
+      "explanation": "In English, 'make' collocates with 'mistake' — you 'make a mistake', not 'do', 'create' or 'perform' one. Collocations are word partnerships that are fixed by usage."
+    },
+    {
+      "id": 102,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Gerunds vs Infinitives",
+      "difficulty": 3,
+      "question": "Which sentence is GRAMMATICALLY CORRECT?",
+      "options": [
+        "She avoided to make eye contact during the interview.",
+        "She avoided making eye contact during the interview.",
+        "She avoided make eye contact during the interview.",
+        "She avoided to making eye contact during the interview."
+      ],
+      "answer": 1,
+      "explanation": "Some verbs are followed by a gerund (verb + -ing), not an infinitive. 'Avoid' is one of these: 'avoid doing something'. Other verbs followed by gerunds: 'enjoy', 'consider', 'deny', 'suggest'."
+    },
+    {
+      "id": 103,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Punctuation",
+      "topic": "Quotation Marks",
+      "difficulty": 2,
+      "question": "Quotation marks are used for all of the following EXCEPT:",
+      "options": [
+        "Direct speech",
+        "Titles of short works such as poems and articles",
+        "Indicating that a word is being used in an unusual or ironic sense",
+        "Titles of novels and full-length books"
+      ],
+      "answer": 3,
+      "explanation": "Titles of full-length works (novels, films, newspapers) are italicised or underlined — not placed in quotation marks. Short works (poems, articles, short stories) use quotation marks."
+    },
+    {
+      "id": 104,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Graphic Texts — Advertisement",
+      "difficulty": 2,
+      "passage": "ADVERTISEMENT: 'Don't wait until you're thirsty. By then, your body is already dehydrated. Drink PURE SPRING water — eight glasses a day keeps the doctor away. Available at all major supermarkets. Your health. Your choice.'",
+      "question": "The slogan 'Your health. Your choice.' is designed to:",
+      "options": [
+        "Explain how the water is purified",
+        "Appeal to the consumer's sense of personal empowerment and responsibility for their own wellbeing",
+        "Compare PURE SPRING water to other brands",
+        "Inform the reader about the health dangers of dehydration"
+      ],
+      "answer": 1,
+      "explanation": "Short, punchy slogans like 'Your health. Your choice.' appeal to autonomy and personal responsibility — they make the consumer feel in control, which is a persuasive marketing technique."
+    },
+    {
+      "id": 105,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Visual Text — Advertisement",
+      "difficulty": 2,
+      "passage": "ADVERTISEMENT: 'Don't wait until you're thirsty. By then, your body is already dehydrated. Drink PURE SPRING water — eight glasses a day keeps the doctor away. Available at all major supermarkets. Your health. Your choice.'",
+      "question": "The phrase 'Don't wait until you're thirsty' is an example of which persuasive technique?",
+      "options": [
+        "Flattery",
+        "Expert testimony",
+        "Creating a sense of urgency to prompt immediate action",
+        "Humour"
+      ],
+      "answer": 2,
+      "explanation": "Telling the consumer not to wait creates urgency — implying that delay has negative consequences (dehydration). This urgency technique is common in advertising to encourage immediate purchase or behaviour change."
+    },
+    {
+      "id": 106,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Poetry Analysis",
+      "difficulty": 3,
+      "passage": "I come from the long way round,\nfrom the island of cane and fire,\ncarrying in my chest the drumbeat\nof those who did not choose to come.\nI plant my feet on new ground\nbut the soil remembers the old.",
+      "question": "What does 'the drumbeat of those who did not choose to come' SYMBOLISE?",
+      "options": [
+        "Music played during Caribbean carnival celebrations",
+        "The heartbeat of the speaker's ancestors who were brought to the Caribbean as enslaved people",
+        "The sound of the ocean during the Middle Passage",
+        "The speaker's love of percussion instruments"
+      ],
+      "answer": 1,
+      "explanation": "'Those who did not choose to come' refers to enslaved Africans. 'The drumbeat' in African culture is a form of memory, identity and communication — carrying it in the chest suggests the ancestors' memory lives within the speaker."
+    },
+    {
+      "id": 107,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Adverb Placement",
+      "difficulty": 2,
+      "question": "Which sentence has the adverb in the MOST appropriate position?",
+      "options": [
+        "She finished nearly all of the work.",
+        "She nearly finished all of the work.",
+        "Nearly she finished all of the work.",
+        "She finished all nearly of the work."
+      ],
+      "answer": 1,
+      "explanation": "'Nearly' (an adverb of degree) should be placed immediately before the word it modifies. In 'She nearly finished all of the work', 'nearly' modifies 'finished' — she almost but not quite finished."
+    },
+    {
+      "id": 108,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Spelling",
+      "topic": "Silent Letters",
+      "difficulty": 2,
+      "question": "Which of the following words contains a SILENT letter?",
+      "options": [
+        "simple",
+        "knowledgeable",
+        "carpet",
+        "blanket"
+      ],
+      "answer": 1,
+      "explanation": "'Knowledgeable' contains a silent 'k' at the beginning — the 'kn' combination in English typically has a silent 'k' (knife, know, knee, knit)."
+    },
+    {
+      "id": 109,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Counter-argument Recognition",
+      "difficulty": 3,
+      "passage": "Proponents of school uniforms argue that they reduce visible economic inequality among students and allow pupils to focus on learning rather than fashion. Critics, however, maintain that uniforms suppress individuality and self-expression. Despite this concern, evidence from several studies suggests that schools with uniform policies report fewer instances of bullying related to clothing, which in turn creates a more positive learning environment for all students.",
+      "question": "Which technique does the writer use to strengthen their argument in this passage?",
+      "options": [
+        "The writer ignores the opposing view completely.",
+        "The writer presents a counter-argument and then refutes it with evidence.",
+        "The writer uses emotional language to dismiss critics.",
+        "The writer appeals to authority without citing specific evidence."
+      ],
+      "answer": 1,
+      "explanation": "The writer acknowledges critics' concerns ('suppress individuality') — this is a concession — and then counters with evidence from studies about reduced bullying. This is the concession-rebuttal technique."
+    },
+    {
+      "id": 110,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Pronoun-Antecedent Agreement",
+      "difficulty": 2,
+      "question": "Which sentence has CORRECT pronoun-antecedent agreement?",
+      "options": [
+        "Every student must bring their own lunch.",
+        "Every student must bring his or her own lunch.",
+        "Every student must bring its own lunch.",
+        "Both A and B are acceptable in standard modern usage."
+      ],
+      "answer": 3,
+      "explanation": "Traditionally, 'his or her' (option B) was required with singular 'every student'. However, the singular 'they/their' (option A) is now widely accepted in modern Standard English. Both are acceptable in current usage."
+    },
+    {
+      "id": 111,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Making Predictions",
+      "difficulty": 3,
+      "passage": "Regional integration has delivered measurable economic benefits to Caribbean member states through trade facilitation and the free movement of skilled workers. However, disagreements over financial contributions, sovereignty concerns and uneven development between larger and smaller economies continue to slow progress. A new generation of Caribbean leaders has signalled commitment to deepening integration.",
+      "question": "Based on the passage, what is the MOST reasonable prediction about the future of Caribbean integration?",
+      "options": [
+        "Integration will completely collapse within the next decade.",
+        "Progress will likely continue but remain slow, shaped by ongoing tensions between benefits and sovereignty concerns.",
+        "All financial and sovereignty disagreements will be resolved immediately.",
+        "The smaller Caribbean economies will leave the integration arrangement."
+      ],
+      "answer": 1,
+      "explanation": "The passage presents both progress and persistent challenges. With new leadership commitment but unresolved tensions, the reasonable prediction is continued but slow progress — not collapse or immediate resolution."
+    },
+    {
+      "id": 112,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Narrative Voice",
+      "difficulty": 3,
+      "question": "An omniscient narrator is one who:",
+      "options": [
+        "Tells the story using 'you' to address the reader",
+        "Can only describe what they personally observe",
+        "Has complete knowledge of all characters' thoughts, feelings and actions",
+        "Tells the story from the perspective of two characters alternately"
+      ],
+      "answer": 2,
+      "explanation": "An omniscient (all-knowing) narrator can enter any character's mind, know events happening simultaneously in different places, and reveal information beyond any single character's perspective."
+    },
+    {
+      "id": 113,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Sentence Transformation",
+      "difficulty": 3,
+      "question": "Which of the following correctly transforms the sentence from active to passive voice?\nActive: 'The principal announced the new policy yesterday.'",
+      "options": [
+        "The new policy was announced by the principal yesterday.",
+        "The new policy is announced by the principal yesterday.",
+        "Yesterday announced the new policy by the principal.",
+        "The principal was announced the new policy yesterday."
+      ],
+      "answer": 0,
+      "explanation": "Passive transformation: Object → Subject + 'to be' in same tense + past participle + 'by' + original subject. 'The new policy' (object) becomes subject; 'was announced' (past passive); 'by the principal' retains the agent."
+    },
+    {
+      "id": 114,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Vocabulary",
+      "topic": "Register and Vocabulary",
+      "difficulty": 2,
+      "question": "Which of the following is the most appropriate way to write the same idea in FORMAL register?\nInformal: 'The boss told everyone they needed to stop being late.'",
+      "options": [
+        "The big man said folks gotta stop showing up late.",
+        "Management has requested that all staff members adhere to punctuality expectations.",
+        "They basically want you guys to stop being tardy and stuff.",
+        "Everyone was told like stop coming in late okay."
+      ],
+      "answer": 1,
+      "explanation": "Formal register uses precise vocabulary ('management', 'adhere', 'punctuality'), avoids contractions and colloquialisms, and uses full, complete sentences with standard grammar."
+    },
+    {
+      "id": 115,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Persuasive Writing",
+      "topic": "Structure of an Argument",
+      "difficulty": 2,
+      "question": "Which of the following BEST describes the structure of an effective argumentative essay?",
+      "options": [
+        "List of facts, list of opinions, conclusion",
+        "Introduction with thesis → body paragraphs each making and supporting one point → conclusion restating the argument",
+        "Story → description → persuasion in that order",
+        "Random presentation of all evidence without any specific order"
+      ],
+      "answer": 1,
+      "explanation": "An effective argumentative essay has an introduction establishing the thesis, body paragraphs where each makes a clear point supported by evidence, and a conclusion that reinforces the overall argument."
+    },
+    {
+      "id": 116,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Summary Skills",
+      "topic": "Identifying Relevant Information",
+      "difficulty": 3,
+      "passage": "The mangrove forests that line many Caribbean coastlines are among the most productive ecosystems on Earth. They protect coastlines from erosion and storm surge, serve as nurseries for fish and other marine life, and store vast amounts of carbon. Despite these benefits, mangroves have been cleared at alarming rates to make way for coastal development and aquaculture. Scientists estimate that Caribbean countries have lost approximately 30% of their mangrove cover in the past fifty years.",
+      "question": "If you were asked to summarise this passage in ONE sentence, which option would be BEST?",
+      "options": [
+        "Caribbean mangroves are being destroyed at an alarming rate.",
+        "Mangrove forests provide many ecological benefits including carbon storage.",
+        "Despite their vital ecological role in coastal protection, carbon storage and marine habitat, Caribbean mangroves have been significantly reduced by development over the past fifty years.",
+        "Fish use mangroves as nurseries and this is why they are important."
+      ],
+      "answer": 2,
+      "explanation": "A one-sentence summary must capture both the value of mangroves AND the threat they face — the tension between benefit and loss is the core of the passage. Option C encompasses both dimensions."
+    },
+    {
+      "id": 117,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Writer's Craft",
+      "difficulty": 3,
+      "passage": "She had lived in the house so long that the house had begun to live in her. The damp of its walls was in her joints. The creak of its floorboards was her heartbeat. The smell of old wood and mildew had replaced the smell of anything she might have been before.",
+      "question": "The writer uses _____ to describe the woman's deep, almost disturbing connection to the old house.",
+      "options": [
+        "Simile and alliteration",
+        "Extended metaphor and personification",
+        "Onomatopoeia and hyperbole",
+        "Rhyme and rhythm"
+      ],
+      "answer": 1,
+      "explanation": "The passage extends the metaphor of the house living IN the woman across multiple sentences (extended metaphor). It also personifies the house — giving it the ability to 'live in' the woman, and its creak becomes her 'heartbeat'."
+    },
+    {
+      "id": 118,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Concord",
+      "difficulty": 2,
+      "question": "Choose the correct verb form: 'The number of students who failed _____ surprisingly low.'",
+      "options": [
+        "were",
+        "are",
+        "was",
+        "have been"
+      ],
+      "answer": 2,
+      "explanation": "'The number of' takes a singular verb because 'number' is the subject, not 'students'. Compare: 'A number of students WERE absent' (a number of = several, takes plural). 'The number WAS...' (the specific number, singular)."
+    },
+    {
+      "id": 119,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Persuasive Writing",
+      "topic": "Caribbean Context",
+      "difficulty": 2,
+      "question": "Which of the following would be MOST appropriate as the opening sentence of a persuasive speech calling for greater investment in renewable energy in the Caribbean?",
+      "options": [
+        "Energy is important and I will talk about it today.",
+        "Every day, Caribbean families pay some of the highest electricity bills in the world for energy produced from fossil fuels we do not even own.",
+        "Renewable energy has many advantages and disadvantages which I will now explain.",
+        "In this essay I am going to argue that the Caribbean should use renewable energy."
+      ],
+      "answer": 1,
+      "explanation": "An effective speech opening grabs attention with a compelling, relevant fact or image. Option B immediately engages the audience with a relatable Caribbean problem (high electricity bills), creating urgency and emotional connection."
+    },
+    {
+      "id": 120,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Text Type",
+      "difficulty": 1,
+      "question": "A text that gives step-by-step instructions on how to perform a task is called a:",
+      "options": [
+        "Narrative",
+        "Procedural text",
+        "Persuasive essay",
+        "Editorial"
+      ],
+      "answer": 1,
+      "explanation": "Procedural texts give instructions for completing a task — recipes, how-to guides, assembly instructions. They typically use imperative verbs, numbered steps and clear sequencing."
+    },
+    {
+      "id": 121,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Choosing the Right Word",
+      "difficulty": 2,
+      "question": "Choose the correct word: 'The committee was unable to reach a _____ on the proposed budget.'",
+      "options": [
+        "consensus",
+        "census",
+        "concession",
+        "contract"
+      ],
+      "answer": 0,
+      "explanation": "A 'consensus' is general agreement reached by a group. A 'census' is an official population count. A 'concession' is something granted or yielded. A 'contract' is a legal agreement."
+    },
+    {
+      "id": 122,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Flashback",
+      "difficulty": 2,
+      "question": "A flashback in a narrative is a scene that:",
+      "options": [
+        "Hints at future events",
+        "Transports the reader backward in time to an earlier event in the character's life",
+        "Describes the setting in great detail",
+        "Shows two events happening simultaneously in different locations"
+      ],
+      "answer": 1,
+      "explanation": "A flashback interrupts the chronological flow of a narrative to show the reader an earlier scene. It provides backstory and context that helps explain a character's present actions or feelings."
+    },
+    {
+      "id": 123,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Punctuation",
+      "topic": "Hyphen",
+      "difficulty": 2,
+      "question": "Which sentence uses the HYPHEN correctly?",
+      "options": [
+        "She is a well known author.",
+        "She is a well-known author.",
+        "She is a well — known author.",
+        "She is a well: known author."
+      ],
+      "answer": 1,
+      "explanation": "A hyphen joins compound adjectives when they come BEFORE the noun: 'a well-known author'. When the adjective comes after the noun, no hyphen is needed: 'The author is well known'."
+    },
+    {
+      "id": 124,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Evaluating Arguments",
+      "difficulty": 3,
+      "question": "Which of the following would MOST strengthen a persuasive argument that school hours should be shortened?",
+      "options": [
+        "A personal anecdote about being tired at school",
+        "The writer's own opinion that long hours are harmful",
+        "Research studies showing that shorter school days improve student concentration and academic performance",
+        "A list of countries that have shorter school days without any outcome data"
+      ],
+      "answer": 2,
+      "explanation": "Arguments are strengthened by credible, relevant evidence. Research studies with measurable outcomes provide logos (logical appeal) — the strongest form of evidence for a factual claim."
+    },
+    {
+      "id": 125,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Vocabulary",
+      "topic": "Context Clues",
+      "difficulty": 2,
+      "question": "Using context clues in the sentence 'Despite his usually gregarious nature, he sat alone, speaking to no one at the party', the word 'gregarious' most likely means:",
+      "options": [
+        "Quiet and reserved",
+        "Sociable and enjoying the company of others",
+        "Aggressive and confrontational",
+        "Shy and withdrawn"
+      ],
+      "answer": 1,
+      "explanation": "The contrast word 'Despite' and the description of sitting alone and speaking to no one tell us that his USUAL behaviour is the opposite — gregarious means sociable, outgoing."
+    },
+    {
+      "id": 126,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Transition Words",
+      "difficulty": 2,
+      "question": "Which transition word BEST shows CONTRAST between two ideas?",
+      "options": [
+        "Furthermore",
+        "Therefore",
+        "Nevertheless",
+        "Similarly"
+      ],
+      "answer": 2,
+      "explanation": "'Nevertheless' (and 'however', 'although', 'yet') signals contrast between ideas. 'Furthermore' and 'similarly' show addition or continuation; 'therefore' shows consequence."
+    },
+    {
+      "id": 127,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Denotation vs Connotation",
+      "difficulty": 3,
+      "question": "The DENOTATION of a word is its:",
+      "options": [
+        "Emotional associations and implications",
+        "Literal, dictionary definition",
+        "Cultural significance",
+        "Sound and rhythm when spoken"
+      ],
+      "answer": 1,
+      "explanation": "Denotation is the literal meaning — the dictionary definition. Connotation is the emotional or cultural associations a word carries. For example, 'home' and 'house' have similar denotations but very different connotations."
+    },
+    {
+      "id": 128,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Tense Consistency",
+      "difficulty": 2,
+      "question": "Which paragraph maintains CONSISTENT tense?",
+      "options": [
+        "She walked into the room and sits down. She looked around and smiled.",
+        "She walks into the room and sat down. She looks around and smiled.",
+        "She walked into the room and sat down. She looked around and smiled.",
+        "She walk into the room and sat down. She looks around and smiled."
+      ],
+      "answer": 2,
+      "explanation": "All verbs in option C are in the simple past tense (walked, sat, looked, smiled), maintaining consistent tense throughout. The other options mix past and present tense inconsistently."
+    },
+    {
+      "id": 129,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Oxymoron",
+      "difficulty": 3,
+      "question": "Which of the following is an OXYMORON?",
+      "options": [
+        "As quiet as a mouse",
+        "The thunder clapped",
+        "A deafening silence",
+        "She ran faster than the wind"
+      ],
+      "answer": 2,
+      "explanation": "An oxymoron combines two contradictory terms to create a paradoxical effect. 'Deafening silence' — deafening means extremely loud; silence means the absence of sound — these contradict each other yet create vivid meaning."
+    },
+    {
+      "id": 130,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Persuasive Writing",
+      "topic": "Paragraph Structure",
+      "difficulty": 2,
+      "question": "In a persuasive essay, which structure for a body paragraph is MOST effective?",
+      "options": [
+        "Evidence → Point → Explanation",
+        "Conclusion → Point → Evidence",
+        "Point → Evidence → Explanation/Analysis → Link back to thesis",
+        "Story → Point → Conclusion"
+      ],
+      "answer": 2,
+      "explanation": "The PEEL or PEAL structure (Point, Evidence, Explanation/Analysis, Link) is most effective: state your point clearly, support with evidence, explain its significance, then connect back to the thesis."
+    },
+    {
+      "id": 131,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Vocabulary",
+      "topic": "Vocabulary — Formal Equivalents",
+      "difficulty": 2,
+      "question": "Which of the following is the MOST formal equivalent of the word 'show'?",
+      "options": [
+        "demonstrate",
+        "exhibit",
+        "prove",
+        "All of the above can be more formal alternatives depending on context"
+      ],
+      "answer": 3,
+      "explanation": "'Demonstrate', 'exhibit' and 'prove' are all more formal alternatives to 'show' — the best choice depends on context. In academic writing, 'demonstrate' is often preferred; 'exhibit' suits visual/gallery contexts; 'prove' suggests conclusive evidence."
+    },
+    {
+      "id": 132,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Punctuation",
+      "topic": "Ellipsis",
+      "difficulty": 3,
+      "question": "An ellipsis (...) in writing is used to:",
+      "options": [
+        "Join two independent clauses",
+        "Indicate that words have been omitted from a quotation, or to create a pause or sense of incompleteness",
+        "Replace a comma in a list",
+        "Introduce a list or explanation"
+      ],
+      "answer": 1,
+      "explanation": "An ellipsis signals omitted words in a quotation, creates a dramatic pause, or suggests trailing off or incompleteness. In formal writing it is used to shorten quotations; in creative writing it creates suspense."
+    },
+    {
+      "id": 133,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Juxtaposition",
+      "difficulty": 3,
+      "question": "Placing two contrasting ideas, images or characters side by side to highlight their differences is called:",
+      "options": [
+        "Allusion",
+        "Juxtaposition",
+        "Paradox",
+        "Allegory"
+      ],
+      "answer": 1,
+      "explanation": "Juxtaposition places contrasting elements next to each other to emphasise the difference. For example, describing extreme poverty alongside extreme wealth in the same scene creates powerful contrast through juxtaposition."
+    },
+    {
+      "id": 134,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Concord — Collective Nouns",
+      "difficulty": 2,
+      "question": "In the sentence 'The jury _____ been deliberating for three days', which verb form is correct in Standard English?",
+      "options": [
+        "have",
+        "has",
+        "are",
+        "were"
+      ],
+      "answer": 1,
+      "explanation": "Collective nouns such as 'jury', 'committee', 'team' and 'government' are treated as singular in Standard English (formal Caribbean and British English), taking singular verbs: 'the jury has'."
+    },
+    {
+      "id": 135,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Evaluating Evidence",
+      "difficulty": 3,
+      "question": "Which of the following is the WEAKEST form of evidence in a persuasive piece of writing?",
+      "options": [
+        "A peer-reviewed scientific study",
+        "Government statistics",
+        "An anecdote from the writer's personal experience",
+        "Expert testimony from a recognised authority in the field"
+      ],
+      "answer": 2,
+      "explanation": "Personal anecdotes are the least reliable form of evidence because they represent one individual's experience, cannot be verified, and may not be representative of the broader population or issue."
+    },
+    {
+      "id": 136,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Identifying the Audience",
+      "difficulty": 2,
+      "question": "A passage that uses technical medical terminology without explanation is MOST likely written for an audience of:",
+      "options": [
+        "Primary school students",
+        "General members of the public",
+        "Healthcare professionals or students",
+        "Government policy makers with no medical background"
+      ],
+      "answer": 2,
+      "explanation": "Technical vocabulary without explanation assumes readers already understand the terminology. A text using unglossed medical jargon is written for a specialist audience — healthcare professionals or students."
+    },
+    {
+      "id": 137,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Allegory",
+      "difficulty": 3,
+      "question": "An allegory is a narrative in which:",
+      "options": [
+        "The setting is described in great detail",
+        "A character dies at the end",
+        "Characters, events and settings represent abstract concepts or moral/political ideas at a deeper level",
+        "The story is told from multiple points of view"
+      ],
+      "answer": 2,
+      "explanation": "An allegory operates on two levels: the literal story and a deeper symbolic meaning. George Orwell's 'Animal Farm' is a famous allegory — on the surface a story about farm animals, but representing political commentary on totalitarianism."
+    },
+    {
+      "id": 138,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Noun Clauses",
+      "difficulty": 3,
+      "question": "Identify the NOUN CLAUSE in the sentence: 'What she told the committee surprised everyone.'",
+      "options": [
+        "surprised everyone",
+        "What she told the committee",
+        "the committee",
+        "everyone"
+      ],
+      "answer": 1,
+      "explanation": "'What she told the committee' functions as the subject of the sentence — a noun clause performs the role of a noun (subject, object or complement). It can be replaced with 'Her statement' or 'It'."
+    },
+    {
+      "id": 139,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Persuasive Writing",
+      "topic": "Voice and Style",
+      "difficulty": 3,
+      "question": "In persuasive writing, using 'we' instead of 'you' (e.g. 'We must act now' instead of 'You must act now') creates:",
+      "options": [
+        "A more authoritative, distanced tone",
+        "A sense of shared responsibility and collective identity between the writer and reader",
+        "A passive, uncommitted tone",
+        "A more formal academic register"
+      ],
+      "answer": 1,
+      "explanation": "Using 'we' includes the writer in the action, creating a sense of shared purpose and solidarity. It is less accusatory than 'you', building a collective identity that can be more persuasive."
+    },
+    {
+      "id": 140,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Report Writing",
+      "topic": "Report — Terms of Reference",
+      "difficulty": 2,
+      "question": "In a formal report, the 'Terms of Reference' section serves to:",
+      "options": [
+        "List all sources used in the report",
+        "Present the main findings",
+        "State the purpose, scope and limitations of the report — what it was asked to investigate",
+        "Give the writer's personal recommendations"
+      ],
+      "answer": 2,
+      "explanation": "Terms of Reference define why the report was written, what it was asked to examine, the scope of investigation and any limitations. It answers 'What was I asked to do and why?'"
+    },
+    {
+      "id": 141,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Imagery — Sensory",
+      "difficulty": 2,
+      "passage": "Sunday mornings in Grandma's kitchen smelled of cinnamon and cocoa and fresh bread still warm from the oven. The radio played old calypso softly, and the whole house moved at the pace of the breeze through the jalousies.",
+      "question": "The opening sentence 'smelled of cinnamon and cocoa and fresh bread' primarily appeals to which sense?",
+      "options": [
+        "Sight",
+        "Touch",
+        "Smell (olfactory imagery)",
+        "Hearing"
+      ],
+      "answer": 2,
+      "explanation": "The description of cinnamon, cocoa and fresh bread directly invokes the sense of smell — this is olfactory imagery. Sensory imagery makes a scene vivid and immediate for the reader."
+    },
+    {
+      "id": 142,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Inverted Commas vs Italics",
+      "difficulty": 2,
+      "question": "Which sentence correctly refers to the title of a short poem?",
+      "options": [
+        "She memorised If by Rudyard Kipling.",
+        "She memorised 'If' by Rudyard Kipling.",
+        "She memorised If by Rudyard Kipling.",
+        "She memorised IF by Rudyard Kipling."
+      ],
+      "answer": 1,
+      "explanation": "Titles of short poems, articles and short stories are placed in single or double quotation marks: 'If'. Titles of full-length books are italicised or underlined."
+    },
+    {
+      "id": 143,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Distinguishing Types of Writing",
+      "difficulty": 2,
+      "question": "Which of the following is an example of PERSUASIVE writing rather than informative writing?",
+      "options": [
+        "Water covers approximately 71% of the Earth's surface.",
+        "The Amazon rainforest contains approximately 10% of the world's plant and animal species.",
+        "The destruction of the Amazon rainforest is an ecological crime that humanity cannot afford to ignore.",
+        "Deforestation occurs when forests are cleared for agriculture, logging or development."
+      ],
+      "answer": 2,
+      "explanation": "Option C takes a strong position ('ecological crime') and uses emotive language ('cannot afford to ignore') — hallmarks of persuasive writing. The others are objective statements of fact."
+    },
+    {
+      "id": 144,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Visual Text — Chart",
+      "difficulty": 2,
+      "question": "When reading a bar chart or table in an examination, you should FIRST look at:",
+      "options": [
+        "The longest bar in the chart",
+        "The title, axis labels and key/legend to understand what the data represents before drawing conclusions",
+        "The data that supports your own opinion",
+        "Only the most recent year of data"
+      ],
+      "answer": 1,
+      "explanation": "Understanding a visual text requires first grasping what is being shown — the title tells you the topic, axis labels tell you what is being measured, and the key explains colours or symbols before any data analysis."
+    },
+    {
+      "id": 145,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Reading Comprehension",
+      "topic": "Theme vs Subject",
+      "difficulty": 3,
+      "question": "The THEME of a literary text is BEST described as:",
+      "options": [
+        "What the text is literally about (the events and characters)",
+        "The abstract, universal message or insight about human life that the text conveys",
+        "The setting and time period of the text",
+        "The genre of the text"
+      ],
+      "answer": 1,
+      "explanation": "Subject is WHAT a text is about (e.g. a war story). Theme is the deeper message (e.g. the futility of war, the endurance of hope). Theme is universal and can be expressed as a general truth about human experience."
+    },
+    {
+      "id": 146,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Grammar",
+      "topic": "Clause Types",
+      "difficulty": 3,
+      "question": "In the sentence 'The report, which was submitted late, caused significant problems', the clause 'which was submitted late' is:",
+      "options": [
+        "A defining relative clause",
+        "A non-defining relative clause",
+        "An adverbial clause",
+        "A main clause"
+      ],
+      "answer": 1,
+      "explanation": "A non-defining (non-restrictive) relative clause adds extra information that could be removed without changing the core meaning. It is set off by commas. Here, we already know which report — 'which was submitted late' simply adds extra detail."
+    },
+    {
+      "id": 147,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Persuasive Writing",
+      "topic": "Conclusion Writing",
+      "difficulty": 2,
+      "question": "An effective conclusion to a persuasive essay should:",
+      "options": [
+        "Introduce entirely new evidence and arguments",
+        "Simply repeat the introduction word for word",
+        "Restate the thesis in new words, synthesise key points and end with a memorable closing statement or call to action",
+        "List all the sources used in the essay"
+      ],
+      "answer": 2,
+      "explanation": "A strong conclusion brings closure by restating the thesis (in new words), drawing together the key arguments, and leaving the reader with a powerful final impression or call to action — not just a repetition of the introduction."
+    },
+    {
+      "id": 148,
+      "strand": "Module 1: Informative Discourse",
+      "unit": "Vocabulary",
+      "topic": "Etymology",
+      "difficulty": 3,
+      "question": "The Latin root 'aqua' means water. Based on this, which of the following words does NOT contain this root?",
+      "options": [
+        "aquatic",
+        "aqueduct",
+        "aquamarine",
+        "adequate"
+      ],
+      "answer": 3,
+      "explanation": "'Adequate' comes from the Latin 'adaequare' (to make equal to) — it has no connection to 'aqua' (water). 'Aquatic', 'aqueduct' and 'aquamarine' all derive from 'aqua'."
+    },
+    {
+      "id": 149,
+      "strand": "Module 2: Literary Discourse",
+      "unit": "Literary Devices",
+      "topic": "Tone vs Mood",
+      "difficulty": 3,
+      "question": "The DIFFERENCE between tone and mood in a literary text is that:",
+      "options": [
+        "They are exactly the same thing",
+        "Tone is the writer's attitude toward the subject; mood is the emotional atmosphere experienced by the reader",
+        "Mood refers only to the weather in a story; tone refers to the character's speech",
+        "Tone is found only in poetry; mood is found only in prose"
+      ],
+      "answer": 1,
+      "explanation": "Tone is the author's attitude (angry, sarcastic, celebratory, melancholic). Mood is the feeling the reader experiences while reading. The same text can have a sarcastic tone while creating an uncomfortable mood for the reader."
+    },
+    {
+      "id": 150,
+      "strand": "Module 3: Persuasive Discourse",
+      "unit": "Persuasive Writing",
+      "topic": "Caribbean Relevance",
+      "difficulty": 3,
+      "question": "A student writing a persuasive essay arguing for greater Caribbean unity should draw on evidence from:",
+      "options": [
+        "Only personal feelings about the topic",
+        "Historical examples, economic data and regional success stories to ground the argument in credible, relevant evidence",
+        "Examples from European political integration only",
+        "Opinion pieces from social media"
+      ],
+      "answer": 1,
+      "explanation": "Credible persuasive arguments are built on relevant, verifiable evidence. For a Caribbean audience, regional historical examples (CARICOM, West Indies Federation), economic data and success stories are most persuasive and contextually appropriate."
+    }
+  ]
+}

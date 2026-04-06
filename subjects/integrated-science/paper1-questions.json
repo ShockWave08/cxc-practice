@@ -1,0 +1,2404 @@
+{
+  "paper1": [
+    {
+      "id": 1,
+      "strand": "Matter",
+      "unit": "Matter",
+      "topic": "States of Matter",
+      "difficulty": 1,
+      "question": "Which of the following correctly lists the three states of matter?",
+      "options": [
+        "Solid, liquid, plasma",
+        "Solid, liquid, gas",
+        "Liquid, gas, steam",
+        "Solid, vapour, gas"
+      ],
+      "answer": 1,
+      "explanation": "The three states of matter are solid, liquid and gas. Matter can change between these states through heating or cooling."
+    },
+    {
+      "id": 2,
+      "strand": "Matter",
+      "unit": "Matter",
+      "topic": "Properties of Matter",
+      "difficulty": 1,
+      "question": "Which property best distinguishes a solid from a liquid?",
+      "options": [
+        "Solids have no mass",
+        "Solids have a fixed shape and volume",
+        "Solids cannot be heated",
+        "Solids have no density"
+      ],
+      "answer": 1,
+      "explanation": "Solids have a definite shape and volume because their particles are tightly packed and vibrate in fixed positions."
+    },
+    {
+      "id": 3,
+      "strand": "Matter",
+      "unit": "Matter",
+      "topic": "Particle Theory",
+      "difficulty": 1,
+      "question": "Which of the following best describes the arrangement of particles in a gas?",
+      "options": [
+        "Closely packed in a regular pattern",
+        "Closely packed but able to flow",
+        "Far apart and moving randomly in all directions",
+        "Far apart in fixed positions"
+      ],
+      "answer": 2,
+      "explanation": "Gas particles are far apart, move randomly at high speed and have no fixed shape or volume."
+    },
+    {
+      "id": 4,
+      "strand": "Matter",
+      "unit": "Matter",
+      "topic": "Changes of State",
+      "difficulty": 2,
+      "question": "The process by which a liquid changes to a gas at its boiling point is called:",
+      "options": [
+        "Condensation",
+        "Evaporation",
+        "Sublimation",
+        "Vaporisation"
+      ],
+      "answer": 3,
+      "explanation": "Vaporisation (boiling) is the change from liquid to gas at the boiling point. Evaporation occurs at the surface below boiling point."
+    },
+    {
+      "id": 5,
+      "strand": "Matter",
+      "unit": "Matter",
+      "topic": "Elements and Compounds",
+      "difficulty": 2,
+      "question": "Which of the following is an element?",
+      "options": [
+        "Water",
+        "Salt (NaCl)",
+        "Oxygen",
+        "Carbon dioxide"
+      ],
+      "answer": 2,
+      "explanation": "Oxygen (O₂) is an element — a pure substance made of only one type of atom. The others are compounds made of more than one element."
+    },
+    {
+      "id": 6,
+      "strand": "Matter",
+      "unit": "Matter",
+      "topic": "Mixtures",
+      "difficulty": 2,
+      "question": "Which of the following is a mixture?",
+      "options": [
+        "Pure water",
+        "Sodium chloride",
+        "Air",
+        "Carbon dioxide"
+      ],
+      "answer": 2,
+      "explanation": "Air is a mixture of gases including nitrogen, oxygen, argon and carbon dioxide — not chemically combined."
+    },
+    {
+      "id": 7,
+      "strand": "Matter",
+      "unit": "Matter",
+      "topic": "Atomic Structure",
+      "difficulty": 2,
+      "question": "The atomic number of an element tells us:",
+      "options": [
+        "The number of neutrons in the nucleus",
+        "The number of protons in the nucleus",
+        "The total mass of the atom",
+        "The number of electrons in the outer shell"
+      ],
+      "answer": 1,
+      "explanation": "The atomic number equals the number of protons in the nucleus, which defines the element."
+    },
+    {
+      "id": 8,
+      "strand": "Matter",
+      "unit": "Matter",
+      "topic": "Changes of State",
+      "difficulty": 3,
+      "question": "Sublimation is the process by which:",
+      "options": [
+        "A liquid becomes a solid",
+        "A solid changes directly to a gas without passing through the liquid state",
+        "A gas becomes a liquid",
+        "A liquid becomes a gas at the surface"
+      ],
+      "answer": 1,
+      "explanation": "Sublimation is the direct change from solid to gas, as seen with dry ice (solid CO₂) and iodine crystals."
+    },
+    {
+      "id": 9,
+      "strand": "Reproduction and Growth",
+      "unit": "Reproduction and Growth",
+      "topic": "Types of Reproduction",
+      "difficulty": 1,
+      "question": "Which of the following is an example of asexual reproduction?",
+      "options": [
+        "Fertilisation of an egg by a sperm",
+        "Budding in yeast",
+        "Pollination in flowers",
+        "Mating in mammals"
+      ],
+      "answer": 1,
+      "explanation": "Budding is a form of asexual reproduction where a new organism develops from an outgrowth of the parent."
+    },
+    {
+      "id": 10,
+      "strand": "Reproduction and Growth",
+      "unit": "Reproduction and Growth",
+      "topic": "Sexual Reproduction",
+      "difficulty": 1,
+      "question": "Fertilisation in humans occurs when:",
+      "options": [
+        "An egg cell is produced in the ovary",
+        "A sperm cell fuses with an egg cell",
+        "The embryo implants in the uterus",
+        "A baby is born"
+      ],
+      "answer": 1,
+      "explanation": "Fertilisation is the fusion of a male sperm cell with a female egg cell to form a zygote."
+    },
+    {
+      "id": 11,
+      "strand": "Reproduction and Growth",
+      "unit": "Reproduction and Growth",
+      "topic": "Plant Reproduction",
+      "difficulty": 1,
+      "question": "Which part of a flower produces pollen?",
+      "options": [
+        "Stigma",
+        "Ovary",
+        "Anther",
+        "Petal"
+      ],
+      "answer": 2,
+      "explanation": "The anther is the part of the stamen that produces and releases pollen grains containing the male gametes."
+    },
+    {
+      "id": 12,
+      "strand": "Reproduction and Growth",
+      "unit": "Reproduction and Growth",
+      "topic": "Growth",
+      "difficulty": 2,
+      "question": "Which of the following correctly describes growth in living organisms?",
+      "options": [
+        "A permanent increase in the number and size of cells",
+        "A temporary increase in body temperature",
+        "The movement of organisms toward light",
+        "The absorption of water only"
+      ],
+      "answer": 0,
+      "explanation": "Growth is defined as a permanent increase in the number and/or size of cells, resulting in increased mass and complexity."
+    },
+    {
+      "id": 13,
+      "strand": "Reproduction and Growth",
+      "unit": "Reproduction and Growth",
+      "topic": "Human Reproduction",
+      "difficulty": 2,
+      "question": "Where does fertilisation normally occur in the female human reproductive system?",
+      "options": [
+        "Uterus",
+        "Ovary",
+        "Fallopian tube",
+        "Cervix"
+      ],
+      "answer": 2,
+      "explanation": "Fertilisation normally takes place in the fallopian tube (oviduct) as the egg travels from the ovary to the uterus."
+    },
+    {
+      "id": 14,
+      "strand": "Reproduction and Growth",
+      "unit": "Reproduction and Growth",
+      "topic": "Types of Reproduction",
+      "difficulty": 2,
+      "question": "Which of the following is an advantage of sexual reproduction over asexual reproduction?",
+      "options": [
+        "It requires only one parent",
+        "It produces genetically identical offspring",
+        "It produces genetic variation which aids adaptation to changing environments",
+        "It is faster than asexual reproduction"
+      ],
+      "answer": 2,
+      "explanation": "Sexual reproduction produces offspring with genetic variation, which is important for adaptation and evolution."
+    },
+    {
+      "id": 15,
+      "strand": "Reproduction and Growth",
+      "unit": "Reproduction and Growth",
+      "topic": "Plant Reproduction",
+      "difficulty": 3,
+      "question": "Cross-pollination differs from self-pollination in that:",
+      "options": [
+        "It only occurs in wind-pollinated plants",
+        "Pollen is transferred from the anther of one plant to the stigma of a different plant of the same species",
+        "It produces genetically identical offspring",
+        "It occurs inside the flower"
+      ],
+      "answer": 1,
+      "explanation": "Cross-pollination involves pollen transfer between different individuals of the same species, producing greater genetic variation than self-pollination."
+    },
+    {
+      "id": 16,
+      "strand": "Food and Nutrition",
+      "unit": "Food and Nutrition",
+      "topic": "Nutrients",
+      "difficulty": 1,
+      "question": "Which nutrient is the main source of energy in the diet?",
+      "options": [
+        "Protein",
+        "Vitamins",
+        "Carbohydrates",
+        "Minerals"
+      ],
+      "answer": 2,
+      "explanation": "Carbohydrates are the body's primary energy source, broken down into glucose for cellular respiration."
+    },
+    {
+      "id": 17,
+      "strand": "Food and Nutrition",
+      "unit": "Food and Nutrition",
+      "topic": "Nutrients",
+      "difficulty": 1,
+      "question": "Which of the following is a function of protein in the body?",
+      "options": [
+        "Providing long-term energy storage",
+        "Building and repairing body tissues",
+        "Regulating body temperature only",
+        "Transporting oxygen in the blood only"
+      ],
+      "answer": 1,
+      "explanation": "Proteins are essential for the growth, repair and maintenance of body tissues including muscles, enzymes and hormones."
+    },
+    {
+      "id": 18,
+      "strand": "Food and Nutrition",
+      "unit": "Food and Nutrition",
+      "topic": "Deficiency Diseases",
+      "difficulty": 2,
+      "question": "Which disease is caused by a deficiency of Vitamin C?",
+      "options": [
+        "Rickets",
+        "Scurvy",
+        "Anaemia",
+        "Kwashiorkor"
+      ],
+      "answer": 1,
+      "explanation": "Scurvy is caused by Vitamin C deficiency, leading to bleeding gums, joint pain and poor wound healing."
+    },
+    {
+      "id": 19,
+      "strand": "Food and Nutrition",
+      "unit": "Food and Nutrition",
+      "topic": "Deficiency Diseases",
+      "difficulty": 2,
+      "question": "Kwashiorkor is caused by a deficiency of:",
+      "options": [
+        "Vitamin D",
+        "Carbohydrates",
+        "Protein",
+        "Iron"
+      ],
+      "answer": 2,
+      "explanation": "Kwashiorkor is a form of severe protein malnutrition, common in children, causing swollen abdomen, skin lesions and stunted growth."
+    },
+    {
+      "id": 20,
+      "strand": "Food and Nutrition",
+      "unit": "Food and Nutrition",
+      "topic": "Nutrients",
+      "difficulty": 2,
+      "question": "Which mineral is essential for the formation of haemoglobin in red blood cells?",
+      "options": [
+        "Calcium",
+        "Iron",
+        "Sodium",
+        "Potassium"
+      ],
+      "answer": 1,
+      "explanation": "Iron is a key component of haemoglobin, the protein in red blood cells that carries oxygen."
+    },
+    {
+      "id": 21,
+      "strand": "Food and Nutrition",
+      "unit": "Food and Nutrition",
+      "topic": "Digestion",
+      "difficulty": 2,
+      "question": "Which organ produces bile to aid in the digestion of fats?",
+      "options": [
+        "Stomach",
+        "Pancreas",
+        "Liver",
+        "Small intestine"
+      ],
+      "answer": 2,
+      "explanation": "The liver produces bile, which is stored in the gall bladder and released into the small intestine to emulsify fats."
+    },
+    {
+      "id": 22,
+      "strand": "Food and Nutrition",
+      "unit": "Food and Nutrition",
+      "topic": "Deficiency Diseases",
+      "difficulty": 3,
+      "question": "Rickets in children is caused by a deficiency of:",
+      "options": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D and calcium"
+      ],
+      "answer": 3,
+      "explanation": "Rickets results from Vitamin D and/or calcium deficiency, causing soft and weakened bones, bowed legs and stunted growth."
+    },
+    {
+      "id": 23,
+      "strand": "Transport System",
+      "unit": "Transport System",
+      "topic": "Blood",
+      "difficulty": 1,
+      "question": "What is the main function of red blood cells?",
+      "options": [
+        "Fighting infection",
+        "Carrying oxygen around the body",
+        "Clotting blood",
+        "Producing antibodies"
+      ],
+      "answer": 1,
+      "explanation": "Red blood cells contain haemoglobin, which binds to oxygen in the lungs and transports it to body tissues."
+    },
+    {
+      "id": 24,
+      "strand": "Transport System",
+      "unit": "Transport System",
+      "topic": "Blood Vessels",
+      "difficulty": 1,
+      "question": "Which blood vessels carry blood back to the heart?",
+      "options": [
+        "Arteries",
+        "Capillaries",
+        "Veins",
+        "Venules only"
+      ],
+      "answer": 2,
+      "explanation": "Veins carry deoxygenated blood from body tissues back to the heart. They have valves to prevent backflow."
+    },
+    {
+      "id": 25,
+      "strand": "Transport System",
+      "unit": "Transport System",
+      "topic": "Heart",
+      "difficulty": 2,
+      "question": "The heart is described as a double pump because:",
+      "options": [
+        "It has two valves",
+        "It pumps blood to both the lungs and the body in separate circuits",
+        "It beats twice per second",
+        "It has two arteries"
+      ],
+      "answer": 1,
+      "explanation": "The right side pumps deoxygenated blood to the lungs (pulmonary circuit) and the left side pumps oxygenated blood to the body (systemic circuit)."
+    },
+    {
+      "id": 26,
+      "strand": "Transport System",
+      "unit": "Transport System",
+      "topic": "Plant Transport",
+      "difficulty": 2,
+      "question": "Which tissue in plants transports water and dissolved minerals from roots to leaves?",
+      "options": [
+        "Phloem",
+        "Epidermis",
+        "Xylem",
+        "Cortex"
+      ],
+      "answer": 2,
+      "explanation": "Xylem tissue transports water and dissolved minerals upward from the roots to the rest of the plant."
+    },
+    {
+      "id": 27,
+      "strand": "Transport System",
+      "unit": "Transport System",
+      "topic": "Plant Transport",
+      "difficulty": 2,
+      "question": "Which tissue transports dissolved sugars produced by photosynthesis from leaves to other parts of a plant?",
+      "options": [
+        "Xylem",
+        "Phloem",
+        "Stomata",
+        "Epidermis"
+      ],
+      "answer": 1,
+      "explanation": "Phloem transports dissolved organic solutes (mainly sucrose) produced during photosynthesis from leaves to other plant organs."
+    },
+    {
+      "id": 28,
+      "strand": "Transport System",
+      "unit": "Transport System",
+      "topic": "Blood",
+      "difficulty": 3,
+      "question": "Which component of blood is responsible for destroying pathogens?",
+      "options": [
+        "Red blood cells",
+        "Platelets",
+        "Plasma",
+        "White blood cells"
+      ],
+      "answer": 3,
+      "explanation": "White blood cells (leucocytes) are part of the immune system and defend the body against pathogens through phagocytosis and antibody production."
+    },
+    {
+      "id": 29,
+      "strand": "Respiration and Air Pollution",
+      "unit": "Respiration and Air Pollution",
+      "topic": "Respiration",
+      "difficulty": 1,
+      "question": "The word equation for aerobic respiration is:",
+      "options": [
+        "Glucose + oxygen → carbon dioxide + water + energy",
+        "Glucose → lactic acid + energy",
+        "Carbon dioxide + water → glucose + oxygen",
+        "Glucose + water → carbon dioxide + energy"
+      ],
+      "answer": 0,
+      "explanation": "Aerobic respiration: glucose + oxygen → carbon dioxide + water + energy (ATP). This releases the maximum energy from glucose."
+    },
+    {
+      "id": 30,
+      "strand": "Respiration and Air Pollution",
+      "unit": "Respiration and Air Pollution",
+      "topic": "Respiration",
+      "difficulty": 1,
+      "question": "Anaerobic respiration in humans produces:",
+      "options": [
+        "Carbon dioxide and water",
+        "Ethanol and carbon dioxide",
+        "Lactic acid and a small amount of energy",
+        "Glucose and oxygen"
+      ],
+      "answer": 2,
+      "explanation": "Human anaerobic respiration produces lactic acid when oxygen is insufficient, releasing much less energy than aerobic respiration."
+    },
+    {
+      "id": 31,
+      "strand": "Respiration and Air Pollution",
+      "unit": "Respiration and Air Pollution",
+      "topic": "Gas Exchange",
+      "difficulty": 2,
+      "question": "Gas exchange in the lungs occurs across the walls of the:",
+      "options": [
+        "Bronchi",
+        "Trachea",
+        "Alveoli",
+        "Bronchioles"
+      ],
+      "answer": 2,
+      "explanation": "The alveoli are tiny air sacs with thin, moist walls and a rich capillary network, making them ideal for gas exchange by diffusion."
+    },
+    {
+      "id": 32,
+      "strand": "Respiration and Air Pollution",
+      "unit": "Respiration and Air Pollution",
+      "topic": "Air Pollution",
+      "difficulty": 2,
+      "question": "Which gas produced by burning fossil fuels is a major cause of acid rain?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Sulphur dioxide",
+        "Carbon monoxide"
+      ],
+      "answer": 2,
+      "explanation": "Sulphur dioxide (SO₂) released from burning fossil fuels dissolves in atmospheric water to form sulphurous and sulphuric acid, causing acid rain."
+    },
+    {
+      "id": 33,
+      "strand": "Respiration and Air Pollution",
+      "unit": "Respiration and Air Pollution",
+      "topic": "Air Pollution",
+      "difficulty": 2,
+      "question": "Carbon monoxide is a dangerous air pollutant because:",
+      "options": [
+        "It smells very strongly",
+        "It combines with haemoglobin more readily than oxygen, reducing oxygen transport",
+        "It causes acid rain",
+        "It depletes the ozone layer"
+      ],
+      "answer": 1,
+      "explanation": "CO binds to haemoglobin 200× more readily than oxygen, forming carboxyhaemoglobin and reducing the blood's ability to carry oxygen."
+    },
+    {
+      "id": 34,
+      "strand": "Respiration and Air Pollution",
+      "unit": "Respiration and Air Pollution",
+      "topic": "Air Pollution",
+      "difficulty": 3,
+      "question": "The greenhouse effect refers to:",
+      "options": [
+        "The growing of plants in a greenhouse",
+        "The trapping of heat in the Earth's atmosphere by greenhouse gases such as CO₂ and methane",
+        "The cooling of the Earth by clouds",
+        "The depletion of the ozone layer"
+      ],
+      "answer": 1,
+      "explanation": "Greenhouse gases trap outgoing infrared radiation from the Earth's surface, warming the atmosphere — the greenhouse effect."
+    },
+    {
+      "id": 35,
+      "strand": "Excretion",
+      "unit": "Excretion",
+      "topic": "Excretory Organs",
+      "difficulty": 1,
+      "question": "What is the main excretory organ in the human body?",
+      "options": [
+        "Liver",
+        "Lungs",
+        "Kidneys",
+        "Skin"
+      ],
+      "answer": 2,
+      "explanation": "The kidneys are the main excretory organs, filtering the blood to remove urea and excess water as urine."
+    },
+    {
+      "id": 36,
+      "strand": "Excretion",
+      "unit": "Excretion",
+      "topic": "Excretion",
+      "difficulty": 1,
+      "question": "Excretion is best defined as:",
+      "options": [
+        "The removal of undigested food from the body",
+        "The removal of metabolic waste products from the body",
+        "The absorption of nutrients",
+        "The storage of waste"
+      ],
+      "answer": 1,
+      "explanation": "Excretion is the removal of waste products produced by metabolic reactions (e.g. urea, CO₂, water) from the body."
+    },
+    {
+      "id": 37,
+      "strand": "Excretion",
+      "unit": "Excretion",
+      "topic": "Kidney Function",
+      "difficulty": 2,
+      "question": "Urea is produced in the liver from the breakdown of:",
+      "options": [
+        "Carbohydrates",
+        "Fats",
+        "Excess amino acids (proteins)",
+        "Glucose"
+      ],
+      "answer": 2,
+      "explanation": "Excess amino acids cannot be stored, so the liver converts them to urea through deamination. Urea is then excreted by the kidneys."
+    },
+    {
+      "id": 38,
+      "strand": "Excretion",
+      "unit": "Excretion",
+      "topic": "Kidney Function",
+      "difficulty": 2,
+      "question": "The functional unit of the kidney is the:",
+      "options": [
+        "Ureter",
+        "Nephron",
+        "Renal artery",
+        "Urinary bladder"
+      ],
+      "answer": 1,
+      "explanation": "The nephron is the microscopic filtering unit of the kidney. Each kidney contains approximately one million nephrons."
+    },
+    {
+      "id": 39,
+      "strand": "Excretion",
+      "unit": "Excretion",
+      "topic": "Excretory Organs",
+      "difficulty": 2,
+      "question": "Which gas is excreted by the lungs as a waste product of respiration?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Sulphur dioxide"
+      ],
+      "answer": 2,
+      "explanation": "Carbon dioxide produced during cellular respiration is transported to the lungs and exhaled — the lungs' primary excretory function."
+    },
+    {
+      "id": 40,
+      "strand": "Excretion",
+      "unit": "Excretion",
+      "topic": "Kidney Function",
+      "difficulty": 3,
+      "question": "Osmoregulation by the kidneys involves:",
+      "options": [
+        "Filtering out all substances from the blood",
+        "Controlling the water and salt balance of the blood to maintain homeostasis",
+        "Producing urine only",
+        "Removing carbon dioxide"
+      ],
+      "answer": 1,
+      "explanation": "Osmoregulation is the regulation of water and ion concentrations in the blood, carried out by the kidneys to maintain homeostasis."
+    },
+    {
+      "id": 41,
+      "strand": "Sense Organs",
+      "unit": "Sense Organs",
+      "topic": "The Eye",
+      "difficulty": 1,
+      "question": "Which part of the eye controls the amount of light entering it?",
+      "options": [
+        "Cornea",
+        "Retina",
+        "Iris",
+        "Lens"
+      ],
+      "answer": 2,
+      "explanation": "The iris controls the size of the pupil, regulating how much light enters the eye."
+    },
+    {
+      "id": 42,
+      "strand": "Sense Organs",
+      "unit": "Sense Organs",
+      "topic": "The Ear",
+      "difficulty": 1,
+      "question": "Which part of the ear is responsible for balance?",
+      "options": [
+        "Cochlea",
+        "Eardrum",
+        "Semicircular canals",
+        "Auditory nerve"
+      ],
+      "answer": 2,
+      "explanation": "The semicircular canals in the inner ear detect rotational movement and are responsible for balance."
+    },
+    {
+      "id": 43,
+      "strand": "Sense Organs",
+      "unit": "Sense Organs",
+      "topic": "The Eye",
+      "difficulty": 2,
+      "question": "The image formed on the retina is:",
+      "options": [
+        "Upright and magnified",
+        "Inverted and smaller",
+        "The same size as the object",
+        "Upright and smaller"
+      ],
+      "answer": 1,
+      "explanation": "The lens focuses light onto the retina, forming an inverted (upside down) and smaller image which the brain corrects."
+    },
+    {
+      "id": 44,
+      "strand": "Sense Organs",
+      "unit": "Sense Organs",
+      "topic": "The Nervous System",
+      "difficulty": 2,
+      "question": "A reflex action is:",
+      "options": [
+        "A conscious voluntary response to a stimulus",
+        "A rapid automatic involuntary response to a stimulus",
+        "A slow response involving the brain",
+        "A learned behaviour"
+      ],
+      "answer": 1,
+      "explanation": "Reflex actions are fast, automatic and involuntary responses controlled by the spinal cord, bypassing conscious brain processing."
+    },
+    {
+      "id": 45,
+      "strand": "Sense Organs",
+      "unit": "Sense Organs",
+      "topic": "The Eye",
+      "difficulty": 2,
+      "question": "Which defect of the eye is corrected using a concave lens?",
+      "options": [
+        "Long-sightedness (hyperopia)",
+        "Astigmatism",
+        "Short-sightedness (myopia)",
+        "Colour blindness"
+      ],
+      "answer": 2,
+      "explanation": "Myopia (short-sightedness) occurs when the eyeball is too long, causing images to focus in front of the retina. A concave (diverging) lens corrects this."
+    },
+    {
+      "id": 46,
+      "strand": "Sense Organs",
+      "unit": "Sense Organs",
+      "topic": "The Ear",
+      "difficulty": 2,
+      "question": "Sound is transmitted from the outer ear to the inner ear by:",
+      "options": [
+        "Fluid only",
+        "The auditory nerve",
+        "Three small bones: the malleus, incus and stapes",
+        "The eardrum alone"
+      ],
+      "answer": 2,
+      "explanation": "Sound vibrations pass through the eardrum and are amplified by the three ossicles (malleus, incus, stapes) before reaching the inner ear."
+    },
+    {
+      "id": 47,
+      "strand": "Sense Organs",
+      "unit": "Sense Organs",
+      "topic": "The Nervous System",
+      "difficulty": 3,
+      "question": "The path of a nerve impulse in a reflex arc is:",
+      "options": [
+        "Effector → motor neurone → relay neurone → sensory neurone → receptor",
+        "Receptor → sensory neurone → relay neurone → motor neurone → effector",
+        "Brain → motor neurone → receptor → sensory neurone",
+        "Receptor → motor neurone → brain → effector"
+      ],
+      "answer": 1,
+      "explanation": "In a reflex arc: stimulus → receptor → sensory neurone → relay neurone (spinal cord) → motor neurone → effector (muscle/gland)."
+    },
+    {
+      "id": 48,
+      "strand": "Health",
+      "unit": "Health",
+      "topic": "Communicable Diseases",
+      "difficulty": 1,
+      "question": "Which of the following diseases is caused by a bacterium?",
+      "options": [
+        "Influenza",
+        "Malaria",
+        "Tuberculosis",
+        "HIV/AIDS"
+      ],
+      "answer": 2,
+      "explanation": "Tuberculosis (TB) is caused by the bacterium Mycobacterium tuberculosis. Influenza and HIV are viral; malaria is caused by a protozoan parasite."
+    },
+    {
+      "id": 49,
+      "strand": "Health",
+      "unit": "Health",
+      "topic": "Non-communicable Diseases",
+      "difficulty": 1,
+      "question": "Which of the following is a non-communicable disease?",
+      "options": [
+        "Cholera",
+        "Influenza",
+        "Diabetes mellitus",
+        "Tuberculosis"
+      ],
+      "answer": 2,
+      "explanation": "Diabetes mellitus is a non-communicable disease — it is not spread from person to person but results from lifestyle and genetic factors."
+    },
+    {
+      "id": 50,
+      "strand": "Health",
+      "unit": "Health",
+      "topic": "Immunity",
+      "difficulty": 2,
+      "question": "Vaccination protects against disease by:",
+      "options": [
+        "Killing all bacteria in the body",
+        "Stimulating the immune system to produce antibodies without causing the disease",
+        "Increasing the number of red blood cells",
+        "Providing a cure after infection"
+      ],
+      "answer": 1,
+      "explanation": "Vaccines contain weakened or dead pathogens or antigens that stimulate the immune system to produce antibodies, providing future protection."
+    },
+    {
+      "id": 51,
+      "strand": "Health",
+      "unit": "Health",
+      "topic": "Communicable Diseases",
+      "difficulty": 2,
+      "question": "Malaria is transmitted to humans by:",
+      "options": [
+        "Contaminated water",
+        "The bite of an infected female Anopheles mosquito",
+        "Direct contact with an infected person",
+        "Contaminated food"
+      ],
+      "answer": 1,
+      "explanation": "Malaria is caused by Plasmodium parasites transmitted through the bite of infected female Anopheles mosquitoes."
+    },
+    {
+      "id": 52,
+      "strand": "Health",
+      "unit": "Health",
+      "topic": "Communicable Diseases",
+      "difficulty": 2,
+      "question": "Which of the following is the correct method of preventing the spread of cholera?",
+      "options": [
+        "Vaccination against mosquitoes",
+        "Ensuring clean drinking water and proper sanitation",
+        "Using insect repellent",
+        "Avoiding sunlight"
+      ],
+      "answer": 1,
+      "explanation": "Cholera is spread through contaminated water and food. Safe water supplies and proper sanitation are the primary prevention methods."
+    },
+    {
+      "id": 53,
+      "strand": "Health",
+      "unit": "Health",
+      "topic": "STIs",
+      "difficulty": 3,
+      "question": "HIV (Human Immunodeficiency Virus) attacks which cells of the immune system?",
+      "options": [
+        "Red blood cells",
+        "Platelets",
+        "CD4+ T helper cells",
+        "Neutrophils"
+      ],
+      "answer": 2,
+      "explanation": "HIV specifically attacks and destroys CD4+ T helper cells, weakening the immune system and eventually leading to AIDS."
+    },
+    {
+      "id": 54,
+      "strand": "Temperature Control and Ventilation",
+      "unit": "Temperature Control and Ventilation",
+      "topic": "Thermoregulation",
+      "difficulty": 1,
+      "question": "Which process helps cool the body during exercise?",
+      "options": [
+        "Shivering",
+        "Vasoconstriction",
+        "Sweating",
+        "Piloerection"
+      ],
+      "answer": 2,
+      "explanation": "Sweating cools the body as water evaporates from the skin surface, removing heat energy."
+    },
+    {
+      "id": 55,
+      "strand": "Temperature Control and Ventilation",
+      "unit": "Temperature Control and Ventilation",
+      "topic": "Thermoregulation",
+      "difficulty": 2,
+      "question": "When the body is too cold, which response helps to generate heat?",
+      "options": [
+        "Sweating",
+        "Vasodilation",
+        "Shivering",
+        "Increased urine production"
+      ],
+      "answer": 2,
+      "explanation": "Shivering involves rapid involuntary muscle contractions that generate heat through increased metabolic activity."
+    },
+    {
+      "id": 56,
+      "strand": "Temperature Control and Ventilation",
+      "unit": "Temperature Control and Ventilation",
+      "topic": "Thermoregulation",
+      "difficulty": 2,
+      "question": "Vasodilation of blood vessels near the skin surface during hot conditions causes:",
+      "options": [
+        "Reduced heat loss",
+        "Increased heat loss by radiation and convection from the skin",
+        "Increased blood pressure",
+        "Reduced sweating"
+      ],
+      "answer": 1,
+      "explanation": "Vasodilation increases blood flow near the skin surface, allowing more heat to be lost to the environment by radiation and convection."
+    },
+    {
+      "id": 57,
+      "strand": "Temperature Control and Ventilation",
+      "unit": "Temperature Control and Ventilation",
+      "topic": "Ventilation",
+      "difficulty": 2,
+      "question": "In buildings, ventilation is important because it:",
+      "options": [
+        "Reduces electricity use",
+        "Removes stale air and replaces it with fresh air maintaining air quality",
+        "Keeps rooms warmer",
+        "Increases humidity"
+      ],
+      "answer": 1,
+      "explanation": "Ventilation replaces stale air (high in CO₂, humidity and pollutants) with fresh air, maintaining healthy indoor air quality."
+    },
+    {
+      "id": 58,
+      "strand": "Temperature Control and Ventilation",
+      "unit": "Temperature Control and Ventilation",
+      "topic": "Thermoregulation",
+      "difficulty": 3,
+      "question": "The hypothalamus plays a key role in thermoregulation by:",
+      "options": [
+        "Producing sweat directly",
+        "Acting as the body's thermostat — detecting changes in blood temperature and triggering appropriate responses",
+        "Controlling digestion",
+        "Regulating blood pressure only"
+      ],
+      "answer": 1,
+      "explanation": "The hypothalamus monitors core blood temperature and coordinates responses such as sweating, shivering and vasodilation/constriction to maintain 37°C."
+    },
+    {
+      "id": 59,
+      "strand": "Conservation of Energy",
+      "unit": "Conservation of Energy",
+      "topic": "Energy Transformations",
+      "difficulty": 1,
+      "question": "The law of conservation of energy states that:",
+      "options": [
+        "Energy can be created from nothing",
+        "Energy can be destroyed under certain conditions",
+        "Energy cannot be created or destroyed but can be transformed from one form to another",
+        "Energy always increases in a system"
+      ],
+      "answer": 2,
+      "explanation": "The law of conservation of energy states energy is neither created nor destroyed — it is converted from one form to another."
+    },
+    {
+      "id": 60,
+      "strand": "Conservation of Energy",
+      "unit": "Conservation of Energy",
+      "topic": "Energy Forms",
+      "difficulty": 1,
+      "question": "Which of the following is an example of chemical energy being converted to kinetic energy?",
+      "options": [
+        "A torch converting electrical energy to light",
+        "A car engine burning petrol to move",
+        "A dam generating electricity",
+        "A solar panel producing electricity"
+      ],
+      "answer": 1,
+      "explanation": "A car engine converts the chemical energy in petrol (fuel) to kinetic energy (movement) through combustion."
+    },
+    {
+      "id": 61,
+      "strand": "Conservation of Energy",
+      "unit": "Conservation of Energy",
+      "topic": "Energy Efficiency",
+      "difficulty": 2,
+      "question": "Energy efficiency is defined as:",
+      "options": [
+        "The total energy input",
+        "The ratio of useful energy output to total energy input, expressed as a percentage",
+        "The total energy wasted",
+        "The speed at which energy is transferred"
+      ],
+      "answer": 1,
+      "explanation": "Efficiency = (useful energy output ÷ total energy input) × 100%. It measures how much input energy is usefully converted."
+    },
+    {
+      "id": 62,
+      "strand": "Conservation of Energy",
+      "unit": "Conservation of Energy",
+      "topic": "Energy Transformations",
+      "difficulty": 2,
+      "question": "In a hydroelectric power station, what energy transformation takes place?",
+      "options": [
+        "Chemical → electrical",
+        "Kinetic → chemical",
+        "Gravitational potential → kinetic → electrical",
+        "Nuclear → electrical"
+      ],
+      "answer": 2,
+      "explanation": "Water stored at height has gravitational potential energy, which converts to kinetic energy as it falls, then to electrical energy via a turbine and generator."
+    },
+    {
+      "id": 63,
+      "strand": "Conservation of Energy",
+      "unit": "Conservation of Energy",
+      "topic": "Energy Resources",
+      "difficulty": 3,
+      "question": "Which of the following best explains why fossil fuels are considered non-renewable?",
+      "options": [
+        "They produce too much energy",
+        "They took millions of years to form and are being used much faster than they can be replenished",
+        "They are found only underground",
+        "They cannot be burned"
+      ],
+      "answer": 1,
+      "explanation": "Fossil fuels (coal, oil, gas) formed over millions of years from organic matter. They are consumed far faster than new reserves can form, making them non-renewable."
+    },
+    {
+      "id": 64,
+      "strand": "Electricity",
+      "unit": "Electricity",
+      "topic": "Electric Circuits",
+      "difficulty": 1,
+      "question": "Which of the following is the unit of electrical resistance?",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Watt"
+      ],
+      "answer": 2,
+      "explanation": "Resistance is measured in ohms (Ω), named after Georg Ohm who formulated Ohm's Law."
+    },
+    {
+      "id": 65,
+      "strand": "Electricity",
+      "unit": "Electricity",
+      "topic": "Ohm's Law",
+      "difficulty": 1,
+      "question": "Ohm's Law states that:",
+      "options": [
+        "Power = voltage × current",
+        "Voltage = current × resistance",
+        "Current = voltage × resistance",
+        "Resistance = voltage + current"
+      ],
+      "answer": 1,
+      "explanation": "Ohm's Law: V = IR, where V is voltage (volts), I is current (amperes) and R is resistance (ohms)."
+    },
+    {
+      "id": 66,
+      "strand": "Electricity",
+      "unit": "Electricity",
+      "topic": "Electric Circuits",
+      "difficulty": 2,
+      "question": "In a series circuit, if one bulb burns out:",
+      "options": [
+        "All other bulbs continue to work",
+        "All other bulbs go out",
+        "The circuit short-circuits",
+        "The other bulbs become brighter"
+      ],
+      "answer": 1,
+      "explanation": "In a series circuit there is only one path for current. If one component fails (open circuit), the whole circuit breaks and all components stop working."
+    },
+    {
+      "id": 67,
+      "strand": "Electricity",
+      "unit": "Electricity",
+      "topic": "Electric Power",
+      "difficulty": 2,
+      "question": "Electrical power is calculated using the formula:",
+      "options": [
+        "P = V/I",
+        "P = V + I",
+        "P = V × I",
+        "P = I/V"
+      ],
+      "answer": 2,
+      "explanation": "Electrical power P = VI, where V is voltage in volts and I is current in amperes. Power is measured in watts (W)."
+    },
+    {
+      "id": 68,
+      "strand": "Electricity",
+      "unit": "Electricity",
+      "topic": "Safety",
+      "difficulty": 2,
+      "question": "A fuse in an electrical circuit functions to:",
+      "options": [
+        "Increase current flow",
+        "Reduce voltage",
+        "Protect the circuit by melting and breaking the circuit if current becomes too high",
+        "Store electrical energy"
+      ],
+      "answer": 2,
+      "explanation": "A fuse contains a wire that melts when current exceeds a safe level, breaking the circuit and preventing damage or fire."
+    },
+    {
+      "id": 69,
+      "strand": "Electricity",
+      "unit": "Electricity",
+      "topic": "Ohm's Law",
+      "difficulty": 3,
+      "question": "A circuit has a voltage of 12V and a resistance of 4Ω. What is the current?",
+      "options": [
+        "48 A",
+        "8 A",
+        "3 A",
+        "0.3 A"
+      ],
+      "answer": 2,
+      "explanation": "Using Ohm's Law: I = V/R = 12/4 = 3 A."
+    },
+    {
+      "id": 70,
+      "strand": "Lighting",
+      "unit": "Lighting",
+      "topic": "Light Properties",
+      "difficulty": 1,
+      "question": "Which of the following correctly describes reflection of light?",
+      "options": [
+        "Light bending as it passes from one medium to another",
+        "Light bouncing off a surface",
+        "Light being absorbed by a material",
+        "Light splitting into colours"
+      ],
+      "answer": 1,
+      "explanation": "Reflection occurs when light bounces off a surface. The angle of incidence equals the angle of reflection."
+    },
+    {
+      "id": 71,
+      "strand": "Lighting",
+      "unit": "Lighting",
+      "topic": "Refraction",
+      "difficulty": 1,
+      "question": "Refraction of light occurs when:",
+      "options": [
+        "Light bounces off a mirror",
+        "Light is absorbed by a surface",
+        "Light bends as it passes from one medium to another of different optical density",
+        "Light splits into its spectrum"
+      ],
+      "answer": 2,
+      "explanation": "Refraction is the bending of light when it passes between materials of different optical densities, such as air to glass."
+    },
+    {
+      "id": 72,
+      "strand": "Lighting",
+      "unit": "Lighting",
+      "topic": "Colours of Light",
+      "difficulty": 2,
+      "question": "When white light passes through a prism, it separates into a spectrum because:",
+      "options": [
+        "The prism is triangular",
+        "Different colours of light are refracted by different amounts due to their different wavelengths",
+        "The prism absorbs some colours",
+        "White light contains only red, green and blue"
+      ],
+      "answer": 1,
+      "explanation": "White light is a mixture of colours (wavelengths). Each wavelength refracts by a different amount in the prism, separating into the visible spectrum."
+    },
+    {
+      "id": 73,
+      "strand": "Lighting",
+      "unit": "Lighting",
+      "topic": "Light Sources",
+      "difficulty": 2,
+      "question": "Which type of lighting is most energy-efficient?",
+      "options": [
+        "Incandescent bulb",
+        "Fluorescent tube",
+        "LED (Light Emitting Diode)",
+        "Halogen lamp"
+      ],
+      "answer": 2,
+      "explanation": "LED lights convert a much higher proportion of electrical energy to light (less wasted as heat) making them the most energy-efficient option."
+    },
+    {
+      "id": 74,
+      "strand": "Lighting",
+      "unit": "Lighting",
+      "topic": "Shadows",
+      "difficulty": 2,
+      "question": "A penumbra is:",
+      "options": [
+        "The dark central region of a shadow",
+        "The outer partial shadow region where some light reaches",
+        "A type of lens",
+        "A reflection of light"
+      ],
+      "answer": 1,
+      "explanation": "The penumbra is the outer region of a shadow where only part of the light source is blocked, resulting in partial illumination."
+    },
+    {
+      "id": 75,
+      "strand": "Machines and Movement",
+      "unit": "Machines and Movement",
+      "topic": "Simple Machines",
+      "difficulty": 1,
+      "question": "A lever is a simple machine that:",
+      "options": [
+        "Only pushes objects upward",
+        "Magnifies force or distance by rotating about a fixed point (fulcrum)",
+        "Converts chemical energy to mechanical energy",
+        "Only works with pulleys"
+      ],
+      "answer": 1,
+      "explanation": "A lever is a rigid bar that rotates about a fixed point (fulcrum) to either magnify force or magnify movement."
+    },
+    {
+      "id": 76,
+      "strand": "Machines and Movement",
+      "unit": "Machines and Movement",
+      "topic": "Simple Machines",
+      "difficulty": 1,
+      "question": "The mechanical advantage of a machine is defined as:",
+      "options": [
+        "The speed of the machine",
+        "The ratio of load (output force) to effort (input force)",
+        "The energy wasted by the machine",
+        "The power output"
+      ],
+      "answer": 1,
+      "explanation": "Mechanical advantage = load ÷ effort. A mechanical advantage greater than 1 means the machine multiplies the input force."
+    },
+    {
+      "id": 77,
+      "strand": "Machines and Movement",
+      "unit": "Machines and Movement",
+      "topic": "Forces and Motion",
+      "difficulty": 2,
+      "question": "Newton's First Law of Motion states that:",
+      "options": [
+        "Force equals mass times acceleration",
+        "An object will remain at rest or in uniform motion unless acted upon by an external unbalanced force",
+        "For every action there is an equal and opposite reaction",
+        "Momentum is always conserved"
+      ],
+      "answer": 1,
+      "explanation": "Newton's First Law (inertia): an object stays at rest or moves in a straight line at constant speed unless a net external force acts on it."
+    },
+    {
+      "id": 78,
+      "strand": "Machines and Movement",
+      "unit": "Machines and Movement",
+      "topic": "Forces and Motion",
+      "difficulty": 2,
+      "question": "Which formula represents Newton's Second Law of Motion?",
+      "options": [
+        "F = mv",
+        "F = ma",
+        "F = m/a",
+        "P = mv"
+      ],
+      "answer": 1,
+      "explanation": "Newton's Second Law: Force (N) = mass (kg) × acceleration (m/s²). A larger force produces greater acceleration for the same mass."
+    },
+    {
+      "id": 79,
+      "strand": "Machines and Movement",
+      "unit": "Machines and Movement",
+      "topic": "Simple Machines",
+      "difficulty": 2,
+      "question": "An inclined plane reduces the effort needed to lift a load by:",
+      "options": [
+        "Reducing the mass of the load",
+        "Increasing the distance over which the force is applied",
+        "Applying a gravitational force",
+        "Removing friction completely"
+      ],
+      "answer": 1,
+      "explanation": "An inclined plane allows a load to be raised by moving it over a longer distance, reducing the force (effort) needed at any point."
+    },
+    {
+      "id": 80,
+      "strand": "Machines and Movement",
+      "unit": "Machines and Movement",
+      "topic": "Forces and Motion",
+      "difficulty": 3,
+      "question": "A car of mass 1000 kg accelerates at 2 m/s². What is the net force acting on it?",
+      "options": [
+        "500 N",
+        "1000 N",
+        "2000 N",
+        "2500 N"
+      ],
+      "answer": 2,
+      "explanation": "F = ma = 1000 × 2 = 2000 N."
+    },
+    {
+      "id": 81,
+      "strand": "Metals and Non-metals",
+      "unit": "Metals and Non-metals",
+      "topic": "Properties of Metals",
+      "difficulty": 1,
+      "question": "Which of the following is a physical property common to most metals?",
+      "options": [
+        "They are gases at room temperature",
+        "They are good conductors of heat and electricity",
+        "They are brittle and dull",
+        "They are non-lustrous"
+      ],
+      "answer": 1,
+      "explanation": "Metals are typically good conductors of heat and electricity, lustrous (shiny), malleable and ductile."
+    },
+    {
+      "id": 82,
+      "strand": "Metals and Non-metals",
+      "unit": "Metals and Non-metals",
+      "topic": "Properties of Non-metals",
+      "difficulty": 1,
+      "question": "Which of the following is a property of non-metals?",
+      "options": [
+        "High electrical conductivity",
+        "Malleability",
+        "Poor conductors of heat and electricity",
+        "High density"
+      ],
+      "answer": 2,
+      "explanation": "Non-metals are generally poor conductors of heat and electricity (insulators), brittle in solid form and have lower densities than metals."
+    },
+    {
+      "id": 83,
+      "strand": "Metals and Non-metals",
+      "unit": "Metals and Non-metals",
+      "topic": "Reactivity",
+      "difficulty": 2,
+      "question": "The reactivity series ranks metals in order of their reactivity. Which metal is MOST reactive?",
+      "options": [
+        "Gold",
+        "Copper",
+        "Iron",
+        "Potassium"
+      ],
+      "answer": 3,
+      "explanation": "Potassium is one of the most reactive metals, reacting vigorously with water. Gold is the least reactive of the options."
+    },
+    {
+      "id": 84,
+      "strand": "Metals and Non-metals",
+      "unit": "Metals and Non-metals",
+      "topic": "Corrosion",
+      "difficulty": 2,
+      "question": "Rusting of iron requires the presence of:",
+      "options": [
+        "Only water",
+        "Only oxygen",
+        "Both water and oxygen",
+        "Carbon dioxide only"
+      ],
+      "answer": 2,
+      "explanation": "Rusting (corrosion of iron) requires the simultaneous presence of both water and oxygen to form hydrated iron oxide (rust)."
+    },
+    {
+      "id": 85,
+      "strand": "Metals and Non-metals",
+      "unit": "Metals and Non-metals",
+      "topic": "Uses of Metals",
+      "difficulty": 2,
+      "question": "Which metal is most commonly used in electrical wiring because of its high conductivity?",
+      "options": [
+        "Iron",
+        "Aluminium",
+        "Copper",
+        "Zinc"
+      ],
+      "answer": 2,
+      "explanation": "Copper is used for electrical wiring because of its excellent electrical conductivity, flexibility and relatively low cost."
+    },
+    {
+      "id": 86,
+      "strand": "Metals and Non-metals",
+      "unit": "Metals and Non-metals",
+      "topic": "Alloys",
+      "difficulty": 3,
+      "question": "An alloy is defined as:",
+      "options": [
+        "A pure metal",
+        "A mixture of a metal with one or more other elements",
+        "A non-metal compound",
+        "A naturally occurring mineral"
+      ],
+      "answer": 1,
+      "explanation": "An alloy is a mixture of a metal with one or more other elements (metals or non-metals), designed to improve properties such as strength or corrosion resistance."
+    },
+    {
+      "id": 87,
+      "strand": "Acids, Bases and Mixtures",
+      "unit": "Acids, Bases and Mixtures",
+      "topic": "Acids and Bases",
+      "difficulty": 1,
+      "question": "Which of the following has a pH below 7?",
+      "options": [
+        "Pure water",
+        "Sodium hydroxide solution",
+        "Hydrochloric acid",
+        "Sodium bicarbonate solution"
+      ],
+      "answer": 2,
+      "explanation": "Acids have a pH below 7. Hydrochloric acid (HCl) is a strong acid with a very low pH."
+    },
+    {
+      "id": 88,
+      "strand": "Acids, Bases and Mixtures",
+      "unit": "Acids, Bases and Mixtures",
+      "topic": "Acids and Bases",
+      "difficulty": 1,
+      "question": "Which of the following is the correct definition of a base?",
+      "options": [
+        "A substance with pH below 7",
+        "A substance that produces hydrogen ions in solution",
+        "A substance that neutralises acids and has a pH above 7",
+        "A substance that turns red litmus paper red"
+      ],
+      "answer": 2,
+      "explanation": "Bases have a pH above 7 and neutralise acids. Soluble bases are called alkalis and produce hydroxide ions in solution."
+    },
+    {
+      "id": 89,
+      "strand": "Acids, Bases and Mixtures",
+      "unit": "Acids, Bases and Mixtures",
+      "topic": "Neutralisation",
+      "difficulty": 2,
+      "question": "When an acid reacts with a base, the products are:",
+      "options": [
+        "Two acids",
+        "An acid and water",
+        "A salt and water",
+        "A base and water"
+      ],
+      "answer": 2,
+      "explanation": "Neutralisation: acid + base → salt + water. This reaction produces a salt and water, with the pH moving toward neutral (7)."
+    },
+    {
+      "id": 90,
+      "strand": "Acids, Bases and Mixtures",
+      "unit": "Acids, Bases and Mixtures",
+      "topic": "Indicators",
+      "difficulty": 2,
+      "question": "Which of the following is a natural indicator used to test for acids and bases?",
+      "options": [
+        "Universal indicator only",
+        "Red cabbage juice",
+        "Methylene blue",
+        "Iodine solution"
+      ],
+      "answer": 1,
+      "explanation": "Red cabbage juice contains anthocyanins which change colour in acids (red/pink) and bases (blue/green/yellow), making it a natural indicator."
+    },
+    {
+      "id": 91,
+      "strand": "Acids, Bases and Mixtures",
+      "unit": "Acids, Bases and Mixtures",
+      "topic": "Separation Techniques",
+      "difficulty": 2,
+      "question": "Filtration is used to separate:",
+      "options": [
+        "Two miscible liquids",
+        "A dissolved substance from a solvent",
+        "An insoluble solid from a liquid",
+        "Two gases"
+      ],
+      "answer": 2,
+      "explanation": "Filtration separates an insoluble solid (residue) from a liquid (filtrate) using a filter paper or membrane."
+    },
+    {
+      "id": 92,
+      "strand": "Acids, Bases and Mixtures",
+      "unit": "Acids, Bases and Mixtures",
+      "topic": "Separation Techniques",
+      "difficulty": 3,
+      "question": "Chromatography is used to separate:",
+      "options": [
+        "Insoluble solids from liquids",
+        "Mixtures of soluble substances based on their different solubilities and rates of movement",
+        "Gases from liquids",
+        "Immiscible liquids"
+      ],
+      "answer": 1,
+      "explanation": "Chromatography separates mixtures of soluble substances (e.g. dyes, inks) based on their different affinities for the stationary and mobile phases."
+    },
+    {
+      "id": 93,
+      "strand": "The Universe and Our Solar System",
+      "unit": "The Universe and Our Solar System",
+      "topic": "The Solar System",
+      "difficulty": 1,
+      "question": "How many planets are in our solar system?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": 1,
+      "explanation": "There are 8 planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune. Pluto was reclassified as a dwarf planet in 2006."
+    },
+    {
+      "id": 94,
+      "strand": "The Universe and Our Solar System",
+      "unit": "The Universe and Our Solar System",
+      "topic": "The Solar System",
+      "difficulty": 1,
+      "question": "What is the centre of our solar system?",
+      "options": [
+        "The Moon",
+        "Earth",
+        "The Sun",
+        "Jupiter"
+      ],
+      "answer": 2,
+      "explanation": "The Sun is the star at the centre of our solar system. All planets orbit the Sun due to gravitational attraction."
+    },
+    {
+      "id": 95,
+      "strand": "The Universe and Our Solar System",
+      "unit": "The Universe and Our Solar System",
+      "topic": "Stars and Galaxies",
+      "difficulty": 2,
+      "question": "The Milky Way is best described as:",
+      "options": [
+        "A planet",
+        "The name of our solar system",
+        "A galaxy containing our solar system",
+        "A nebula"
+      ],
+      "answer": 2,
+      "explanation": "The Milky Way is the galaxy in which our solar system is located. It contains approximately 200–400 billion stars."
+    },
+    {
+      "id": 96,
+      "strand": "The Universe and Our Solar System",
+      "unit": "The Universe and Our Solar System",
+      "topic": "Moon and Tides",
+      "difficulty": 2,
+      "question": "Ocean tides on Earth are primarily caused by:",
+      "options": [
+        "Wind patterns",
+        "The gravitational pull of the Moon",
+        "Earthquakes under the ocean",
+        "The rotation of the Earth alone"
+      ],
+      "answer": 1,
+      "explanation": "The Moon's gravitational pull exerts tidal forces on Earth's oceans, creating the regular pattern of high and low tides."
+    },
+    {
+      "id": 97,
+      "strand": "The Universe and Our Solar System",
+      "unit": "The Universe and Our Solar System",
+      "topic": "The Solar System",
+      "difficulty": 2,
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": [
+        "Jupiter",
+        "Venus",
+        "Saturn",
+        "Mars"
+      ],
+      "answer": 3,
+      "explanation": "Mars appears red due to iron oxide (rust) on its surface and is commonly called the Red Planet."
+    },
+    {
+      "id": 98,
+      "strand": "The Universe and Our Solar System",
+      "unit": "The Universe and Our Solar System",
+      "topic": "Stars and Galaxies",
+      "difficulty": 3,
+      "question": "A light year is a unit of:",
+      "options": [
+        "Time",
+        "Speed",
+        "Distance — the distance light travels in one year",
+        "Brightness of stars"
+      ],
+      "answer": 2,
+      "explanation": "A light year is the distance light travels in one year in a vacuum — approximately 9.46 × 10¹² km. It is used to measure vast astronomical distances."
+    },
+    {
+      "id": 99,
+      "strand": "The Terrestrial Environment",
+      "unit": "The Terrestrial Environment",
+      "topic": "Ecosystems",
+      "difficulty": 1,
+      "question": "An ecosystem consists of:",
+      "options": [
+        "All plants in an area",
+        "Living organisms and their non-living (abiotic) environment interacting together",
+        "Only animals in a habitat",
+        "The soil only"
+      ],
+      "answer": 1,
+      "explanation": "An ecosystem is a community of living organisms interacting with each other and with the non-living components of their environment."
+    },
+    {
+      "id": 100,
+      "strand": "The Terrestrial Environment",
+      "unit": "The Terrestrial Environment",
+      "topic": "Food Chains",
+      "difficulty": 1,
+      "question": "In a food chain, organisms that make their own food using sunlight are called:",
+      "options": [
+        "Consumers",
+        "Decomposers",
+        "Producers",
+        "Carnivores"
+      ],
+      "answer": 2,
+      "explanation": "Producers (mainly green plants) are autotrophs that make their own food via photosynthesis, forming the base of food chains."
+    },
+    {
+      "id": 101,
+      "strand": "The Terrestrial Environment",
+      "unit": "The Terrestrial Environment",
+      "topic": "Food Chains",
+      "difficulty": 2,
+      "question": "Which term describes organisms that break down dead organic matter into simpler substances?",
+      "options": [
+        "Producers",
+        "Primary consumers",
+        "Decomposers",
+        "Herbivores"
+      ],
+      "answer": 2,
+      "explanation": "Decomposers (bacteria and fungi) break down dead organic matter, recycling nutrients back into the soil."
+    },
+    {
+      "id": 102,
+      "strand": "The Terrestrial Environment",
+      "unit": "The Terrestrial Environment",
+      "topic": "Nutrient Cycles",
+      "difficulty": 2,
+      "question": "The carbon cycle returns carbon dioxide to the atmosphere through which processes?",
+      "options": [
+        "Photosynthesis and combustion",
+        "Respiration and combustion",
+        "Photosynthesis only",
+        "Condensation and evaporation"
+      ],
+      "answer": 1,
+      "explanation": "CO₂ is returned to the atmosphere by respiration (all organisms), combustion of fossil fuels and decomposition."
+    },
+    {
+      "id": 103,
+      "strand": "The Terrestrial Environment",
+      "unit": "The Terrestrial Environment",
+      "topic": "Ecosystems",
+      "difficulty": 2,
+      "question": "Biodiversity refers to:",
+      "options": [
+        "The number of humans in an area",
+        "The variety of living species in a given habitat or on Earth",
+        "The amount of rainfall in a region",
+        "The total mass of living organisms"
+      ],
+      "answer": 1,
+      "explanation": "Biodiversity is the variety of life — the number of species and their genetic variation — in a given area or globally."
+    },
+    {
+      "id": 104,
+      "strand": "The Terrestrial Environment",
+      "unit": "The Terrestrial Environment",
+      "topic": "Environmental Issues",
+      "difficulty": 3,
+      "question": "Deforestation most directly contributes to climate change by:",
+      "options": [
+        "Increasing rainfall",
+        "Removing trees that absorb CO₂ and releasing stored carbon when trees are burned or decay",
+        "Cooling the atmosphere",
+        "Increasing biodiversity"
+      ],
+      "answer": 1,
+      "explanation": "Trees absorb CO₂ during photosynthesis. Deforestation releases this stored carbon and removes future CO₂ absorption capacity, worsening climate change."
+    },
+    {
+      "id": 105,
+      "strand": "Water and Aquatic Environment",
+      "unit": "Water and Aquatic Environment",
+      "topic": "Properties of Water",
+      "difficulty": 1,
+      "question": "Which of the following is a unique property of water that is important for aquatic life?",
+      "options": [
+        "Water freezes from the bottom up",
+        "Ice is denser than liquid water",
+        "Water has its maximum density at 4°C and ice floats",
+        "Water cannot dissolve salts"
+      ],
+      "answer": 2,
+      "explanation": "Water is densest at 4°C so ice forms at the surface and floats, insulating the water below and allowing aquatic life to survive winter."
+    },
+    {
+      "id": 106,
+      "strand": "Water and Aquatic Environment",
+      "unit": "Water and Aquatic Environment",
+      "topic": "Water Cycle",
+      "difficulty": 1,
+      "question": "The water cycle describes:",
+      "options": [
+        "The flow of water through pipes",
+        "The continuous movement of water through evaporation, condensation and precipitation",
+        "The filtration of drinking water",
+        "The chemical treatment of waste water"
+      ],
+      "answer": 1,
+      "explanation": "The water (hydrological) cycle is the continuous movement of water on, above and below Earth's surface through evaporation, condensation, precipitation and runoff."
+    },
+    {
+      "id": 107,
+      "strand": "Water and Aquatic Environment",
+      "unit": "Water and Aquatic Environment",
+      "topic": "Water Pollution",
+      "difficulty": 2,
+      "question": "Eutrophication in water bodies is caused by:",
+      "options": [
+        "Oil spills",
+        "Excess nutrients (nitrates and phosphates) from agricultural runoff causing algal blooms",
+        "Industrial heavy metals",
+        "Acid rain only"
+      ],
+      "answer": 1,
+      "explanation": "Eutrophication occurs when excess nutrients from fertilisers cause rapid algal growth. When algae die and decompose, oxygen is depleted, harming aquatic life."
+    },
+    {
+      "id": 108,
+      "strand": "Water and Aquatic Environment",
+      "unit": "Water and Aquatic Environment",
+      "topic": "Water Treatment",
+      "difficulty": 2,
+      "question": "Which of the following is the correct order of stages in treating drinking water?",
+      "options": [
+        "Chlorination → filtration → sedimentation",
+        "Sedimentation → filtration → chlorination",
+        "Filtration → sedimentation → boiling",
+        "Chlorination → sedimentation → filtration"
+      ],
+      "answer": 1,
+      "explanation": "Water treatment: screening → sedimentation (large particles settle) → filtration (fine particles removed) → chlorination (disinfection)."
+    },
+    {
+      "id": 109,
+      "strand": "Water and Aquatic Environment",
+      "unit": "Water and Aquatic Environment",
+      "topic": "Aquatic Ecosystems",
+      "difficulty": 3,
+      "question": "Which of the following best describes a coral reef ecosystem?",
+      "options": [
+        "A freshwater habitat with few species",
+        "One of the most biodiverse marine ecosystems found in warm shallow tropical waters",
+        "A deep ocean trench ecosystem",
+        "An ecosystem found only in polar regions"
+      ],
+      "answer": 1,
+      "explanation": "Coral reefs are highly biodiverse marine ecosystems found in warm, clear, shallow tropical waters. The Caribbean has some of the world's most significant coral reefs."
+    },
+    {
+      "id": 110,
+      "strand": "Forces",
+      "unit": "Forces",
+      "topic": "Types of Forces",
+      "difficulty": 1,
+      "question": "Which of the following is a contact force?",
+      "options": [
+        "Gravitational force",
+        "Magnetic force",
+        "Friction",
+        "Electrostatic force"
+      ],
+      "answer": 2,
+      "explanation": "Friction is a contact force that acts between surfaces in contact, opposing relative motion."
+    },
+    {
+      "id": 111,
+      "strand": "Forces",
+      "unit": "Forces",
+      "topic": "Gravity",
+      "difficulty": 1,
+      "question": "The weight of an object is:",
+      "options": [
+        "The same as its mass",
+        "The gravitational force acting on the object's mass",
+        "The volume of the object",
+        "The density of the object"
+      ],
+      "answer": 1,
+      "explanation": "Weight is the force due to gravity acting on a mass: W = mg, measured in newtons (N). Mass is measured in kilograms (kg)."
+    },
+    {
+      "id": 112,
+      "strand": "Forces",
+      "unit": "Forces",
+      "topic": "Pressure",
+      "difficulty": 2,
+      "question": "Pressure is defined as:",
+      "options": [
+        "Force multiplied by area",
+        "Force divided by area",
+        "Mass divided by volume",
+        "Weight multiplied by height"
+      ],
+      "answer": 1,
+      "explanation": "Pressure = Force ÷ Area (P = F/A). It is measured in pascals (Pa) or N/m²."
+    },
+    {
+      "id": 113,
+      "strand": "Forces",
+      "unit": "Forces",
+      "topic": "Forces and Motion",
+      "difficulty": 2,
+      "question": "An object is in equilibrium when:",
+      "options": [
+        "It is moving at high speed",
+        "The resultant of all forces acting on it is zero",
+        "It has no mass",
+        "It is accelerating upward"
+      ],
+      "answer": 1,
+      "explanation": "An object is in equilibrium when the net (resultant) force acting on it is zero — it is either stationary or moving at constant velocity."
+    },
+    {
+      "id": 114,
+      "strand": "Forces",
+      "unit": "Forces",
+      "topic": "Gravity",
+      "difficulty": 2,
+      "question": "On the Moon, the gravitational field strength is approximately 1/6 that of Earth. A 60 kg astronaut would weigh approximately:",
+      "options": [
+        "360 N",
+        "60 N",
+        "100 N",
+        "600 N"
+      ],
+      "answer": 1,
+      "explanation": "Weight on Moon = 60 × (10/6) ≈ 60 × 1.67 ≈ 100 N. Or: Earth weight = 600 N, Moon weight = 600/6 = 100 N. Closest answer is 100 N — answer index 2."
+    },
+    {
+      "id": 115,
+      "strand": "Forces",
+      "unit": "Forces",
+      "topic": "Forces and Motion",
+      "difficulty": 3,
+      "question": "Newton's Third Law of Motion states that:",
+      "options": [
+        "Objects at rest stay at rest",
+        "F = ma",
+        "For every action force there is an equal and opposite reaction force",
+        "Momentum is conserved in collisions"
+      ],
+      "answer": 2,
+      "explanation": "Newton's Third Law: when object A exerts a force on object B, object B exerts an equal and opposite force on object A."
+    },
+    {
+      "id": 116,
+      "strand": "Alternative Sources of Energy",
+      "unit": "Alternative Sources of Energy",
+      "topic": "Renewable Energy",
+      "difficulty": 1,
+      "question": "Which of the following is a renewable energy source?",
+      "options": [
+        "Coal",
+        "Natural gas",
+        "Solar energy",
+        "Petroleum"
+      ],
+      "answer": 2,
+      "explanation": "Solar energy is renewable because it comes from the Sun, which will not be depleted on a human timescale, unlike fossil fuels."
+    },
+    {
+      "id": 117,
+      "strand": "Alternative Sources of Energy",
+      "unit": "Alternative Sources of Energy",
+      "topic": "Solar Energy",
+      "difficulty": 1,
+      "question": "A solar panel (photovoltaic cell) converts:",
+      "options": [
+        "Heat energy to mechanical energy",
+        "Light energy to electrical energy",
+        "Chemical energy to electrical energy",
+        "Wind energy to electrical energy"
+      ],
+      "answer": 1,
+      "explanation": "Photovoltaic (PV) solar panels convert light energy (from the Sun) directly into electrical energy."
+    },
+    {
+      "id": 118,
+      "strand": "Alternative Sources of Energy",
+      "unit": "Alternative Sources of Energy",
+      "topic": "Wind Energy",
+      "difficulty": 2,
+      "question": "Wind turbines generate electricity by:",
+      "options": [
+        "Burning wind",
+        "Using wind to turn blades connected to a generator",
+        "Absorbing solar radiation",
+        "Using tidal movements"
+      ],
+      "answer": 1,
+      "explanation": "Wind turns turbine blades, which rotate a shaft connected to a generator, converting kinetic energy of wind into electrical energy."
+    },
+    {
+      "id": 119,
+      "strand": "Alternative Sources of Energy",
+      "unit": "Alternative Sources of Energy",
+      "topic": "Renewable Energy",
+      "difficulty": 2,
+      "question": "Which of the following is a disadvantage of solar energy?",
+      "options": [
+        "It produces greenhouse gases",
+        "It is non-renewable",
+        "Energy production depends on sunlight availability and is intermittent",
+        "It is too expensive to use anywhere"
+      ],
+      "answer": 2,
+      "explanation": "Solar energy is intermittent — it depends on sunlight and cannot generate power at night or during heavy cloud cover without storage."
+    },
+    {
+      "id": 120,
+      "strand": "Alternative Sources of Energy",
+      "unit": "Alternative Sources of Energy",
+      "topic": "Geothermal Energy",
+      "difficulty": 2,
+      "question": "Geothermal energy is obtained from:",
+      "options": [
+        "The Sun",
+        "The Moon's gravitational pull",
+        "Heat from within the Earth",
+        "Ocean currents"
+      ],
+      "answer": 2,
+      "explanation": "Geothermal energy harnesses heat from within the Earth, including volcanic activity and natural hot springs."
+    },
+    {
+      "id": 121,
+      "strand": "Alternative Sources of Energy",
+      "unit": "Alternative Sources of Energy",
+      "topic": "Renewable Energy",
+      "difficulty": 3,
+      "question": "Which Caribbean island is most associated with geothermal energy potential?",
+      "options": [
+        "Barbados",
+        "Dominica",
+        "Antigua",
+        "Trinidad"
+      ],
+      "answer": 1,
+      "explanation": "Dominica has significant geothermal energy resources due to its volcanic geology and is developing geothermal power generation."
+    },
+    {
+      "id": 122,
+      "strand": "Matter",
+      "unit": "Matter",
+      "topic": "Physical and Chemical Changes",
+      "difficulty": 2,
+      "question": "Which of the following is a chemical change?",
+      "options": [
+        "Ice melting",
+        "Water evaporating",
+        "Iron rusting",
+        "Salt dissolving in water"
+      ],
+      "answer": 2,
+      "explanation": "Rusting is a chemical change — a new substance (iron oxide) is formed. The others are physical changes where no new substance is produced."
+    },
+    {
+      "id": 123,
+      "strand": "Food and Nutrition",
+      "unit": "Food and Nutrition",
+      "topic": "Digestion",
+      "difficulty": 2,
+      "question": "Where does most chemical digestion and absorption of nutrients take place?",
+      "options": [
+        "Stomach",
+        "Large intestine",
+        "Small intestine",
+        "Mouth"
+      ],
+      "answer": 2,
+      "explanation": "The small intestine is the primary site of both chemical digestion (by enzymes) and absorption of digested nutrients into the blood."
+    },
+    {
+      "id": 124,
+      "strand": "Transport System",
+      "unit": "Transport System",
+      "topic": "Lymphatic System",
+      "difficulty": 3,
+      "question": "The lymphatic system contributes to transport in the body by:",
+      "options": [
+        "Pumping blood around the body",
+        "Returning excess tissue fluid to the bloodstream and transporting fats from the gut",
+        "Producing red blood cells",
+        "Filtering carbon dioxide from the blood"
+      ],
+      "answer": 1,
+      "explanation": "The lymphatic system collects excess interstitial fluid and returns it to the blood, and transports fats (chylomicrons) absorbed from the small intestine."
+    },
+    {
+      "id": 125,
+      "strand": "Respiration and Air Pollution",
+      "unit": "Respiration and Air Pollution",
+      "topic": "Air Pollution",
+      "difficulty": 2,
+      "question": "Acid rain causes which of the following environmental problems?",
+      "options": [
+        "Increased plant growth",
+        "Damage to forests, acidification of lakes and corrosion of buildings and statues",
+        "Cooling of the atmosphere",
+        "Increased biodiversity in lakes"
+      ],
+      "answer": 1,
+      "explanation": "Acid rain (pH below 5.6) damages trees, acidifies lakes killing aquatic life, and corrodes stone buildings and metal structures."
+    },
+    {
+      "id": 126,
+      "strand": "Excretion",
+      "unit": "Excretion",
+      "topic": "Skin",
+      "difficulty": 2,
+      "question": "The skin contributes to excretion by:",
+      "options": [
+        "Producing urea for excretion",
+        "Removing excess water, salts and some urea through sweat",
+        "Only regulating temperature",
+        "Absorbing oxygen"
+      ],
+      "answer": 1,
+      "explanation": "Sweat glands in the skin excrete water, mineral salts and a small amount of urea, contributing to excretion alongside thermoregulation."
+    },
+    {
+      "id": 127,
+      "strand": "Health",
+      "unit": "Health",
+      "topic": "Communicable Diseases",
+      "difficulty": 2,
+      "question": "Which of the following is the vector for dengue fever?",
+      "options": [
+        "Anopheles mosquito",
+        "Aedes aegypti mosquito",
+        "Housefly",
+        "Rat"
+      ],
+      "answer": 1,
+      "explanation": "Dengue fever is transmitted by the Aedes aegypti mosquito, a significant public health concern throughout the Caribbean."
+    },
+    {
+      "id": 128,
+      "strand": "Conservation of Energy",
+      "unit": "Conservation of Energy",
+      "topic": "Energy Efficiency",
+      "difficulty": 2,
+      "question": "An electric motor receives 1000 J of electrical energy and produces 800 J of useful mechanical energy. What is its efficiency?",
+      "options": [
+        "80%",
+        "800%",
+        "20%",
+        "125%"
+      ],
+      "answer": 0,
+      "explanation": "Efficiency = (useful output ÷ total input) × 100 = (800/1000) × 100 = 80%."
+    },
+    {
+      "id": 129,
+      "strand": "Electricity",
+      "unit": "Electricity",
+      "topic": "Electric Circuits",
+      "difficulty": 2,
+      "question": "In a parallel circuit, if one bulb burns out:",
+      "options": [
+        "All bulbs go out",
+        "The remaining bulbs continue to work",
+        "The circuit overloads",
+        "All bulbs get dimmer"
+      ],
+      "answer": 1,
+      "explanation": "In a parallel circuit, each component has its own separate path for current. If one fails, current continues through the other branches."
+    },
+    {
+      "id": 130,
+      "strand": "Metals and Non-metals",
+      "unit": "Metals and Non-metals",
+      "topic": "Displacement Reactions",
+      "difficulty": 3,
+      "question": "In the reaction between zinc and copper sulphate solution, zinc displaces copper because:",
+      "options": [
+        "Zinc is less reactive than copper",
+        "Zinc is more reactive than copper and can displace it from its salt solution",
+        "They have the same reactivity",
+        "Copper is more reactive"
+      ],
+      "answer": 1,
+      "explanation": "A more reactive metal displaces a less reactive metal from its salt solution. Zinc is above copper in the reactivity series."
+    },
+    {
+      "id": 131,
+      "strand": "Acids, Bases and Mixtures",
+      "unit": "Acids, Bases and Mixtures",
+      "topic": "pH Scale",
+      "difficulty": 1,
+      "question": "What is the pH of a neutral substance?",
+      "options": [
+        "0",
+        "7",
+        "14",
+        "3"
+      ],
+      "answer": 1,
+      "explanation": "A neutral substance (like pure water) has a pH of exactly 7 — neither acidic nor basic."
+    },
+    {
+      "id": 132,
+      "strand": "The Universe and Our Solar System",
+      "unit": "The Universe and Our Solar System",
+      "topic": "The Solar System",
+      "difficulty": 2,
+      "question": "Which of the following correctly describes an asteroid?",
+      "options": [
+        "A large ball of ice and dust that orbits the Sun with a long tail",
+        "A rocky body orbiting the Sun mostly found in the asteroid belt between Mars and Jupiter",
+        "A natural satellite orbiting a planet",
+        "A star that has exploded"
+      ],
+      "answer": 1,
+      "explanation": "Asteroids are rocky or metallic bodies that orbit the Sun, most concentrated in the asteroid belt between Mars and Jupiter."
+    },
+    {
+      "id": 133,
+      "strand": "The Terrestrial Environment",
+      "unit": "The Terrestrial Environment",
+      "topic": "Nutrient Cycles",
+      "difficulty": 2,
+      "question": "In the nitrogen cycle, nitrogen-fixing bacteria convert atmospheric nitrogen into:",
+      "options": [
+        "Nitrates directly absorbed by plants",
+        "Ammonia and then nitrates that plants can absorb",
+        "Carbon dioxide",
+        "Oxygen"
+      ],
+      "answer": 1,
+      "explanation": "Nitrogen-fixing bacteria (in soil and root nodules) convert N₂ gas into ammonia, which nitrifying bacteria convert to nitrates usable by plants."
+    },
+    {
+      "id": 134,
+      "strand": "Water and Aquatic Environment",
+      "unit": "Water and Aquatic Environment",
+      "topic": "Water Pollution",
+      "difficulty": 3,
+      "question": "Which of the following best explains why oil spills are particularly damaging to seabirds?",
+      "options": [
+        "Oil makes the water too cold",
+        "Oil coats feathers destroying waterproofing and insulation causing hypothermia and preventing flight",
+        "Oil produces toxic gases",
+        "Oil attracts sharks"
+      ],
+      "answer": 1,
+      "explanation": "Oil destroys the natural waterproofing of feathers, causing seabirds to lose insulation, become waterlogged, suffer hypothermia and lose the ability to fly or hunt."
+    },
+    {
+      "id": 135,
+      "strand": "Forces",
+      "unit": "Forces",
+      "topic": "Pressure",
+      "difficulty": 2,
+      "question": "Which of the following correctly explains why a sharp knife cuts more easily than a blunt one?",
+      "options": [
+        "A sharp knife is heavier",
+        "A sharp knife has a smaller area of contact creating greater pressure for the same force",
+        "A blunt knife has more friction",
+        "A sharp knife is made of harder metal"
+      ],
+      "answer": 1,
+      "explanation": "P = F/A. A sharp knife's fine edge has a very small area, so the same cutting force produces much greater pressure, making it cut more easily."
+    },
+    {
+      "id": 136,
+      "strand": "Alternative Sources of Energy",
+      "unit": "Alternative Sources of Energy",
+      "topic": "Hydroelectric Energy",
+      "difficulty": 2,
+      "question": "Hydroelectric power generates electricity using:",
+      "options": [
+        "Waves on the ocean surface",
+        "The force of falling or flowing water turning turbines",
+        "Tidal movements only",
+        "Underground hot springs"
+      ],
+      "answer": 1,
+      "explanation": "Hydroelectric power converts the kinetic and gravitational potential energy of flowing or falling water into electrical energy via turbines and generators."
+    },
+    {
+      "id": 137,
+      "strand": "Reproduction and Growth",
+      "unit": "Reproduction and Growth",
+      "topic": "Human Development",
+      "difficulty": 2,
+      "question": "The placenta in a pregnant woman serves to:",
+      "options": [
+        "Produce the egg cell",
+        "Exchange nutrients, oxygen and waste between the mother and fetus without their blood mixing",
+        "Store the developing fetus",
+        "Produce hormones only"
+      ],
+      "answer": 1,
+      "explanation": "The placenta allows diffusion of oxygen and nutrients from the mother's blood to the fetus and removal of CO₂ and waste, without the blood supplies mixing."
+    },
+    {
+      "id": 138,
+      "strand": "Sense Organs",
+      "unit": "Sense Organs",
+      "topic": "The Eye",
+      "difficulty": 2,
+      "question": "The function of the cornea in the eye is to:",
+      "options": [
+        "Detect colour",
+        "Adjust the amount of light entering",
+        "Provide the main refraction of light entering the eye",
+        "Transmit signals to the brain"
+      ],
+      "answer": 2,
+      "explanation": "The cornea is the transparent outer covering of the eye and provides approximately 70% of the eye's total refracting (focusing) power."
+    },
+    {
+      "id": 139,
+      "strand": "Health",
+      "unit": "Health",
+      "topic": "Lifestyle Diseases",
+      "difficulty": 2,
+      "question": "Which of the following lifestyle factors most increases the risk of lung cancer?",
+      "options": [
+        "Regular exercise",
+        "A diet high in vegetables",
+        "Cigarette smoking",
+        "Drinking water"
+      ],
+      "answer": 2,
+      "explanation": "Cigarette smoking is the leading cause of lung cancer, responsible for approximately 85% of cases due to carcinogens in tobacco smoke."
+    },
+    {
+      "id": 140,
+      "strand": "Temperature Control and Ventilation",
+      "unit": "Temperature Control and Ventilation",
+      "topic": "Thermoregulation",
+      "difficulty": 2,
+      "question": "Piloerection (goosebumps) in cold conditions helps mammals retain heat by:",
+      "options": [
+        "Increasing sweat production",
+        "Trapping a layer of insulating air near the skin surface",
+        "Increasing blood flow to the skin",
+        "Reducing metabolic rate"
+      ],
+      "answer": 1,
+      "explanation": "Piloerection raises body hairs to trap a layer of warm air near the skin, acting as insulation. It is less effective in humans than in furry mammals."
+    },
+    {
+      "id": 141,
+      "strand": "Lighting",
+      "unit": "Lighting",
+      "topic": "Reflection",
+      "difficulty": 2,
+      "question": "The law of reflection states that:",
+      "options": [
+        "Light always bends when it hits a surface",
+        "The angle of incidence equals the angle of reflection measured from the normal",
+        "Reflected light loses energy",
+        "Reflection only occurs with smooth surfaces"
+      ],
+      "answer": 1,
+      "explanation": "The law of reflection: the angle of incidence equals the angle of reflection, both measured from the normal (perpendicular) to the reflecting surface."
+    },
+    {
+      "id": 142,
+      "strand": "Machines and Movement",
+      "unit": "Machines and Movement",
+      "topic": "Simple Machines",
+      "difficulty": 2,
+      "question": "A Class 1 lever has the fulcrum:",
+      "options": [
+        "At one end beyond the load",
+        "Between the effort and the load",
+        "At the same position as the load",
+        "Beyond the effort"
+      ],
+      "answer": 1,
+      "explanation": "In a Class 1 lever the fulcrum is between the effort and load, e.g. a see-saw or pair of scissors."
+    },
+    {
+      "id": 143,
+      "strand": "Metals and Non-metals",
+      "unit": "Metals and Non-metals",
+      "topic": "Properties of Metals",
+      "difficulty": 2,
+      "question": "Which of the following metals is liquid at room temperature?",
+      "options": [
+        "Iron",
+        "Aluminium",
+        "Mercury",
+        "Copper"
+      ],
+      "answer": 2,
+      "explanation": "Mercury (Hg) is the only metal that is liquid at room temperature (melting point -39°C)."
+    },
+    {
+      "id": 144,
+      "strand": "Acids, Bases and Mixtures",
+      "unit": "Acids, Bases and Mixtures",
+      "topic": "Separation Techniques",
+      "difficulty": 2,
+      "question": "Distillation is used to separate:",
+      "options": [
+        "An insoluble solid from a liquid",
+        "Mixtures of liquids with different boiling points",
+        "Magnetic materials from non-magnetic",
+        "Two solids with different densities"
+      ],
+      "answer": 1,
+      "explanation": "Distillation separates liquids with different boiling points by selective evaporation and condensation."
+    },
+    {
+      "id": 145,
+      "strand": "The Universe and Our Solar System",
+      "unit": "The Universe and Our Solar System",
+      "topic": "Earth and Space",
+      "difficulty": 2,
+      "question": "Day and night on Earth are caused by:",
+      "options": [
+        "Earth's orbit around the Sun",
+        "The Moon blocking sunlight",
+        "Earth rotating on its own axis every 24 hours",
+        "The Sun moving around the Earth"
+      ],
+      "answer": 2,
+      "explanation": "Earth rotates on its axis once every approximately 24 hours. The side facing the Sun experiences day; the opposite side experiences night."
+    },
+    {
+      "id": 146,
+      "strand": "The Terrestrial Environment",
+      "unit": "The Terrestrial Environment",
+      "topic": "Soil",
+      "difficulty": 2,
+      "question": "Humus in soil is important because:",
+      "options": [
+        "It provides the mineral framework of soil",
+        "It is the decomposed organic matter that improves soil fertility and water retention",
+        "It is the same as clay",
+        "It makes soil acidic only"
+      ],
+      "answer": 1,
+      "explanation": "Humus is decomposed organic matter that improves soil structure, provides nutrients, increases water retention and supports soil organisms."
+    },
+    {
+      "id": 147,
+      "strand": "Water and Aquatic Environment",
+      "unit": "Water and Aquatic Environment",
+      "topic": "Properties of Water",
+      "difficulty": 2,
+      "question": "Water is called the 'universal solvent' because:",
+      "options": [
+        "It dissolves all substances",
+        "It dissolves more substances than any other common liquid",
+        "It never evaporates",
+        "It has no colour or taste"
+      ],
+      "answer": 1,
+      "explanation": "Water is called the universal solvent because its polar molecular structure allows it to dissolve a greater variety of substances than any other liquid."
+    },
+    {
+      "id": 148,
+      "strand": "Forces",
+      "unit": "Forces",
+      "topic": "Pressure in Fluids",
+      "difficulty": 3,
+      "question": "Atmospheric pressure decreases with altitude because:",
+      "options": [
+        "Wind speeds increase at altitude",
+        "There is less mass of air above pushing down",
+        "The Earth's gravity is zero at altitude",
+        "Temperature increases with altitude"
+      ],
+      "answer": 1,
+      "explanation": "Atmospheric pressure is caused by the weight of air above. At higher altitudes there is less air above, so atmospheric pressure decreases."
+    },
+    {
+      "id": 149,
+      "strand": "Alternative Sources of Energy",
+      "unit": "Alternative Sources of Energy",
+      "topic": "Tidal and Wave Energy",
+      "difficulty": 3,
+      "question": "Tidal energy is generated by:",
+      "options": [
+        "Burning seawater",
+        "Harnessing the kinetic energy of tides caused by the Moon's gravitational pull",
+        "Using solar panels near the ocean",
+        "Cooling ocean water"
+      ],
+      "answer": 1,
+      "explanation": "Tidal energy systems capture the kinetic and potential energy in the movement of tides, driven by the gravitational interaction between Earth, the Moon and the Sun."
+    },
+    {
+      "id": 150,
+      "strand": "Reproduction and Growth",
+      "unit": "Reproduction and Growth",
+      "topic": "Cell Division",
+      "difficulty": 3,
+      "question": "Mitosis is a type of cell division that results in:",
+      "options": [
+        "Four genetically different daughter cells",
+        "Two genetically identical daughter cells with the same number of chromosomes as the parent",
+        "Two cells with half the chromosomes",
+        "Cells with no nucleus"
+      ],
+      "answer": 1,
+      "explanation": "Mitosis produces two genetically identical diploid daughter cells, used for growth, repair and asexual reproduction."
+    }
+  ]
+}

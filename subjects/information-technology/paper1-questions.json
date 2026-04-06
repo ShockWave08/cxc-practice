@@ -1,0 +1,2404 @@
+{
+  "paper1": [
+    {
+      "id": 1,
+      "strand": "Computer Fundamentals",
+      "unit": "Computer Fundamentals",
+      "topic": "Hardware",
+      "difficulty": 1,
+      "question": "Which of the following is an example of an INPUT device?",
+      "options": [
+        "Monitor",
+        "Printer",
+        "Keyboard",
+        "Speaker"
+      ],
+      "answer": 2,
+      "explanation": "A keyboard is an input device — it sends data into the computer. Monitors, printers and speakers are output devices."
+    },
+    {
+      "id": 2,
+      "strand": "Computer Fundamentals",
+      "unit": "Computer Fundamentals",
+      "topic": "Hardware",
+      "difficulty": 1,
+      "question": "Which of the following is a storage device?",
+      "options": [
+        "RAM",
+        "CPU",
+        "Hard disk drive",
+        "Monitor"
+      ],
+      "answer": 2,
+      "explanation": "A hard disk drive (HDD) is a secondary storage device that permanently stores data. RAM is temporary memory; the CPU processes data; the monitor is an output device."
+    },
+    {
+      "id": 3,
+      "strand": "Computer Fundamentals",
+      "unit": "Computer Fundamentals",
+      "topic": "Hardware",
+      "difficulty": 1,
+      "question": "The CPU (Central Processing Unit) is responsible for:",
+      "options": [
+        "Storing data permanently",
+        "Displaying output on screen",
+        "Processing instructions and performing calculations",
+        "Connecting to the internet"
+      ],
+      "answer": 2,
+      "explanation": "The CPU is the 'brain' of the computer — it fetches, decodes and executes instructions, performing all processing and calculations."
+    },
+    {
+      "id": 4,
+      "strand": "Computer Fundamentals",
+      "unit": "Computer Fundamentals",
+      "topic": "Memory",
+      "difficulty": 1,
+      "question": "RAM (Random Access Memory) is described as 'volatile' because:",
+      "options": [
+        "It stores data permanently",
+        "Its contents are lost when the computer is switched off",
+        "It can only be read, not written to",
+        "It is very large in capacity"
+      ],
+      "answer": 1,
+      "explanation": "RAM is volatile — it stores data temporarily while the computer is on. When power is lost, all data in RAM is erased."
+    },
+    {
+      "id": 5,
+      "strand": "Computer Fundamentals",
+      "unit": "Computer Fundamentals",
+      "topic": "Software",
+      "difficulty": 1,
+      "question": "Which of the following is an example of system software?",
+      "options": [
+        "Microsoft Word",
+        "Google Chrome",
+        "An Operating System",
+        "Adobe Photoshop"
+      ],
+      "answer": 2,
+      "explanation": "System software manages computer hardware and provides a platform for application software. An operating system (e.g. Windows, Linux, macOS) is the primary example of system software."
+    },
+    {
+      "id": 6,
+      "strand": "Computer Fundamentals",
+      "unit": "Computer Fundamentals",
+      "topic": "Software",
+      "difficulty": 1,
+      "question": "Application software is designed to:",
+      "options": [
+        "Manage the computer's hardware resources",
+        "Help users perform specific tasks such as word processing, browsing or gaming",
+        "Control the CPU",
+        "Format the hard drive"
+      ],
+      "answer": 1,
+      "explanation": "Application software is designed for end-users to perform specific productive tasks — word processors, spreadsheets, browsers and games are all application software."
+    },
+    {
+      "id": 7,
+      "strand": "Computer Fundamentals",
+      "unit": "Computer Fundamentals",
+      "topic": "Number Systems",
+      "difficulty": 2,
+      "question": "What is the binary equivalent of the decimal number 10?",
+      "options": [
+        "0101",
+        "1010",
+        "1100",
+        "1001"
+      ],
+      "answer": 1,
+      "explanation": "10 in decimal = 8 + 2 = 1010 in binary. (8=1, 4=0, 2=1, 1=0 → 1010)"
+    },
+    {
+      "id": 8,
+      "strand": "Computer Fundamentals",
+      "unit": "Computer Fundamentals",
+      "topic": "Number Systems",
+      "difficulty": 2,
+      "question": "What is the decimal value of the binary number 1101?",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": 2,
+      "explanation": "1101₂ = 1×8 + 1×4 + 0×2 + 1×1 = 8 + 4 + 0 + 1 = 13."
+    },
+    {
+      "id": 9,
+      "strand": "Computer Fundamentals",
+      "unit": "Computer Fundamentals",
+      "topic": "Data Representation",
+      "difficulty": 2,
+      "question": "Which unit of data storage is the largest?",
+      "options": [
+        "Kilobyte",
+        "Megabyte",
+        "Gigabyte",
+        "Terabyte"
+      ],
+      "answer": 3,
+      "explanation": "Storage sizes in ascending order: Bit < Byte < Kilobyte < Megabyte < Gigabyte < Terabyte. A terabyte is the largest of the options given."
+    },
+    {
+      "id": 10,
+      "strand": "Computer Fundamentals",
+      "unit": "Computer Fundamentals",
+      "topic": "Hardware",
+      "difficulty": 2,
+      "question": "What is the function of the ALU (Arithmetic Logic Unit) within the CPU?",
+      "options": [
+        "Stores program instructions temporarily",
+        "Performs arithmetic operations and logical comparisons",
+        "Controls the flow of data between CPU components",
+        "Manages input and output operations"
+      ],
+      "answer": 1,
+      "explanation": "The ALU performs all arithmetic calculations (addition, subtraction) and logical comparisons (greater than, equal to) within the CPU."
+    },
+    {
+      "id": 11,
+      "strand": "Information Processing",
+      "unit": "Information Processing",
+      "topic": "Data vs Information",
+      "difficulty": 1,
+      "question": "Which of the following best distinguishes data from information?",
+      "options": [
+        "Data and information are the same thing",
+        "Data is raw unprocessed facts; information is data that has been processed to give it meaning and context",
+        "Information is always numerical; data is text only",
+        "Data is more valuable than information"
+      ],
+      "answer": 1,
+      "explanation": "Data refers to raw, unprocessed facts (e.g. numbers, characters). Information is data that has been processed and organised to be meaningful and useful."
+    },
+    {
+      "id": 12,
+      "strand": "Information Processing",
+      "unit": "Information Processing",
+      "topic": "Processing Cycle",
+      "difficulty": 1,
+      "question": "The correct order of the information processing cycle is:",
+      "options": [
+        "Process → Input → Output → Storage",
+        "Input → Process → Output → Storage",
+        "Output → Input → Storage → Process",
+        "Storage → Process → Input → Output"
+      ],
+      "answer": 1,
+      "explanation": "The IPO (Input-Process-Output) cycle: data is Input, then Processed by the computer, producing Output, which may be stored for future use."
+    },
+    {
+      "id": 13,
+      "strand": "Information Processing",
+      "unit": "Information Processing",
+      "topic": "Data Types",
+      "difficulty": 1,
+      "question": "Which of the following is an example of numeric data?",
+      "options": [
+        "A student's name",
+        "A home address",
+        "A telephone number used for calculations",
+        "The price of a product"
+      ],
+      "answer": 3,
+      "explanation": "Numeric data is data on which arithmetic operations can be performed. A product price ($24.99) is numeric data — you can add, subtract and compare prices."
+    },
+    {
+      "id": 14,
+      "strand": "Information Processing",
+      "unit": "Information Processing",
+      "topic": "Data Quality",
+      "difficulty": 2,
+      "question": "Data validation is the process of:",
+      "options": [
+        "Encrypting data for security",
+        "Checking that data entered is reasonable, complete and in the correct format before it is accepted",
+        "Backing up data regularly",
+        "Converting data from one format to another"
+      ],
+      "answer": 1,
+      "explanation": "Data validation checks that input data meets defined rules — such as being within an acceptable range, in the correct format or not left blank."
+    },
+    {
+      "id": 15,
+      "strand": "Information Processing",
+      "unit": "Information Processing",
+      "topic": "Data Quality",
+      "difficulty": 2,
+      "question": "A range check is a type of validation that:",
+      "options": [
+        "Checks that only letters are entered in a name field",
+        "Verifies that a value falls within an acceptable minimum and maximum range",
+        "Ensures a field is not left empty",
+        "Checks that data is the correct length"
+      ],
+      "answer": 1,
+      "explanation": "A range check ensures numeric data falls between defined limits — e.g. a month must be between 1 and 12."
+    },
+    {
+      "id": 16,
+      "strand": "Information Processing",
+      "unit": "Information Processing",
+      "topic": "Data Storage",
+      "difficulty": 2,
+      "question": "Which of the following storage media uses flash memory and has no moving parts?",
+      "options": [
+        "Hard disk drive (HDD)",
+        "DVD",
+        "Solid state drive (SSD)",
+        "Magnetic tape"
+      ],
+      "answer": 2,
+      "explanation": "SSDs use flash memory chips with no moving parts — they are faster, more durable and more energy-efficient than traditional HDDs."
+    },
+    {
+      "id": 17,
+      "strand": "Information Processing",
+      "unit": "Information Processing",
+      "topic": "Data Backup",
+      "difficulty": 2,
+      "question": "The purpose of backing up data is to:",
+      "options": [
+        "Speed up the computer",
+        "Create a copy of data so it can be restored if the original is lost, damaged or corrupted",
+        "Increase storage capacity",
+        "Share data with others"
+      ],
+      "answer": 1,
+      "explanation": "Backups protect against data loss from hardware failure, accidental deletion, malware or disasters — allowing data to be restored from the copy."
+    },
+    {
+      "id": 18,
+      "strand": "Information Processing",
+      "unit": "Information Processing",
+      "topic": "Data Quality",
+      "difficulty": 3,
+      "question": "Data verification in data entry refers to:",
+      "options": [
+        "Checking that data is within a valid range",
+        "Checking that data has been accurately copied or entered — e.g. by entering data twice and comparing the two entries",
+        "Encrypting data for security",
+        "Converting analogue data to digital"
+      ],
+      "answer": 1,
+      "explanation": "Verification checks for accuracy in data transfer — confirming data was copied or entered correctly, often by double-entry or visual proofreading."
+    },
+    {
+      "id": 19,
+      "strand": "Computer Networks and Web Technologies",
+      "unit": "Computer Networks and Web Technologies",
+      "topic": "Network Types",
+      "difficulty": 1,
+      "question": "A LAN (Local Area Network) is:",
+      "options": [
+        "A network spanning multiple countries",
+        "A network covering a small geographic area such as a school building or office",
+        "A network connecting only two computers",
+        "A wireless internet connection"
+      ],
+      "answer": 1,
+      "explanation": "A LAN connects devices within a limited area — typically a single building, campus or office. It is privately owned and managed."
+    },
+    {
+      "id": 20,
+      "strand": "Computer Networks and Web Technologies",
+      "unit": "Computer Networks and Web Technologies",
+      "topic": "Network Types",
+      "difficulty": 1,
+      "question": "The internet is an example of a:",
+      "options": [
+        "LAN",
+        "MAN",
+        "WAN",
+        "PAN"
+      ],
+      "answer": 2,
+      "explanation": "The internet is the world's largest WAN (Wide Area Network) — a global network of interconnected networks spanning countries and continents."
+    },
+    {
+      "id": 21,
+      "strand": "Computer Networks and Web Technologies",
+      "unit": "Computer Networks and Web Technologies",
+      "topic": "Internet Services",
+      "difficulty": 1,
+      "question": "HTTP stands for:",
+      "options": [
+        "High Transfer Text Protocol",
+        "HyperText Transfer Protocol",
+        "Home Transfer Technology Protocol",
+        "HyperText Technology Program"
+      ],
+      "answer": 1,
+      "explanation": "HTTP (HyperText Transfer Protocol) is the foundation of data communication on the World Wide Web — it defines how messages are formatted and transmitted."
+    },
+    {
+      "id": 22,
+      "strand": "Computer Networks and Web Technologies",
+      "unit": "Computer Networks and Web Technologies",
+      "topic": "Network Hardware",
+      "difficulty": 2,
+      "question": "A router is a network device that:",
+      "options": [
+        "Converts digital signals to analogue",
+        "Connects devices within a single network only",
+        "Directs data packets between different networks to ensure they reach the correct destination",
+        "Amplifies a wireless signal only"
+      ],
+      "answer": 2,
+      "explanation": "A router forwards data packets between different networks — it reads destination addresses and finds the best path to route data to its destination, including across the internet."
+    },
+    {
+      "id": 23,
+      "strand": "Computer Networks and Web Technologies",
+      "unit": "Computer Networks and Web Technologies",
+      "topic": "Network Security",
+      "difficulty": 2,
+      "question": "A firewall is used to:",
+      "options": [
+        "Speed up internet connection",
+        "Monitor and control incoming and outgoing network traffic based on security rules — protecting a network from unauthorised access",
+        "Store network passwords",
+        "Connect computers in a LAN"
+      ],
+      "answer": 1,
+      "explanation": "A firewall acts as a security barrier between a trusted internal network and untrusted external networks, filtering traffic based on defined security rules."
+    },
+    {
+      "id": 24,
+      "strand": "Computer Networks and Web Technologies",
+      "unit": "Computer Networks and Web Technologies",
+      "topic": "Internet Services",
+      "difficulty": 2,
+      "question": "An IP address is:",
+      "options": [
+        "A web browser",
+        "A unique numerical label assigned to each device on a network, used to identify and locate it",
+        "A type of storage device",
+        "The name of a website"
+      ],
+      "answer": 1,
+      "explanation": "An IP (Internet Protocol) address is a unique numerical identifier assigned to every device connected to a network, enabling data to be sent to the correct destination."
+    },
+    {
+      "id": 25,
+      "strand": "Computer Networks and Web Technologies",
+      "unit": "Computer Networks and Web Technologies",
+      "topic": "Internet Services",
+      "difficulty": 2,
+      "question": "Which protocol is used to send email?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "SMTP",
+        "TCP"
+      ],
+      "answer": 2,
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is the standard protocol for sending email messages between mail servers."
+    },
+    {
+      "id": 26,
+      "strand": "Computer Networks and Web Technologies",
+      "unit": "Computer Networks and Web Technologies",
+      "topic": "Network Security",
+      "difficulty": 3,
+      "question": "Encryption in data communication means:",
+      "options": [
+        "Compressing data to reduce file size",
+        "Converting data into a coded form that can only be read by authorised parties with the correct decryption key",
+        "Backing up data to a server",
+        "Deleting sensitive data after transmission"
+      ],
+      "answer": 1,
+      "explanation": "Encryption transforms readable data (plaintext) into an unreadable coded form (ciphertext) using an algorithm — only authorised parties with the correct key can decrypt and read it."
+    },
+    {
+      "id": 27,
+      "strand": "Computer Networks and Web Technologies",
+      "unit": "Computer Networks and Web Technologies",
+      "topic": "Web Technologies",
+      "difficulty": 2,
+      "question": "A URL (Uniform Resource Locator) is:",
+      "options": [
+        "A type of programming language",
+        "The web address that specifies the location of a resource on the internet",
+        "A network security tool",
+        "A type of database"
+      ],
+      "answer": 1,
+      "explanation": "A URL is the complete web address used to locate a specific resource on the internet, e.g. https://www.example.com/page.html"
+    },
+    {
+      "id": 28,
+      "strand": "Social and Economic Impact of ICT",
+      "unit": "Social and Economic Impact of ICT",
+      "topic": "Benefits of ICT",
+      "difficulty": 1,
+      "question": "Which of the following is a social benefit of ICT?",
+      "options": [
+        "Increased electricity consumption",
+        "Job losses due to automation",
+        "Improved communication and access to information globally",
+        "Higher cost of technology"
+      ],
+      "answer": 2,
+      "explanation": "ICT has improved global communication, enabled access to information, connected communities and created new educational and social opportunities."
+    },
+    {
+      "id": 29,
+      "strand": "Social and Economic Impact of ICT",
+      "unit": "Social and Economic Impact of ICT",
+      "topic": "Negative Impacts of ICT",
+      "difficulty": 1,
+      "question": "Cyberbullying is an example of which negative impact of ICT?",
+      "options": [
+        "Environmental impact",
+        "Social harm — the use of digital technology to harass, threaten or embarrass individuals",
+        "Economic impact",
+        "Technical limitation"
+      ],
+      "answer": 1,
+      "explanation": "Cyberbullying is a negative social impact of ICT — digital platforms are used to bully, harass or intimidate individuals, causing psychological harm."
+    },
+    {
+      "id": 30,
+      "strand": "Social and Economic Impact of ICT",
+      "unit": "Social and Economic Impact of ICT",
+      "topic": "Negative Impacts of ICT",
+      "difficulty": 2,
+      "question": "The digital divide refers to:",
+      "options": [
+        "The difference in processing speed between computers",
+        "The inequality in access to digital technology and the internet between different groups or regions",
+        "The gap between software and hardware capabilities",
+        "The difference between analogue and digital signals"
+      ],
+      "answer": 1,
+      "explanation": "The digital divide is the gap between those who have access to digital technology (computers, internet) and those who do not — often reflecting socioeconomic, geographic or educational inequalities."
+    },
+    {
+      "id": 31,
+      "strand": "Social and Economic Impact of ICT",
+      "unit": "Social and Economic Impact of ICT",
+      "topic": "Privacy and Security",
+      "difficulty": 2,
+      "question": "Identity theft in the context of ICT refers to:",
+      "options": [
+        "Stealing a person's physical identity documents",
+        "The fraudulent acquisition and use of a person's personal data (such as passwords or financial details) without their consent",
+        "Hacking into a government database",
+        "Copying software illegally"
+      ],
+      "answer": 1,
+      "explanation": "Identity theft involves criminals obtaining personal data — often through phishing, data breaches or social engineering — and using it fraudulently for financial gain."
+    },
+    {
+      "id": 32,
+      "strand": "Social and Economic Impact of ICT",
+      "unit": "Social and Economic Impact of ICT",
+      "topic": "Legal and Ethical Issues",
+      "difficulty": 2,
+      "question": "Copyright law in relation to software means:",
+      "options": [
+        "All software is free to copy and use",
+        "Software creators have legal rights over their work — copying or distributing software without permission is illegal piracy",
+        "Only businesses can own software copyrights",
+        "Software can be freely modified by anyone"
+      ],
+      "answer": 1,
+      "explanation": "Software copyright grants creators exclusive rights. Copying, distributing or modifying software without the copyright owner's permission is illegal piracy."
+    },
+    {
+      "id": 33,
+      "strand": "Social and Economic Impact of ICT",
+      "unit": "Social and Economic Impact of ICT",
+      "topic": "Benefits of ICT",
+      "difficulty": 2,
+      "question": "E-commerce has benefited Caribbean businesses by:",
+      "options": [
+        "Eliminating the need for any physical premises permanently",
+        "Enabling businesses to reach customers beyond local markets, reducing overhead costs and operating 24/7",
+        "Making all businesses unprofitable",
+        "Replacing all traditional jobs"
+      ],
+      "answer": 1,
+      "explanation": "E-commerce allows Caribbean businesses to sell online, access wider markets, reduce some overhead costs and operate outside traditional business hours."
+    },
+    {
+      "id": 34,
+      "strand": "Social and Economic Impact of ICT",
+      "unit": "Social and Economic Impact of ICT",
+      "topic": "Negative Impacts of ICT",
+      "difficulty": 3,
+      "question": "Phishing is a cybersecurity threat where:",
+      "options": [
+        "Hackers physically steal computers",
+        "Fraudulent emails or websites trick users into revealing sensitive personal information such as passwords and bank details",
+        "Malware automatically deletes files",
+        "Software licences expire without warning"
+      ],
+      "answer": 1,
+      "explanation": "Phishing uses deceptive emails, messages or websites that impersonate legitimate organisations to trick users into disclosing sensitive information."
+    },
+    {
+      "id": 35,
+      "strand": "Word Processing",
+      "unit": "Word Processing",
+      "topic": "Word Processing Features",
+      "difficulty": 1,
+      "question": "Which of the following is a feature of word processing software?",
+      "options": [
+        "Creating pivot tables",
+        "Running macros for data analysis",
+        "Spell check and grammar correction",
+        "Designing relational databases"
+      ],
+      "answer": 2,
+      "explanation": "Word processing software (e.g. Microsoft Word) includes spell check, grammar correction, formatting tools, mail merge and document creation features."
+    },
+    {
+      "id": 36,
+      "strand": "Word Processing",
+      "unit": "Word Processing",
+      "topic": "Formatting",
+      "difficulty": 1,
+      "question": "The term 'font' in word processing refers to:",
+      "options": [
+        "The size of the page margin",
+        "A set of characters with a consistent style and design (typeface), such as Arial or Times New Roman",
+        "The spacing between lines",
+        "The colour of the page background"
+      ],
+      "answer": 1,
+      "explanation": "A font is a complete set of characters in a particular typeface and style. Common fonts include Arial, Times New Roman and Calibri."
+    },
+    {
+      "id": 37,
+      "strand": "Word Processing",
+      "unit": "Word Processing",
+      "topic": "Formatting",
+      "difficulty": 2,
+      "question": "Mail merge in word processing allows you to:",
+      "options": [
+        "Send emails from within a word processor",
+        "Automatically create personalised documents (such as letters) by combining a template with a data source containing recipient information",
+        "Merge two document files into one",
+        "Check spelling in multiple documents simultaneously"
+      ],
+      "answer": 1,
+      "explanation": "Mail merge combines a document template with a data source (e.g. a list of names and addresses) to automatically produce personalised copies — used for letters, labels and emails."
+    },
+    {
+      "id": 38,
+      "strand": "Word Processing",
+      "unit": "Word Processing",
+      "topic": "Formatting",
+      "difficulty": 2,
+      "question": "In word processing, a header is:",
+      "options": [
+        "The title at the beginning of the document only",
+        "Text that appears at the top of every page in a document, often containing the document title, page number or date",
+        "The first paragraph of the document",
+        "The file name of the document"
+      ],
+      "answer": 1,
+      "explanation": "A header is a section at the top of every page in a document that typically contains information like the document title, author, date or page numbers."
+    },
+    {
+      "id": 39,
+      "strand": "Word Processing",
+      "unit": "Word Processing",
+      "topic": "File Management",
+      "difficulty": 2,
+      "question": "Saving a document in .pdf format is advantageous because:",
+      "options": [
+        "PDF files are smaller than all other formats",
+        "PDF format preserves the document's layout and formatting across different devices and operating systems and cannot be easily edited",
+        "PDF files can only be opened on Windows",
+        "PDF format allows real-time collaboration"
+      ],
+      "answer": 1,
+      "explanation": "PDF (Portable Document Format) preserves formatting regardless of the device, OS or software used to view it, making it ideal for sharing documents that need to look consistent."
+    },
+    {
+      "id": 40,
+      "strand": "Word Processing",
+      "unit": "Word Processing",
+      "topic": "Formatting",
+      "difficulty": 1,
+      "question": "Which of the following keyboard shortcuts is used to COPY selected text in most word processors?",
+      "options": [
+        "Ctrl + X",
+        "Ctrl + V",
+        "Ctrl + C",
+        "Ctrl + Z"
+      ],
+      "answer": 2,
+      "explanation": "Ctrl+C copies selected content to the clipboard. Ctrl+X cuts, Ctrl+V pastes and Ctrl+Z undoes the last action."
+    },
+    {
+      "id": 41,
+      "strand": "Web Page Design",
+      "unit": "Web Page Design",
+      "topic": "HTML Basics",
+      "difficulty": 1,
+      "question": "HTML stands for:",
+      "options": [
+        "High Transfer Markup Language",
+        "HyperText Markup Language",
+        "Home Tool Management Language",
+        "HyperText Management Link"
+      ],
+      "answer": 1,
+      "explanation": "HTML (HyperText Markup Language) is the standard language used to create and structure content on web pages."
+    },
+    {
+      "id": 42,
+      "strand": "Web Page Design",
+      "unit": "Web Page Design",
+      "topic": "HTML Basics",
+      "difficulty": 1,
+      "question": "Which HTML tag is used to create a hyperlink?",
+      "options": [
+        "<link>",
+        "<href>",
+        "<a>",
+        "<url>"
+      ],
+      "answer": 2,
+      "explanation": "The <a> (anchor) tag creates hyperlinks in HTML. The href attribute specifies the destination URL, e.g. <a href='url'>text</a>."
+    },
+    {
+      "id": 43,
+      "strand": "Web Page Design",
+      "unit": "Web Page Design",
+      "topic": "HTML Basics",
+      "difficulty": 2,
+      "question": "What is the purpose of CSS (Cascading Style Sheets)?",
+      "options": [
+        "To create the structure and content of web pages",
+        "To control the presentation, layout and styling of HTML elements — such as colours, fonts and spacing",
+        "To make web pages interactive with programming",
+        "To store data for web applications"
+      ],
+      "answer": 1,
+      "explanation": "CSS separates presentation from content — it controls how HTML elements are displayed, including colours, fonts, layout and responsive design."
+    },
+    {
+      "id": 44,
+      "strand": "Web Page Design",
+      "unit": "Web Page Design",
+      "topic": "HTML Basics",
+      "difficulty": 2,
+      "question": "Which HTML tag is used to display an image on a web page?",
+      "options": [
+        "<image>",
+        "<picture>",
+        "<img>",
+        "<photo>"
+      ],
+      "answer": 2,
+      "explanation": "The <img> tag embeds an image in a web page. The src attribute specifies the image file path and alt provides alternative text."
+    },
+    {
+      "id": 45,
+      "strand": "Web Page Design",
+      "unit": "Web Page Design",
+      "topic": "Web Design Principles",
+      "difficulty": 2,
+      "question": "Which of the following is a good practice in web page design?",
+      "options": [
+        "Using many different fonts and colours on one page",
+        "Using consistent navigation so users know where they are",
+        "Making the page as text-heavy as possible",
+        "Avoiding the use of headings"
+      ],
+      "answer": 1,
+      "explanation": "Consistent navigation helps users understand the website structure and find content easily — a fundamental principle of good UX (user experience) design."
+    },
+    {
+      "id": 46,
+      "strand": "Web Page Design",
+      "unit": "Web Page Design",
+      "topic": "HTML Basics",
+      "difficulty": 2,
+      "question": "The <table> tag in HTML is used to:",
+      "options": [
+        "Create a list of items",
+        "Display data in rows and columns",
+        "Insert a hyperlink",
+        "Create a form"
+      ],
+      "answer": 1,
+      "explanation": "The <table> tag creates a table in HTML. <tr> defines rows, <td> defines data cells and <th> defines header cells."
+    },
+    {
+      "id": 47,
+      "strand": "Web Page Design",
+      "unit": "Web Page Design",
+      "topic": "Web Design Principles",
+      "difficulty": 3,
+      "question": "A responsive web design is one that:",
+      "options": [
+        "Loads very quickly on all devices",
+        "Automatically adjusts its layout and content to display correctly on different screen sizes — desktops, tablets and mobiles",
+        "Uses only text with no images",
+        "Is designed for one specific browser only"
+      ],
+      "answer": 1,
+      "explanation": "Responsive design uses flexible grids, images and CSS media queries to adapt the page layout to different screen sizes, ensuring a good user experience across all devices."
+    },
+    {
+      "id": 48,
+      "strand": "Spreadsheets",
+      "unit": "Spreadsheets",
+      "topic": "Spreadsheet Basics",
+      "difficulty": 1,
+      "question": "In a spreadsheet, a cell reference such as B3 refers to:",
+      "options": [
+        "Row B, Column 3",
+        "Column B, Row 3",
+        "The third sheet, column B",
+        "The second sheet, third row"
+      ],
+      "answer": 1,
+      "explanation": "In spreadsheet notation, the letter identifies the column and the number identifies the row. B3 = Column B, Row 3."
+    },
+    {
+      "id": 49,
+      "strand": "Spreadsheets",
+      "unit": "Spreadsheets",
+      "topic": "Formulas and Functions",
+      "difficulty": 1,
+      "question": "Which of the following correctly shows a formula to add the values in cells A1 and B1?",
+      "options": [
+        "=A1-B1",
+        "=SUM(A1,B1) or =A1+B1",
+        "A1+B1",
+        "SUM A1 B1"
+      ],
+      "answer": 1,
+      "explanation": "Spreadsheet formulas begin with =. Both =A1+B1 and =SUM(A1,B1) correctly add the values in A1 and B1."
+    },
+    {
+      "id": 50,
+      "strand": "Spreadsheets",
+      "unit": "Spreadsheets",
+      "topic": "Formulas and Functions",
+      "difficulty": 1,
+      "question": "The function =AVERAGE(A1:A10) calculates:",
+      "options": [
+        "The total of all values in A1 to A10",
+        "The middle value in A1 to A10",
+        "The arithmetic mean of all values in cells A1 through A10",
+        "The maximum value in A1 to A10"
+      ],
+      "answer": 2,
+      "explanation": "=AVERAGE() calculates the arithmetic mean — it adds all values in the specified range and divides by the count of values."
+    },
+    {
+      "id": 51,
+      "strand": "Spreadsheets",
+      "unit": "Spreadsheets",
+      "topic": "Formulas and Functions",
+      "difficulty": 2,
+      "question": "What does the =IF(A1>50,\"Pass\",\"Fail\") function do?",
+      "options": [
+        "Always displays Pass",
+        "Displays Pass if the value in A1 is greater than 50, otherwise displays Fail",
+        "Counts values greater than 50",
+        "Adds 50 to the value in A1"
+      ],
+      "answer": 1,
+      "explanation": "The IF function tests a condition. If A1>50 is TRUE it returns \"Pass\"; if FALSE it returns \"Fail\". Syntax: =IF(condition, value_if_true, value_if_false)."
+    },
+    {
+      "id": 52,
+      "strand": "Spreadsheets",
+      "unit": "Spreadsheets",
+      "topic": "Formulas and Functions",
+      "difficulty": 2,
+      "question": "The =MAX(B1:B10) function returns:",
+      "options": [
+        "The sum of all values in B1 to B10",
+        "The average of values in B1 to B10",
+        "The largest value in cells B1 through B10",
+        "The number of cells in B1 to B10"
+      ],
+      "answer": 2,
+      "explanation": "=MAX() returns the highest (maximum) value in a specified range of cells."
+    },
+    {
+      "id": 53,
+      "strand": "Spreadsheets",
+      "unit": "Spreadsheets",
+      "topic": "Formulas and Functions",
+      "difficulty": 2,
+      "question": "What is the difference between an absolute cell reference ($A$1) and a relative cell reference (A1)?",
+      "options": [
+        "There is no difference",
+        "An absolute reference stays fixed when a formula is copied to another cell; a relative reference adjusts automatically",
+        "A relative reference is always larger",
+        "An absolute reference can only be used in charts"
+      ],
+      "answer": 1,
+      "explanation": "A relative reference (A1) changes when a formula is copied. An absolute reference ($A$1) remains fixed regardless of where the formula is copied."
+    },
+    {
+      "id": 54,
+      "strand": "Spreadsheets",
+      "unit": "Spreadsheets",
+      "topic": "Charts and Graphs",
+      "difficulty": 2,
+      "question": "Which type of chart is best for showing trends over time?",
+      "options": [
+        "Pie chart",
+        "Bar chart",
+        "Line chart",
+        "Scatter chart"
+      ],
+      "answer": 2,
+      "explanation": "A line chart is most effective for displaying trends and changes over a time period — the continuous line emphasises direction and rate of change."
+    },
+    {
+      "id": 55,
+      "strand": "Spreadsheets",
+      "unit": "Spreadsheets",
+      "topic": "Spreadsheet Basics",
+      "difficulty": 2,
+      "question": "Which function is used to count the number of cells in a range that contain numerical values?",
+      "options": [
+        "=SUM()",
+        "=COUNT()",
+        "=COUNTA()",
+        "=AVERAGE()"
+      ],
+      "answer": 1,
+      "explanation": "=COUNT() counts cells containing numbers in a range. =COUNTA() counts non-empty cells. =SUM() adds values. =AVERAGE() finds the mean."
+    },
+    {
+      "id": 56,
+      "strand": "Spreadsheets",
+      "unit": "Spreadsheets",
+      "topic": "Formulas and Functions",
+      "difficulty": 3,
+      "question": "The formula =COUNTIF(A1:A20,\">60\") will:",
+      "options": [
+        "Add all values greater than 60 in A1:A20",
+        "Count the number of cells in A1:A20 that contain a value greater than 60",
+        "Find the average of values greater than 60",
+        "Display the maximum value greater than 60"
+      ],
+      "answer": 1,
+      "explanation": "=COUNTIF(range, criteria) counts cells matching a specified condition. Here it counts cells in A1:A20 with values greater than 60."
+    },
+    {
+      "id": 57,
+      "strand": "Databases",
+      "unit": "Databases",
+      "topic": "Database Concepts",
+      "difficulty": 1,
+      "question": "A database is best described as:",
+      "options": [
+        "A single spreadsheet file",
+        "An organised collection of related data stored and managed so it can be easily accessed, updated and queried",
+        "A word processing document containing tables",
+        "A programming language for the web"
+      ],
+      "answer": 1,
+      "explanation": "A database is a structured collection of related data organised for efficient storage, retrieval and management — typically managed by a Database Management System (DBMS)."
+    },
+    {
+      "id": 58,
+      "strand": "Databases",
+      "unit": "Databases",
+      "topic": "Database Concepts",
+      "difficulty": 1,
+      "question": "In a relational database, a TABLE is:",
+      "options": [
+        "A graphical chart of data",
+        "A collection of related data organised in rows (records) and columns (fields)",
+        "A query result only",
+        "A form for data entry"
+      ],
+      "answer": 1,
+      "explanation": "A table in a relational database organises data into rows (records) and columns (fields) — similar to a spreadsheet, but with defined data types and relationships."
+    },
+    {
+      "id": 59,
+      "strand": "Databases",
+      "unit": "Databases",
+      "topic": "Database Concepts",
+      "difficulty": 1,
+      "question": "A PRIMARY KEY in a database table is:",
+      "options": [
+        "The first field in any table",
+        "A field (or combination of fields) that uniquely identifies each record in a table — no two records can have the same primary key value",
+        "The largest value in a field",
+        "A field that links to another table"
+      ],
+      "answer": 1,
+      "explanation": "A primary key uniquely identifies each record in a table. It must be unique and cannot be null — e.g. a student ID number or national insurance number."
+    },
+    {
+      "id": 60,
+      "strand": "Databases",
+      "unit": "Databases",
+      "topic": "Database Concepts",
+      "difficulty": 2,
+      "question": "A FOREIGN KEY in a database is used to:",
+      "options": [
+        "Encrypt sensitive data",
+        "Link records in one table to records in another table — establishing a relationship between the tables",
+        "Prevent duplicate entries",
+        "Sort records in a table"
+      ],
+      "answer": 1,
+      "explanation": "A foreign key in one table references the primary key of another table, creating a relationship (link) between the two tables in a relational database."
+    },
+    {
+      "id": 61,
+      "strand": "Databases",
+      "unit": "Databases",
+      "topic": "Database Operations",
+      "difficulty": 2,
+      "question": "A query in a database is used to:",
+      "options": [
+        "Create the table structure",
+        "Enter new records into the database",
+        "Search, filter and retrieve specific data from one or more tables based on defined criteria",
+        "Print a report"
+      ],
+      "answer": 2,
+      "explanation": "A query retrieves specific data from a database based on conditions — e.g. 'find all students with a grade above 70 in Mathematics'."
+    },
+    {
+      "id": 62,
+      "strand": "Databases",
+      "unit": "Databases",
+      "topic": "Database Operations",
+      "difficulty": 2,
+      "question": "SQL stands for:",
+      "options": [
+        "Standard Query Logic",
+        "Structured Query Language",
+        "System Query Layer",
+        "Simple Query Link"
+      ],
+      "answer": 1,
+      "explanation": "SQL (Structured Query Language) is the standard language used to create, manage and query relational databases."
+    },
+    {
+      "id": 63,
+      "strand": "Databases",
+      "unit": "Databases",
+      "topic": "Database Operations",
+      "difficulty": 2,
+      "question": "In a database form, the purpose is to:",
+      "options": [
+        "Display printed reports",
+        "Provide a user-friendly interface for entering and viewing data in a single record at a time",
+        "Create relationships between tables",
+        "Write SQL queries"
+      ],
+      "answer": 1,
+      "explanation": "Forms provide a user-friendly interface for data entry and viewing — they display one record at a time and are easier to use than working directly with tables."
+    },
+    {
+      "id": 64,
+      "strand": "Databases",
+      "unit": "Databases",
+      "topic": "Database Concepts",
+      "difficulty": 3,
+      "question": "Referential integrity in a relational database ensures that:",
+      "options": [
+        "All data is entered in uppercase",
+        "A foreign key value must match an existing primary key value in the related table — preventing orphaned records",
+        "All records must have a value in every field",
+        "The database is encrypted"
+      ],
+      "answer": 1,
+      "explanation": "Referential integrity enforces consistency between related tables — you cannot have a foreign key value that does not exist as a primary key in the referenced table."
+    },
+    {
+      "id": 65,
+      "strand": "Databases",
+      "unit": "Databases",
+      "topic": "Database Operations",
+      "difficulty": 3,
+      "question": "The SQL command SELECT * FROM Students WHERE Grade > 80 will:",
+      "options": [
+        "Delete all students with grades above 80",
+        "Retrieve all fields from all records in the Students table where the Grade field has a value greater than 80",
+        "Update the Grade field to 80 for all students",
+        "Create a new table called Students"
+      ],
+      "answer": 1,
+      "explanation": "SELECT * retrieves all columns, FROM Students specifies the table, and WHERE Grade > 80 filters to only records meeting that condition."
+    },
+    {
+      "id": 66,
+      "strand": "Problem Solving and Program Design",
+      "unit": "Problem Solving and Program Design",
+      "topic": "Problem Solving",
+      "difficulty": 1,
+      "question": "An algorithm is best defined as:",
+      "options": [
+        "A type of programming language",
+        "A step-by-step set of instructions for solving a problem or completing a task",
+        "A specific Python command",
+        "The output of a program"
+      ],
+      "answer": 1,
+      "explanation": "An algorithm is a finite, ordered sequence of unambiguous steps that solves a problem or performs a computation. It is independent of any specific programming language."
+    },
+    {
+      "id": 67,
+      "strand": "Problem Solving and Program Design",
+      "unit": "Problem Solving and Program Design",
+      "topic": "Flowcharts",
+      "difficulty": 1,
+      "question": "In a flowchart, a diamond (rhombus) shape represents:",
+      "options": [
+        "Start or End",
+        "A process or calculation",
+        "A decision (Yes/No question or condition)",
+        "Input or Output"
+      ],
+      "answer": 2,
+      "explanation": "In standard flowchart notation: oval = start/end, rectangle = process, diamond = decision (branch), parallelogram = input/output."
+    },
+    {
+      "id": 68,
+      "strand": "Problem Solving and Program Design",
+      "unit": "Problem Solving and Program Design",
+      "topic": "Pseudocode",
+      "difficulty": 1,
+      "question": "Pseudocode is:",
+      "options": [
+        "A programming language used by beginners",
+        "An informal, English-like description of the steps in an algorithm — not tied to any specific programming language syntax",
+        "The compiled output of a Python program",
+        "A type of error in programming"
+      ],
+      "answer": 1,
+      "explanation": "Pseudocode describes algorithmic logic in plain language, using structured keywords (IF, WHILE, FOR) without worrying about the exact syntax of a specific language."
+    },
+    {
+      "id": 69,
+      "strand": "Problem Solving and Program Design",
+      "unit": "Problem Solving and Program Design",
+      "topic": "Program Design",
+      "difficulty": 2,
+      "question": "What is the purpose of a trace table when testing an algorithm?",
+      "options": [
+        "To display the final output only",
+        "To track the value of variables step by step through an algorithm to verify it produces the correct result",
+        "To compile the program",
+        "To write the pseudocode"
+      ],
+      "answer": 1,
+      "explanation": "A trace table manually follows an algorithm step by step, recording variable values at each stage — used to check correctness and find logical errors (dry run testing)."
+    },
+    {
+      "id": 70,
+      "strand": "Problem Solving and Program Design",
+      "unit": "Problem Solving and Program Design",
+      "topic": "Control Structures",
+      "difficulty": 2,
+      "question": "A WHILE loop in programming repeats a block of code:",
+      "options": [
+        "A fixed number of times",
+        "As long as a specified condition remains true — stopping when the condition becomes false",
+        "Only once",
+        "Until the user presses a key"
+      ],
+      "answer": 1,
+      "explanation": "A WHILE loop continues executing its block of code as long as the condition evaluates to True. When the condition becomes False, the loop ends."
+    },
+    {
+      "id": 71,
+      "strand": "Problem Solving and Program Design",
+      "unit": "Problem Solving and Program Design",
+      "topic": "Control Structures",
+      "difficulty": 2,
+      "question": "A FOR loop is most appropriate when:",
+      "options": [
+        "The number of iterations is unknown",
+        "You need to repeat code while a condition is true",
+        "The number of repetitions is known or you are iterating over a sequence",
+        "You need to make a decision"
+      ],
+      "answer": 2,
+      "explanation": "A FOR loop is used when the number of iterations is known in advance or when iterating over a sequence (list, range, string, etc.)."
+    },
+    {
+      "id": 72,
+      "strand": "Problem Solving and Program Design",
+      "unit": "Problem Solving and Program Design",
+      "topic": "Control Structures",
+      "difficulty": 2,
+      "question": "What does an IF-ELIF-ELSE structure do in a program?",
+      "options": [
+        "Repeats a block of code multiple times",
+        "Tests multiple conditions in sequence and executes the code block corresponding to the first condition that is true",
+        "Creates a list of items",
+        "Defines a function"
+      ],
+      "answer": 1,
+      "explanation": "IF-ELIF-ELSE tests conditions in order — IF checks the first condition; ELIF checks additional conditions if the previous ones were false; ELSE handles all remaining cases."
+    },
+    {
+      "id": 73,
+      "strand": "Problem Solving and Program Design",
+      "unit": "Problem Solving and Program Design",
+      "topic": "Program Design",
+      "difficulty": 3,
+      "question": "Decomposition in problem solving means:",
+      "options": [
+        "Deleting parts of a program that do not work",
+        "Breaking a complex problem into smaller, more manageable sub-problems that can be solved individually",
+        "Writing the final program code",
+        "Testing the program with sample data"
+      ],
+      "answer": 1,
+      "explanation": "Decomposition breaks a large problem into smaller sub-problems. Each sub-problem can be solved individually and the solutions combined to solve the whole problem."
+    },
+    {
+      "id": 74,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Basics",
+      "difficulty": 1,
+      "question": "Which of the following is the correct way to print 'Hello World' in Python?",
+      "options": [
+        "PRINT(\"Hello World\")",
+        "print(Hello World)",
+        "print(\"Hello World\")",
+        "echo \"Hello World\""
+      ],
+      "answer": 2,
+      "explanation": "In Python, print() is a built-in function. The string must be in quotes: print(\"Hello World\") or print('Hello World')."
+    },
+    {
+      "id": 75,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Basics",
+      "difficulty": 1,
+      "question": "In Python, which symbol is used to start a comment?",
+      "options": [
+        "//",
+        "/*",
+        "#",
+        "--"
+      ],
+      "answer": 2,
+      "explanation": "In Python, the # symbol marks the beginning of a single-line comment. Everything after # on that line is ignored by the interpreter."
+    },
+    {
+      "id": 76,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Data Types",
+      "difficulty": 1,
+      "question": "In Python, what data type is the value 3.14?",
+      "options": [
+        "int",
+        "str",
+        "float",
+        "bool"
+      ],
+      "answer": 2,
+      "explanation": "3.14 is a floating-point number (float) in Python — a number with a decimal point. Integer (int) values have no decimal; str is text; bool is True/False."
+    },
+    {
+      "id": 77,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Basics",
+      "difficulty": 1,
+      "question": "Which Python function is used to accept input from the user?",
+      "options": [
+        "get()",
+        "read()",
+        "input()",
+        "scan()"
+      ],
+      "answer": 2,
+      "explanation": "The input() function in Python prompts the user to enter data. The entered value is returned as a string: name = input(\"Enter your name: \")"
+    },
+    {
+      "id": 78,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Variables",
+      "difficulty": 2,
+      "question": "What is the output of the following Python code?\nx = 5\ny = 3\nprint(x + y)",
+      "options": [
+        "53",
+        "xy",
+        "8",
+        "Error"
+      ],
+      "answer": 2,
+      "explanation": "x = 5 and y = 3 are both integers. x + y = 8. print(8) outputs 8."
+    },
+    {
+      "id": 79,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Basics",
+      "difficulty": 2,
+      "question": "In Python, what does the int() function do?",
+      "options": [
+        "Creates an integer variable",
+        "Converts a value to an integer data type",
+        "Checks if a value is an integer",
+        "Rounds a number up"
+      ],
+      "answer": 1,
+      "explanation": "int() converts a value to an integer. Common use: converting user input (which is always a string) to integer — e.g. age = int(input(\"Enter age: \"))"
+    },
+    {
+      "id": 80,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Control Structures",
+      "difficulty": 2,
+      "question": "What is the output of this Python code?\nfor i in range(3):\n    print(i)",
+      "options": [
+        "1 2 3",
+        "0 1 2 3",
+        "0 1 2",
+        "1 2"
+      ],
+      "answer": 2,
+      "explanation": "range(3) generates 0, 1, 2 (three values starting from 0). The loop prints each on a separate line: 0, 1, 2."
+    },
+    {
+      "id": 81,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Control Structures",
+      "difficulty": 2,
+      "question": "What will the following Python code print?\nx = 10\nif x > 5:\n    print(\"Big\")\nelse:\n    print(\"Small\")",
+      "options": [
+        "Small",
+        "Big",
+        "10",
+        "Error"
+      ],
+      "answer": 1,
+      "explanation": "x = 10 which is greater than 5, so the condition x > 5 is True. Python executes the if block and prints \"Big\"."
+    },
+    {
+      "id": 82,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Lists",
+      "difficulty": 2,
+      "question": "In Python, how do you access the first element of a list called 'fruits'?",
+      "options": [
+        "fruits[1]",
+        "fruits(0)",
+        "fruits[0]",
+        "fruits.first()"
+      ],
+      "answer": 2,
+      "explanation": "Python lists use zero-based indexing. The first element is at index 0: fruits[0]. Square brackets are used for indexing."
+    },
+    {
+      "id": 83,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Functions",
+      "difficulty": 2,
+      "question": "What is the purpose of defining a function in Python using 'def'?",
+      "options": [
+        "To import a module",
+        "To create a reusable named block of code that can be called multiple times from different parts of the program",
+        "To declare a variable",
+        "To create a loop"
+      ],
+      "answer": 1,
+      "explanation": "def defines a function — a reusable block of code. Functions reduce repetition, improve readability and make programs easier to maintain."
+    },
+    {
+      "id": 84,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Functions",
+      "difficulty": 3,
+      "question": "What is the output of this Python code?\ndef square(n):\n    return n * n\nprint(square(4))",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "n * n"
+      ],
+      "answer": 2,
+      "explanation": "The function square(n) returns n * n. Calling square(4) passes 4 as n, so it returns 4 * 4 = 16. print(16) outputs 16."
+    },
+    {
+      "id": 85,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Strings",
+      "difficulty": 2,
+      "question": "What is the output of: print(len(\"Caribbean\"))",
+      "options": [
+        "8",
+        "9",
+        "Caribbean",
+        "7"
+      ],
+      "answer": 1,
+      "explanation": "len() returns the number of characters in a string. 'Caribbean' has 9 characters: C-a-r-i-b-b-e-a-n."
+    },
+    {
+      "id": 86,
+      "strand": "Computer Fundamentals",
+      "unit": "Computer Fundamentals",
+      "topic": "Hardware",
+      "difficulty": 2,
+      "question": "What does GPU stand for and what is its primary function?",
+      "options": [
+        "General Processing Unit — manages all tasks",
+        "Graphics Processing Unit — handles rendering of images, video and graphics",
+        "Global Program Unit — runs the operating system",
+        "General Purpose Unit — manages storage"
+      ],
+      "answer": 1,
+      "explanation": "A GPU (Graphics Processing Unit) is specialised hardware for rendering graphics. Modern GPUs are also used for AI and parallel computing tasks."
+    },
+    {
+      "id": 87,
+      "strand": "Computer Fundamentals",
+      "unit": "Computer Fundamentals",
+      "topic": "Operating Systems",
+      "difficulty": 2,
+      "question": "Which of the following is a function of an operating system?",
+      "options": [
+        "Designing web pages",
+        "Managing hardware resources, file systems and providing a user interface",
+        "Writing application programs",
+        "Connecting to social media"
+      ],
+      "answer": 1,
+      "explanation": "The OS manages hardware resources (CPU, memory, storage), provides a file system, handles input/output, and provides a user interface for the user to interact with the computer."
+    },
+    {
+      "id": 88,
+      "strand": "Computer Networks and Web Technologies",
+      "unit": "Computer Networks and Web Technologies",
+      "topic": "Network Topologies",
+      "difficulty": 2,
+      "question": "In a star network topology:",
+      "options": [
+        "All devices are connected in a ring",
+        "All devices connect to a central hub or switch — if the hub fails the whole network fails",
+        "Devices are connected in a bus line",
+        "Each device connects to exactly two others"
+      ],
+      "answer": 1,
+      "explanation": "In a star topology, all devices connect to a central node (hub/switch). It is easy to add devices and isolate faults, but the central node is a single point of failure."
+    },
+    {
+      "id": 89,
+      "strand": "Social and Economic Impact of ICT",
+      "unit": "Social and Economic Impact of ICT",
+      "topic": "Privacy and Security",
+      "difficulty": 2,
+      "question": "A strong password should:",
+      "options": [
+        "Be your date of birth for easy remembering",
+        "Be short and simple",
+        "Contain a mix of uppercase and lowercase letters, numbers and special characters and be at least 8 characters long",
+        "Be the same as your username"
+      ],
+      "answer": 2,
+      "explanation": "A strong password uses a mix of character types, is sufficiently long and is not easily guessable — reducing the risk of brute-force or dictionary attacks."
+    },
+    {
+      "id": 90,
+      "strand": "Web Page Design",
+      "unit": "Web Page Design",
+      "topic": "HTML Basics",
+      "difficulty": 2,
+      "question": "What does the HTML tag <h1> create?",
+      "options": [
+        "A hyperlink",
+        "The largest heading on a web page",
+        "A horizontal line",
+        "A paragraph of text"
+      ],
+      "answer": 1,
+      "explanation": "<h1> creates the largest heading on a web page. HTML provides six levels of headings from <h1> (largest) to <h6> (smallest)."
+    },
+    {
+      "id": 91,
+      "strand": "Spreadsheets",
+      "unit": "Spreadsheets",
+      "topic": "Formulas and Functions",
+      "difficulty": 3,
+      "question": "What is the result of =ROUND(4.567, 2) in a spreadsheet?",
+      "options": [
+        "4.5",
+        "4.56",
+        "4.57",
+        "5"
+      ],
+      "answer": 2,
+      "explanation": "=ROUND(number, decimal_places) rounds to the specified number of decimal places. 4.567 rounded to 2 decimal places = 4.57 (the third decimal 7 rounds up)."
+    },
+    {
+      "id": 92,
+      "strand": "Databases",
+      "unit": "Databases",
+      "topic": "Database Operations",
+      "difficulty": 2,
+      "question": "Which SQL command is used to add new records to a database table?",
+      "options": [
+        "UPDATE",
+        "SELECT",
+        "INSERT INTO",
+        "DELETE"
+      ],
+      "answer": 2,
+      "explanation": "INSERT INTO adds new records (rows) to a table. Example: INSERT INTO Students (Name, Grade) VALUES ('Ali', 85)."
+    },
+    {
+      "id": 93,
+      "strand": "Problem Solving and Program Design",
+      "unit": "Problem Solving and Program Design",
+      "topic": "Flowcharts",
+      "difficulty": 2,
+      "question": "In a flowchart, a parallelogram shape is used to represent:",
+      "options": [
+        "A decision",
+        "A process",
+        "Input or Output",
+        "Start or End"
+      ],
+      "answer": 2,
+      "explanation": "A parallelogram represents an input or output operation in a flowchart — such as receiving user input or displaying a result."
+    },
+    {
+      "id": 94,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Control Structures",
+      "difficulty": 3,
+      "question": "What is the output of this code?\ncount = 0\nwhile count < 3:\n    count += 1\nprint(count)",
+      "options": [
+        "0",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 2,
+      "explanation": "count starts at 0. The loop runs while count < 3: count becomes 1, 2, 3. When count = 3, the condition 3 < 3 is False and the loop ends. print(count) outputs 3."
+    },
+    {
+      "id": 95,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Lists",
+      "difficulty": 3,
+      "question": "What is the output of:\nfruits = ['apple', 'banana', 'cherry']\nprint(fruits[-1])",
+      "options": [
+        "apple",
+        "banana",
+        "cherry",
+        "Error"
+      ],
+      "answer": 2,
+      "explanation": "Negative indices in Python count from the end. fruits[-1] returns the last element: 'cherry'."
+    },
+    {
+      "id": 96,
+      "strand": "Computer Fundamentals",
+      "unit": "Computer Fundamentals",
+      "topic": "Number Systems",
+      "difficulty": 3,
+      "question": "Convert the hexadecimal number A3 to decimal.",
+      "options": [
+        "103",
+        "163",
+        "143",
+        "173"
+      ],
+      "answer": 1,
+      "explanation": "A = 10 in hexadecimal. A3₁₆ = (10 × 16¹) + (3 × 16⁰) = 160 + 3 = 163."
+    },
+    {
+      "id": 97,
+      "strand": "Information Processing",
+      "unit": "Information Processing",
+      "topic": "Data Compression",
+      "difficulty": 2,
+      "question": "Data compression is used to:",
+      "options": [
+        "Encrypt sensitive data",
+        "Reduce the size of files to save storage space and speed up transmission",
+        "Increase the resolution of images",
+        "Convert analogue data to digital"
+      ],
+      "answer": 1,
+      "explanation": "Data compression reduces file sizes by encoding data more efficiently — smaller files use less storage and can be transmitted faster over networks."
+    },
+    {
+      "id": 98,
+      "strand": "Social and Economic Impact of ICT",
+      "unit": "Social and Economic Impact of ICT",
+      "topic": "Legal and Ethical Issues",
+      "difficulty": 3,
+      "question": "The Data Protection Act (or similar legislation in Caribbean countries) is designed to:",
+      "options": [
+        "Prevent all businesses from collecting data",
+        "Regulate how personal data is collected, stored, used and shared — protecting individuals' privacy rights",
+        "Restrict internet access",
+        "Ban social media platforms"
+      ],
+      "answer": 1,
+      "explanation": "Data protection legislation governs the handling of personal data — requiring organisations to collect only necessary data, store it securely, not share it without consent and allow individuals access to their data."
+    },
+    {
+      "id": 99,
+      "strand": "Web Page Design",
+      "unit": "Web Page Design",
+      "topic": "HTML Basics",
+      "difficulty": 3,
+      "question": "What is the purpose of the HTML <form> element?",
+      "options": [
+        "To format text as bold",
+        "To create interactive sections that collect user input — such as login forms, search boxes and registration forms",
+        "To create a table layout",
+        "To embed a video"
+      ],
+      "answer": 1,
+      "explanation": "The <form> element creates an interactive section that collects user input. It can contain input fields, dropdowns, checkboxes, radio buttons and submit buttons."
+    },
+    {
+      "id": 100,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Error Handling",
+      "difficulty": 3,
+      "question": "What type of error occurs when Python code is syntactically correct but produces an incorrect result due to a logical mistake?",
+      "options": [
+        "Syntax error",
+        "Runtime error",
+        "Logic error",
+        "Type error"
+      ],
+      "answer": 2,
+      "explanation": "A logic error produces incorrect results but does not crash the program or generate an error message — the code runs but does the wrong thing (e.g. using + instead of *)."
+    },
+    {
+      "id": 101,
+      "strand": "Computer Fundamentals",
+      "unit": "Computer Fundamentals",
+      "topic": "Hardware",
+      "difficulty": 2,
+      "question": "Which of the following best describes the function of the motherboard?",
+      "options": [
+        "Stores the operating system permanently",
+        "The main circuit board that connects all components of the computer — allowing them to communicate with each other",
+        "Provides power to all components",
+        "Displays the computer output"
+      ],
+      "answer": 1,
+      "explanation": "The motherboard is the central printed circuit board that connects all computer components — CPU, RAM, storage, GPU and peripherals — enabling communication between them."
+    },
+    {
+      "id": 102,
+      "strand": "Computer Fundamentals",
+      "unit": "Computer Fundamentals",
+      "topic": "Software",
+      "difficulty": 2,
+      "question": "Open source software differs from proprietary software because:",
+      "options": [
+        "Open source software is always paid for",
+        "Open source software's source code is freely available for anyone to view, use, modify and distribute",
+        "Proprietary software is always free to use",
+        "Open source software cannot be used commercially"
+      ],
+      "answer": 1,
+      "explanation": "Open source software (e.g. Linux, Firefox) makes its source code publicly available, allowing anyone to inspect, modify and redistribute it. Proprietary software (e.g. Windows) keeps source code private."
+    },
+    {
+      "id": 103,
+      "strand": "Information Processing",
+      "unit": "Information Processing",
+      "topic": "Data Types",
+      "difficulty": 2,
+      "question": "Boolean data type stores:",
+      "options": [
+        "Text values only",
+        "Numbers with decimal places",
+        "Only two possible values: True or False (1 or 0)",
+        "Dates and times"
+      ],
+      "answer": 2,
+      "explanation": "Boolean data has only two possible values — True or False (or 1 or 0). It is used for conditions, flags and logical operations."
+    },
+    {
+      "id": 104,
+      "strand": "Computer Networks and Web Technologies",
+      "unit": "Computer Networks and Web Technologies",
+      "topic": "Network Security",
+      "difficulty": 2,
+      "question": "Malware is:",
+      "options": [
+        "A type of network cable",
+        "Software designed to disrupt, damage or gain unauthorised access to computer systems — including viruses, worms, trojans and spyware",
+        "A network hardware component",
+        "A web design tool"
+      ],
+      "answer": 1,
+      "explanation": "Malware (malicious software) is any software intentionally designed to cause harm to a system or user — including viruses, worms, ransomware, trojans and spyware."
+    },
+    {
+      "id": 105,
+      "strand": "Computer Networks and Web Technologies",
+      "unit": "Computer Networks and Web Technologies",
+      "topic": "Cloud Computing",
+      "difficulty": 2,
+      "question": "Cloud computing allows users to:",
+      "options": [
+        "Only access files on a single computer",
+        "Access and store data, applications and services over the internet rather than on a local computer",
+        "Use computers without electricity",
+        "Share only images and videos online"
+      ],
+      "answer": 1,
+      "explanation": "Cloud computing delivers computing resources (storage, processing, software) over the internet — users can access files and applications from any device with internet access."
+    },
+    {
+      "id": 106,
+      "strand": "Social and Economic Impact of ICT",
+      "unit": "Social and Economic Impact of ICT",
+      "topic": "Benefits of ICT",
+      "difficulty": 2,
+      "question": "Telemedicine is an example of how ICT benefits healthcare by:",
+      "options": [
+        "Replacing all doctors with computers",
+        "Allowing medical consultations, diagnoses and treatment advice to be delivered remotely using video and digital communication",
+        "Only storing patient records",
+        "Reducing the cost of medication"
+      ],
+      "answer": 1,
+      "explanation": "Telemedicine uses ICT to deliver healthcare remotely — patients can consult doctors via video call, and medical data can be shared digitally, improving access especially in rural Caribbean communities."
+    },
+    {
+      "id": 107,
+      "strand": "Social and Economic Impact of ICT",
+      "unit": "Social and Economic Impact of ICT",
+      "topic": "Negative Impacts of ICT",
+      "difficulty": 2,
+      "question": "Automation in the workplace through ICT can negatively impact employment by:",
+      "options": [
+        "Creating more skilled jobs for everyone",
+        "Replacing repetitive manual jobs previously done by humans — leading to structural unemployment in some sectors",
+        "Improving working conditions only",
+        "Increasing wages for all workers"
+      ],
+      "answer": 1,
+      "explanation": "Automation reduces the need for workers performing routine tasks, displacing workers in manufacturing, data entry and customer service sectors, though it also creates new technology-related roles."
+    },
+    {
+      "id": 108,
+      "strand": "Word Processing",
+      "unit": "Word Processing",
+      "topic": "Formatting",
+      "difficulty": 2,
+      "question": "Track changes in a word processor is used to:",
+      "options": [
+        "Change the font colour automatically",
+        "Record all edits made to a document so they can be reviewed, accepted or rejected — useful for collaborative editing",
+        "Automatically save the document",
+        "Convert the file to PDF"
+      ],
+      "answer": 1,
+      "explanation": "Track changes records insertions, deletions and formatting changes made by editors. The author can then review each change and accept or reject it — essential for collaborative document editing."
+    },
+    {
+      "id": 109,
+      "strand": "Web Page Design",
+      "unit": "Web Page Design",
+      "topic": "HTML Basics",
+      "difficulty": 2,
+      "question": "What does the HTML attribute 'alt' do in an <img> tag?",
+      "options": [
+        "Changes the image size",
+        "Provides alternative text that is displayed if the image cannot load and is used by screen readers for accessibility",
+        "Sets the image colour",
+        "Links the image to another page"
+      ],
+      "answer": 1,
+      "explanation": "The alt attribute provides descriptive text for an image. It displays if the image fails to load and is read by screen readers — important for accessibility and SEO."
+    },
+    {
+      "id": 110,
+      "strand": "Spreadsheets",
+      "unit": "Spreadsheets",
+      "topic": "Spreadsheet Basics",
+      "difficulty": 2,
+      "question": "What is a spreadsheet macro?",
+      "options": [
+        "A type of chart",
+        "A recorded sequence of actions or a program that automates repetitive tasks in a spreadsheet",
+        "A keyboard shortcut",
+        "A cell reference"
+      ],
+      "answer": 1,
+      "explanation": "A macro is a recorded or programmed sequence of steps that automates repetitive spreadsheet tasks — saving time and reducing errors when the same sequence is needed repeatedly."
+    },
+    {
+      "id": 111,
+      "strand": "Databases",
+      "unit": "Databases",
+      "topic": "Database Concepts",
+      "difficulty": 2,
+      "question": "Data redundancy in a database refers to:",
+      "options": [
+        "Having too few records",
+        "The same data being stored unnecessarily in multiple places — wasting storage and creating inconsistency risks",
+        "Encrypting data multiple times",
+        "Having multiple users access the database"
+      ],
+      "answer": 1,
+      "explanation": "Data redundancy occurs when the same data is stored in multiple places. It wastes storage space and can lead to inconsistency when updates are not made to all copies."
+    },
+    {
+      "id": 112,
+      "strand": "Problem Solving and Program Design",
+      "unit": "Problem Solving and Program Design",
+      "topic": "Program Design",
+      "difficulty": 2,
+      "question": "Testing a program with boundary values means:",
+      "options": [
+        "Testing with typical middle-range values only",
+        "Testing with values at the limits of acceptable input — such as the minimum, maximum and just above/below these limits — where errors are most likely to occur",
+        "Testing the program interface design",
+        "Only testing with incorrect input"
+      ],
+      "answer": 1,
+      "explanation": "Boundary testing checks the extremes of input ranges — where off-by-one errors and edge cases are most likely. E.g. if valid range is 1–100, test with 0, 1, 100 and 101."
+    },
+    {
+      "id": 113,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Data Types",
+      "difficulty": 2,
+      "question": "What is the result of: print(type(\"Hello\"))",
+      "options": [
+        "<class 'int'>",
+        "<class 'str'>",
+        "<class 'float'>",
+        "Hello"
+      ],
+      "answer": 1,
+      "explanation": "type() returns the data type of a value. \"Hello\" is a string, so type(\"Hello\") returns <class 'str'>."
+    },
+    {
+      "id": 114,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Lists",
+      "difficulty": 2,
+      "question": "What method is used to add an item to the end of a Python list?",
+      "options": [
+        "list.add()",
+        "list.insert()",
+        "list.append()",
+        "list.push()"
+      ],
+      "answer": 2,
+      "explanation": "The .append() method adds an item to the end of a list. Example: fruits.append('mango') adds 'mango' to the end of the fruits list."
+    },
+    {
+      "id": 115,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Strings",
+      "difficulty": 2,
+      "question": "What does the following Python code output?\nname = \"Caribbean\"\nprint(name.upper())",
+      "options": [
+        "caribbean",
+        "Caribbean",
+        "CARIBBEAN",
+        "Error"
+      ],
+      "answer": 2,
+      "explanation": "The .upper() string method converts all characters to uppercase. \"Caribbean\".upper() returns \"CARIBBEAN\"."
+    },
+    {
+      "id": 116,
+      "strand": "Computer Fundamentals",
+      "unit": "Computer Fundamentals",
+      "topic": "Number Systems",
+      "difficulty": 2,
+      "question": "What is the binary addition of 1011 + 0110?",
+      "options": [
+        "1101",
+        "10001",
+        "1111",
+        "10101"
+      ],
+      "answer": 1,
+      "explanation": "1011 + 0110: 1+0=1, 1+1=10 (write 0 carry 1), 0+1+1=10 (write 0 carry 1), 1+0+1=10 (write 0 carry 1), carry = 1. Result: 10001."
+    },
+    {
+      "id": 117,
+      "strand": "Information Processing",
+      "unit": "Information Processing",
+      "topic": "Data Quality",
+      "difficulty": 2,
+      "question": "A presence check (existence check) in data validation ensures that:",
+      "options": [
+        "Data is within a valid range",
+        "A required field has not been left empty",
+        "Data is the correct type",
+        "Data matches a specific pattern"
+      ],
+      "answer": 1,
+      "explanation": "A presence check validates that a required field contains data before the form or record is accepted — preventing blank entries in essential fields."
+    },
+    {
+      "id": 118,
+      "strand": "Computer Networks and Web Technologies",
+      "unit": "Computer Networks and Web Technologies",
+      "topic": "Internet Services",
+      "difficulty": 3,
+      "question": "HTTPS differs from HTTP because:",
+      "options": [
+        "HTTPS is faster",
+        "HTTPS uses encryption (SSL/TLS) to secure data transmitted between the browser and server — protecting against interception",
+        "HTTPS only works for images",
+        "HTTPS is used only on local networks"
+      ],
+      "answer": 1,
+      "explanation": "HTTPS (HTTP Secure) uses SSL/TLS encryption to protect data in transit between browser and server — shown by the padlock icon. Critical for e-commerce, banking and login pages."
+    },
+    {
+      "id": 119,
+      "strand": "Social and Economic Impact of ICT",
+      "unit": "Social and Economic Impact of ICT",
+      "topic": "Benefits of ICT",
+      "difficulty": 2,
+      "question": "Which of the following is an economic benefit of ICT for Caribbean businesses?",
+      "options": [
+        "Increased cost of all operations",
+        "Reduced communication costs, ability to work remotely and access to global markets through e-commerce",
+        "Elimination of all employment",
+        "Higher printing costs"
+      ],
+      "answer": 1,
+      "explanation": "ICT reduces communication costs, enables remote work, automates processes, and opens global markets — all contributing to economic efficiency and growth for Caribbean businesses."
+    },
+    {
+      "id": 120,
+      "strand": "Word Processing",
+      "unit": "Word Processing",
+      "topic": "Word Processing Features",
+      "difficulty": 3,
+      "question": "Which of the following word processing features would be most useful for creating 200 personalised invitation letters?",
+      "options": [
+        "Spell check",
+        "Track changes",
+        "Mail merge",
+        "Word count"
+      ],
+      "answer": 2,
+      "explanation": "Mail merge automates the creation of multiple personalised documents by combining a letter template with a data source (e.g. a list of names and addresses) — ideal for bulk personalised letters."
+    },
+    {
+      "id": 121,
+      "strand": "Databases",
+      "unit": "Databases",
+      "topic": "Database Operations",
+      "difficulty": 3,
+      "question": "What is the purpose of an INDEX in a database?",
+      "options": [
+        "To add new records",
+        "To improve the speed of searches and queries on a table by creating a reference structure — similar to an index in a book",
+        "To define the table structure",
+        "To link two tables together"
+      ],
+      "answer": 1,
+      "explanation": "A database index improves query performance by creating a data structure that allows the DBMS to find records quickly without scanning every row in the table."
+    },
+    {
+      "id": 122,
+      "strand": "Problem Solving and Program Design",
+      "unit": "Problem Solving and Program Design",
+      "topic": "Control Structures",
+      "difficulty": 3,
+      "question": "What is the output of the following pseudocode?\nSET total = 0\nFOR i FROM 1 TO 5\n    SET total = total + i\nEND FOR\nPRINT total",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "25"
+      ],
+      "answer": 2,
+      "explanation": "The loop adds i to total for i = 1, 2, 3, 4, 5. total = 0+1+2+3+4+5 = 15."
+    },
+    {
+      "id": 123,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Functions",
+      "difficulty": 3,
+      "question": "What is the output of:\ndef greet(name):\n    return 'Hello, ' + name\nprint(greet('Alicia'))",
+      "options": [
+        "greet('Alicia')",
+        "Hello, name",
+        "Hello, Alicia",
+        "Error"
+      ],
+      "answer": 2,
+      "explanation": "The function greet() accepts a name parameter and returns 'Hello, ' concatenated with the name. greet('Alicia') returns 'Hello, Alicia'. print() displays it."
+    },
+    {
+      "id": 124,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Control Structures",
+      "difficulty": 3,
+      "question": "What does the keyword 'break' do inside a Python loop?",
+      "options": [
+        "Pauses the loop temporarily",
+        "Skips to the next iteration",
+        "Immediately terminates the loop and continues with the next statement after the loop",
+        "Restarts the loop from the beginning"
+      ],
+      "answer": 2,
+      "explanation": "break immediately exits (terminates) the loop, regardless of whether the loop condition is still true. Execution continues with the first statement after the loop."
+    },
+    {
+      "id": 125,
+      "strand": "Web Page Design",
+      "unit": "Web Page Design",
+      "topic": "HTML Basics",
+      "difficulty": 3,
+      "question": "What is the purpose of the HTML <meta charset='UTF-8'> tag?",
+      "options": [
+        "To set the page title",
+        "To specify the character encoding used in the HTML document — ensuring special characters display correctly",
+        "To link a CSS stylesheet",
+        "To create a meta-search function"
+      ],
+      "answer": 1,
+      "explanation": "The charset meta tag declares the character encoding. UTF-8 supports virtually all characters from all languages — ensuring special characters like accents display correctly across all browsers."
+    },
+    {
+      "id": 126,
+      "strand": "Computer Fundamentals",
+      "unit": "Computer Fundamentals",
+      "topic": "Hardware",
+      "difficulty": 3,
+      "question": "Virtual memory is:",
+      "options": [
+        "Additional physical RAM chips",
+        "A technique where part of secondary storage (hard disk) is used as an extension of RAM when physical RAM is full",
+        "A type of GPU memory",
+        "Cloud-based storage"
+      ],
+      "answer": 1,
+      "explanation": "Virtual memory extends the apparent size of RAM by using hard disk space as overflow memory. When RAM is full, the OS moves less-used data to disk (a swap file), freeing RAM for active processes."
+    },
+    {
+      "id": 127,
+      "strand": "Spreadsheets",
+      "unit": "Spreadsheets",
+      "topic": "Formulas and Functions",
+      "difficulty": 3,
+      "question": "The VLOOKUP function is used to:",
+      "options": [
+        "Sort data in a column vertically",
+        "Search vertically through the first column of a table and return a value from a specified column in the same row",
+        "Calculate the vertical sum of a column",
+        "Create a vertical bar chart"
+      ],
+      "answer": 1,
+      "explanation": "VLOOKUP(lookup_value, table_array, col_index_num) searches the first column of a table for a value and returns data from another column in the matching row — used for looking up prices, grades, etc."
+    },
+    {
+      "id": 128,
+      "strand": "Information Processing",
+      "unit": "Information Processing",
+      "topic": "Data Quality",
+      "difficulty": 3,
+      "question": "A format check validates that:",
+      "options": [
+        "Data is within an acceptable numerical range",
+        "Data matches a required pattern or structure — such as a date in DD/MM/YYYY format or a postcode in the correct pattern",
+        "A field is not empty",
+        "Data is the correct length"
+      ],
+      "answer": 1,
+      "explanation": "A format check ensures data matches a required structure or pattern. E.g. a date field must follow DD/MM/YYYY, or a National Insurance number must match a specific alphanumeric pattern."
+    },
+    {
+      "id": 129,
+      "strand": "Problem Solving and Program Design",
+      "unit": "Problem Solving and Program Design",
+      "topic": "Program Design",
+      "difficulty": 3,
+      "question": "What is the difference between a syntax error and a runtime error in programming?",
+      "options": [
+        "There is no difference",
+        "A syntax error breaks the rules of the programming language and prevents the program from running; a runtime error occurs during execution when the program encounters an impossible operation",
+        "A runtime error is easier to fix",
+        "Syntax errors only occur in Python"
+      ],
+      "answer": 1,
+      "explanation": "Syntax errors (e.g. missing colon, wrong spelling) prevent the program from running. Runtime errors (e.g. division by zero, accessing an invalid index) crash the program during execution."
+    },
+    {
+      "id": 130,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Basics",
+      "difficulty": 2,
+      "question": "What is the output of: print(10 % 3)",
+      "options": [
+        "3",
+        "1",
+        "0.33",
+        "3.33"
+      ],
+      "answer": 1,
+      "explanation": "The % operator is the modulus — it returns the remainder after division. 10 ÷ 3 = 3 remainder 1, so 10 % 3 = 1."
+    },
+    {
+      "id": 131,
+      "strand": "Computer Networks and Web Technologies",
+      "unit": "Computer Networks and Web Technologies",
+      "topic": "Network Types",
+      "difficulty": 2,
+      "question": "Bluetooth is a technology used for:",
+      "options": [
+        "Long-range internet access",
+        "Short-range wireless communication between devices — typically within 10 metres",
+        "Connecting to satellite internet",
+        "Storing data on the cloud"
+      ],
+      "answer": 1,
+      "explanation": "Bluetooth provides short-range wireless data transfer between devices (e.g. phone to headphones, keyboard to computer) using radio waves over distances typically up to 10 metres."
+    },
+    {
+      "id": 132,
+      "strand": "Social and Economic Impact of ICT",
+      "unit": "Social and Economic Impact of ICT",
+      "topic": "Legal and Ethical Issues",
+      "difficulty": 2,
+      "question": "Plagiarism in the context of ICT and the internet refers to:",
+      "options": [
+        "Creating original content",
+        "Using someone else's digital work, ideas or content without proper acknowledgement or permission",
+        "Sharing your own work online",
+        "Downloading free software"
+      ],
+      "answer": 1,
+      "explanation": "Plagiarism involves using others' work (text, images, code) and presenting it as your own — a violation of intellectual property rights and academic integrity."
+    },
+    {
+      "id": 133,
+      "strand": "Word Processing",
+      "unit": "Word Processing",
+      "topic": "Word Processing Features",
+      "difficulty": 2,
+      "question": "The 'Find and Replace' feature in word processing is used to:",
+      "options": [
+        "Find a file on the computer",
+        "Search for a specific word or phrase in a document and optionally replace all instances with a different word or phrase",
+        "Check for grammatical errors",
+        "Insert images into a document"
+      ],
+      "answer": 1,
+      "explanation": "Find and Replace locates all instances of a specified word or phrase throughout a document and can automatically replace them with another — useful for correcting repeated errors or terminology changes."
+    },
+    {
+      "id": 134,
+      "strand": "Spreadsheets",
+      "unit": "Spreadsheets",
+      "topic": "Charts and Graphs",
+      "difficulty": 2,
+      "question": "Which type of chart would be MOST appropriate for comparing the sales of five different products?",
+      "options": [
+        "Line chart",
+        "Pie chart",
+        "Bar or column chart",
+        "Scatter plot"
+      ],
+      "answer": 2,
+      "explanation": "Bar or column charts are ideal for comparing discrete categories (like different products) side by side — making differences in magnitude easy to see."
+    },
+    {
+      "id": 135,
+      "strand": "Databases",
+      "unit": "Databases",
+      "topic": "Database Operations",
+      "difficulty": 2,
+      "question": "A report in a database application is used to:",
+      "options": [
+        "Enter new data",
+        "Display and print data from tables or queries in a structured, formatted and presentable way",
+        "Edit the table structure",
+        "Create new database relationships"
+      ],
+      "answer": 1,
+      "explanation": "Database reports present data in a formatted, professional layout for printing or viewing — typically summarising query results, such as a sales report or student grade report."
+    },
+    {
+      "id": 136,
+      "strand": "Problem Solving and Program Design",
+      "unit": "Problem Solving and Program Design",
+      "topic": "Problem Solving",
+      "difficulty": 2,
+      "question": "Which of the following is the FIRST step in solving a programming problem?",
+      "options": [
+        "Writing the code",
+        "Testing the program",
+        "Understanding and defining the problem clearly",
+        "Drawing a flowchart"
+      ],
+      "answer": 2,
+      "explanation": "The first step is always to understand the problem — clarifying inputs, outputs, constraints and what the solution must achieve — before designing or coding anything."
+    },
+    {
+      "id": 137,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Variables",
+      "difficulty": 2,
+      "question": "Which of the following is a valid Python variable name?",
+      "options": [
+        "2score",
+        "my-score",
+        "my_score",
+        "class"
+      ],
+      "answer": 2,
+      "explanation": "Variable names cannot start with a digit (2score), cannot contain hyphens (my-score) and cannot use reserved keywords (class). my_score follows Python naming rules."
+    },
+    {
+      "id": 138,
+      "strand": "Computer Fundamentals",
+      "unit": "Computer Fundamentals",
+      "topic": "Data Representation",
+      "difficulty": 3,
+      "question": "ASCII is a character encoding standard that:",
+      "options": [
+        "Converts images to binary",
+        "Assigns a unique numerical code to each character (letters, digits, symbols) allowing computers to represent and store text",
+        "Compresses audio files",
+        "Encrypts data transmissions"
+      ],
+      "answer": 1,
+      "explanation": "ASCII (American Standard Code for Information Interchange) assigns a number (0–127) to each character — e.g. 'A' = 65. It allows computers to store and process text as binary numbers."
+    },
+    {
+      "id": 139,
+      "strand": "Social and Economic Impact of ICT",
+      "unit": "Social and Economic Impact of ICT",
+      "topic": "Privacy and Security",
+      "difficulty": 3,
+      "question": "Two-factor authentication (2FA) improves security by:",
+      "options": [
+        "Requiring a very long password",
+        "Requiring users to provide two separate forms of verification before granting access — e.g. password plus a one-time code sent to their phone",
+        "Encrypting all stored data",
+        "Blocking all foreign IP addresses"
+      ],
+      "answer": 1,
+      "explanation": "2FA adds a second layer of security beyond a password — even if the password is stolen, the attacker also needs the second factor (e.g. SMS code, authenticator app) to gain access."
+    },
+    {
+      "id": 140,
+      "strand": "Web Page Design",
+      "unit": "Web Page Design",
+      "topic": "Web Design Principles",
+      "difficulty": 2,
+      "question": "What does SEO (Search Engine Optimisation) involve?",
+      "options": [
+        "Making web pages load faster only",
+        "Techniques to improve a website's visibility and ranking in search engine results pages — increasing organic traffic",
+        "Encrypting web page content",
+        "Designing mobile apps"
+      ],
+      "answer": 1,
+      "explanation": "SEO involves optimising web content, structure and metadata so search engines rank the site higher for relevant searches — increasing the likelihood of users finding and visiting the site."
+    },
+    {
+      "id": 141,
+      "strand": "Spreadsheets",
+      "unit": "Spreadsheets",
+      "topic": "Formulas and Functions",
+      "difficulty": 2,
+      "question": "The function =TODAY() in a spreadsheet:",
+      "options": [
+        "Displays the word 'Today'",
+        "Returns the current date automatically, updating each time the spreadsheet is opened",
+        "Calculates the sum of today's entries",
+        "Creates a date format"
+      ],
+      "answer": 1,
+      "explanation": "=TODAY() is a volatile function that automatically returns the current date every time the spreadsheet is opened or calculated, without needing manual updates."
+    },
+    {
+      "id": 142,
+      "strand": "Databases",
+      "unit": "Databases",
+      "topic": "Database Concepts",
+      "difficulty": 2,
+      "question": "In database design, normalisation is the process of:",
+      "options": [
+        "Adding more data to the database",
+        "Organising data to reduce redundancy and improve data integrity by dividing data into related tables with clear relationships",
+        "Encrypting the database",
+        "Backing up all database records"
+      ],
+      "answer": 1,
+      "explanation": "Normalisation restructures a database into well-defined tables to eliminate redundancy, reduce inconsistency and improve efficiency — typically working through normal forms (1NF, 2NF, 3NF)."
+    },
+    {
+      "id": 143,
+      "strand": "Problem Solving and Program Design",
+      "unit": "Problem Solving and Program Design",
+      "topic": "Flowcharts",
+      "difficulty": 3,
+      "question": "An algorithm to calculate the average of 5 numbers would require which programming construct?",
+      "options": [
+        "Only sequential statements",
+        "A decision structure only",
+        "A loop to input and sum the numbers and then a calculation",
+        "Only output statements"
+      ],
+      "answer": 2,
+      "explanation": "Averaging 5 numbers requires a loop (to input and accumulate the sum), arithmetic (dividing by 5), and output. This combines sequence, iteration and calculation."
+    },
+    {
+      "id": 144,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Basics",
+      "difficulty": 3,
+      "question": "What is the output of:\nfor i in range(1, 10, 2):\n    print(i, end=' ')",
+      "options": [
+        "1 3 5 7 9",
+        "2 4 6 8",
+        "1 2 3 4 5 6 7 8 9",
+        "1 3 5 7"
+      ],
+      "answer": 0,
+      "explanation": "range(1, 10, 2) generates values starting at 1, up to (not including) 10, with step 2: 1, 3, 5, 7, 9. end=' ' prints them on one line separated by spaces."
+    },
+    {
+      "id": 145,
+      "strand": "Computer Networks and Web Technologies",
+      "unit": "Computer Networks and Web Technologies",
+      "topic": "Network Security",
+      "difficulty": 3,
+      "question": "A VPN (Virtual Private Network) is used to:",
+      "options": [
+        "Speed up internet connection",
+        "Create an encrypted, secure connection over a public network — protecting privacy and allowing remote access to private networks",
+        "Block advertisements online",
+        "Share files between computers in a LAN only"
+      ],
+      "answer": 1,
+      "explanation": "A VPN encrypts internet traffic and routes it through a secure server — protecting privacy, hiding the user's IP address and allowing secure remote access to corporate networks."
+    },
+    {
+      "id": 146,
+      "strand": "Information Processing",
+      "unit": "Information Processing",
+      "topic": "Data Quality",
+      "difficulty": 2,
+      "question": "A check digit is used to:",
+      "options": [
+        "Display data in a particular format",
+        "Detect errors in numeric data entry — an extra digit calculated from the other digits that verifies the number has been entered correctly",
+        "Restrict access to data",
+        "Compress data files"
+      ],
+      "answer": 1,
+      "explanation": "A check digit is an extra digit appended to a number (e.g. barcode, credit card number). When entered, the system recalculates the check digit and compares it — detecting transposition and other entry errors."
+    },
+    {
+      "id": 147,
+      "strand": "Word Processing",
+      "unit": "Word Processing",
+      "topic": "Formatting",
+      "difficulty": 2,
+      "question": "What is a table of contents in a word processing document?",
+      "options": [
+        "A list of all figures in the document",
+        "An automatically generated list of headings and their page numbers — allowing readers to navigate a long document easily",
+        "A summary of the document",
+        "A list of all tables in the document"
+      ],
+      "answer": 1,
+      "explanation": "A table of contents (TOC) is generated automatically from heading styles in a document. It lists all headings with their page numbers, allowing quick navigation in long documents."
+    },
+    {
+      "id": 148,
+      "strand": "Databases",
+      "unit": "Databases",
+      "topic": "Database Operations",
+      "difficulty": 3,
+      "question": "The SQL command UPDATE Students SET Grade = 90 WHERE Name = 'Maya' will:",
+      "options": [
+        "Delete Maya's record",
+        "Add a new student named Maya with Grade 90",
+        "Change the Grade field to 90 for the record(s) where Name equals 'Maya'",
+        "Create a new table called Students"
+      ],
+      "answer": 2,
+      "explanation": "UPDATE modifies existing records. SET specifies the field and new value. WHERE limits which records are changed. This sets Maya's grade to 90 in the Students table."
+    },
+    {
+      "id": 149,
+      "strand": "Program Implementation",
+      "unit": "Program Implementation",
+      "topic": "Python Functions",
+      "difficulty": 3,
+      "question": "What is the output of:\ndef calculate(a, b):\n    return a * b + 2\nresult = calculate(3, 4)\nprint(result)",
+      "options": [
+        "12",
+        "14",
+        "9",
+        "Error"
+      ],
+      "answer": 1,
+      "explanation": "calculate(3, 4): a=3, b=4. Returns 3*4 + 2 = 12 + 2 = 14. print(result) outputs 14."
+    },
+    {
+      "id": 150,
+      "strand": "Social and Economic Impact of ICT",
+      "unit": "Social and Economic Impact of ICT",
+      "topic": "Benefits of ICT",
+      "difficulty": 3,
+      "question": "Which of the following best describes the impact of ICT on education in the Caribbean?",
+      "options": [
+        "ICT has had no impact on education",
+        "ICT has improved access to educational resources, enabled distance learning, allowed interactive teaching methods and helped bridge gaps in underserved communities",
+        "ICT has made all teachers redundant",
+        "ICT has only benefited university students"
+      ],
+      "answer": 1,
+      "explanation": "ICT has transformed Caribbean education — online resources, e-learning platforms, virtual classrooms and interactive tools have expanded access, improved engagement and supported learners in remote areas."
+    }
+  ]
+}

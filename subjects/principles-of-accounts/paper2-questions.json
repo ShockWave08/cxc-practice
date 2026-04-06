@@ -1,0 +1,162 @@
+{
+  "paper2": [
+    {
+      "id": 1,
+      "strand": "Introduction to Principles of Accounts",
+      "unit": "Introduction to Principles of Accounts",
+      "topic": "Accounting Concepts and the Accounting Equation",
+      "context": "Understanding the foundations of accounting — key concepts, the accounting equation and the classification of items — is essential before preparing any financial statements.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"State and explain FIVE accounting concepts, giving a brief example of each.","marks":10,"rubric":[{"type":"answer","value":"going concern: business assumed to continue operating e.g. assets valued at cost not liquidation value","marks":2},{"type":"answer","value":"accruals: income and expenses matched to period they relate to not when cash paid","marks":2},{"type":"answer","value":"prudence: anticipate losses immediately recognise profits only when realised","marks":2},{"type":"answer","value":"consistency: same accounting methods applied each period for comparability","marks":2},{"type":"answer","value":"business entity: business treated as separate from owner personal transactions excluded","marks":2}]},
+        {"part":"b","question":"A business has the following: Cash $5,000 — Inventory $8,000 — Equipment $20,000 — Bank loan $12,000 — Trade payables $3,000. (i) Calculate total assets. (ii) Calculate total liabilities. (iii) Calculate owner's equity.","marks":3,"rubric":[{"type":"answer","value":"total assets = 5000 + 8000 + 20000 = $33,000","marks":1},{"type":"answer","value":"total liabilities = 12000 + 3000 = $15,000","marks":1},{"type":"answer","value":"owner's equity = 33,000 − 15,000 = $18,000","marks":1}]},
+        {"part":"c","question":"Distinguish between capital expenditure and revenue expenditure. Give TWO examples of each.","marks":2,"rubric":[{"type":"answer","value":"capital expenditure: spending on non-current assets providing benefit over multiple years e.g. buying machinery extending premises","marks":1},{"type":"answer","value":"revenue expenditure: day-to-day operating costs e.g. rent electricity wages repairs","marks":1}]}
+      ]
+    },
+    {
+      "id": 2,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Income Statement and Statement of Financial Position",
+      "context": "Xavier's Trading operates as a sole trader. The following information is available for the year ended 31 December 2024: Sales $95,000 — Sales returns $3,000 — Opening inventory $7,500 — Purchases $52,000 — Purchases returns $2,000 — Closing inventory $9,000 — Carriage inwards $800 — Wages $12,000 — Rent $4,500 — Electricity $1,200 — Carriage outwards $600 — Discount allowed $400.",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"Prepare the Income Statement (Trading and Profit & Loss Account) for Xavier's Trading for the year ended 31 December 2024.","marks":12,"rubric":[{"type":"answer","value":"net sales = 95000 − 3000 = $92,000","marks":1},{"type":"answer","value":"COGS = opening inventory 7500 + purchases 52000 − returns 2000 + carriage inwards 800 − closing inventory 9000 = $49,300","marks":3},{"type":"answer","value":"gross profit = 92000 − 49300 = $42,700","marks":2},{"type":"answer","value":"total expenses = wages 12000 + rent 4500 + electricity 1200 + carriage outwards 600 + discount allowed 400 = $18,700","marks":3},{"type":"answer","value":"net profit = 42700 − 18700 = $24,000","marks":3}]},
+        {"part":"b","question":"Calculate the gross profit margin and net profit margin for Xavier's Trading. Comment briefly on what each ratio shows.","marks":4,"rubric":[{"type":"answer","value":"gross profit margin = 42700/92000 × 100 = 46.4%","marks":1},{"type":"answer","value":"net profit margin = 24000/92000 × 100 = 26.1%","marks":1},{"type":"answer","value":"gross profit margin shows 46.4c of every dollar of sales becomes gross profit before overheads","marks":1},{"type":"answer","value":"net profit margin shows 26.1c of every dollar remains as net profit after all costs","marks":1}]}
+      ]
+    },
+    {
+      "id": 3,
+      "strand": "Introduction to Financial Statements and Ratios",
+      "unit": "Introduction to Financial Statements and Ratios",
+      "topic": "Statement of Financial Position and Ratios",
+      "context": "The following balances appeared in the books of Maya's Enterprise at 31 December 2024: Premises $60,000 — Motor vehicle $18,000 — Inventory $9,500 — Trade receivables $7,200 — Cash $1,300 — Bank overdraft $2,400 — Trade payables $5,100 — Long-term loan $20,000 — Capital (opening) $55,000 — Net profit for year $13,500 — Drawings $8,000 — Accumulated depreciation (vehicle) $6,000.",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"Prepare the Statement of Financial Position for Maya's Enterprise as at 31 December 2024.","marks":12,"rubric":[{"type":"answer","value":"non-current assets: premises 60000 + vehicle net 12000 = $72,000","marks":2},{"type":"answer","value":"current assets: inventory 9500 + receivables 7200 + cash 1300 = $18,000","marks":2},{"type":"answer","value":"total assets = $90,000","marks":1},{"type":"answer","value":"current liabilities: bank overdraft 2400 + payables 5100 = $7,500","marks":2},{"type":"answer","value":"non-current liabilities: long-term loan $20,000","marks":1},{"type":"answer","value":"total liabilities = $27,500","marks":1},{"type":"answer","value":"capital = opening 55000 + profit 13500 − drawings 8000 = $60,500","marks":2},{"type":"answer","value":"total equity + liabilities = 60500 + 27500 = $88,000 — note: check figures balance","marks":1}]},
+        {"part":"b","question":"Calculate the current ratio and acid test ratio. State whether Maya's liquidity position appears satisfactory.","marks":4,"rubric":[{"type":"answer","value":"current ratio = 18000/7500 = 2.4:1","marks":1},{"type":"answer","value":"acid test = (18000 − 9500)/7500 = 8500/7500 = 1.13:1","marks":1},{"type":"answer","value":"current ratio above 2:1 suggests comfortable liquidity","marks":1},{"type":"answer","value":"acid test above 1:1 suggests business can meet short-term debts without selling inventory","marks":1}]}
+      ]
+    },
+    {
+      "id": 4,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Books of Original Entry and Ledger Accounts",
+      "context": "The following transactions took place in the business of Leon's Supplies during October 2024.",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"Record the following transactions in the appropriate books of original entry and post to the ledger accounts.\nOct 1 — Sold goods on credit to R. Brown $1,200\nOct 5 — Purchased goods on credit from T. White $800\nOct 10 — R. Brown returned goods worth $150\nOct 15 — Paid T. White by cheque $800\nOct 20 — Received cheque from R. Brown $1,050 in full settlement","marks":10,"rubric":[{"type":"answer","value":"Oct 1 sales journal: R Brown $1,200; Dr R Brown, Cr Sales $1,200","marks":2},{"type":"answer","value":"Oct 5 purchases journal: T White $800; Dr Purchases, Cr T White $800","marks":2},{"type":"answer","value":"Oct 10 sales returns journal: R Brown $150; Dr Sales Returns, Cr R Brown $150","marks":2},{"type":"answer","value":"Oct 15 cash book: Dr T White Cr Bank $800","marks":2},{"type":"answer","value":"Oct 20 cash book: Dr Bank $1,050 discount allowed $0 Cr R Brown $1,050 — balance on R Brown = 1200−150−1050 = $0","marks":2}]},
+        {"part":"b","question":"Explain the purpose of a trial balance and state TWO errors that would NOT be detected by a trial balance.","marks":4,"rubric":[{"type":"answer","value":"trial balance checks arithmetical accuracy by verifying total debits equal total credits","marks":2},{"type":"answer","value":"error of omission: both debit and credit omitted balance still agrees","marks":1},{"type":"answer","value":"error of principle commission original entry or compensating errors","marks":1}]},
+        {"part":"c","question":"Explain what a bank reconciliation statement is and state ONE reason why the cash book balance may differ from the bank statement balance.","marks":2,"rubric":[{"type":"answer","value":"bank reconciliation explains difference between cash book and bank statement balance","marks":1},{"type":"answer","value":"timing differences e.g. unpresented cheques issued but not yet cleared by bank","marks":1}]}
+      ]
+    },
+    {
+      "id": 5,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Depreciation, Accruals, Prepayments and Bad Debts",
+      "context": "The following information relates to the business of Sara's Enterprises for the year ended 31 March 2024.",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"A computer was purchased on 1 April 2022 for $12,000. It has an estimated useful life of 4 years and a residual value of $2,000. Calculate: (i) Annual depreciation using the straight-line method. (ii) Net book value at 31 March 2024 (after 2 years).","marks":4,"rubric":[{"type":"answer","value":"annual depreciation = (12000 − 2000) / 4 = $2,500","marks":2},{"type":"answer","value":"NBV after 2 years = 12000 − (2 × 2500) = 12000 − 5000 = $7,000","marks":2}]},
+        {"part":"b","question":"Sara pays rent of $6,000 per year. At 31 March 2024, three months' rent has been prepaid. Calculate the prepayment and show how rent should be shown in the income statement.","marks":3,"rubric":[{"type":"answer","value":"prepayment = 3/12 × 6000 = $1,500","marks":1},{"type":"answer","value":"rent expense in income statement = 6000 − 1500 = $4,500","marks":1},{"type":"answer","value":"prepayment shown as current asset $1,500 on balance sheet","marks":1}]},
+        {"part":"c","question":"Sara has debtors of $25,000. She decides to write off a bad debt of $500 and maintain a provision for bad debts of 4% on remaining debtors. The existing provision was $800. Calculate: (i) The new provision required. (ii) The increase or decrease in provision to be charged/credited to the income statement.","marks":4,"rubric":[{"type":"answer","value":"debtors after write-off = 25000 − 500 = $24,500","marks":1},{"type":"answer","value":"new provision = 4% × 24500 = $980","marks":1},{"type":"answer","value":"existing provision $800 so increase = 980 − 800 = $180 charged as expense","marks":2}]},
+        {"part":"d","question":"Explain the difference between the straight-line and reducing balance methods of depreciation, and state ONE advantage of each.","marks":5,"rubric":[{"type":"answer","value":"straight-line: equal amount depreciated each year based on original cost minus residual value","marks":1},{"type":"answer","value":"advantage: simple to calculate consistent annual charge","marks":1},{"type":"answer","value":"reducing balance: fixed percentage on net book value — higher charges in early years reducing over time","marks":1},{"type":"answer","value":"advantage: better matches usage pattern for assets that lose more value when new e.g. vehicles","marks":1},{"type":"answer","value":"both methods acceptable as long as applied consistently prudence and matching concepts","marks":1}]}
+      ]
+    },
+    {
+      "id": 6,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Club and Society Accounts",
+      "context": "The Sunshine Youth Club had the following information for the year ended 31 December 2024.\n\nSubscriptions received $9,600 — Subscriptions in arrears at start $400 — Subscriptions in advance at start $300 — Subscriptions in arrears at end $500 — Subscriptions in advance at end $200\nBar receipts $7,200 — Bar expenses $4,800 — Refreshment sales $1,500 — Refreshment costs $900\nRent paid $2,400 — Electricity $600 — Insurance $480 — General expenses $320\nAccumulated fund at start of year $18,000 — Equipment at cost $12,000 — Accumulated depreciation on equipment $3,600 — Cash at bank $5,200 — Trade payables $800",
+      "total_marks": 17,
+      "parts": [
+        {"part":"a","question":"Calculate the subscription income to be included in the Income and Expenditure Account.","marks":3,"rubric":[{"type":"answer","value":"subscription income = cash received + closing arrears − opening arrears − closing advance + opening advance","marks":1},{"type":"answer","value":"= 9600 + 500 − 400 − 200 + 300","marks":1},{"type":"answer","value":"= $9,800","marks":1}]},
+        {"part":"b","question":"Prepare the Bar Trading Account for the year.","marks":3,"rubric":[{"type":"answer","value":"bar receipts $7,200","marks":1},{"type":"answer","value":"less bar expenses $4,800","marks":1},{"type":"answer","value":"bar surplus/profit $2,400","marks":1}]},
+        {"part":"c","question":"Prepare the Income and Expenditure Account for the year ended 31 December 2024.","marks":8,"rubric":[{"type":"answer","value":"income: subscription income 9800 + bar surplus 2400 + refreshment profit 600 = $12,800","marks":3},{"type":"answer","value":"expenditure: rent 2400 + electricity 600 + insurance 480 + general 320 = $3,800","marks":2},{"type":"answer","value":"also depreciation on equipment: show calculation and deduct","marks":2},{"type":"answer","value":"surplus for year = income less expenditure correctly calculated","marks":1}]},
+        {"part":"d","question":"Explain why clubs prepare an Income and Expenditure Account rather than a Profit and Loss Account.","marks":3,"rubric":[{"type":"answer","value":"clubs are non-profit organisations they do not aim to make profit","marks":1},{"type":"answer","value":"the surplus or deficit shows whether income covered expenditure not profit for owners","marks":1},{"type":"answer","value":"result is surplus added to accumulated fund not owner's capital","marks":1}]}
+      ]
+    },
+    {
+      "id": 7,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Partnership Accounts",
+      "context": "Amanda and Brian are partners sharing profits and losses in the ratio 3:2. Their partnership agreement provides for: Partner salaries — Amanda $6,000, Brian $4,000. Interest on capital — Amanda's capital $30,000, Brian's capital $20,000, rate 5% per annum. Interest on drawings — Amanda $300, Brian $200.\n\nThe net profit before any appropriations for the year ended 31 December 2024 was $28,000.",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"Prepare the Profit Appropriation Account for the partnership for the year ended 31 December 2024.","marks":10,"rubric":[{"type":"answer","value":"net profit $28,000","marks":1},{"type":"answer","value":"add interest on drawings: Amanda $300 + Brian $200 = $500; total = $28,500","marks":2},{"type":"answer","value":"less partner salaries: Amanda $6,000 + Brian $4,000 = $10,000","marks":2},{"type":"answer","value":"less interest on capital: Amanda $1,500 + Brian $1,000 = $2,500","marks":2},{"type":"answer","value":"residual profit = 28500 − 10000 − 2500 = $16,000","marks":1},{"type":"answer","value":"Amanda 3/5 × 16000 = $9,600; Brian 2/5 × 16000 = $6,400","marks":2}]},
+        {"part":"b","question":"Calculate the total amount credited to Amanda's current account for the year.","marks":3,"rubric":[{"type":"answer","value":"salary $6,000 + interest on capital $1,500 + profit share $9,600 = $17,100","marks":2},{"type":"answer","value":"less interest on drawings $300 = $16,800 net credit","marks":1}]},
+        {"part":"c","question":"Explain the purpose of maintaining BOTH a capital account AND a current account for each partner.","marks":3,"rubric":[{"type":"answer","value":"capital account records the fixed long-term investment by each partner","marks":1},{"type":"answer","value":"current account records the day-to-day movements such as salary interest drawings and profit share","marks":1},{"type":"answer","value":"keeping them separate shows the permanent investment clearly and allows monitoring of drawings","marks":1}]}
+      ]
+    },
+    {
+      "id": 8,
+      "strand": "Financial Statements of Other Organisations",
+      "unit": "Financial Statements of Other Organisations",
+      "topic": "Limited Company Accounts",
+      "context": "The following information relates to Caribbean Retail Ltd for the year ended 30 June 2024: Net profit before tax $85,000 — Corporation tax $21,250 — Ordinary share capital (500,000 shares of $1 each) $500,000 — Share premium $50,000 — Retained earnings (opening) $32,000 — Interim dividend paid $15,000 — Final dividend proposed $20,000 — 10% Debentures $100,000 — Debenture interest $10,000.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Prepare the Appropriation Account (Statement of Changes in Retained Earnings) for Caribbean Retail Ltd.","marks":8,"rubric":[{"type":"answer","value":"net profit before tax $85,000","marks":1},{"type":"answer","value":"less debenture interest $10,000 = $75,000","marks":1},{"type":"answer","value":"less corporation tax $21,250 = profit after tax $53,750","marks":2},{"type":"answer","value":"less interim dividend $15,000 = $38,750","marks":1},{"type":"answer","value":"less final dividend proposed $20,000 = retained profit $18,750","marks":1},{"type":"answer","value":"retained earnings = opening $32,000 + $18,750 = $50,750","marks":2}]},
+        {"part":"b","question":"Explain the difference between ordinary shares and preference shares. State ONE advantage of issuing debentures instead of ordinary shares to raise finance.","marks":4,"rubric":[{"type":"answer","value":"ordinary shares: variable dividend voting rights share in residual profit higher risk","marks":2},{"type":"answer","value":"preference shares: fixed dividend paid before ordinary no voting rights lower risk","marks":1},{"type":"answer","value":"advantage of debentures: interest is tax deductible and no dilution of shareholder ownership/control","marks":1}]},
+        {"part":"c","question":"Calculate the earnings per share (EPS) for Caribbean Retail Ltd. (EPS = Profit after tax / Number of ordinary shares)","marks":3,"rubric":[{"type":"answer","value":"EPS = profit after tax / shares = 53750 / 500000","marks":2},{"type":"answer","value":"EPS = $0.1075 or approximately 10.75 cents per share","marks":1}]}
+      ]
+    },
+    {
+      "id": 9,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Incomplete Records",
+      "context": "Damian operates a small retail business but does not keep full accounting records. The following information is available for the year ended 31 December 2024.\n\nAssets at 1 January 2024: Inventory $4,200 — Debtors $1,800 — Cash $500 — Equipment $9,000\nLiabilities at 1 January 2024: Creditors $2,100 — Bank overdraft $600\nDuring the year: Cash received from debtors $38,500 — Cash paid to creditors $22,400 — Cash drawings $7,200 — Cash expenses paid $6,800\nAssets at 31 December 2024: Inventory $5,100 — Debtors $2,300 — Cash $800 — Equipment $9,000 (less depreciation $1,800)\nLiabilities at 31 December 2024: Creditors $1,900 — Bank overdraft $0",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"Calculate the opening capital at 1 January 2024.","marks":3,"rubric":[{"type":"answer","value":"total assets = 4200 + 1800 + 500 + 9000 = $15,500","marks":1},{"type":"answer","value":"total liabilities = 2100 + 600 = $2,700","marks":1},{"type":"answer","value":"opening capital = 15500 − 2700 = $12,800","marks":1}]},
+        {"part":"b","question":"Calculate total sales for the year using the debtors control account approach.","marks":3,"rubric":[{"type":"answer","value":"total sales = opening debtors + cash received − closing debtors","marks":1},{"type":"answer","value":"= 1800 + 38500 − 2300","marks":1},{"type":"answer","value":"= $38,000","marks":1}]},
+        {"part":"c","question":"Calculate total purchases for the year using the creditors control account approach.","marks":3,"rubric":[{"type":"answer","value":"total purchases = opening creditors + cash paid − closing creditors","marks":1},{"type":"answer","value":"= 2100 + 22400 − 1900","marks":1},{"type":"answer","value":"= $22,600","marks":1}]},
+        {"part":"d","question":"Prepare the Income Statement for the year ended 31 December 2024.","marks":7,"rubric":[{"type":"answer","value":"sales $38,000","marks":1},{"type":"answer","value":"COGS = opening inventory 4200 + purchases 22600 − closing inventory 5100 = $21,700","marks":2},{"type":"answer","value":"gross profit = 38000 − 21700 = $16,300","marks":1},{"type":"answer","value":"expenses = cash expenses 6800 + depreciation 1800 = $8,600","marks":2},{"type":"answer","value":"net profit = 16300 − 8600 = $7,700","marks":1}]}
+      ]
+    },
+    {
+      "id": 10,
+      "strand": "Accounting for Entrepreneurs",
+      "unit": "Accounting for Entrepreneurs",
+      "topic": "Manufacturing Accounts and Mark-up",
+      "context": "Caribbean Craft Ltd is a manufacturing company. The following information relates to the year ended 31 December 2024:\n\nRaw materials: Opening stock $8,000 — Purchases $45,000 — Closing stock $6,500\nDirect labour $28,000 — Direct expenses $3,000\nFactory overheads: Factory rent $6,000 — Machinery depreciation $4,000 — Factory supervisor wages $8,000\nOpening WIP $3,500 — Closing WIP $4,000\nOpening finished goods $5,000 — Closing finished goods $7,000\nSales $140,000 — Administration expenses $12,000 — Selling expenses $8,000",
+      "total_marks": 17,
+      "parts": [
+        {"part":"a","question":"Prepare the Manufacturing Account for the year ended 31 December 2024.","marks":10,"rubric":[{"type":"answer","value":"raw materials used = 8000 + 45000 − 6500 = $46,500","marks":2},{"type":"answer","value":"direct labour $28,000 + direct expenses $3,000","marks":1},{"type":"answer","value":"prime cost = 46500 + 28000 + 3000 = $77,500","marks":2},{"type":"answer","value":"factory overheads = 6000 + 4000 + 8000 = $18,000","marks":2},{"type":"answer","value":"production cost = 77500 + 18000 + opening WIP 3500 − closing WIP 4000 = $95,000","marks":3}]},
+        {"part":"b","question":"Prepare the Income Statement for the year ended 31 December 2024.","marks":5,"rubric":[{"type":"answer","value":"COGS = opening finished goods 5000 + cost of production 95000 − closing finished goods 7000 = $93,000","marks":2},{"type":"answer","value":"gross profit = 140000 − 93000 = $47,000","marks":1},{"type":"answer","value":"total expenses = admin 12000 + selling 8000 = $20,000","marks":1},{"type":"answer","value":"net profit = 47000 − 20000 = $27,000","marks":1}]},
+        {"part":"c","question":"The business applies a mark-up of 50% on cost. Verify this against the figures in your income statement and explain the difference between mark-up and margin.","marks":2,"rubric":[{"type":"answer","value":"mark-up = gross profit/COGS × 100 = 47000/93000 × 100 ≈ 50.5% approximately correct","marks":1},{"type":"answer","value":"mark-up uses cost as base margin uses selling price as base","marks":1}]}
+      ]
+    },
+    {
+      "id": 11,
+      "strand": "Books of Original Entry",
+      "unit": "Books of Original Entry",
+      "topic": "Bank Reconciliation and Error Correction",
+      "context": "The cash book of Reynolds Traders showed a bank balance of $4,850 on 30 November 2024. The bank statement showed a balance of $5,620. The following differences were identified:\n1. Unpresented cheques totalling $980\n2. Outstanding deposits (lodgements) of $210\n3. Bank charges of $45 not in cash book\n4. Direct debit for insurance $375 not in cash book\n5. Interest earned on deposit $30 not in cash book",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Prepare the Updated Cash Book balance, incorporating any items that should be recorded there.","marks":5,"rubric":[{"type":"answer","value":"starting cash book balance $4,850","marks":1},{"type":"answer","value":"deduct bank charges $45","marks":1},{"type":"answer","value":"deduct direct debit $375","marks":1},{"type":"answer","value":"add interest earned $30","marks":1},{"type":"answer","value":"updated cash book balance = 4850 − 45 − 375 + 30 = $4,460","marks":1}]},
+        {"part":"b","question":"Prepare the Bank Reconciliation Statement as at 30 November 2024.","marks":5,"rubric":[{"type":"answer","value":"balance per bank statement $5,620","marks":1},{"type":"answer","value":"less unpresented cheques $980","marks":1},{"type":"answer","value":"add outstanding deposits $210","marks":1},{"type":"answer","value":"adjusted bank statement balance = 5620 − 980 + 210 = $4,850","marks":1},{"type":"answer","value":"this should equal updated cash book of $4,460 — note: the reconciliation route matters more than the exact final figure for method marks","marks":1}]},
+        {"part":"c","question":"Explain the following types of errors and state whether each would be detected by a trial balance: (i) Error of omission (ii) Error of commission (iii) Error of principle.","marks":5,"rubric":[{"type":"answer","value":"error of omission: transaction completely left out not detected as both debit and credit missing","marks":2},{"type":"answer","value":"error of commission: correct amount wrong personal account not detected debits still equal credits","marks":2},{"type":"answer","value":"error of principle: wrong class of account e.g. asset treated as expense not detected","marks":1}]}
+      ]
+    },
+    {
+      "id": 12,
+      "strand": "Accounting Adjustment",
+      "unit": "Accounting Adjustment",
+      "topic": "Inventory Valuation and Comprehensive Adjustments",
+      "context": "A trader purchased the following inventory during December 2024:\n1 Dec — 100 units at $4.00 each\n8 Dec — 150 units at $4.50 each\n15 Dec — 200 units at $5.00 each\nSales: 12 Dec — 180 units; 20 Dec — 170 units\n\nAdditional information: Debtors $18,000 — existing provision for bad debts $720 — the provision is to be maintained at 4%.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Calculate the value of closing inventory and cost of goods sold using the FIFO method.","marks":6,"rubric":[{"type":"answer","value":"12 Dec sale of 180 units: 100 at $4 = $400 and 80 at $4.50 = $360 total COGS $760","marks":2},{"type":"answer","value":"after first sale: 70 units at $4.50 remain","marks":1},{"type":"answer","value":"20 Dec sale of 170 units: 70 at $4.50 = $315 and 100 at $5.00 = $500 total COGS $815","marks":2},{"type":"answer","value":"closing inventory = 100 units at $5.00 = $500","marks":1}]},
+        {"part":"b","question":"Calculate the value of closing inventory using the AVCO method after the 8 Dec purchase.","marks":3,"rubric":[{"type":"answer","value":"after 8 Dec: 100 units at $4 + 150 units at $4.50 = total 250 units cost $1075","marks":1},{"type":"answer","value":"AVCO = $1075 / 250 = $4.30 per unit","marks":1},{"type":"answer","value":"this average would be used for issues until next purchase","marks":1}]},
+        {"part":"c","question":"The provision for bad debts is to be maintained at 4% of debtors of $18,000. The existing provision is $720. (i) Calculate the required provision. (ii) State the adjustment needed and its effect on the income statement.","marks":4,"rubric":[{"type":"answer","value":"required provision = 4% × 18000 = $720","marks":1},{"type":"answer","value":"existing provision = $720 so no change required","marks":1},{"type":"answer","value":"no charge or credit to income statement provision remains unchanged","marks":2}]},
+        {"part":"d","question":"Explain why the choice of inventory valuation method (FIFO vs AVCO) matters and can affect reported profit.","marks":2,"rubric":[{"type":"answer","value":"different methods give different values for closing inventory affecting COGS and therefore gross profit","marks":1},{"type":"answer","value":"in rising price periods FIFO gives higher closing inventory lower COGS higher profit than AVCO","marks":1}]}
+      ]
+    }
+  ]
+}

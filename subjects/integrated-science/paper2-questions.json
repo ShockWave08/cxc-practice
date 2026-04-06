@@ -1,0 +1,163 @@
+{
+  "paper2": [
+    {
+      "id": 1,
+      "strand": "Matter",
+      "unit": "Matter",
+      "topic": "Matter",
+      "context": "Matter exists in three states — solid, liquid and gas. Changes between states occur when energy is added or removed. Understanding particle theory helps explain the properties and behaviour of matter.",
+      "total_marks": 14,
+      "parts": [
+        {"part":"a","question":"Using the particle theory, describe the arrangement and movement of particles in (i) a solid, (ii) a liquid, and (iii) a gas.","marks":6,"rubric":[{"type":"answer","value":"solid: closely packed regular arrangement particles vibrate in fixed positions","marks":2},{"type":"answer","value":"liquid: closely packed but irregular particles can flow and slide past each other","marks":2},{"type":"answer","value":"gas: widely spread particles move rapidly in all directions fill any container","marks":2}]},
+        {"part":"b","question":"Using diagrams or descriptions, name and describe FOUR changes of state.","marks":4,"rubric":[{"type":"answer","value":"melting solid to liquid energy absorbed","marks":1},{"type":"answer","value":"freezing liquid to solid energy released","marks":1},{"type":"answer","value":"evaporation or vaporisation liquid to gas energy absorbed","marks":1},{"type":"answer","value":"condensation gas to liquid energy released","marks":1}]},
+        {"part":"c","question":"Distinguish between an element, a compound and a mixture. Give one example of each.","marks":4,"rubric":[{"type":"answer","value":"element: one type of atom only e.g. oxygen or iron","marks":1},{"type":"answer","value":"compound: two or more elements chemically combined e.g. water H2O","marks":2},{"type":"answer","value":"mixture: two or more substances not chemically combined e.g. air or salt water","marks":1}]}
+      ]
+    },
+    {
+      "id": 2,
+      "strand": "Reproduction and Growth",
+      "unit": "Reproduction and Growth",
+      "topic": "Reproduction and Growth",
+      "context": "Reproduction is essential for the continuation of species. Organisms reproduce either sexually or asexually. In flowering plants, sexual reproduction involves pollination, fertilisation and seed dispersal.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Distinguish between sexual and asexual reproduction, giving ONE advantage and ONE example of each.","marks":6,"rubric":[{"type":"answer","value":"sexual requires two parents produces genetic variation","marks":2},{"type":"answer","value":"example of sexual: mammals flowering plants","marks":1},{"type":"answer","value":"asexual requires only one parent produces identical offspring quickly","marks":2},{"type":"answer","value":"example of asexual: budding in yeast binary fission in bacteria","marks":1}]},
+        {"part":"b","question":"Describe the process of pollination and fertilisation in a flowering plant.","marks":5,"rubric":[{"type":"answer","value":"pollination: transfer of pollen from anther to stigma","marks":2},{"type":"answer","value":"pollen tube grows down style to ovary","marks":1},{"type":"answer","value":"fertilisation: male gamete fuses with female gamete (ovule) in ovary forming zygote","marks":2}]},
+        {"part":"c","question":"Name and describe TWO methods of seed dispersal and explain their importance.","marks":4,"rubric":[{"type":"answer","value":"wind: light seeds e.g. dandelion carried by air currents","marks":2},{"type":"answer","value":"animal: seeds in fruits eaten or attached to fur spread to new locations","marks":2}]}
+      ]
+    },
+    {
+      "id": 3,
+      "strand": "Food and Nutrition",
+      "unit": "Food and Nutrition",
+      "topic": "Food and Nutrition",
+      "context": "A balanced diet provides all nutrients needed for health in the correct proportions. Deficiencies in specific nutrients lead to characteristic diseases. The digestive system processes food for absorption.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Name FOUR classes of nutrients and state ONE function of each.","marks":8,"rubric":[{"type":"answer","value":"carbohydrates: primary energy source for body functions","marks":2},{"type":"answer","value":"proteins: growth repair and maintenance of body tissues","marks":2},{"type":"answer","value":"fats: concentrated energy store and protection of organs","marks":2},{"type":"answer","value":"vitamins or minerals: regulation of body processes immune function bone health","marks":2}]},
+        {"part":"b","question":"Describe the symptoms and cause of TWO nutritional deficiency diseases.","marks":4,"rubric":[{"type":"answer","value":"scurvy caused by lack of Vitamin C bleeding gums poor wound healing","marks":2},{"type":"answer","value":"rickets caused by lack of Vitamin D and calcium soft weak bones bowed legs","marks":2}]},
+        {"part":"c","question":"Trace the path of a piece of bread through the digestive system, naming where digestion begins and ends and where absorption occurs.","marks":3,"rubric":[{"type":"answer","value":"digestion begins in the mouth with chewing and salivary amylase","marks":1},{"type":"answer","value":"further digestion in stomach and small intestine by enzymes","marks":1},{"type":"answer","value":"absorption of nutrients occurs in the small intestine","marks":1}]}
+      ]
+    },
+    {
+      "id": 4,
+      "strand": "Transport System",
+      "unit": "Transport System",
+      "topic": "Transport System",
+      "context": "The transport system delivers essential substances to cells and removes waste. In humans, the circulatory system uses the heart, blood vessels and blood. In plants, xylem and phloem serve similar transport functions.",
+      "total_marks": 14,
+      "parts": [
+        {"part":"a","question":"State the functions of EACH component of human blood: red blood cells, white blood cells, platelets and plasma.","marks":4,"rubric":[{"type":"answer","value":"red blood cells: carry oxygen using haemoglobin","marks":1},{"type":"answer","value":"white blood cells: fight infection phagocytosis and antibody production","marks":1},{"type":"answer","value":"platelets: blood clotting to prevent blood loss","marks":1},{"type":"answer","value":"plasma: transports dissolved substances including nutrients hormones and waste","marks":1}]},
+        {"part":"b","question":"Describe the journey of a red blood cell from the right atrium of the heart to the muscles in the leg and back to the heart.","marks":6,"rubric":[{"type":"answer","value":"right atrium to right ventricle","marks":1},{"type":"answer","value":"to lungs via pulmonary artery picks up oxygen becomes oxygenated","marks":2},{"type":"answer","value":"returns to left atrium left ventricle pumped out via aorta","marks":1},{"type":"answer","value":"travels through arteries to capillaries in leg muscles delivers oxygen","marks":1},{"type":"answer","value":"returns via veins to right atrium","marks":1}]},
+        {"part":"c","question":"Distinguish between the functions of xylem and phloem in plants.","marks":4,"rubric":[{"type":"answer","value":"xylem transports water and dissolved minerals from roots upward to leaves","marks":2},{"type":"answer","value":"phloem transports dissolved sugars from leaves to all other parts of the plant","marks":2}]}
+      ]
+    },
+    {
+      "id": 5,
+      "strand": "Respiration and Air Pollution",
+      "unit": "Respiration and Air Pollution",
+      "topic": "Respiration and Air Pollution",
+      "context": "All living cells respire to obtain energy. Aerobic respiration uses oxygen and releases the maximum energy, while anaerobic respiration produces less energy without oxygen. Air pollution from combustion affects both human health and the environment.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Write the word equation for aerobic respiration and state where in the cell it occurs.","marks":3,"rubric":[{"type":"answer","value":"glucose + oxygen → carbon dioxide + water + energy","marks":2},{"type":"answer","value":"occurs in the mitochondria","marks":1}]},
+        {"part":"b","question":"Compare aerobic and anaerobic respiration in humans under THREE headings: oxygen requirement, products and energy released.","marks":6,"rubric":[{"type":"answer","value":"aerobic requires oxygen anaerobic does not","marks":2},{"type":"answer","value":"aerobic produces CO2 and water anaerobic produces lactic acid","marks":2},{"type":"answer","value":"aerobic releases much more energy anaerobic releases small amount","marks":2}]},
+        {"part":"c","question":"Identify THREE air pollutants produced by burning fossil fuels and describe ONE harmful effect of each.","marks":6,"rubric":[{"type":"answer","value":"carbon dioxide: greenhouse effect and global warming","marks":2},{"type":"answer","value":"sulphur dioxide: acid rain damaging forests and aquatic life","marks":2},{"type":"answer","value":"carbon monoxide: combines with haemoglobin reducing oxygen transport causing poisoning","marks":2}]}
+      ]
+    },
+    {
+      "id": 6,
+      "strand": "Excretion",
+      "unit": "Excretion",
+      "topic": "Excretion",
+      "context": "Excretion is the removal of metabolic waste products from the body. Multiple organs are involved. The kidneys are the main excretory organs, regulating water and waste removal through the process of urine formation.",
+      "total_marks": 13,
+      "parts": [
+        {"part":"a","question":"Define excretion and explain why it is important for maintaining homeostasis.","marks":3,"rubric":[{"type":"answer","value":"excretion is removal of metabolic waste products from the body","marks":1},{"type":"answer","value":"prevents toxic build-up of waste such as urea and CO2","marks":1},{"type":"answer","value":"maintains stable internal environment for cells to function properly","marks":1}]},
+        {"part":"b","question":"State the role of EACH of the following in excretion: (i) kidneys (ii) lungs (iii) skin.","marks":6,"rubric":[{"type":"answer","value":"kidneys filter blood remove urea excess water and salts as urine","marks":2},{"type":"answer","value":"lungs excrete carbon dioxide produced by cellular respiration","marks":2},{"type":"answer","value":"skin excretes water salts and small amounts of urea through sweat","marks":2}]},
+        {"part":"c","question":"Explain what is meant by osmoregulation and describe how the kidneys achieve it.","marks":4,"rubric":[{"type":"answer","value":"osmoregulation is control of water and salt balance in the blood","marks":2},{"type":"answer","value":"kidneys adjust amount of water reabsorbed in nephron to maintain blood concentration","marks":2}]}
+      ]
+    },
+    {
+      "id": 7,
+      "strand": "Sense Organs",
+      "unit": "Sense Organs",
+      "topic": "Sense Organs and the Nervous System",
+      "context": "The sense organs detect stimuli from the environment and send information to the nervous system. The nervous system coordinates responses. Reflex actions provide rapid automatic protection.",
+      "total_marks": 14,
+      "parts": [
+        {"part":"a","question":"Describe the structure and function of the human eye, naming FOUR key parts.","marks":8,"rubric":[{"type":"answer","value":"cornea refracts light into the eye","marks":2},{"type":"answer","value":"iris controls pupil size regulating amount of light entering","marks":2},{"type":"answer","value":"lens focuses light onto retina by changing shape","marks":2},{"type":"answer","value":"retina contains receptor cells that convert light to nerve impulses sent to brain","marks":2}]},
+        {"part":"b","question":"Draw and label a reflex arc. Describe the pathway of a reflex action using the example of withdrawing a hand from a hot object.","marks":4,"rubric":[{"type":"answer","value":"receptor in skin detects heat stimulus","marks":1},{"type":"answer","value":"sensory neurone carries impulse to spinal cord","marks":1},{"type":"answer","value":"relay neurone in spinal cord connects to motor neurone","marks":1},{"type":"answer","value":"motor neurone carries impulse to effector muscle contracts withdrawing hand","marks":1}]},
+        {"part":"c","question":"Explain why reflex actions are important for survival.","marks":2,"rubric":[{"type":"answer","value":"they are fast and automatic not requiring conscious thought","marks":1},{"type":"answer","value":"they protect the body from harm before the brain has time to process the threat","marks":1}]}
+      ]
+    },
+    {
+      "id": 8,
+      "strand": "Health",
+      "unit": "Health",
+      "topic": "Health and Disease",
+      "context": "Health encompasses physical, mental and social well-being. Diseases can be communicable (infectious) or non-communicable. Understanding how diseases spread and how they can be prevented is a core aspect of integrated science.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Distinguish between communicable and non-communicable diseases. Give TWO examples of each.","marks":4,"rubric":[{"type":"answer","value":"communicable: spread from person to person e.g. tuberculosis cholera dengue malaria influenza","marks":2},{"type":"answer","value":"non-communicable: not spread between people e.g. diabetes hypertension cancer asthma","marks":2}]},
+        {"part":"b","question":"Describe how malaria is transmitted and state THREE methods of controlling its spread.","marks":5,"rubric":[{"type":"answer","value":"transmitted by bite of infected female Anopheles mosquito","marks":2},{"type":"answer","value":"control: use of mosquito nets treated with insecticide","marks":1},{"type":"answer","value":"draining stagnant water to eliminate breeding sites","marks":1},{"type":"answer","value":"use of antimalarial drugs or indoor spraying","marks":1}]},
+        {"part":"c","question":"Explain how vaccines protect against infectious diseases.","marks":3,"rubric":[{"type":"answer","value":"vaccine contains weakened dead pathogens or antigens","marks":1},{"type":"answer","value":"stimulates immune system to produce antibodies","marks":1},{"type":"answer","value":"memory cells remain so future infection triggers faster stronger response","marks":1}]},
+        {"part":"d","question":"State THREE ways in which a healthy lifestyle can reduce the risk of non-communicable diseases.","marks":3,"rubric":[{"type":"answer","value":"regular physical exercise reduces risk of cardiovascular disease and obesity","marks":1},{"type":"answer","value":"balanced diet low in saturated fats and sugar","marks":1},{"type":"answer","value":"avoiding smoking and excessive alcohol consumption","marks":1}]}
+      ]
+    },
+    {
+      "id": 9,
+      "strand": "Conservation of Energy",
+      "unit": "Conservation of Energy",
+      "topic": "Conservation of Energy and Electricity",
+      "context": "Energy exists in many forms and can be transformed but not created or destroyed. Understanding electrical circuits and energy efficiency is essential for sustainable energy use.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"State the law of conservation of energy and give TWO examples of energy transformations.","marks":4,"rubric":[{"type":"answer","value":"energy cannot be created or destroyed only transformed from one form to another","marks":2},{"type":"answer","value":"chemical to kinetic: car engine burning fuel","marks":1},{"type":"answer","value":"electrical to light and heat: light bulb","marks":1}]},
+        {"part":"b","question":"A circuit contains a 12V battery and a resistor of 6Ω. (i) Calculate the current. (ii) Calculate the power dissipated.","marks":4,"rubric":[{"type":"answer","value":"I = V/R = 12/6 = 2 A","marks":2},{"type":"answer","value":"P = VI = 12 × 2 = 24 W","marks":2}]},
+        {"part":"c","question":"Explain the difference between a series circuit and a parallel circuit, giving ONE advantage of each.","marks":4,"rubric":[{"type":"answer","value":"series: one path for current all components share voltage","marks":1},{"type":"answer","value":"advantage of series: simple to construct","marks":1},{"type":"answer","value":"parallel: multiple paths each component gets full voltage","marks":1},{"type":"answer","value":"advantage of parallel: components work independently failure of one does not stop others","marks":1}]},
+        {"part":"d","question":"Calculate the efficiency of a motor that receives 500 J of electrical energy and produces 350 J of useful mechanical energy.","marks":3,"rubric":[{"type":"answer","value":"efficiency = useful output / total input × 100","marks":1},{"type":"answer","value":"350/500 × 100","marks":1},{"type":"answer","value":"efficiency = 70%","marks":1}]}
+      ]
+    },
+    {
+      "id": 10,
+      "strand": "Metals and Non-metals",
+      "unit": "Metals and Non-metals",
+      "topic": "Metals, Non-metals and Chemical Reactions",
+      "context": "Metals and non-metals have characteristic properties and reactions. Understanding acids, bases and the pH scale is fundamental to chemistry. Various laboratory techniques are used to separate mixtures.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"Compare the physical properties of metals and non-metals under FOUR headings.","marks":4,"rubric":[{"type":"answer","value":"conductivity: metals conduct heat and electricity non-metals generally do not","marks":1},{"type":"answer","value":"lustre: metals shiny non-metals dull","marks":1},{"type":"answer","value":"malleability: metals can be beaten into sheets non-metals brittle","marks":1},{"type":"answer","value":"state at room temperature: most metals solid non-metals may be solid liquid or gas","marks":1}]},
+        {"part":"b","question":"Explain what happens during a neutralisation reaction. Write a word equation and give ONE everyday application.","marks":4,"rubric":[{"type":"answer","value":"acid reacts with base to form salt and water","marks":2},{"type":"answer","value":"acid + base → salt + water","marks":1},{"type":"answer","value":"application e.g. treating acid indigestion with antacid treating acid soils with lime","marks":1}]},
+        {"part":"c","question":"Describe how you would use filtration and evaporation to obtain pure salt from a mixture of salt and sand.","marks":4,"rubric":[{"type":"answer","value":"dissolve mixture in water sand is insoluble","marks":1},{"type":"answer","value":"filter to remove sand residue","marks":1},{"type":"answer","value":"collect filtrate containing dissolved salt","marks":1},{"type":"answer","value":"evaporate water from filtrate to obtain salt crystals","marks":1}]},
+        {"part":"d","question":"Explain why iron is more reactive than copper, using the reactivity series.","marks":3,"rubric":[{"type":"answer","value":"the reactivity series ranks metals by tendency to lose electrons and react","marks":1},{"type":"answer","value":"iron is higher than copper in the reactivity series","marks":1},{"type":"answer","value":"so iron can displace copper from its salt solutions and reacts more readily with oxygen and water","marks":1}]}
+      ]
+    },
+    {
+      "id": 11,
+      "strand": "The Terrestrial Environment",
+      "unit": "The Terrestrial Environment",
+      "topic": "Environment, Ecosystems and Sustainability",
+      "context": "Ecosystems are complex communities of organisms interacting with each other and their environment. Human activity increasingly threatens natural ecosystems through pollution, deforestation and climate change. Alternative energy sources offer solutions to reduce environmental impact.",
+      "total_marks": 16,
+      "parts": [
+        {"part":"a","question":"Define an ecosystem and describe the roles of producers, consumers and decomposers within it.","marks":6,"rubric":[{"type":"answer","value":"ecosystem is community of living organisms interacting with abiotic environment","marks":2},{"type":"answer","value":"producers make own food by photosynthesis form base of food chains","marks":2},{"type":"answer","value":"consumers eat other organisms primary consumers eat plants secondary eat animals","marks":1},{"type":"answer","value":"decomposers break down dead matter recycling nutrients back to soil","marks":1}]},
+        {"part":"b","question":"Explain the carbon cycle, describing how carbon enters and leaves the atmosphere.","marks":4,"rubric":[{"type":"answer","value":"carbon enters atmosphere as CO2 from respiration and combustion of fossil fuels","marks":2},{"type":"answer","value":"carbon removed from atmosphere by photosynthesis in plants","marks":2}]},
+        {"part":"c","question":"Identify THREE threats to aquatic ecosystems in the Caribbean and suggest ONE solution for each.","marks":6,"rubric":[{"type":"answer","value":"coral reef destruction from pollution and tourism — regulate tourist activity and reduce runoff","marks":2},{"type":"answer","value":"eutrophication from agricultural runoff — reduce fertiliser use buffer zones near water","marks":2},{"type":"answer","value":"oil spills from shipping — stricter regulations and rapid response plans","marks":2}]}
+      ]
+    },
+    {
+      "id": 12,
+      "strand": "Forces",
+      "unit": "Forces",
+      "topic": "Forces, Machines and Alternative Energy",
+      "context": "Forces govern all motion and can be used through simple machines to do useful work. As fossil fuels are depleted and their environmental costs become clearer, alternative energy sources become increasingly important especially for small island Caribbean states.",
+      "total_marks": 15,
+      "parts": [
+        {"part":"a","question":"State Newton's Three Laws of Motion, giving a sporting or everyday example for each.","marks":6,"rubric":[{"type":"answer","value":"First Law inertia: object stays at rest or uniform motion unless net force acts e.g. passenger lurches forward when car brakes","marks":2},{"type":"answer","value":"Second Law F=ma: greater force produces greater acceleration e.g. pushing harder makes a ball roll faster","marks":2},{"type":"answer","value":"Third Law: equal opposite reaction e.g. rocket propulsion gun recoil swimmer pushing wall","marks":2}]},
+        {"part":"b","question":"Explain how a Class 2 lever (e.g. a wheelbarrow) works, identifying the positions of fulcrum, load and effort and calculating the mechanical advantage if the load is 600N and the effort is 150N.","marks":4,"rubric":[{"type":"answer","value":"fulcrum at one end load between fulcrum and effort","marks":2},{"type":"answer","value":"mechanical advantage = load/effort = 600/150 = 4","marks":2}]},
+        {"part":"c","question":"Compare solar energy and wind energy as alternative energy sources for the Caribbean, giving ONE advantage and ONE disadvantage of each.","marks":5,"rubric":[{"type":"answer","value":"solar advantage: abundant sunshine in Caribbean low running costs","marks":1},{"type":"answer","value":"solar disadvantage: intermittent depends on sunlight storage needed","marks":1},{"type":"answer","value":"wind advantage: clean renewable no fuel costs","marks":1},{"type":"answer","value":"wind disadvantage: intermittent only where wind is reliable visual and noise impact","marks":1},{"type":"answer","value":"both suit Caribbean context reducing dependence on imported fossil fuels","marks":1}]}
+      ]
+    }
+  ]
+}
