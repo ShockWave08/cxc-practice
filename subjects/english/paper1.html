@@ -14,29 +14,41 @@
     </span>
   </nav>
   <h1>📝 English A – Paper 1 (Multiple Choice)</h1>
-  <p style="color:#7f8c8d; font-size:0.9em;">Questions with passages: read carefully before answering. Grammar and vocabulary questions stand alone.</p>
+  <p style="color:#7f8c8d; font-size:0.9em;">
+    60 items · 1 hr 30 min &nbsp;|&nbsp;
+    Items 1–5: Antonyms &nbsp;·&nbsp; 6–10: Spelling &nbsp;·&nbsp; 11–15: Sentence Transformation &nbsp;·&nbsp;
+    16–20: Grammar Errors &nbsp;·&nbsp; 21–25: Synonyms &nbsp;·&nbsp; 26–33: Poetry &nbsp;·&nbsp;
+    34–40: Prose Extract &nbsp;·&nbsp; 41–46: Informative Text &nbsp;·&nbsp; 47–54: Persuasive Text &nbsp;·&nbsp; 55–60: Visual Text
+  </p>
 
   <div id="setup">
+    <label>Section:
+      <select id="unit">
+        <option value="all">All Sections (Full Exam)</option>
+        <option value="Antonyms">Items 1–5: Antonyms</option>
+        <option value="Spelling">Items 6–10: Spelling</option>
+        <option value="Sentence Transformation">Items 11–15: Sentence Transformation</option>
+        <option value="Grammar Errors">Items 16–20: Grammar Errors</option>
+        <option value="Synonyms">Items 21–25: Synonyms</option>
+        <option value="Poetry">Items 26–33: Poetry Comprehension</option>
+        <option value="Literary Prose">Items 34–40: Prose Extract</option>
+        <option value="Expository Text">Items 41–46: Informative Text</option>
+        <option value="Persuasive Speech">Items 47–54: Persuasive Text</option>
+        <option value="Visual and Graphic Text">Items 55–60: Visual/Graphic Text</option>
+      </select>
+    </label>
     <label>Difficulty:
       <select id="difficulty">
-        <option value="all">All</option>
+        <option value="all">All Levels</option>
         <option value="1">Easy</option>
         <option value="2">Medium</option>
         <option value="3">Hard</option>
       </select>
     </label>
-    <label>Module / Topic:
-      <select id="unit">
-        <option value="all">All Modules</option>
-        <option value="Module 1: Informative Discourse">Module 1: Informative Discourse</option>
-        <option value="Module 2: Literary Discourse">Module 2: Literary Discourse</option>
-        <option value="Module 3: Persuasive Discourse">Module 3: Persuasive Discourse</option>
-      </select>
-    </label>
-    <label><input type="checkbox" id="adaptiveMode"> Adaptive Mode (focus weak topics)</label>
-    <label><input type="checkbox" id="spacedMode"> Spaced Repetition (prioritise unseen &amp; missed)</label>
+    <label><input type="checkbox" id="adaptiveMode"> Adaptive Mode (focus weak sections)</label>
+    <label><input type="checkbox" id="spacedMode"> Spaced Repetition</label>
     <label>Number of Questions:
-      <input type="number" id="numQuestions" value="20" min="1" max="150">
+      <input type="number" id="numQuestions" value="60" min="1" max="60">
     </label>
     <button onclick="startExam('English')">Start Exam</button>
   </div>

@@ -25,27 +25,27 @@
   <footer>CXC Practice Hub &mdash; Built for Caribbean students.</footer>
 
   <script>
-    async function checkAccess() {
-      try {
-        const res = await fetch("https://api.ipify.org?format=json");
-        const data = await res.json();
+    //async function checkAccess() {
+    //  try {
+    //    const res = await fetch("https://api.ipify.org?format=json");
+    //    const data = await res.json();
 
-        const allowedIPs = [
-          "196.3.214.29",
-          "69.12.111.16",
+    //    const allowedIPs = [
+    //      "196.3.214.29",
+    //      "69.12.111.3",
           "192.168.0.146"
-        ];
+    //    ];
 
-        if (!allowedIPs.includes(data.ip)) {
-          document.body.innerHTML = "<h1>Access Denied</h1>";
-        }
+    //    if (!allowedIPs.includes(data.ip)) {
+    //      document.body.innerHTML = "<h1>Access Denied</h1>";
+    //    }
 
-      } catch (e) {
-        console.error("IP check failed", e);
-      }
-    }
+   //  } catch (e) {
+   //     console.error("IP check failed", e);
+   //   }
+   // }
 
-    checkAccess();
+  //  checkAccess();
   </script>
 </body>
 </html>

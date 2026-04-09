@@ -13,15 +13,25 @@
       <button id="dark-toggle" style="font-size:0.85em; padding:5px 10px;">🌙</button>
     </span>
   </nav>
-  <h1>📝 English A – Paper 2 (Structured &amp; Essay Writing)</h1>
+  <h1>📝 English A – Paper 2 (2 hr 40 min)</h1>
+  <div style="background:#eaf4fb; border-left:4px solid #2471a3; padding:10px 14px; border-radius:0 6px 6px 0; margin-bottom:14px; font-size:0.9em;">
+    <strong>Paper 2 Structure:</strong> Section A — Summary (25 marks, 40 min) &nbsp;|&nbsp;
+    Section B — Directed Writing (30 marks, 30 min) &nbsp;|&nbsp;
+    Section C — Short Story (25 marks, 45 min) &nbsp;|&nbsp;
+    Section D — Essay (25 marks, 45 min)
+  </div>
 
   <div id="p2-setup">
-    <p>Read all instructions carefully. Writing tasks are assessed on content, organisation, language and mechanics.</p>
-    <label>Number of Questions:
-      <input type="number" id="p2-num-questions" value="3" min="1" max="11">
+    <p>Each set covers one complete Paper 2 sitting (Sections A–D). Read all instructions carefully before writing. Write in Standard English throughout.</p>
+    <label>Practice Set:
+      <select id="p2-set">
+        <option value="1">Set 1 (Q1–4): Celebrity Relationships / Driver's Licence / Story / Vandalism</option>
+        <option value="2">Set 2 (Q5–8): Social Media / Computer Lab / Story / Mobile Phones</option>
+        <option value="3">Set 3 (Q9–11): Food Security / Sports Facilities / PE Essay</option>
+      </select>
     </label>
     <br><br>
-    <button onclick="startPaper2Exam()">Start Paper 2</button>
+    <button onclick="startPaper2Set()">Start Paper 2</button>
   </div>
 
   <div id="p2-exam-area" style="display:none;">
@@ -40,6 +50,23 @@
   <script>
     applyDarkMode();
     loadQuestions("paper2-questions.json", "paper2");
+
+    function startPaper2Set() {
+      const set = parseInt(document.getElementById('p2-set').value);
+      const ranges = { 1: [1,4], 2: [5,8], 3: [9,11] };
+      const [start, end] = ranges[set];
+      // Filter allPaper2Questions to the selected set range
+      if (typeof allPaper2Questions !== 'undefined') {
+        const filtered = allPaper2Questions.filter(q => q.id >= start && q.id <= end);
+        startPaper2ExamWithQuestions(filtered);
+      } else {
+        setTimeout(() => {
+          const filtered = allPaper2Questions.filter(q => q.id >= start && q.id <= end);
+          startPaper2ExamWithQuestions(filtered);
+        }, 500);
+      }
+    }
+
     document.getElementById("dark-toggle").addEventListener("click", () => {
       const next = !getDarkMode(); setDarkMode(next); applyDarkMode();
       document.getElementById("dark-toggle").innerText = next ? "☀️" : "🌙";

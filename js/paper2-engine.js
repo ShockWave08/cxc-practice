@@ -44,6 +44,22 @@ function startPaper2Exam() {
   renderP2Question();
 }
 
+// Used by English Paper 2 to start with a pre-filtered set of questions
+function startPaper2ExamWithQuestions(questions) {
+  p2Questions = questions;
+  p2NumQuestions = questions.length;
+  p2Index = 0;
+  p2Answers = {};
+  questions.forEach((_, qi) => {
+    p2Answers[qi] = {};
+    questions[qi].parts.forEach((_, pi) => { p2Answers[qi][pi] = ""; });
+  });
+  document.getElementById("p2-setup").style.display = "none";
+  document.getElementById("p2-exam-area").style.display = "block";
+  startP2Timer(p2NumQuestions * 12 * 60);
+  renderP2Question();
+}
+
 // ─── Timer ───────────────────────────────────────────────────────────────────
 
 function startP2Timer(seconds) {
